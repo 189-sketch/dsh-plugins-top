@@ -56,7 +56,6 @@ async function main() {
     .map((it, i) => ({ ...it, _rank: i + 1, _category: categorize(it) }));
 
   const listed   = decorated.filter(isListed).map((it, i) => ({ ...it, _rank: i + 1 }));
-  const excluded = decorated.filter(it => it.verified === 'excluded');
   const rejected = decorated.filter(it => it.verified === 'suspect' || it.verified === 'error');
   const vs = data.verified_summary ?? {};
 
@@ -80,12 +79,11 @@ async function main() {
     '[docs/trending.md](docs/trending.md) for newest',
     '[docs/maintained.md](docs/maintained.md) for recently active',
     hasHistory ? '[docs/growth.md](docs/growth.md) for fastest growing' : null,
-    '[docs/suspects.md](docs/suspects.md) for quarantined repos',
   ].filter(Boolean).join(', ');
 
   const bot = [
     frontmatterBlock(data),
-    `Verification: ✅ ${vs.verified ?? 0} verified · 🟡 ${vs.likely ?? 0} likely · ❌ ${vs.suspect ?? 0} suspect (quarantined)${vs.error ? ` · ⚠️ ${vs.error} error` : ''}`,
+    `Verification: ✅ ${vs.verified ?? 0} verified · 🟡 ${vs.likely ?? 0} likely · ❌ ${vs.suspect ?? 0} filtered out${vs.error ? ` · ⚠️ ${vs.error} error` : ''}`,
     ``,
     `## Top 50 by stars (verified plugins only)`,
     ``,
@@ -111,7 +109,7 @@ async function main() {
   // ---- docs/index.md ----
   await writeFile(join(DOCS, 'index.md'),
     `# All ${listed.length} verified plugins by stars\n\n` +
-    `_Auto-generated from \`data/plugins.json\`. Squatted repos are quarantined in [suspects.md](suspects.md)._\n\n` +
+    `_Auto-generated from \`data/plugins.json\`. Repos carrying the topic without real plugin evidence are filtered out silently._\n\n` +
     buildTable(listed) + '\n'
   );
 
@@ -150,27 +148,6 @@ async function main() {
     );
   }
 
-  // ---- suspects quarantine ----
-  const susp = rejected.map((it, i) => ({ ...it, _rank: i + 1 }));
-  const suspRows = susp.map(it =>
-    `| #${it._rank} | [${it.repo}](${it.html_url}) | ⭐ ${it.stars} | ${VERDICT_BADGE[it.verified] ?? '❓'} | ${(it.description ?? '').replace(/\|/g, '\\|').replace(/\n/g, ' ')} |`
-  ).join('\n');
-  const exclRows = excluded.map(it =>
-    `| [${it.repo}](${it.html_url}) | ⭐ ${it.stars} | ${(it.description ?? '').replace(/\|/g, '\\|').replace(/\n/g, ' ')} |`
-  ).join('\n');
-  await writeFile(join(DOCS, 'suspects.md'),
-    `# Quarantined repos (${susp.length})\n\n` +
-    `These repos carry the \`dsh-plugin\` topic but show no evidence of being a real DSH plugin ` +
-    `(no \`"dsh"\` field in package.json, no \`cordis.patch.yml\` / \`dsh.plugin.json\`, no \`dsh plugin --profile\` install docs). ` +
-    `They are excluded from every leaderboard. If one of them is yours and is genuine, add the plugin manifest or install docs and it will be re-listed on the next refresh.\n\n` +
-    `| # | Repo | Stars | Verdict | Description |\n|---|---|---|---|---|\n` +
-    suspRows + '\n\n' +
-    (excluded.length
-      ? `## Manually excluded (${excluded.length})\n\nNot plugins by definition (e.g. the DSH host itself). Tracked for transparency, never listed.\n\n` +
-        `| Repo | Stars | Description |\n|---|---|---|\n` + exclRows + '\n'
-      : '')
-  );
-
   // ---- growth (star delta vs previous daily snapshot; activates from day 2) ----
   let growthGenerated = false;
   try {
@@ -201,7 +178,7 @@ async function main() {
     }
   } catch { /* history unavailable — growth board stays absent */ }
 
-  console.log(`OK rendered ${listed.length} listed / ${rejected.length} quarantined across ${
+  console.log(`OK rendered ${listed.length} listed / ${rejected.length} filtered across ${
     new Set(listed.map(it => it._category)).size
   } categories${growthGenerated ? ' (+growth)' : ''}`);
 }

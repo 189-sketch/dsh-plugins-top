@@ -26,7 +26,6 @@ DSH is an open ecosystem of composable plugins: skills, tools, themes, providers
 - [Trending (newest 30)](docs/trending.md)
 - [Maintained (recently pushed)](docs/maintained.md)
 - [Growth (fastest rising)](docs/growth.md) — activates from the second snapshot
-- [Quarantined](docs/suspects.md)
 
 ## Adding your plugin
 
@@ -34,7 +33,7 @@ DSH is an open ecosystem of composable plugins: skills, tools, themes, providers
 2. Optional but recommended: add a category hint such as `dsh-skill`, `dsh-tool`, `dsh-skin`, `dsh-provider`, or `dsh-ui-panel`.
 3. Wait for the next scheduled refresh (≤ 2 h), or run `npm run build` locally if you have a `GITHUB_TOKEN` with 5,000 req/h.
 
-**Don't want to use topics?** Open a PR appending one `owner/repo` line to [`data/manual-additions.txt`](data/manual-additions.txt) — the next refresh fetches it directly. Either way, your repo must pass the same evidence-based verification (a `"dsh"` field in package.json, a `cordis.patch.yml` / `dsh.plugin.json`, or `dsh plugin --profile …` install docs in the README) or it lands in the [quarantine list](docs/suspects.md).
+**Don't want to use topics?** Open a PR appending one `owner/repo` line to [`data/manual-additions.txt`](data/manual-additions.txt) — the next refresh fetches it directly. Either way, your repo must pass the same evidence-based verification (a `"dsh"` field in package.json, a `cordis.patch.yml` / `dsh.plugin.json`, or `dsh plugin --profile …` install docs in the README) or it is filtered out silently.
 
 ## Self-hosting
 
@@ -51,7 +50,7 @@ MIT — see [LICENSE](LICENSE).
 
 Snapshot: `2026-08-18T06:47:35.187Z` · Indexed: **6949** repos · Schema: v1 · Query: `topic:dsh-plugin (star-range sharded) + manual-additions`
 
-Verification: ✅ 6034 verified · 🟡 110 likely · ❌ 804 suspect (quarantined)
+Verification: ✅ 6034 verified · 🟡 110 likely · ❌ 804 filtered out
 
 ## Top 50 by stars (verified plugins only)
 
@@ -108,9 +107,10 @@ Verification: ✅ 6034 verified · 🟡 110 likely · ❌ 804 suspect (quarantin
 | #49 | [Ruler4396/dsh-launcher](https://github.com/Ruler4396/dsh-launcher) | ⭐ 136 | ✅ | DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained | `other` |
 | #50 | [liceses/dsh-gitbash-preset](https://github.com/liceses/dsh-gitbash-preset) | ⭐ 129 | ✅ | DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Windows 上的极简模式真正可用。 | `other` |
 
-See [docs/index.md](docs/index.md) for the full sortable list, [docs/categories/](docs/categories/) per category, [docs/trending.md](docs/trending.md) for newest, [docs/maintained.md](docs/maintained.md) for recently active, [docs/suspects.md](docs/suspects.md) for quarantined repos.
+See [docs/index.md](docs/index.md) for the full sortable list, [docs/categories/](docs/categories/) per category, [docs/trending.md](docs/trending.md) for newest, [docs/maintained.md](docs/maintained.md) for recently active.
 
 <!-- END:BOT -->
+
 
 
 

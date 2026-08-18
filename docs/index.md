@@ -1,6 +1,6 @@
 # All 6144 verified plugins by stars
 
-_Auto-generated from `data/plugins.json`. Squatted repos are quarantined in [suspects.md](suspects.md)._
+_Auto-generated from `data/plugins.json`. Repos carrying the topic without real plugin evidence are filtered out silently._
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|

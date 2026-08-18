@@ -66,6 +66,12 @@ async function searchPage(q, page, attempt = 0) {
     throw new Error(`GitHub search still forbidden after retries for q="${q}"`);
   }
   if (!res.ok) {
+    if (res.status >= 500 && attempt < 3) {
+      const waitMs = 3000 * (attempt + 1);
+      console.error(`[fetch] ${res.status} server error for q="${q}" page=${page}; retry in ${waitMs / 1000}s`);
+      await sleep(waitMs);
+      return searchPage(q, page, attempt + 1);
+    }
     const body = await res.text().catch(() => '');
     throw new Error(`GitHub API ${res.status} for q="${q}" page=${page}: ${body.slice(0, 200)}`);
   }

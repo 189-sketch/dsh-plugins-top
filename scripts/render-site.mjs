@@ -57,8 +57,7 @@ async function main() {
       _delta: prevStars.size ? it.stars - (prevStars.get(it.repo) ?? it.stars) : null,
     }));
 
-  const listed   = decorated.filter(isListed);
-  const suspects = decorated.filter(it => it.verified === 'suspect' || it.verified === 'error');
+  const listed = decorated.filter(isListed);
 
   const catCounts = {};
   for (const it of listed) catCounts[it._category] = (catCounts[it._category] || 0) + 1;
@@ -71,7 +70,6 @@ async function main() {
     cats: CATEGORIES.map(c => ({ name: c, count: catCounts[c] || 0 })),
     growthBase,
     items: listed.map(slim),
-    suspects: suspects.map(slim),
   };
 
   // Guard against `</script>` breaking out of the JSON block.
@@ -82,7 +80,7 @@ async function main() {
     .replace(/__SNAPSHOT__/g, data.snapshot_at);
 
   await writeFile(join(DOCS, 'index.html'), html);
-  console.log(`OK site: ${listed.length} listed, ${suspects.length} suspects, ${(html.length / 1024 / 1024).toFixed(2)} MB`);
+  console.log(`OK site: ${listed.length} listed, ${(html.length / 1024 / 1024).toFixed(2)} MB`);
 }
 
 const TEMPLATE = `<!DOCTYPE html>
@@ -170,7 +168,7 @@ footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--border
   <footer>
     数据快照 <span id="snap"></span> · 每 2 小时自动刷新 ·
     <a href="https://github.com/search?q=topic%3Adsh-plugin&type=repositories">topic:dsh-plugin</a> 全量采集 + 证据验证 ·
-    蹭标签仓库隔离于「隔离区」
+    蹭标签仓库已自动过滤
   </footer>
 </div>
 <script id="payload" type="application/json">__DATA_JSON__</script>
@@ -196,7 +194,6 @@ const TABS = [
   { id: 'new',        label: '🆕 新星榜' },
   { id: 'active',     label: '🚀 活跃榜' },
   ...(DATA.growthBase ? [{ id: 'growth', label: '📈 增速榜' }] : []),
-  { id: 'suspects',   label: '🚧 隔离区' },
 ];
 
 $('#stats').innerHTML = [
@@ -228,8 +225,7 @@ function renderChips() {
 
 function currentList() {
   let list;
-  if (state.tab === 'suspects') list = DATA.suspects;
-  else if (state.tab === 'new')    list = [...DATA.items].sort((a, b) => (b.n || '').localeCompare(a.n || ''));
+  if (state.tab === 'new')    list = [...DATA.items].sort((a, b) => (b.n || '').localeCompare(a.n || ''));
   else if (state.tab === 'active') list = [...DATA.items].sort((a, b) => (b.p || '').localeCompare(a.p || ''));
   else if (state.tab === 'growth') list = [...DATA.items].filter(i => i.g > 0).sort((a, b) => b.g - a.g);
   else                             list = DATA.items;

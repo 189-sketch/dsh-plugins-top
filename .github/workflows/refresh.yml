@@ -32,7 +32,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
 
       - name: Fetch latest DSH plugin data
         run: node scripts/fetch.mjs
@@ -69,6 +69,7 @@ jobs:
           git config user.name  dsh-bot
           git config user.email bot@users.noreply.github.com
           git commit -m "chore(data): refresh $(date -u +%FT%TZ)"
+          git pull --rebase origin main
           git push
 
       - name: Configure Pages
