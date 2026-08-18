@@ -111,6 +111,19 @@ User decision: README shows only the Top 50; the complete boards live on a beaut
 - Deploy: `actions/configure-pages@v5` + `upload-pages-artifact` (path `docs/`) + `deploy-pages@v4`, already permissioned (`pages: write`, `id-token: write`). Repo Settings → Pages → Source: *GitHub Actions* is the one manual step.
 - Payload ~1.9 MB for ~7k repos; trimmed to short-key records (`r/s/c/d/v/u/p/n/g`).
 
+## Presentation (v2 — quarantine display removed, user decision)
+
+The first version published `docs/suspects.md` and a site "隔离区" tab naming every filtered repo. User decision: **don't publicly display quarantined repos**. Filtering itself stays (squatters never enter any leaderboard; the count remains in the verification stats line as "❌ N filtered out"), but:
+
+- Site: suspects tab removed; payload no longer carries the suspects array (~200 KB smaller).
+- Repo: `docs/suspects.md` deleted and no longer generated; README links and wording updated ("filtered out silently").
+- Verification evidence stays in `data/plugins.json` per repo for anyone who wants to audit.
+
+Related hardening from the first CI run's failure:
+
+- `fetch.mjs`: 5xx server errors now retry with backoff (3 attempts) — a transient 502 on shard page 6 killed the inaugural run.
+- Workflow: `git pull --rebase origin main` before the bot push (concurrent human pushes no longer break the refresh run); setup-node bumped to 22.
+
 ## Open follow-ups (carry-over to next session)
 
 1. **T01** — code-search / keyword fallback for repos that don't tag themselves properly.
