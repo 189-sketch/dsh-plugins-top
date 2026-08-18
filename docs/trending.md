@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [shiyi-0x7f/dsh-client-plugin-store](https://github.com/shiyi-0x7f/dsh-client-plugin-store) | ⭐ 0 | ✅ | Community plugin store panel for the DeepSeek Harness Web UI (browse/search dshplugin.org index, copyable pinned install commands) | `ui-panel` |
-| #2 | [MFWTW/Auto_Load_Our_Plugin](https://github.com/MFWTW/Auto_Load_Our_Plugin) | ⭐ 0 | ✅ | 加载我们本地自己写的插件 | `other` |
-| #3 | [ShadowBruceMeaningLau/dsh-rss-for-shadow-suite](https://github.com/ShadowBruceMeaningLau/dsh-rss-for-shadow-suite) | ⭐ 0 | ✅ |  | `other` |
-| #4 | [Leshm0321/dsh-plugin-local-agent-bridge](https://github.com/Leshm0321/dsh-plugin-local-agent-bridge) | ⭐ 0 | ✅ | Drive the Claude Code and Codex installations already on your machine from the DeepSeek Harness browser UI. | `ui-panel` |
-| #5 | [zoahdev/dsh-timesheet](https://github.com/zoahdev/dsh-timesheet) | ⭐ 0 | ✅ | Timesheet for DeepSeek Harness (dsh): turn-based time tracking from session logs — per-day/project/provider/source rollups, tool-call counts, failure rates, time-to-first-token. CLI + agent-callable timesheet tool, zero runtime deps. | `tool` |
-| #6 | [William123666/dsh-reasoning-cn](https://github.com/William123666/dsh-reasoning-cn) | ⭐ 0 | ✅ | Unofficial DeepSeek Harness plugin for Simplified-Chinese reasoning steering and opt-in translation. | `provider` |
-| #7 | [afrel1024/dsh-client-ui-aqua-unofficial](https://github.com/afrel1024/dsh-client-ui-aqua-unofficial) | ⭐ 0 | ✅ | Unofficial community fork of the Aqua glassmorphism theme for the DeepSeek Harness web UI (upstream: WYH66666666/DSH-Transparent-UI-Plugin, MIT). Adds DSH rc.7 compatibility. Not affiliated with DeepSeek. | `skin` |
-| #8 | [shiyi-0x7f/dsh-tool-sysinfo](https://github.com/shiyi-0x7f/dsh-tool-sysinfo) | ⭐ 0 | ✅ | Read-only system_info tool plugin for DeepSeek Harness agents (OS/CPU/memory/network snapshot) | `tool` |
-| #9 | [NkhszkQAQ/dsh-notify](https://github.com/NkhszkQAQ/dsh-notify) | ⭐ 0 | ✅ | dsh 插件：任务完成推送手机通知（Bark / Server酱 / webhook） | `other` |
-| #10 | [N5Tar/dsh-workspace-view](https://github.com/N5Tar/dsh-workspace-view) | ⭐ 0 | ✅ | deepseek session workspace viewer | `ui-panel` |
-| #11 | [snow-The/dsh-ark-plan](https://github.com/snow-The/dsh-ark-plan) | ⭐ 0 | ✅ | Correctly activate DeepSeek v4 flash on the Volcano Ark plan API for DeepSeek Harness: default config injection (reasoningEfforts + effort=max) + ark_plan_doctor self-check | `other` |
-| #12 | [gao-gao-zai/http-request-dsh-plugin](https://github.com/gao-gao-zai/http-request-dsh-plugin) | ⭐ 0 | ✅ | Native DSH HTTP request plugin with configurable credential whitelist and usage skill | `skill` |
-| #13 | [karmiy/dsh-session-nav](https://github.com/karmiy/dsh-session-nav) | ⭐ 1 | ✅ | Codex-style session navigator plugin for DeepSeek Harness Web | `ui-panel` |
-| #14 | [tea-whale/dsh-writing-studio](https://github.com/tea-whale/dsh-writing-studio) | ⭐ 0 | ✅ | DeepSeek Harness (DSH) 写作工具插件：长文工作流、风格控制与 8 套常用写作模板，进度落盘、跨轮次续写。零运行时依赖。 | `tool` |
-| #15 | [edusrez/dsh-smart-restart](https://github.com/edusrez/dsh-smart-restart) | ⭐ 1 | ✅ | Wake the main agent after a DeepSeek Harness (DSH) restart so interrupted work resumes without the user prompting. | `tool` |
-| #16 | [Tencent-TDS/dsh-kuikly-expert](https://github.com/Tencent-TDS/dsh-kuikly-expert) | ⭐ 2 | ✅ | Kuikly integration and app-prototyping expert: four bundled skills over the create-kuikly-app CLI | `skill` |
-| #17 | [jiesou/dsh-timeout-auto-reject](https://github.com/jiesou/dsh-timeout-auto-reject) | ⭐ 0 | ✅ | Auto-reject unanswered permission requests with a model-visible timeout notice. | `ui-panel` |
-| #18 | [jiavenzhong/dsh-tool-markitdown](https://github.com/jiavenzhong/dsh-tool-markitdown) | ⭐ 0 | ✅ | DSH 插件：发送文件先转 Markdown — 让大模型直接读懂 PDF/Word/Excel/PPT/HTML/CSV/EPUB，基于 Microsoft MarkItDown | `ui-panel` |
-| #19 | [qwertyuiop314/dsh-workspace-picker-enhance](https://github.com/qwertyuiop314/dsh-workspace-picker-enhance) | ⭐ 0 | ✅ | Enhanced DSH workspace directory picker plugin | `ui-panel` |
-| #20 | [winditer/dsh-elf](https://github.com/winditer/dsh-elf) | ⭐ 0 | ✅ | A temporary dialogue elf designed specifically for DSH | `ui-panel` |
-| #21 | [mctang985211-coder/dsh-turn-collapse](https://github.com/mctang985211-coder/dsh-turn-collapse) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #22 | [XIZRSAMS/dsh-gui-hanhua](https://github.com/XIZRSAMS/dsh-gui-hanhua) | ⭐ 1 | ✅ | GUI Localization for DeepSeek Harness — 语言永远不会成为 Agent 的门槛 | `ui-panel` |
-| #23 | [Funnyvalentine00/dsh-github-push](https://github.com/Funnyvalentine00/dsh-github-push) | ⭐ 1 | 🟡 |  | `other` |
-| #24 | [irmia2026/dsh-irmia-devkit](https://github.com/irmia2026/dsh-irmia-devkit) | ⭐ 0 | ✅ |  | `other` |
-| #25 | [PixelGeek325/DSH-High-Contrast-Theme](https://github.com/PixelGeek325/DSH-High-Contrast-Theme) | ⭐ 0 | ✅ | 一个为DeepSeek Harness开发的高对比度主题插件 | `skin` |
-| #26 | [alextamhk/dsh-harness-title](https://github.com/alextamhk/dsh-harness-title) | ⭐ 0 | ✅ | DSH web plugin: customizable Name Title for the DeepSeek Harness GUI | `ui-panel` |
-| #27 | [Funnyvalentine00/dsh-session-continue](https://github.com/Funnyvalentine00/dsh-session-continue) | ⭐ 1 | 🟡 |  | `other` |
-| #28 | [flow2dream/dsh-msg-rewind](https://github.com/flow2dream/dsh-msg-rewind) | ⭐ 1 | ✅ | this is a plugin about dsh | `ui-panel` |
-| #29 | [zoahdev/dsh-cn-boot](https://github.com/zoahdev/dsh-cn-boot) | ⭐ 0 | ✅ | China-network bootstrap for DeepSeek Harness (dsh): connectivity probes to npm/GitHub/HuggingFace/mirrors, local proxy detection, mirror recommendations, generated PowerShell/bash bootstrap. Read-only by default; apply is explicit. CLI + agent-callable cn_boot tool. | `tool` |
-| #30 | [zoahdev/dsh-llms-forge](https://github.com/zoahdev/dsh-llms-forge) | ⭐ 0 | ✅ | Generate llms.txt for DeepSeek Harness (dsh) plugin repositories from package.json + README — AI-readable discovery files, zero runtime deps. CLI + agent-callable llms_forge tool. | `tool` |
+| #1 | [LouisHaoL/dsh-timer-agent](https://github.com/LouisHaoL/dsh-timer-agent) | ⭐ 0 | ✅ | DSH plugin: host-resident scheduled-jobs × AI-agent engine (hermes-agent cron inspired) — 60s ticker fires real agent sessions via cron; pinned-session / project-workdir / default-workspace targeting; timer_agent model tool + web board | `ui-panel` |
+| #2 | [Yolotd/dsh-plugin-duwg](https://github.com/Yolotd/dsh-plugin-duwg) | ⭐ 0 | ✅ | 每日用量统计：输入框下方显示当天 Token 用量（万/亿简化）与缓存命中率 \| Daily token usage & cache-hit stats for DeepSeek Harness | `ui-panel` |
+| #3 | [zoahdev/dsh-readme-forge](https://github.com/zoahdev/dsh-readme-forge) | ⭐ 0 | ✅ | Generate README.md for DeepSeek Harness (dsh) plugin repositories from package.json + cordis.patch.yml + source layout — deterministic, zero runtime deps, read-only by default. CLI + agent-callable readme_forge tool. | `tool` |
+| #4 | [Hann428/dsh-usage-dashboard](https://github.com/Hann428/dsh-usage-dashboard) | ⭐ 0 | ✅ | DeepSeek Harness Usage tab for balance, official peak/off-peak pricing, live countdown, and platform usage link. | `ui-panel` |
+| #5 | [jiesou/dsh-webui-fix-pack](https://github.com/jiesou/dsh-webui-fix-pack) | ⭐ 0 | ✅ | 修复 DeepSeek Harness Web UI 的各种小 bug 和不合理的地方 | `other` |
+| #6 | [jhuanxx44/dsh-paste-path](https://github.com/jhuanxx44/dsh-paste-path) | ⭐ 0 | ✅ | DeepSeek Harness plugin: paste Finder file paths into the composer with Ctrl+V | `ui-panel` |
+| #7 | [boomzikazita/dsh-skill-lazy](https://github.com/boomzikazita/dsh-skill-lazy) | ⭐ 0 | ✅ | DSH skill catalog lazy loading: name+one-line summary injection, on-demand search (~500 tokens) | `skill` |
+| #8 | [boomzikazita/dsh-skill-authoring](https://github.com/boomzikazita/dsh-skill-authoring) | ⭐ 0 | ✅ | DSH skill authoring toolkit: scaffold + 9-gate quality audit for skills | `skill` |
+| #9 | [boomzikazita/dsh-memory](https://github.com/boomzikazita/dsh-memory) | ⭐ 0 | ✅ | DSH memory plugin: RRF multi-lane recall / confirm-based writes / Fernet vault / session harvest | `tool` |
+| #10 | [liqiming-whu/dsh-environment-context](https://github.com/liqiming-whu/dsh-environment-context) | ⭐ 0 | ✅ | Real-time environment context plugin for DeepSeek Harness | `ui-panel` |
+| #11 | [zoahdev/dsh-discussions-radar](https://github.com/zoahdev/dsh-discussions-radar) | ⭐ 0 | ✅ | Official GitHub Discussions radar for DeepSeek Harness (dsh): list, filter and search the official discussion boards (Ideas / Q&A / Show Your Plugins! / General / Announcements / Polls). CLI + agent-callable discussions_radar tool, zero runtime deps, read-only. | `tool` |
+| #12 | [EIGHTfs/dsh-image-preview](https://github.com/EIGHTfs/dsh-image-preview) | ⭐ 0 | ✅ | DSH 会话内图片预览插件：静态图片服务 + 文本渲染(双字体防乱码) + SVG转PNG，让 AI 在会话里直接发图片 | `other` |
+| #13 | [nodata404/dsh-env-probe](https://github.com/nodata404/dsh-env-probe) | ⭐ 0 | ✅ | Zero-dependency DeepSeek Harness plugin: probes the local machine environment and injects it into every session's system prompt | `other` |
+| #14 | [stevysmith/stacktree-dsh](https://github.com/stevysmith/stacktree-dsh) | ⭐ 0 | ✅ | Publish HTML from DeepSeek Harness to a private, live URL. No account for the viewer, unguessable links, replace in place. DSH plugin (Cordis overlay) for the Stacktree MCP server. | `other` |
+| #15 | [Renzic-Stone/DSH-EasyRewrite](https://github.com/Renzic-Stone/DSH-EasyRewrite) | ⭐ 1 | ✅ | DSH Web内目前最无感的消息重编辑插件，原版体验，兼容性强，功能简单可开关，设置丰富，现代化轻量ui框架 | `ui-panel` |
+| #16 | [Lee-Si-Yoon/dsh-llm-friendli](https://github.com/Lee-Si-Yoon/dsh-llm-friendli) | ⭐ 0 | ✅ | FriendliAI serverless LLM adapter for DeepSeek Harness — OpenAI-compatible chat completions with dynamic model discovery and reasoning | `provider` |
+| #17 | [gao-gao-zai/dsh-tool-web-search](https://github.com/gao-gao-zai/dsh-tool-web-search) | ⭐ 0 | ✅ | Persistent DSH web search and bounded webpage fetching for Bing and SearXNG | `skill` |
+| #18 | [wangsan71/DSh-feishu-bot](https://github.com/wangsan71/DSh-feishu-bot) | ⭐ 0 | ✅ | 给飞书和Lark的一个机器人组件，可以连接本地的dsh | `ui-panel` |
+| #19 | [nickhelion/dsh-serverchan-notify](https://github.com/nickhelion/dsh-serverchan-notify) | ⭐ 0 | ✅ | DeepSeek Harness plugin: ServerChan3 (Server酱) push notifications whenever an agent turn finishes an answer — codex Stop-hook parity | `other` |
+| #20 | [EdwinDigital/dsh-web-search-microsoft-webiq](https://github.com/EdwinDigital/dsh-web-search-microsoft-webiq) | ⭐ 0 | ✅ | Microsoft Web IQ search provider plugin for DeepSeek Harness | `ui-panel` |
+| #21 | [zephaniahwang94-cmyk/dsh-auth-gate](https://github.com/zephaniahwang94-cmyk/dsh-auth-gate) | ⭐ 0 | ✅ | Authentication and security hardening plugin for DeepSeek Harness | `other` |
+| #22 | [Jack-sun-learner/dsh-minimax-image](https://github.com/Jack-sun-learner/dsh-minimax-image) | ⭐ 0 | ✅ | DeepSeek Harness 文生图插件：基于 MiniMax image-01 生成图片，注册 image-gen 工具 | `other` |
+| #23 | [lovstudio/dsh-inject-system-prompt](https://github.com/lovstudio/dsh-inject-system-prompt) | ⭐ 0 | ✅ | Inject an extra system-prompt section into a DeepSeek Harness agent | `other` |
+| #24 | [hyposelen1a/dsh-columbina-theme](https://github.com/hyposelen1a/dsh-columbina-theme) | ⭐ 1 | ✅ | 原神哥伦比娅主题的 DeepSeek Harness Web 插件：背景、蒙版与明暗配色。A Genshin Impact Columbina themed plugin for DeepSeek Harness Web: background, mask, and per light/dark color schemes. | `skin` |
+| #25 | [AppliedYuu/dsh-WallpaperAndCost](https://github.com/AppliedYuu/dsh-WallpaperAndCost) | ⭐ 0 | ✅ | a plugin for dsh to check cost and change backgroud | `ui-panel` |
+| #26 | [big-lixin/dsh-plugin-manager](https://github.com/big-lixin/dsh-plugin-manager) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #27 | [zysftd/dsh-quote](https://github.com/zysftd/dsh-quote) | ⭐ 0 | ✅ | DSH web 插件：划选/整条/粘贴大文本引用 AI 内容到输入框，发送时自动附带 > 引用块（原生风格 UI 卡片） | `ui-panel` |
+| #28 | [edelah/dsh-task-board-model](https://github.com/edelah/dsh-task-board-model) | ⭐ 0 | ✅ | dsh-task-board-model | `ui-panel` |
+| #29 | [chencmb2077-ui/dsh-token-monitor](https://github.com/chencmb2077-ui/dsh-token-monitor) | ⭐ 0 | ✅ | DSH 静态 Host 插件：Web 界面右下角实时监控 token 用量与 DeepSeek 账户余额 | `other` |
+| #30 | [Cavan-Ou/dsh-flash-godmode](https://github.com/Cavan-Ou/dsh-flash-godmode) | ⭐ 0 | ✅ | V4 Flash "god mode" for DeepSeek Harness: w7 persona anchoring + first-turn tool anchoring + complexity-dispatched guidance (headless-native, opencode-go verified). | `tool` |
