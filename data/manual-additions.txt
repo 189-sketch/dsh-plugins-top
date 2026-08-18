@@ -1,0 +1,17 @@
+# Manual additions — one owner/repo per line.
+#
+# These repos are genuine DSH plugins that do NOT carry the `dsh-plugin`
+# topic, so topic search cannot discover them. They are fetched directly
+# and go through the same evidence-based verification as everyone else.
+#
+# To add yours: open a PR appending one line. A maintainer merges; the next
+# scheduled refresh picks it up. (Adding the `dsh-plugin` topic to your repo
+# works too and needs no PR.)
+
+# Plugins verified against a real local dsh profile (~/.dsh/profiles/web):
+xuanlanwuta/dsh-task-board
+Noob-stupid/dsh-plugin-hub
+omdsh-dev/dsh-drag-and-drop
+a179-sanae/dsh-auto-collapse
+Lum1104/dsh-browser
+oil-oil/dsh-oil-sticky-prompt

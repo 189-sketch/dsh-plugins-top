@@ -1,0 +1,83 @@
+name: refresh-leaderboards
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # every 2 hours
+  workflow_dispatch:
+  push:
+    paths:
+      - .github/workflows/refresh.yml
+      - scripts/**
+      - templates/**
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: refresh-leaderboards
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch latest DSH plugin data
+        run: node scripts/fetch.mjs
+
+      - name: Restore verify cache
+        uses: actions/cache@v4
+        with:
+          path: data/.cache
+          key: verify-cache-${{ github.run_id }}
+          restore-keys: verify-cache-
+
+      - name: Verify genuine plugins (README/package.json evidence)
+        run: node scripts/verify.mjs
+
+      - name: Render Markdown leaderboards
+        run: node scripts/render.mjs
+
+      - name: Render HTML site (GitHub Pages)
+        run: node scripts/render-site.mjs
+
+      - name: Check for changes
+        id: diff
+        run: |
+          git add data docs README.md
+          if git diff --staged --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push refresh
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  dsh-bot
+          git config user.email bot@users.noreply.github.com
+          git commit -m "chore(data): refresh $(date -u +%FT%TZ)"
+          git push
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v4

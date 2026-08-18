@@ -1,0 +1,19 @@
+{
+  "name": "dsh-plugins-top",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Auto-updated leaderboard of public GitHub.com repositories declaring themselves as DeepSeek Harness (DSH) plugins.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "verify": "node scripts/verify.mjs",
+    "render": "node scripts/render.mjs",
+    "render:site": "node scripts/render-site.mjs",
+    "build": "npm run fetch && npm run verify && npm run render && npm run render:site",
+    "test": "node --test scripts/*.test.mjs"
+  },
+  "license": "MIT"
+}

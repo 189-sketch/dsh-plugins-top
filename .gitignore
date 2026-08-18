@@ -1,0 +1,13 @@
+# Editors / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+.env.local
+node_modules/
+
+# Transient caches (never commit)
+data/.cache/
