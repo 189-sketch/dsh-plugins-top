@@ -13,6 +13,10 @@ const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DATA = join(ROOT, 'data', 'plugins.json');
 const DOCS = join(ROOT, 'docs');
 
+// Repo the Star button points at (and fetches its live count for).
+// Self-hosters: set SITE_REPO=owner/name.
+const SITE_REPO = process.env.SITE_REPO || '189-sketch/dsh-plugins-top';
+
 // Slim per-repo record for embedding. Short keys keep the payload small.
 function slim(it) {
   return {
@@ -77,6 +81,7 @@ async function main() {
 
   const html = TEMPLATE
     .replace('__DATA_JSON__', json)
+    .replace(/__SITE_REPO__/g, SITE_REPO)
     .replace(/__SNAPSHOT__/g, data.snapshot_at);
 
   await writeFile(join(DOCS, 'index.html'), html);
@@ -108,6 +113,11 @@ h1 .grad { background: linear-gradient(90deg, var(--accent), var(--accent2)); -w
 .search { margin-left: auto; }
 .search input { width: 260px; max-width: 60vw; padding: 7px 12px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg-soft); color: var(--text); outline: none; font-size: 13px; }
 .search input:focus { border-color: var(--accent); }
+
+.star-btn { display: inline-flex; align-items: center; gap: 7px; padding: 7px 14px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg-soft); color: var(--text); font-size: 13px; font-weight: 600; white-space: nowrap; }
+.star-btn:hover { border-color: var(--accent); text-decoration: none; background: var(--bg-card); }
+.star-btn svg { fill: #e3b341; }
+.star-btn .cnt { color: var(--text-dim); font-weight: 400; font-variant-numeric: tabular-nums; }
 
 .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; margin: 20px 0; }
 .stat { background: var(--bg-card); border: 1px solid var(--border); border-radius: 10px; padding: 12px 14px; }
@@ -154,6 +164,10 @@ footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid var(--border
 <header class="top"><div class="wrap">
   <h1>🧭 <span class="grad">DSH Plugins Top</span></h1>
   <div class="search"><input id="q" type="search" placeholder="搜索仓库或描述…" autofocus></div>
+  <a class="star-btn" href="https://github.com/__SITE_REPO__" target="_blank" rel="noopener" title="给本仓库点 Star">
+    <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Z"/></svg>
+    Star <span class="cnt" id="star-cnt"></span>
+  </a>
 </div></header>
 <div class="wrap">
   <div class="stats" id="stats"></div>
@@ -272,6 +286,12 @@ function renderTable() {
 
 let deb;
 $('#q').addEventListener('input', e => { clearTimeout(deb); deb = setTimeout(() => { state.q = e.target.value.trim(); render(); }, 150); });
+
+// Live star count for the header button (visitor-IP quota; silent on failure).
+fetch('https://api.github.com/repos/__SITE_REPO__', { headers: { 'Accept': 'application/vnd.github+json' } })
+  .then(r => r.ok ? r.json() : null)
+  .then(j => { if (j && typeof j.stargazers_count === 'number') $('#star-cnt').textContent = fmtStars(j.stargazers_count); })
+  .catch(() => {});
 
 function render() { renderTabs(); renderChips(); renderTable(); }
 render();
