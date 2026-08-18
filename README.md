@@ -1,10 +1,16 @@
 # dsh-plugins-top
 
+<div align="center">
+
+# 🌐 [查看完整交互榜单 → 189-sketch.github.io/dsh-plugins-top](https://189-sketch.github.io/dsh-plugins-top/)
+
+**总榜 · 分类榜 · 新星榜 · 活跃榜 · 增速榜** — 可搜索、可筛选，每 2 小时自动刷新
+
+</div>
+
 > Auto-updated leaderboard of public GitHub.com repositories declaring themselves as **DeepSeek Harness (DSH) plugins**.
 
-This project automatically collects every public repo tagged as a DSH plugin, verifies each one against real plugin evidence, and publishes multiple leaderboards — overall, by category, trending, maintained, growth — refreshed every 2 hours by GitHub Actions.
-
-**🌐 Live site (beautified, searchable): <https://189-sketch.github.io/dsh-plugins-top/>** — enable repo Settings → Pages → Source: *GitHub Actions* after forking/creating, and the workflow deploys `docs/index.html` automatically. The table below shows only the Top 50; the site and [`docs/`](docs/index.md) carry the complete boards.
+This project automatically collects every public repo tagged as a DSH plugin, verifies each one against real plugin evidence, and publishes multiple leaderboards — overall, by category, trending, maintained, growth — refreshed every 2 hours by GitHub Actions. The table below shows only the **Top 50**; **[visit the site](https://189-sketch.github.io/dsh-plugins-top/)** for the complete, searchable boards (or browse [`docs/`](docs/index.md) for the raw Markdown versions).
 
 ## Why
 
@@ -13,7 +19,7 @@ DSH is an open ecosystem of composable plugins: skills, tools, themes, providers
 ## How it works
 
 - **Discovery**: GitHub REST search by `topic:dsh-plugin`, sharded by star ranges (with created-date bisection) to defeat the 1,000-result search cap — full coverage, including 0-star newcomers. Plus [`data/manual-additions.txt`](data/manual-additions.txt) for genuine plugins that don't use the topic.
-- **Verification**: every repo is checked for real plugin evidence — a `"dsh"` manifest field in package.json, `cordis.patch.yml` / `dsh.plugin.json` at the root, or `dsh plugin --profile …` install docs in the README. Squatters are quarantined, not listed.
+- **Verification**: every repo is checked for real plugin evidence — a `"dsh"` manifest field in package.json, `cordis.patch.yml` / `dsh.plugin.json` at the root, or `dsh plugin --profile …` install docs in the README. Repos without evidence are filtered out, never listed.
 - **Data**: `data/plugins.json` (full snapshot) + `data/history/YYYY-MM-DD.json` (daily history).
 - **Render**: Multiple leaderboards under `docs/` and the table below.
 - **Update cadence**: Every 2 hours (`cron: "0 */2 * * *"`). Growth deltas stay daily-granular (same-day history snapshots are overwritten).
@@ -37,7 +43,9 @@ DSH is an open ecosystem of composable plugins: skills, tools, themes, providers
 
 ## Self-hosting
 
-Fork this repo, enable Actions, and (optionally) add a personal token as the `GITHUB_TOKEN` secret to lift the rate ceiling.
+1. Fork this repo and enable Actions.
+2. Settings → Pages → Source: select **GitHub Actions** (or run `gh api repos/<owner>/<repo>/pages -X POST -F build_type=workflow`). The workflow deploys `docs/index.html` to `https://<owner>.github.io/dsh-plugins-top/` on every refresh.
+3. Optionally add a personal token as the `GITHUB_TOKEN` secret to lift the rate ceiling (the default Actions token works fine).
 
 ## License
 
