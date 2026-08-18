@@ -47,30 +47,38 @@ jobs:
       - name: Verify genuine plugins (README/package.json evidence)
         run: node scripts/verify.mjs
 
-      - name: Render Markdown leaderboards
-        run: node scripts/render.mjs
-
-      - name: Render HTML site (GitHub Pages)
-        run: node scripts/render-site.mjs
-
-      - name: Check for changes
-        id: diff
+      # Overlay strategy: generated content is always authoritative (computed
+      # minutes ago from the live API), but the commit must apply onto the
+      # LATEST origin/main — human pushes (README edits etc.) must survive.
+      # A plain rebase conflicts on generated files and can regress README's
+      # human sections, so: stash fresh data aside, hard-sync to origin/main,
+      # restore data, render on top of the freshest human content, commit.
+      - name: Sync, render, commit and push
         run: |
-          git add data docs README.md
-          if git diff --staged --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
+          set -e
+          TMP="$RUNNER_TEMP/fresh"
+          mkdir -p "$TMP"
+          cp data/plugins.json "$TMP/plugins.json"
+          [ -d data/history ] && cp -r data/history "$TMP/history" || true
 
-      - name: Commit and push refresh
-        if: steps.diff.outputs.changed == 'true'
-        run: |
+          git fetch origin main
+          git reset --hard origin/main
+
+          cp "$TMP/plugins.json" data/plugins.json
+          [ -d "$TMP/history" ] && rm -rf data/history && cp -r "$TMP/history" data/history
+
+          node scripts/render.mjs
+          node scripts/render-site.mjs
+
           git config user.name  dsh-bot
           git config user.email bot@users.noreply.github.com
-          git commit -m "chore(data): refresh $(date -u +%FT%TZ)"
-          git pull --rebase origin main
-          git push
+          git add data docs README.md
+          if git diff --staged --quiet; then
+            echo "no changes; skipping commit"
+          else
+            git commit -m "chore(data): refresh $(date -u +%FT%TZ)"
+            git push origin main || echo "::warning::push raced with another commit; the next scheduled run converges"
+          fi
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
