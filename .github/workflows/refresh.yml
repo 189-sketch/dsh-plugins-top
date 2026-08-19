@@ -69,10 +69,11 @@ jobs:
 
           node scripts/render.mjs
           node scripts/render-site.mjs
+          node scripts/build-catalog.mjs
 
           git config user.name  dsh-bot
           git config user.email bot@users.noreply.github.com
-          git add data docs README.md
+          git add data docs README.md scripts/build-catalog.mjs
           if git diff --staged --quiet; then
             echo "no changes; skipping commit"
           else

@@ -12,7 +12,8 @@
     "verify": "node scripts/verify.mjs",
     "render": "node scripts/render.mjs",
     "render:site": "node scripts/render-site.mjs",
-    "build": "npm run fetch && npm run verify && npm run render && npm run render:site",
+    "build:catalog": "node scripts/build-catalog.mjs",
+    "build": "npm run fetch && npm run verify && npm run render && npm run render:site && npm run build:catalog",
     "test": "node --test scripts/*.test.mjs"
   },
   "license": "MIT"
