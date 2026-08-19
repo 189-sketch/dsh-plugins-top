@@ -154,7 +154,15 @@ test('catalog manifest validates against catalog-source.schema.json', async () =
   assert.equal(manifest.manifestVersion, '1.0.0');
   assert.equal(manifest.transport.kind, 'https-json');
   assert.equal(manifest.transport.method, 'GET');
-  assert.ok(manifest.query.supported.includes('cursor'));
+  // Pages-backed source: cursor is intentionally NOT advertised because
+  // GitHub Pages cannot honor a query-string cursor (Pages serves the
+  // same file regardless of `?cursor=...`). See build-catalog.mjs for the
+  // full rationale.
+  assert.equal(
+    manifest.query.supported.includes('cursor'),
+    false,
+    'cursor must NOT be advertised in query.supported for a Pages-backed source',
+  );
   assert.ok(manifest.query.maxLimit <= 100);
 });
 
@@ -198,33 +206,17 @@ test('every emitted item is repository-only, has unique id, and carries no forbi
   }
 });
 
-test('nextCursor chain points to existing files and terminates', async () => {
+test('nextCursor is absent in the single-page snapshot', async () => {
   const pluginsDir = join(DOCS, 'v1', 'plugins');
   const first = JSON.parse(await readFile(join(pluginsDir, 'index.json'), 'utf-8'));
-  if (!first.page.nextCursor) return; // single-page dataset — also valid
-  let cursor = first.page.nextCursor;
-  const seen = new Set();
-  while (cursor) {
-    assert.ok(!seen.has(cursor), `cursor loop detected at ${cursor}`);
-    seen.add(cursor);
-    const file = join(pluginsDir, `${cursor}.json`);
-    const page = JSON.parse(await readFile(file, 'utf-8'));
-    assert.ok(page.items.length <= 100);
-    cursor = page.page.nextCursor;
-  }
+  assert.equal(first.page.nextCursor, undefined,
+    'single-page snapshot must not carry a nextCursor');
 });
 
-test('total count in first page equals the number of unique ids across all pages', async () => {
+test('total count in first page equals the number of unique ids in that page', async () => {
   const pluginsDir = join(DOCS, 'v1', 'plugins');
   const first = JSON.parse(await readFile(join(pluginsDir, 'index.json'), 'utf-8'));
   if (typeof first.page.total !== 'number') return;
-  const ids = new Set();
-  let cursor = null;
-  do {
-    const file = cursor ? join(pluginsDir, `${cursor}.json`) : join(pluginsDir, 'index.json');
-    const page = JSON.parse(await readFile(file, 'utf-8'));
-    for (const it of page.items) ids.add(it.id);
-    cursor = page.page.nextCursor;
-  } while (cursor);
-  assert.equal(ids.size, first.page.total, 'total must equal unique-id count across pages');
+  const ids = new Set(first.items.map((it) => it.id));
+  assert.equal(ids.size, first.page.total, 'total must equal unique-id count in the single page');
 });

@@ -188,12 +188,16 @@ async function main() {
   // Stable sort: stars desc, then full_name for tie-break determinism.
   // The Market re-orders client-side too, but stable wire order keeps
   // diffing the snapshot JSON meaningful across runs.
+  // Truncate to MAX_ITEMS_PER_PAGE — see cursor rationale in the
+  // single-page emit block below.
   const decorated = verified
     .slice()
     .sort((a, b) => (b.stars - a.stars) || a.repo.localeCompare(b.repo))
     .map((it, i) => ({ ...it, _rank: i + 1 }));
 
-  const items = decorated.map(toItem);
+  const items = decorated
+    .slice(0, MAX_ITEMS_PER_PAGE)
+    .map(toItem);
 
   // Uniqueness guard — schema forbids repeated ids inside a page or across
   // the full snapshot. repo names are unique by GitHub invariant.
@@ -205,31 +209,17 @@ async function main() {
 
   await mkdir(PLUGINS_DIR, { recursive: true });
 
-  // Emit page shards.
-  const pages = [];
-  const total = items.length;
-  for (let i = 0; i < total; i += MAX_ITEMS_PER_PAGE) {
-    const pageItems = items.slice(i, i + MAX_ITEMS_PER_PAGE);
-    const pageNum = (i / MAX_ITEMS_PER_PAGE) + 1;
-    const hasMore = i + MAX_ITEMS_PER_PAGE < total;
-    const cursor = hasMore ? `page-${pageNum + 1}` : undefined;
-    pages.push({ pageNum, pageItems, cursor });
-  }
+  // Single-page snapshot. GitHub Pages cannot honor a query-string
+  // cursor because it serves the same file regardless of `?cursor=...`
+  // — that would cause the standard adapter to repeat page 1 and trip
+  // either duplicate-id or cursor-repeat guards. We cap items at
+  // MAX_ITEMS_PER_PAGE and skip the cursor mechanism entirely.
+  const pageItems = items.slice(0, MAX_ITEMS_PER_PAGE);
+  const payload = buildPage(pageItems, undefined, pageItems.length);
+  await writeFile(FIRST_PAGE_FILE, JSON.stringify(payload, null, 2) + '\n');
 
-  // Page 1 lives at /v1/plugins (index.json), matching the manifest's
-  // endpoint URL. Remaining pages follow at /v1/plugins/<cursor>.json.
-  for (const { pageNum, pageItems, cursor } of pages) {
-    const nextCursor = cursor;
-    const payload = buildPage(pageItems, nextCursor, pageNum === 1 ? total : undefined);
-    if (pageNum === 1) {
-      await writeFile(FIRST_PAGE_FILE, JSON.stringify(payload, null, 2) + '\n');
-    } else {
-      const file = PROVIDER_PAGE.replace('%s', `page-${pageNum}`);
-      await writeFile(file, JSON.stringify(payload, null, 2) + '\n');
-    }
-  }
-
-  // Manifest (catalog-source v1).
+  // Manifest (catalog-source v1). Query capability advertisement: q,
+  // category, limit. cursor is intentionally absent.
   const manifest = {
     manifestVersion: MANIFEST_VERSION,
     providerId: PROVIDER_ID,
@@ -243,7 +233,7 @@ async function main() {
       method: 'GET',
     },
     query: {
-      supported: ['q', 'category', 'cursor', 'limit'],
+      supported: ['q', 'category', 'limit'],
       defaultLimit: 50,
       maxLimit: 100,
       sorts: [],
@@ -251,7 +241,7 @@ async function main() {
   };
   await writeFile(MANIFEST_FILE, JSON.stringify(manifest, null, 2) + '\n');
 
-  console.log(`OK catalog: ${items.length} verified items → ${pages.length} page(s); manifest=${MANIFEST_URL}`);
+  console.log(`OK catalog: ${pageItems.length} verified items → 1 single-page snapshot; manifest=${MANIFEST_URL}`);
 }
 
 main().catch((e) => {
