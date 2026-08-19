@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-08-19T04:33:15.000Z"
+      "updatedAt": "2026-08-19T05:12:35.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web-ui"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-19T04:34:56.000Z"
+      "updatedAt": "2026-08-19T05:02:40.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -118,7 +118,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T04:26:52.000Z"
+      "updatedAt": "2026-08-19T05:12:58.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -128,7 +128,7 @@
       "repository": {
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
-      "updatedAt": "2026-08-19T04:16:57.000Z"
+      "updatedAt": "2026-08-19T04:55:47.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -139,7 +139,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T04:03:38.000Z"
+      "updatedAt": "2026-08-19T05:02:13.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -159,7 +159,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-08-19T03:12:19.000Z"
+      "updatedAt": "2026-08-19T05:04:03.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -243,7 +243,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-19T04:32:45.000Z"
+      "updatedAt": "2026-08-19T05:12:56.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -342,7 +342,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-08-19T02:41:07.000Z"
+      "updatedAt": "2026-08-19T05:06:35.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -442,7 +442,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-19T03:23:48.000Z"
+      "updatedAt": "2026-08-19T05:03:58.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -502,7 +502,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-19T04:03:29.000Z"
+      "updatedAt": "2026-08-19T04:46:08.000Z"
     },
     {
       "id": "omdsh-dev/dsh-at-file",
@@ -741,7 +741,7 @@
         "url": "https://github.com/tinqiao-oss/engramory"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T04:30:59.000Z"
+      "updatedAt": "2026-08-19T04:54:34.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -822,7 +822,7 @@
         "url": "https://github.com/Ruler4396/dsh-launcher"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T04:16:10.000Z"
+      "updatedAt": "2026-08-19T05:04:11.000Z"
     },
     {
       "id": "zhaoolee/notes",
@@ -867,6 +867,27 @@
       "updatedAt": "2026-08-19T04:34:46.000Z"
     },
     {
+      "id": "V1ki/dsh-plugin-subscriptions",
+      "name": "dsh-plugin-subscriptions",
+      "displayName": "dsh-plugin-subscriptions",
+      "summary": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+      "repository": {
+        "url": "https://github.com/V1ki/dsh-plugin-subscriptions"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "oauth",
+        "chatgpt",
+        "codex",
+        "claude",
+        "grok"
+      ],
+      "updatedAt": "2026-08-19T03:14:51.000Z"
+    },
+    {
       "id": "liceses/dsh-gitbash-preset",
       "name": "@icelily/dsh-gitbash-preset",
       "displayName": "dsh-gitbash-preset",
@@ -887,27 +908,6 @@
         "windows"
       ],
       "updatedAt": "2026-08-16T17:54:06.000Z"
-    },
-    {
-      "id": "V1ki/dsh-plugin-subscriptions",
-      "name": "dsh-plugin-subscriptions",
-      "displayName": "dsh-plugin-subscriptions",
-      "summary": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
-      "repository": {
-        "url": "https://github.com/V1ki/dsh-plugin-subscriptions"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "llm",
-        "oauth",
-        "chatgpt",
-        "codex",
-        "claude",
-        "grok"
-      ],
-      "updatedAt": "2026-08-19T03:14:51.000Z"
     },
     {
       "id": "bradeGithub/DSH-Plugins-Marketplace",
@@ -965,24 +965,6 @@
       "updatedAt": "2026-08-15T13:21:42.000Z"
     },
     {
-      "id": "ZSeven-W/dsh-noema",
-      "name": "@zseven-w/dsh-noema",
-      "displayName": "dsh-noema",
-      "summary": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-noema"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "noema",
-        "memory",
-        "plugin",
-        "agent"
-      ],
-      "updatedAt": "2026-08-15T06:05:30.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
@@ -1026,6 +1008,44 @@
       "updatedAt": "2026-08-17T19:23:33.000Z"
     },
     {
+      "id": "ZSeven-W/dsh-noema",
+      "name": "@zseven-w/dsh-noema",
+      "displayName": "dsh-noema",
+      "summary": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+      "repository": {
+        "url": "https://github.com/ZSeven-W/dsh-noema"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "noema",
+        "memory",
+        "plugin",
+        "agent"
+      ],
+      "updatedAt": "2026-08-15T06:05:30.000Z"
+    },
+    {
+      "id": "zh667/TokenLedger",
+      "name": "dsh-tokenledger",
+      "displayName": "TokenLedger",
+      "summary": "Relay-site attributed token usage for DeepSeek Harness — zero config, no credentials",
+      "repository": {
+        "url": "https://github.com/zh667/TokenLedger"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "token-usage",
+        "billing",
+        "dsh-bundle",
+        "cordis-plugin",
+        "relay-attribution"
+      ],
+      "updatedAt": "2026-08-17T09:36:20.000Z"
+    },
+    {
       "id": "kingOfSoySauce/dsh-liang-skin",
       "name": "dsh-client-liang-intensity-skin",
       "displayName": "dsh-liang-skin",
@@ -1055,24 +1075,15 @@
       "updatedAt": "2026-08-17T06:57:45.000Z"
     },
     {
-      "id": "zh667/TokenLedger",
-      "name": "dsh-tokenledger",
-      "displayName": "TokenLedger",
-      "summary": "Relay-site attributed token usage for DeepSeek Harness — zero config, no credentials",
+      "id": "Ayase34/gal-view",
+      "name": "gal-view",
+      "displayName": "gal-view",
+      "summary": "把dsh会话界面切换成galgame游戏界面的插件",
       "repository": {
-        "url": "https://github.com/zh667/TokenLedger"
+        "url": "https://github.com/Ayase34/gal-view"
       },
       "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "token-usage",
-        "billing",
-        "dsh-bundle",
-        "cordis-plugin",
-        "relay-attribution"
-      ],
-      "updatedAt": "2026-08-17T09:36:20.000Z"
+      "updatedAt": "2026-08-16T00:02:38.000Z"
     },
     {
       "id": "Vladimir-Human/humanizer-ru",
@@ -1084,17 +1095,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-16T05:29:43.000Z"
-    },
-    {
-      "id": "Ayase34/gal-view",
-      "name": "gal-view",
-      "displayName": "gal-view",
-      "summary": "把dsh会话界面切换成galgame游戏界面的插件",
-      "repository": {
-        "url": "https://github.com/Ayase34/gal-view"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-16T00:02:38.000Z"
     },
     {
       "id": "taxueseek/argo",
@@ -1146,7 +1146,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-08-19T04:29:43.000Z"
+      "updatedAt": "2026-08-19T05:09:40.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1459,6 +1459,16 @@
       "updatedAt": "2026-08-19T00:19:49.000Z"
     },
     {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-08-16T05:32:07.000Z"
+    },
+    {
       "id": "oil-oil/dsh-vision",
       "name": "@oil-oil/dsh-vision",
       "displayName": "dsh-vision",
@@ -1506,27 +1516,6 @@
       "updatedAt": "2026-08-18T05:43:14.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-08-16T05:32:07.000Z"
-    },
-    {
-      "id": "Vladimir-Human/ru-marketplace-mcp",
-      "name": "Vladimir-Human/ru-marketplace-mcp",
-      "displayName": "ru-marketplace-mcp",
-      "summary": "Девять российских маркетплейсов и китайский Taobao как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, Мегамаркет, Lamoda, DNS, Ситилинк. Плюс сравнение цен по всем сразу. Только чтение, ключи не нужны.",
-      "repository": {
-        "url": "https://github.com/Vladimir-Human/ru-marketplace-mcp"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-17T10:52:51.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1553,6 +1542,17 @@
         "cordis"
       ],
       "updatedAt": "2026-08-19T03:56:49.000Z"
+    },
+    {
+      "id": "Vladimir-Human/ru-marketplace-mcp",
+      "name": "Vladimir-Human/ru-marketplace-mcp",
+      "displayName": "ru-marketplace-mcp",
+      "summary": "Девять российских маркетплейсов и китайский Taobao как MCP-серверы: Wildberries, Ozon, Яндекс Маркет, Детский мир, Авито, Мегамаркет, Lamoda, DNS, Ситилинк. Плюс сравнение цен по всем сразу. Только чтение, ключи не нужны.",
+      "repository": {
+        "url": "https://github.com/Vladimir-Human/ru-marketplace-mcp"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-17T10:52:51.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
