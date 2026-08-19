@@ -118,7 +118,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T20:13:36.000Z"
+      "updatedAt": "2026-08-19T21:39:31.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -246,6 +246,17 @@
       "updatedAt": "2026-08-15T19:22:01.000Z"
     },
     {
+      "id": "0xsline/awesome-deepseek-harness",
+      "name": "0xsline/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "repository": {
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      "license": "CC0-1.0",
+      "updatedAt": "2026-08-19T21:27:39.000Z"
+    },
+    {
       "id": "Anionex/dsh-vision-toolkit",
       "name": "@anionex/dsh-vision-toolkit",
       "displayName": "dsh-vision-toolkit",
@@ -270,17 +281,6 @@
         "gui-automation"
       ],
       "updatedAt": "2026-08-19T18:01:17.000Z"
-    },
-    {
-      "id": "0xsline/awesome-deepseek-harness",
-      "name": "0xsline/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "repository": {
-        "url": "https://github.com/0xsline/awesome-deepseek-harness"
-      },
-      "license": "CC0-1.0",
-      "updatedAt": "2026-08-19T19:27:14.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -342,7 +342,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-08-19T16:46:08.000Z"
+      "updatedAt": "2026-08-19T22:03:41.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -424,7 +424,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-19T12:36:13.000Z"
+      "updatedAt": "2026-08-19T22:00:04.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -462,7 +462,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-19T17:29:49.000Z"
+      "updatedAt": "2026-08-19T21:03:44.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -513,7 +513,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-19T18:57:27.000Z"
+      "updatedAt": "2026-08-19T21:45:25.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -596,7 +596,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-08-19T15:13:04.000Z"
+      "updatedAt": "2026-08-19T21:51:29.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -607,7 +607,7 @@
         "url": "https://github.com/vlln/whale-girl"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T16:54:28.000Z"
+      "updatedAt": "2026-08-19T21:18:20.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -773,6 +773,17 @@
       "updatedAt": "2026-08-19T17:41:26.000Z"
     },
     {
+      "id": "Devin-AXIS/deepseek-design",
+      "name": "Devin-AXIS/deepseek-design",
+      "displayName": "deepseek-design",
+      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/deepseek-design"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-08-18T09:54:38.000Z"
+    },
+    {
       "id": "tinqiao-oss/engramory",
       "name": "dsh-engramory",
       "displayName": "engramory",
@@ -814,17 +825,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-08-19T14:35:55.000Z"
-    },
-    {
-      "id": "Devin-AXIS/deepseek-design",
-      "name": "Devin-AXIS/deepseek-design",
-      "displayName": "deepseek-design",
-      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/deepseek-design"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-18T09:54:38.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -936,7 +936,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T19:22:43.000Z"
+      "updatedAt": "2026-08-19T21:12:50.000Z"
     },
     {
       "id": "yjh051108/dsh-super-injector",
@@ -947,23 +947,6 @@
         "url": "https://github.com/yjh051108/dsh-super-injector"
       },
       "updatedAt": "2026-08-15T13:21:42.000Z"
-    },
-    {
-      "id": "ZSeven-W/dsh-openpencil",
-      "name": "@zseven-w/dsh-openpencil",
-      "displayName": "dsh-openpencil",
-      "summary": "The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-openpencil"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "openpencil",
-        "plugin",
-        "design"
-      ],
-      "updatedAt": "2026-08-16T17:24:40.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1007,6 +990,23 @@
         "supermemory"
       ],
       "updatedAt": "2026-08-19T16:41:00.000Z"
+    },
+    {
+      "id": "ZSeven-W/dsh-openpencil",
+      "name": "@zseven-w/dsh-openpencil",
+      "displayName": "dsh-openpencil",
+      "summary": "The DeepSeek Harness plugin for OpenPencil — preview, inspect, and edit real .op documents inside a conversation.",
+      "repository": {
+        "url": "https://github.com/ZSeven-W/dsh-openpencil"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "openpencil",
+        "plugin",
+        "design"
+      ],
+      "updatedAt": "2026-08-16T17:24:40.000Z"
     },
     {
       "id": "kingOfSoySauce/dsh-liang-skin",
@@ -1269,35 +1269,6 @@
       "updatedAt": "2026-08-19T15:58:35.000Z"
     },
     {
-      "id": "Sanqi-normal/dsh-webui-market-plugin",
-      "name": "@sanqi-normal/dsh-webui-market-plugin",
-      "displayName": "dsh-webui-market-plugin",
-      "summary": "dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin.com 插件目录，一键安装/卸载到 profile。Community plugin market for the DeepSeek Harness (dsh) web GUI: browse, install and uninstall plugins into a profile.",
-      "repository": {
-        "url": "https://github.com/Sanqi-normal/dsh-webui-market-plugin"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "agent-harness",
-        "plugin",
-        "market",
-        "web",
-        "ui"
-      ],
-      "updatedAt": "2026-08-18T04:43:03.000Z"
-    },
-    {
-      "id": "Tabbit-Browser/dsh-plugin",
-      "name": "tabbit-browser",
-      "displayName": "dsh-plugin",
-      "summary": "Tabbit Broser plugins for Deepseek Harness",
-      "repository": {
-        "url": "https://github.com/Tabbit-Browser/dsh-plugin"
-      },
-      "updatedAt": "2026-08-17T05:22:10.000Z"
-    },
-    {
       "id": "HanaAyane/dsh-reasoning-effort",
       "name": "dsh-reasoning-effort",
       "displayName": "dsh-reasoning-effort",
@@ -1329,6 +1300,35 @@
         "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
       },
       "updatedAt": "2026-08-18T03:17:01.000Z"
+    },
+    {
+      "id": "Sanqi-normal/dsh-webui-market-plugin",
+      "name": "@sanqi-normal/dsh-webui-market-plugin",
+      "displayName": "dsh-webui-market-plugin",
+      "summary": "dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin.com 插件目录，一键安装/卸载到 profile。Community plugin market for the DeepSeek Harness (dsh) web GUI: browse, install and uninstall plugins into a profile.",
+      "repository": {
+        "url": "https://github.com/Sanqi-normal/dsh-webui-market-plugin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "agent-harness",
+        "plugin",
+        "market",
+        "web",
+        "ui"
+      ],
+      "updatedAt": "2026-08-18T04:43:03.000Z"
+    },
+    {
+      "id": "Tabbit-Browser/dsh-plugin",
+      "name": "tabbit-browser",
+      "displayName": "dsh-plugin",
+      "summary": "Tabbit Broser plugins for Deepseek Harness",
+      "repository": {
+        "url": "https://github.com/Tabbit-Browser/dsh-plugin"
+      },
+      "updatedAt": "2026-08-17T05:22:10.000Z"
     },
     {
       "id": "Anionex/dsh-turn-rewind",
@@ -1406,7 +1406,7 @@
         "url": "https://github.com/cocode-agency/cocode"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T15:43:25.000Z"
+      "updatedAt": "2026-08-19T21:38:00.000Z"
     },
     {
       "id": "omdsh-dev/dsh-annotation",
@@ -1418,34 +1418,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-18T20:30:27.000Z"
-    },
-    {
-      "id": "shanliuling/dsh-image-gen",
-      "name": "dsh-image-gen",
-      "displayName": "dsh-image-gen",
-      "summary": "Generate images directly in DeepSeek Harness chats",
-      "repository": {
-        "url": "https://github.com/shanliuling/dsh-image-gen"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ai-agent",
-        "image-generation",
-        "ai-image-generation",
-        "multimodal",
-        "gemini",
-        "openai",
-        "openai-compatible",
-        "seedream",
-        "volcengine",
-        "byok",
-        "cordis"
-      ],
-      "updatedAt": "2026-08-19T16:46:32.000Z"
     },
     {
       "id": "Nwflower/dsh-chat-import",
@@ -1483,6 +1455,34 @@
         "transcript"
       ],
       "updatedAt": "2026-08-19T09:48:05.000Z"
+    },
+    {
+      "id": "shanliuling/dsh-image-gen",
+      "name": "dsh-image-gen",
+      "displayName": "dsh-image-gen",
+      "summary": "Generate images directly in DeepSeek Harness chats",
+      "repository": {
+        "url": "https://github.com/shanliuling/dsh-image-gen"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ai-agent",
+        "image-generation",
+        "ai-image-generation",
+        "multimodal",
+        "gemini",
+        "openai",
+        "openai-compatible",
+        "seedream",
+        "volcengine",
+        "byok",
+        "cordis"
+      ],
+      "updatedAt": "2026-08-19T16:46:32.000Z"
     },
     {
       "id": "mishibeikejie/zat-dsh-engine",

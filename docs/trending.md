@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [satan9394/dsh-db-migration](https://github.com/satan9394/dsh-db-migration) | ⭐ 0 | ✅ | DSH skill: 数据库迁移，up/down/expand-contract/不宕机变更/一致性校验（受 wshobson/agents 启发） | `skill` |
-| #2 | [satan9394/dsh-architecture](https://github.com/satan9394/dsh-architecture) | ⭐ 0 | ✅ | DSH skill: 架构模式，Clean/Hexagonal/DDD 战术模式/依赖规则/测试边界（受 wshobson/agents 38k★ 启发） | `skill` |
-| #3 | [satan9394/dsh-terraform](https://github.com/satan9394/dsh-terraform) | ⭐ 0 | ✅ | DSH skill: Terraform 模块库，模块设计/变量输出约定/IaC 最佳实践（受 wshobson/agents 启发） | `skill` |
-| #4 | [satan9394/dsh-microservices](https://github.com/satan9394/dsh-microservices) | ⭐ 0 | ✅ | DSH skill: 微服务架构模式，服务边界/通信/分布式数据/韧性/事件驱动（受 wshobson/agents 38k★ 启发） | `skill` |
-| #5 | [satan9394/dsh-mlops](https://github.com/satan9394/dsh-mlops) | ⭐ 0 | ✅ | DSH skill: ML 管线工作流，数据→训练→评估→部署→监控 MLOps（受 wshobson/agents 启发） | `skill` |
-| #6 | [satan9394/dsh-data-storytelling](https://github.com/satan9394/dsh-data-storytelling) | ⭐ 0 | ✅ | DSH skill: 数据叙事，SCQA 结构/图表选型/标题即结论/可信度（受 wshobson/agents 38k★ 启发） | `skill` |
-| #7 | [satan9394/dsh-dataset-curation](https://github.com/satan9394/dsh-dataset-curation) | ⭐ 0 | ✅ | DSH skill: 数据集整理，清洗/质量筛选/多样性/拆分/标注（受 wshobson/agents 启发） | `skill` |
-| #8 | [satan9394/dsh-prompt-engineering](https://github.com/satan9394/dsh-prompt-engineering) | ⭐ 0 | ✅ | DSH skill: 提示词工程模式，CoT/few-shot/模板/优化调试（受 wshobson/agents 38k★ 启发） | `skill` |
-| #9 | [WindyPro-rourou/dsh-logcat](https://github.com/WindyPro-rourou/dsh-logcat) | ⭐ 0 | ✅ | Android Logcat viewer for the DeepSeek Harness (DSH) Web GUI: auto-connect adb devices, live logcat stream with level/keyword filters, pause/clear/export, plus the logcat_recent agent tool. | `ui-panel` |
-| #10 | [satan9394/dsh-parallel-dev](https://github.com/satan9394/dsh-parallel-dev) | ⭐ 0 | ✅ | DSH skill: 并行功能开发，文件所有权/接口契约/垂直切片 vs 水平分层（受 wshobson/agents 启发） | `skill` |
-| #11 | [satan9394/dsh-agent-teams](https://github.com/satan9394/dsh-agent-teams) | ⭐ 0 | ✅ | DSH skill: 多 agent 团队协作，角色/任务协调/并行工作流/沟通协议（受 wshobson/agents 38k★ 启发） | `skill` |
-| #12 | [satan9394/dsh-pci-compliance](https://github.com/satan9394/dsh-pci-compliance) | ⭐ 0 | ✅ | DSH skill: PCI 合规，卡数据保护/六大支柱控制清单/缩小范围策略（受 wshobson/agents 启发） | `skill` |
-| #13 | [satan9394/dsh-gitops](https://github.com/satan9394/dsh-gitops) | ⭐ 0 | ✅ | DSH skill: GitOps 工作流，声明式基础设施/Git 即真源/持续协调/渐进式交付（受 wshobson/agents 38k★ 启发） | `skill` |
-| #14 | [lesliechowsh/dsh-memo](https://github.com/lesliechowsh/dsh-memo) | ⭐ 0 | 🟡 | Memo — session memory search for DeepSeek Harness agents (memo_search / memo_remember / memo_stats on the official sessionQuery service) | `other` |
-| #15 | [satan9394/dsh-bash-scripting](https://github.com/satan9394/dsh-bash-scripting) | ⭐ 0 | ✅ | DSH skill: Bash 脚本防御模式，set -euo pipefail/参数校验/错误处理/安全（受 wshobson/agents 启发） | `skill` |
-| #16 | [satan9394/dsh-data-quality](https://github.com/satan9394/dsh-data-quality) | ⭐ 0 | ✅ | DSH skill: 数据质量框架，校验规则/数据契约/质量监控/CI 自动化（受 wshobson/agents 38k★ 启发） | `skill` |
-| #17 | [satan9394/dsh-llm-eval](https://github.com/satan9394/dsh-llm-eval) | ⭐ 0 | ✅ | DSH skill: LLM 评估，忠实度/相关性/测试集/幻觉检测/回归守护（受 wshobson/agents 启发） | `provider` |
-| #18 | [satan9394/dsh-rag](https://github.com/satan9394/dsh-rag) | ⭐ 0 | ✅ | DSH skill: RAG 检索增强生成，向量库/嵌入/文档管线/检索策略/幻觉治理（受 wshobson/agents 38k★ 启发） | `skill` |
-| #19 | [satan9394/dsh-frontend-engineering](https://github.com/satan9394/dsh-frontend-engineering) | ⭐ 0 | ✅ | DSH skill: 前端 UI 工程，组件/状态管理/数据获取/性能与可维护性（受 addyosmani/agent-skills 启发） | `skill` |
-| #20 | [satan9394/dsh-browser-testing](https://github.com/satan9394/dsh-browser-testing) | ⭐ 0 | ✅ | DSH skill: 浏览器测试与 UI 验证，真实浏览器验证 DOM/控制台/网络/性能（受 addyosmani/agent-skills 88k★ 启发） | `skill` |
-| #21 | [satan9394/dsh-debug-recovery](https://github.com/satan9394/dsh-debug-recovery) | ⭐ 0 | ✅ | DSH skill: 调试与错误恢复，证据优先/错误分类/恢复策略/防回归（受 addyosmani/agent-skills 启发） | `skill` |
-| #22 | [satan9394/dsh-docs-adr](https://github.com/satan9394/dsh-docs-adr) | ⭐ 0 | ✅ | DSH skill: 文档与架构决策记录，ADR 格式/文档策略/何时不写（受 addyosmani/agent-skills 88k★ 启发） | `skill` |
-| #23 | [pai535Huang/dsh-superpower](https://github.com/pai535Huang/dsh-superpower) | ⭐ 0 | ✅ | DSH plugin bundle for obra/superpowers skills and development workflows | `skill` |
-| #24 | [satan9394/dsh-code-simplify](https://github.com/satan9394/dsh-code-simplify) | ⭐ 0 | ✅ | DSH skill: 代码简化，删冗余/降复杂度/去不必要抽象（受 addyosmani/agent-skills 启发） | `skill` |
-| #25 | [satan9394/dsh-source-driven](https://github.com/satan9394/dsh-source-driven) | ⭐ 0 | ✅ | DSH skill: 源码驱动开发，框架决策官方文档背书/引用来源（受 addyosmani/agent-skills 88k★ 启发） | `skill` |
-| #26 | [RyensX/dsh-message-fold](https://github.com/RyensX/dsh-message-fold) | ⭐ 0 | ✅ | 为 DeepSeek Harness 提供 Codex 风格的会话消息折叠。/ Provides Codex-style session message folding for DeepSeek Harness. | `ui-panel` |
-| #27 | [satan9394/dsh-incremental](https://github.com/satan9394/dsh-incremental) | ⭐ 0 | ✅ | DSH skill: 增量实现，小步可验证保持可运行避免大爆炸改动（受 addyosmani/agent-skills 启发） | `skill` |
-| #28 | [satan9394/dsh-idea-refine](https://github.com/satan9394/dsh-idea-refine) | ⭐ 0 | ✅ | DSH skill: 想法打磨，发散-收敛思考把模糊想法变成可执行概念（受 addyosmani/agent-skills 88k★ 启发） | `skill` |
-| #29 | [satan9394/dsh-shipping](https://github.com/satan9394/dsh-shipping) | ⭐ 0 | ✅ | DSH skill: 发布上线，检查清单/灰度/回滚优先/上线后监控（受 addyosmani/agent-skills 启发） | `skill` |
-| #30 | [satan9394/dsh-tdd](https://github.com/satan9394/dsh-tdd) | ⭐ 0 | ✅ | DSH skill: 测试驱动开发，红绿重构循环 + Prove-It 修复模式（受 addyosmani/agent-skills 88k★ 启发） | `skill` |
+| #1 | [satan9394/dsh-prototype](https://github.com/satan9394/dsh-prototype) | ⭐ 0 | ✅ | DSH skill: 原型验证, 可丢弃代码回答设计问题（受 mattpocock/skills 223k★ 启发） | `skill` |
+| #2 | [satan9394/dsh-codebase-design](https://github.com/satan9394/dsh-codebase-design) | ⭐ 0 | ✅ | DSH skill: 深模块设计, 接口与接缝（受 mattpocock/skills 223k★ 启发） | `skill` |
+| #3 | [satan9394/dsh-teach](https://github.com/satan9394/dsh-teach) | ⭐ 0 | ✅ | DSH skill: 教学与讲解, 教学工作区与合意困难（受 mattpocock/skills 223k★ 启发） | `skill` |
+| #4 | [satan9394/dsh-git-guardrails](https://github.com/satan9394/dsh-git-guardrails) | ⭐ 0 | ✅ | DSH skill: Git 安全护栏, 拦截危险命令（受 mattpocock/skills 223k★ 启发） | `skill` |
+| #5 | [WindyPro-rourou/dsh-code-studio](https://github.com/WindyPro-rourou/dsh-code-studio) | ⭐ 0 | ✅ | Code Studio for DSH Web GUI - VS Code + Cline hybrid: file tree, syntax-highlighted editor, Cline-style line diffs that auto-appear when the agent edits files. | `ui-panel` |
+| #6 | [satan9394/dsh-issue-triage](https://github.com/satan9394/dsh-issue-triage) | ⭐ 0 | ✅ | DSH skill: Issue/PR 分流, 状态机与简报（受 mattpocock/skills 223k★ 启发） | `skill` |
+| #7 | [satan9394/dsh-writing-for-agents](https://github.com/satan9394/dsh-writing-for-agents) | ⭐ 0 | ✅ | DSH skill: 写给 agent 的文档, 指针与信息层级（受 mattpocock/skills 223k★ 启发） | `skill` |
+| #8 | [satan9394/dsh-security-compliance](https://github.com/satan9394/dsh-security-compliance) | ⭐ 0 | ✅ | DSH skill: 安全审计与合规, DevSecOps 与框架（受 wshobson/agents 38k★ 启发） | `skill` |
+| #9 | [satan9394/dsh-api-scaffolding](https://github.com/satan9394/dsh-api-scaffolding) | ⭐ 0 | ✅ | DSH skill: FastAPI 脚手架, 异步与分层结构（受 wshobson/agents 38k★ 启发） | `skill` |
+| #10 | [satan9394/dsh-web-scripting](https://github.com/satan9394/dsh-web-scripting) | ⭐ 0 | ✅ | DSH skill: PHP/Ruby Web 开发, 现代惯用法（受 wshobson/agents 38k★ 启发） | `skill` |
+| #11 | [satan9394/dsh-deployment-validation](https://github.com/satan9394/dsh-deployment-validation) | ⭐ 0 | ✅ | DSH skill: 部署验证与配置管理, schema 与密钥扫描（受 wshobson/agents 38k★ 启发） | `skill` |
+| #12 | [satan9394/dsh-full-stack-orchestration](https://github.com/satan9394/dsh-full-stack-orchestration) | ⭐ 0 | ✅ | DSH skill: 全栈功能编排, 状态机与检查点（受 wshobson/agents 38k★ 启发） | `skill` |
+| #13 | [satan9394/dsh-api-documentation](https://github.com/satan9394/dsh-api-documentation) | ⭐ 0 | ✅ | DSH skill: API 文档与开发者体验, OpenAPI 与门户（受 wshobson/agents 38k★ 启发） | `skill` |
+| #14 | [satan9394/dsh-tech-debt](https://github.com/satan9394/dsh-tech-debt) | ⭐ 0 | ✅ | DSH skill: 技术债治理, 审计与还债优先级（受 wshobson/agents 38k★ 启发） | `skill` |
+| #15 | [satan9394/dsh-functional-programming](https://github.com/satan9394/dsh-functional-programming) | ⭐ 0 | ✅ | DSH skill: 函数式编程, Elixir/OTP 与 Haskell 类型（受 wshobson/agents 38k★ 启发） | `skill` |
+| #16 | [TYEclipse/dsh-checkdigit](https://github.com/TYEclipse/dsh-checkdigit) | ⭐ 0 | ✅ | Check-digit mathematics toolbox for DeepSeek Harness (dsh): generate, validate and detect Luhn / Verhoeff / Damm / ISBN / EAN / UPC / ISIN / CUSIP / IBAN check digits — zero runtime dependencies | `tool` |
+| #17 | [satan9394/dsh-ai-image-design](https://github.com/satan9394/dsh-ai-image-design) | ⭐ 0 | ✅ | DSH skill: AI 图像生成工作流, 提示词与批量派生（受 wshobson/agents 38k★ 启发） | `skill` |
+| #18 | [satan9394/dsh-sales-automation](https://github.com/satan9394/dsh-sales-automation) | ⭐ 0 | ✅ | DSH skill: 销售自动化与客服, 冷邮序列与异议处理（受 wshobson/agents 38k★ 启发） | `skill` |
+| #19 | [satan9394/dsh-distributed-debugging](https://github.com/satan9394/dsh-distributed-debugging) | ⭐ 0 | ✅ | DSH skill: 分布式排障, 应急响应与根因分析（受 wshobson/agents 38k★ 启发） | `skill` |
+| #20 | [satan9394/dsh-observability-tools](https://github.com/satan9394/dsh-observability-tools) | ⭐ 0 | ✅ | DSH skill: 可观测性工具, Prometheus/Grafana/追踪（受 wshobson/agents 38k★ 启发） | `skill` |
+| #21 | [satan9394/dsh-content-marketing](https://github.com/satan9394/dsh-content-marketing) | ⭐ 0 | ✅ | DSH skill: 内容营销, SEO 与多渠道分发（受 wshobson/agents 38k★ 启发） | `skill` |
+| #22 | [satan9394/dsh-operating-kit](https://github.com/satan9394/dsh-operating-kit) | ⭐ 0 | ✅ | DSH skill: 会话操作纪律, 开始简报与结束收尾（受 wshobson/agents 38k★ 启发） | `skill` |
+| #23 | [satan9394/dsh-threat-modeling](https://github.com/satan9394/dsh-threat-modeling) | ⭐ 0 | ✅ | DSH skill: 威胁建模, 攻击树与 STRIDE（受 wshobson/agents 38k★ 启发） | `skill` |
+| #24 | [satan9394/dsh-before-you-build](https://github.com/satan9394/dsh-before-you-build) | ⭐ 0 | ✅ | DSH skill: 建前风险预审, 七维检查与最小验证（受 wshobson/agents 38k★ 启发） | `skill` |
+| #25 | [satan9394/dsh-dotnet-backend](https://github.com/satan9394/dsh-dotnet-backend) | ⭐ 0 | ✅ | DSH skill: .NET 后端模式, Clean Architecture 与 EF Core（受 wshobson/agents 38k★ 启发） | `skill` |
+| #26 | [satan9394/dsh-kpi-dashboard-design](https://github.com/satan9394/dsh-kpi-dashboard-design) | ⭐ 0 | ✅ | DSH skill: KPI 仪表盘设计, 指标选型与治理（受 wshobson/agents 38k★ 启发） | `skill` |
+| #27 | [satan9394/dsh-bash-testing](https://github.com/satan9394/dsh-bash-testing) | ⭐ 0 | ✅ | DSH skill: Shell 脚本测试, BATS 单元测试（受 wshobson/agents 38k★ 启发） | `skill` |
+| #28 | [satan9394/dsh-plugin-eval](https://github.com/satan9394/dsh-plugin-eval) | ⭐ 0 | ✅ | DSH skill: 插件质量评估方法论, 三层评估与改进（受 wshobson/agents 38k★ 启发） | `skill` |
+| #29 | [satan9394/dsh-framework-migration](https://github.com/satan9394/dsh-framework-migration) | ⭐ 0 | ✅ | DSH skill: 框架迁移, Angular/React 与依赖升级（受 wshobson/agents 38k★ 启发） | `skill` |
+| #30 | [satan9394/dsh-brand-landingpage](https://github.com/satan9394/dsh-brand-landingpage) | ⭐ 0 | ✅ | DSH skill: 品牌落地页设计, 访谈到可部署HTML（受 wshobson/agents 38k★ 启发） | `skill` |
