@@ -2,60 +2,12 @@
   "schemaVersion": "1.0.0",
   "items": [
     {
-      "id": "qiuyongjin/dsh-balance",
-      "name": "dsh-balance",
-      "displayName": "dsh-balance",
-      "summary": "DSH plugin: query and display the DeepSeek account balance (dsh_balance tool + web UI widget)",
+      "id": "Max-Null/dsh-chinese-thinking",
+      "name": "@max-null/dsh-chinese-thinking",
+      "displayName": "dsh-chinese-thinking",
+      "summary": "DeepSeek Harness plugin hosted at Max-Null/dsh-chinese-thinking.",
       "repository": {
-        "url": "https://github.com/qiuyongjin/dsh-balance"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-16T13:06:25.000Z"
-    },
-    {
-      "id": "qq33357486/dsh-notification-sounds",
-      "name": "dsh-notification-sounds",
-      "displayName": "dsh-notification-sounds",
-      "summary": "Cross-platform waiting and completion sound notifications for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/qq33357486/dsh-notification-sounds"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "notification",
-        "sound",
-        "audio"
-      ],
-      "updatedAt": "2026-08-16T21:41:36.000Z"
-    },
-    {
-      "id": "QQQW114/dsh-archived-sessions",
-      "name": "@qqqw114/dsh-archived-sessions",
-      "displayName": "dsh-archived-sessions",
-      "summary": "DeepSeek Harness plugin hosted at QQQW114/dsh-archived-sessions.",
-      "repository": {
-        "url": "https://github.com/QQQW114/dsh-archived-sessions"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "plugin",
-        "sessions",
-        "archive"
-      ],
-      "updatedAt": "2026-08-17T11:54:03.000Z"
-    },
-    {
-      "id": "QQQW114/dsh-model-proxy",
-      "name": "dsh-model-proxy",
-      "displayName": "dsh-model-proxy",
-      "summary": "DeepSeek Harness plugin hosted at QQQW114/dsh-model-proxy.",
-      "repository": {
-        "url": "https://github.com/QQQW114/dsh-model-proxy"
+        "url": "https://github.com/Max-Null/dsh-chinese-thinking"
       },
       "license": "MIT",
       "keywords": [
@@ -63,103 +15,63 @@
         "harness",
         "dsh",
         "dsh-plugin",
-        "proxy",
-        "cordis",
-        "llm"
-      ],
-      "updatedAt": "2026-08-17T11:54:06.000Z"
-    },
-    {
-      "id": "qschen86/dsh-plantuml",
-      "name": "dsh-plantuml",
-      "displayName": "dsh-plantuml",
-      "summary": "DSH web plugin: render PlantUML fenced blocks in conversation messages as SVG",
-      "repository": {
-        "url": "https://github.com/qschen86/dsh-plantuml"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-17T08:39:13.000Z"
-    },
-    {
-      "id": "Qshuai0213/super-wechat-bridge",
-      "name": "super-wechat-bridge",
-      "displayName": "super-wechat-bridge",
-      "summary": "微信 iLink ClawBot 远程桥接插件（DeepSeek Harness）：官方 iLink 协议直连，Web 设置界面（扫码登录/模型/预设/权限/会话管理）+ 24h 自动续期",
-      "repository": {
-        "url": "https://github.com/Qshuai0213/super-wechat-bridge"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "wechat",
-        "weixin",
-        "ilink",
-        "clawbot",
-        "chatbot",
-        "bridge"
-      ],
-      "updatedAt": "2026-08-15T14:06:54.000Z"
-    },
-    {
-      "id": "qsjzqssh/mc-hud",
-      "name": "mc-hud",
-      "displayName": "mc-hud",
-      "summary": "Minecraft-style token consumption HUD for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/qsjzqssh/mc-hud"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
         "deepseek-harness",
         "plugin",
-        "minecraft",
-        "hud",
-        "token",
-        "usage",
-        "balance"
+        "chinese",
+        "prompt",
+        "cordis"
       ],
-      "updatedAt": "2026-08-17T09:18:10.000Z"
+      "updatedAt": "2026-08-17T23:45:04.000Z"
     },
     {
-      "id": "QSWWLTN/dsh-UEAssetsOperator",
-      "name": "@deepseek-dsh-desktop/dsh-ue-uasset-operator",
-      "displayName": "dsh-UEAssetsOperator",
-      "summary": "DeepSeek Harness plugin hosted at QSWWLTN/dsh-UEAssetsOperator.",
+      "id": "Max-Null/dsh-guardian",
+      "name": "@max-null/dsh-guardian",
+      "displayName": "dsh-guardian",
+      "summary": "Event-driven mission guardian for the DeepSeek Harness - assertion rules, correction detection, review queue",
       "repository": {
-        "url": "https://github.com/QSWWLTN/dsh-UEAssetsOperator"
+        "url": "https://github.com/Max-Null/dsh-guardian"
       },
-      "license": "MIT",
       "keywords": [
         "deepseek",
+        "harness",
         "dsh",
-        "unreal-engine",
-        "blueprint",
-        "uasset",
-        "dsh-plugin"
+        "dsh-plugin",
+        "deepseek-harness",
+        "guardian",
+        "assertion",
+        "plugin",
+        "cordis"
       ],
-      "updatedAt": "2026-08-16T12:35:44.000Z"
+      "updatedAt": "2026-08-16T12:36:55.000Z"
     },
     {
-      "id": "qwertyuiop314/dsh-conversation-export",
-      "name": "qwertyuiop314/dsh-conversation-export",
-      "displayName": "dsh-conversation-export",
-      "summary": "DSH session log to conversation export: zero-dependency CLI + single-file GUI + DSH Web plugin",
+      "id": "Max-Null/dsh-habit",
+      "name": "@max-null/dsh-habit",
+      "displayName": "dsh-habit",
+      "summary": "Self-learning habit engine for the DeepSeek Harness - correction signals, threshold judgment, two-level human gate",
       "repository": {
-        "url": "https://github.com/qwertyuiop314/dsh-conversation-export"
+        "url": "https://github.com/Max-Null/dsh-habit"
       },
-      "license": "MIT",
-      "updatedAt": "2026-08-17T11:20:50.000Z"
+      "keywords": [
+        "deepseek",
+        "harness",
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "habit",
+        "self-learning",
+        "plugin",
+        "cordis"
+      ],
+      "updatedAt": "2026-08-16T12:36:35.000Z"
     },
     {
-      "id": "r600a-code/dsh-swarm-router",
-      "name": "dsh-swarm-router",
-      "displayName": "dsh-swarm-router",
-      "summary": "DSH plugin: sub-agent matrix swarm — routes heterogeneous tasks to the most suitable model (OpenRouter-like + cfgpu.com/llm/square), dispatches each via in-process subagents. 32/32 benchmark green.",
+      "id": "Max-Null/dsh-memory",
+      "name": "@max-null/dsh-memory",
+      "displayName": "dsh-memory",
+      "summary": "DeepSeek Harness plugin hosted at Max-Null/dsh-memory.",
       "repository": {
-        "url": "https://github.com/r600a-code/dsh-swarm-router"
+        "url": "https://github.com/Max-Null/dsh-memory"
       },
       "license": "MIT",
       "keywords": [
@@ -167,1561 +79,1541 @@
         "harness",
         "dsh",
         "dsh-plugin",
-        "subagent",
-        "swarm",
-        "model-router",
-        "cfgpu",
-        "openrouter",
-        "llm-routing"
-      ],
-      "updatedAt": "2026-08-16T09:28:07.000Z"
-    },
-    {
-      "id": "r600a-code/swarm-dashboard",
-      "name": "r600a-code/swarm-dashboard",
-      "displayName": "swarm-dashboard",
-      "summary": "短剧剧本蜂群进化实验 — 蜂群 vs 单模型持续对比网站（GitHub Pages，定时自动更新剧本）",
-      "repository": {
-        "url": "https://github.com/r600a-code/swarm-dashboard"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-16T15:58:01.000Z"
-    },
-    {
-      "id": "RainbowDashy/dsh-theme-palettes",
-      "name": "dsh-theme-palettes",
-      "displayName": "dsh-theme-palettes",
-      "summary": "DeepSeek Harness plugin hosted at RainbowDashy/dsh-theme-palettes.",
-      "repository": {
-        "url": "https://github.com/RainbowDashy/dsh-theme-palettes"
-      },
-      "license": "MIT",
-      "keywords": [
         "deepseek-harness",
-        "dsh",
-        "cordis",
-        "theme",
-        "palette",
-        "vscode",
-        "red",
-        "solarized"
-      ],
-      "updatedAt": "2026-08-14T09:21:24.000Z"
-    },
-    {
-      "id": "randerous/dsh-turn-meta",
-      "name": "@deepseek-ai/dsh-turn-meta",
-      "displayName": "dsh-turn-meta",
-      "summary": "Opt-in per-step turn metadata for DeepSeek Harness — a minimal first-plugin template (dsh-plugin)",
-      "repository": {
-        "url": "https://github.com/randerous/dsh-turn-meta"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-13T14:59:39.000Z"
-    },
-    {
-      "id": "RayYeung1989/claude-parchment-theme",
-      "name": "@dsh-local/claude-parchment-theme",
-      "displayName": "claude-parchment-theme",
-      "summary": "一款 Claude 风格的 dsh插件：为 DSH WebUI 打造，暖羊皮纸 Parchment 色板、Terracotta 品牌色与衬线字体",
-      "repository": {
-        "url": "https://github.com/RayYeung1989/claude-parchment-theme"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh插件",
-        "dsh-plugin",
-        "dsh",
-        "deepseek-harness",
-        "theme",
-        "claude",
-        "anthropic",
-        "plugin"
-      ],
-      "updatedAt": "2026-08-14T11:42:18.000Z"
-    },
-    {
-      "id": "RealAlexandreAI/dsh-all-search",
-      "name": "dsh-all-search",
-      "displayName": "dsh-all-search",
-      "summary": "dsh search: AnySearch web search provider for DeepSeek Harness (ctx.web)",
-      "repository": {
-        "url": "https://github.com/RealAlexandreAI/dsh-all-search"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "anysearch",
-        "search"
-      ],
-      "updatedAt": "2026-08-13T16:43:35.000Z"
-    },
-    {
-      "id": "RealAlexandreAI/dsh-atuin",
-      "name": "dsh-atuin",
-      "displayName": "dsh-atuin",
-      "summary": "dsh atuin-history: record dsh user prompts into atuin shell history",
-      "repository": {
-        "url": "https://github.com/RealAlexandreAI/dsh-atuin"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "atuin",
-        "history"
-      ],
-      "updatedAt": "2026-08-13T16:43:32.000Z"
-    },
-    {
-      "id": "RealAlexandreAI/dsh-cloudflare-browser-run",
-      "name": "dsh-cloudflare-browser-run",
-      "displayName": "dsh-cloudflare-browser-run",
-      "summary": "dsh browser-run: CF Browser Run web tools (markdown/screenshot/pdf) for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/RealAlexandreAI/dsh-cloudflare-browser-run"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "cloudflare",
-        "browser-run",
-        "browser"
-      ],
-      "updatedAt": "2026-08-17T05:27:31.000Z"
-    },
-    {
-      "id": "RealAlexandreAI/dsh-nocturne-memory",
-      "name": "dsh-nocturne-memory",
-      "displayName": "dsh-nocturne-memory",
-      "summary": "dsh memory: Nocturne Memory client for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/RealAlexandreAI/dsh-nocturne-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
         "memory",
-        "nocturne"
-      ],
-      "updatedAt": "2026-08-17T05:28:03.000Z"
-    },
-    {
-      "id": "realLoganLuo/dsh-session-cost",
-      "name": "dsh-session-cost",
-      "displayName": "dsh-session-cost",
-      "summary": "DeepSeek Harness plugin hosted at realLoganLuo/dsh-session-cost.",
-      "repository": {
-        "url": "https://github.com/realLoganLuo/dsh-session-cost"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-16T14:36:28.000Z"
-    },
-    {
-      "id": "realMisakaMikoto/dsh-skin-studio",
-      "name": "dsh-skin-studio",
-      "displayName": "dsh-skin-studio",
-      "summary": "DeepSeek Harness 自定义皮肤工作室，支持全界面配色、组件图片/视频背景与皮肤包分享",
-      "repository": {
-        "url": "https://github.com/realMisakaMikoto/dsh-skin-studio"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "theme",
-        "skin"
-      ],
-      "categories": [
-        "skin"
-      ],
-      "updatedAt": "2026-08-17T09:18:29.000Z"
-    },
-    {
-      "id": "Relistencode/dsh-recall",
-      "name": "dsh-recall",
-      "displayName": "dsh-recall",
-      "summary": "Conversation history recall for DeepSeek Harness (DSH) — literal/fuzzy/semantic retrieval of every past conversation, fully local & offline. AI never forgets what you told it.",
-      "repository": {
-        "url": "https://github.com/Relistencode/dsh-recall"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "recall",
-        "memory",
-        "history",
-        "search",
-        "semantic-search",
-        "cordis"
-      ],
-      "updatedAt": "2026-08-16T09:38:52.000Z"
-    },
-    {
-      "id": "renjianguojinqianfan/dsh-skill-eval",
-      "name": "dsh-skill-eval",
-      "displayName": "dsh-skill-eval",
-      "summary": "DSH 插件：用 LLM judge 评测技能 description 的触发准确率（欠触发/过触发）",
-      "repository": {
-        "url": "https://github.com/renjianguojinqianfan/dsh-skill-eval"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-17T18:35:02.000Z"
-    },
-    {
-      "id": "RepInS-01/math-agent",
-      "name": "RepInS-01/math-agent",
-      "displayName": "math-agent",
-      "summary": "Math_Agent: a math training/coaching agent preset for DeepSeek Harness, with a programmatic zero-leak output guard that never reveals answers",
-      "repository": {
-        "url": "https://github.com/RepInS-01/math-agent"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-17T11:41:21.000Z"
-    },
-    {
-      "id": "reshuibuduo/tmcra-plugin-deepseek-harness",
-      "name": "dsh-tmcra-memory",
-      "displayName": "tmcra-plugin-deepseek-harness",
-      "summary": "TMCRA Integration — lifecycle memory for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/reshuibuduo/tmcra-plugin-deepseek-harness"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "agent-memory",
-        "tmcra"
-      ],
-      "updatedAt": "2026-08-18T03:45:26.000Z"
-    },
-    {
-      "id": "Rgndmln/dsh-agent-astra",
-      "name": "spatial-trajectory",
-      "displayName": "dsh-agent-astra",
-      "summary": "为 DeepSeek Harness 打造的 3D 智能体工作轨迹可视化插件。A 3D agent-work trajectory visualization plugin for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Rgndmln/dsh-agent-astra"
-      },
-      "license": "MIT",
-      "keywords": [
-        "agent-astra",
-        "deepseek",
-        "deepseek-harness",
-        "agent",
-        "threejs",
-        "visualization",
-        "trajectory"
-      ],
-      "updatedAt": "2026-08-17T16:02:23.000Z"
-    },
-    {
-      "id": "Rhymer-Lcy/dsh-plugin-loud-failure",
-      "name": "dsh-plugin-loud-failure",
-      "displayName": "dsh-plugin-loud-failure",
-      "summary": "DeepSeek Harness plugin that turns silent tool failures into loud ones: a tools/post-execute policy that matches warning signatures in successful tool output and blocks the result or attaches a notice",
-      "repository": {
-        "url": "https://github.com/Rhymer-Lcy/dsh-plugin-loud-failure"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "tools",
-        "post-execute",
-        "policy",
-        "silent-failure",
-        "guard"
-      ],
-      "updatedAt": "2026-08-16T18:37:04.000Z"
-    },
-    {
-      "id": "Ri0n72Y/dsh-plugin-practice",
-      "name": "dsh-plugin-practice",
-      "displayName": "dsh-plugin-practice",
-      "summary": "learn how to write cordis dsh plugin",
-      "repository": {
-        "url": "https://github.com/Ri0n72Y/dsh-plugin-practice"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-15T07:19:44.000Z"
-    },
-    {
-      "id": "Ri0n72Y/workspace-scope",
-      "name": "workspace-scope",
-      "displayName": "workspace-scope",
-      "summary": "Per-workspace Skill and MCP enablement for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/Ri0n72Y/workspace-scope"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-17T14:27:09.000Z"
-    },
-    {
-      "id": "rikfish163-rgb/dsh-pets",
-      "name": "@dsh-local/dsh-pets",
-      "displayName": "dsh-pets",
-      "summary": "Codex Pets–style desktop pet + live task panel plugin for DeepSeek Harness (DSH) Web UI",
-      "repository": {
-        "url": "https://github.com/rikfish163-rgb/dsh-pets"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "pet",
-        "pets",
-        "desktop-pet",
-        "task-panel",
-        "tasks",
-        "codex-pets",
-        "web-ui",
-        "plugin"
-      ],
-      "updatedAt": "2026-08-15T17:20:15.000Z"
-    },
-    {
-      "id": "rison114514/dsh-image-understanding",
-      "name": "dsh-image-understanding",
-      "displayName": "dsh-image-understanding",
-      "summary": "deepseek-harness 原生插件：让纯文本模型(如 DeepSeek)经 agent/pre-step 劫持 + resolveModelInfo 包装自动识别上传图片(qwen-vl)",
-      "repository": {
-        "url": "https://github.com/rison114514/dsh-image-understanding"
-      },
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "dsh-plugin",
-        "vision",
-        "image-understanding",
-        "agent-plugin"
-      ],
-      "updatedAt": "2026-08-16T14:36:59.000Z"
-    },
-    {
-      "id": "rj-jiangyichen/dsh-rules",
-      "name": "dsh-rules",
-      "displayName": "dsh-rules",
-      "summary": "DeepSeek Harness plugin hosted at rj-jiangyichen/dsh-rules.",
-      "repository": {
-        "url": "https://github.com/rj-jiangyichen/dsh-rules"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "rules",
-        "claude-code",
-        "agents",
-        "prompt"
-      ],
-      "updatedAt": "2026-08-17T02:29:45.000Z"
-    },
-    {
-      "id": "rocker2018-droid/dsh-longtask-orchestrator",
-      "name": "dsh-longtask-orchestrator",
-      "displayName": "dsh-longtask-orchestrator",
-      "summary": "DeepSeek Harness plugin hosted at rocker2018-droid/dsh-longtask-orchestrator.",
-      "repository": {
-        "url": "https://github.com/rocker2018-droid/dsh-longtask-orchestrator"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "codex",
-        "kimi",
-        "orchestration",
-        "long-task"
-      ],
-      "updatedAt": "2026-08-16T04:38:31.000Z"
-    },
-    {
-      "id": "rong-coder/dsh-office-tool",
-      "name": "dsh-office-tool",
-      "displayName": "dsh-office-tool",
-      "summary": "dsh plugin for DeepSeek Harness: complete Office document tools for the agent (create/read/edit .docx/.xlsx/.pptx via OfficeCLI) plus high-fidelity document preview in the dsh web sidebar through dsh-better-sidebar.",
-      "repository": {
-        "url": "https://github.com/rong-coder/dsh-office-tool"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "office",
-        "docx",
-        "xlsx",
-        "pptx",
-        "officecli",
-        "deepseek-harness"
-      ],
-      "updatedAt": "2026-08-17T14:01:23.000Z"
-    },
-    {
-      "id": "ropon/dsh-plugin-clawrouters",
-      "name": "dsh-plugin-clawrouters",
-      "displayName": "dsh-plugin-clawrouters",
-      "summary": "One-key ClawRouters plugin for DeepSeek Harness: chat, image, video, and web search",
-      "repository": {
-        "url": "https://github.com/ropon/dsh-plugin-clawrouters"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "clawrouters",
-        "ai-agent",
-        "image-generation",
-        "video-generation",
-        "web-search"
-      ],
-      "updatedAt": "2026-08-14T00:57:39.000Z"
-    },
-    {
-      "id": "ropz12138/dsh-ui-background",
-      "name": "@deepseek-ai/dsh-client-ui-background",
-      "displayName": "dsh-ui-background",
-      "summary": "deepseek harness 的背景插件，会涉及一些其他组件css覆盖",
-      "repository": {
-        "url": "https://github.com/ropz12138/dsh-ui-background"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-14T06:17:17.000Z"
-    },
-    {
-      "id": "roxyyn0304/dsh-tool-everything",
-      "name": "dsh-tool-everything",
-      "displayName": "dsh-tool-everything",
-      "summary": "DeepSeek Harness的 Everything 搜索工具插件",
-      "repository": {
-        "url": "https://github.com/roxyyn0304/dsh-tool-everything"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-17T09:34:44.000Z"
-    },
-    {
-      "id": "royenheart/dsh-plugin-opencode-omo",
-      "name": "@royenheart/dsh-plugin-opencode-omo",
-      "displayName": "dsh-plugin-opencode-omo",
-      "summary": "deepseek harness opencode + omo (oh-my-openagent) preset",
-      "repository": {
-        "url": "https://github.com/royenheart/dsh-plugin-opencode-omo"
-      },
-      "updatedAt": "2026-08-18T02:39:52.000Z"
-    },
-    {
-      "id": "RoyougiShiki/dsh-restart-systemd",
-      "name": "dsh-restart-systemd",
-      "displayName": "dsh-restart-systemd",
-      "summary": "DSH WebUI 重启按钮（systemd 版）：侧栏一键重启 dsh-web，WSL/Linux systemd 通道 + Windows 分支，/restart 命令，会话自动续接",
-      "repository": {
-        "url": "https://github.com/RoyougiShiki/dsh-restart-systemd"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "restart",
-        "systemd",
-        "systemctl",
-        "wsl",
-        "webui"
-      ],
-      "updatedAt": "2026-08-16T15:02:36.000Z"
-    },
-    {
-      "id": "rrrrrredy/skill-security-guard",
-      "name": "rrrrrredy/skill-security-guard",
-      "displayName": "skill-security-guard",
-      "summary": "Static security scanner for agent skills: A-F risk rating, safe zip scanning, CI-tested rules",
-      "repository": {
-        "url": "https://github.com/rrrrrredy/skill-security-guard"
-      },
-      "license": "MIT",
-      "categories": [
-        "skill"
-      ],
-      "updatedAt": "2026-08-17T03:21:32.000Z"
-    },
-    {
-      "id": "rrvvvnnn/dsh-web-file-upload",
-      "name": "@iamroven/dsh-web-file-upload",
-      "displayName": "dsh-web-file-upload",
-      "summary": "DeepSeek Harness plugin hosted at rrvvvnnn/dsh-web-file-upload.",
-      "repository": {
-        "url": "https://github.com/rrvvvnnn/dsh-web-file-upload"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
         "plugin",
-        "web",
-        "upload",
-        "file-attachment"
-      ],
-      "updatedAt": "2026-08-15T15:23:13.000Z"
-    },
-    {
-      "id": "rsagacom/dsh-ajw",
-      "name": "rsagacom/dsh-ajw",
-      "displayName": "dsh-ajw",
-      "summary": "DS安甲网 (ds.ajw.cn) · 为你的 DeepSeek Harness 机器人 安装上所需功能的装甲吧 — 每日聚合 DeepSeek Harness / DSH 插件生态开源项目",
-      "repository": {
-        "url": "https://github.com/rsagacom/dsh-ajw"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-18T03:25:37.000Z"
-    },
-    {
-      "id": "rshh5/dsh-health-reminder",
-      "name": "dsh-health-reminder",
-      "displayName": "dsh-health-reminder",
-      "summary": "A flat monochrome health-reminder plugin for DSH Web: scheduled drink/movement reminders, one-click check-in, drinking achievements, daily health score and 14-day trend.",
-      "repository": {
-        "url": "https://github.com/rshh5/dsh-health-reminder"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-17T06:01:28.000Z"
-    },
-    {
-      "id": "ruimin251204/dsh-plugin-surgery",
-      "name": "dsh-plugin-surgery",
-      "displayName": "dsh-plugin-surgery",
-      "summary": "DeepSeek Harness plugin hosted at ruimin251204/dsh-plugin-surgery.",
-      "repository": {
-        "url": "https://github.com/ruimin251204/dsh-plugin-surgery"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "uninstall",
-        "rollback",
-        "plugin-manager",
-        "卸载",
-        "回滚",
-        "插件管理"
-      ],
-      "updatedAt": "2026-08-18T05:27:39.000Z"
-    },
-    {
-      "id": "Ruiming-cn/dsh-turn-notify",
-      "name": "Ruiming-cn/dsh-turn-notify",
-      "displayName": "dsh-turn-notify",
-      "summary": "DSH (DeepSeek Harness) plugin — Windows toast + chime the moment the agent needs you: turn done, blocked, error, approval, question, plan review.",
-      "repository": {
-        "url": "https://github.com/Ruiming-cn/dsh-turn-notify"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-17T11:05:41.000Z"
-    },
-    {
-      "id": "runyuan-wang/dsh-route-certificate",
-      "name": "dsh-route-certificate",
-      "displayName": "dsh-route-certificate",
-      "summary": "Experimental RouteCertificate observer for the DeepSeek Harness developer preview",
-      "repository": {
-        "url": "https://github.com/runyuan-wang/dsh-route-certificate"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "routecertificate"
-      ],
-      "updatedAt": "2026-08-15T10:46:08.000Z"
-    },
-    {
-      "id": "rxa3c/chat2skill",
-      "name": "chat2skill-plugin-runtime",
-      "displayName": "chat2skill",
-      "summary": "Extracting and iterating skills from daily conversations with AI",
-      "repository": {
-        "url": "https://github.com/rxa3c/chat2skill"
-      },
-      "license": "MIT",
-      "categories": [
-        "skill"
-      ],
-      "updatedAt": "2026-08-17T05:59:32.000Z"
-    },
-    {
-      "id": "s17179XTY/dsh-mobile",
-      "name": "dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "dsh-mobile — 用於 DeepSeek Harness 的手机連接",
-      "repository": {
-        "url": "https://github.com/s17179XTY/dsh-mobile"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "phone",
-        "mobile",
-        "lan",
-        "remote-access",
-        "pairing",
-        "qr"
-      ],
-      "updatedAt": "2026-08-17T14:23:44.000Z"
-    },
-    {
-      "id": "SageChenAI/dsh-diary-detective",
-      "name": "dsh-diary-detective",
-      "displayName": "dsh-diary-detective",
-      "summary": "DSH插件下的赛博日记，助力个人成长",
-      "repository": {
-        "url": "https://github.com/SageChenAI/dsh-diary-detective"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "diary",
-        "journal",
-        "feedback",
         "cordis"
       ],
-      "updatedAt": "2026-08-15T13:12:05.000Z"
+      "updatedAt": "2026-08-18T21:01:15.000Z"
     },
     {
-      "id": "Saikel-Orado-Liu/dsh-archive-manager",
-      "name": "@gamegeek-saikel/dsh-archive-manager",
-      "displayName": "dsh-archive-manager",
-      "summary": "Archived-session management (show/unarchive/permanently delete) for the DSH Web GUI, with zero changes to official packages.",
+      "id": "Max-Null/dsh-plugin-center",
+      "name": "@max-null/dsh-plugin-center",
+      "displayName": "dsh-plugin-center",
+      "summary": "DeepSeek Harness plugin hosted at Max-Null/dsh-plugin-center.",
       "repository": {
-        "url": "https://github.com/Saikel-Orado-Liu/dsh-archive-manager"
+        "url": "https://github.com/Max-Null/dsh-plugin-center"
       },
       "license": "MIT",
       "keywords": [
         "deepseek",
+        "harness",
         "dsh",
         "dsh-plugin",
-        "archive",
-        "session-management",
-        "cordis",
-        "typert",
-        "workspace",
-        "nodejs",
-        "esm"
-      ],
-      "updatedAt": "2026-08-15T14:29:44.000Z"
-    },
-    {
-      "id": "Saikel-Orado-Liu/dsh-cost-meter",
-      "name": "@gamegeek-saikel/dsh-cost-meter",
-      "displayName": "dsh-cost-meter",
-      "summary": "Cost tracking plugin for the DeepSeek Harness Web GUI — snapshot-anchored per-turn pricing, account balance, and live cost estimates.",
-      "repository": {
-        "url": "https://github.com/Saikel-Orado-Liu/dsh-cost-meter"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "dsh",
-        "dsh-plugin",
-        "cost-tracking",
-        "pricing",
-        "token-meter",
-        "typescript",
-        "react",
+        "deepseek-harness",
+        "plugin",
+        "market",
+        "update",
         "cordis"
       ],
-      "updatedAt": "2026-08-17T13:49:17.000Z"
+      "updatedAt": "2026-08-17T23:44:21.000Z"
     },
     {
-      "id": "SaiSenBox/dsh-prompt-manager",
-      "name": "dsh-prompt-manager",
-      "displayName": "dsh-prompt-manager",
-      "summary": "Session-level multi-prompt library and system prompt injector for DeepSeek Harness Web",
+      "id": "Max-Null/dsh-skill-mcp-center",
+      "name": "@max-null/dsh-skill-mcp-center",
+      "displayName": "dsh-skill-mcp-center",
+      "summary": "DeepSeek Harness plugin hosted at Max-Null/dsh-skill-mcp-center.",
       "repository": {
-        "url": "https://github.com/SaiSenBox/dsh-prompt-manager"
+        "url": "https://github.com/Max-Null/dsh-skill-mcp-center"
       },
       "license": "MIT",
       "keywords": [
         "deepseek",
-        "deepseek-harness",
+        "harness",
         "dsh",
         "dsh-plugin",
-        "prompt-manager",
-        "prompt-library"
-      ],
-      "updatedAt": "2026-08-15T13:51:53.000Z"
-    },
-    {
-      "id": "saitamahang/dsh-skill-importer",
-      "name": "dsh-skill-importer",
-      "displayName": "dsh-skill-importer",
-      "summary": "Import, validate, manage, and migrate Agent Skills for DeepSeek Harness (DSH), Claude Code, Codex, and other AI coding agents.",
-      "repository": {
-        "url": "https://github.com/saitamahang/dsh-skill-importer"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
         "skill",
-        "agent",
-        "plugin"
+        "mcp",
+        "cordis"
       ],
-      "updatedAt": "2026-08-17T12:25:33.000Z"
+      "categories": [
+        "skill"
+      ],
+      "updatedAt": "2026-08-17T19:01:24.000Z"
     },
     {
-      "id": "sakuraaa667/dsh-wallpaper-engine",
-      "name": "dsh-wallpaper-engine",
-      "displayName": "dsh-wallpaper-engine",
-      "summary": "将wallpaper接入到deepseek harness中，可以设置dsh的动态壁纸",
+      "id": "MayBeTheWorld/dsh-inherit",
+      "name": "dsh-inherit",
+      "displayName": "dsh-inherit",
+      "summary": "Import MCP servers & Skills from Claude Code / Cursor / Codex / cc-switch into DeepSeek Harness (Settings → General → 导入智能体设置)",
       "repository": {
-        "url": "https://github.com/sakuraaa667/dsh-wallpaper-engine"
+        "url": "https://github.com/MayBeTheWorld/dsh-inherit"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "import",
+        "mcp",
+        "migration"
+      ],
+      "updatedAt": "2026-08-18T10:25:00.000Z"
+    },
+    {
+      "id": "MaYiFei1995/dsh-approval-comment",
+      "name": "dsh-approval-comment",
+      "displayName": "dsh-approval-comment",
+      "summary": "DSHWeb 审批增强插件：无感替代内置审批窗口，支持「拒绝并附言」，并在拒绝后终止当前回合、让模型重新结合附言思考",
+      "repository": {
+        "url": "https://github.com/MaYiFei1995/dsh-approval-comment"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "plugin",
+        "approval",
+        "reject",
+        "reject-with-comment"
+      ],
+      "updatedAt": "2026-08-14T07:27:27.000Z"
+    },
+    {
+      "id": "mbj733/dsh-hermes-memory",
+      "name": "mbj733/dsh-hermes-memory",
+      "displayName": "dsh-hermes-memory",
+      "summary": "DSH (DeepSeek Harness) agent preset + plugin: Hermes-style cross-session memory & autonomous skill learning.",
+      "repository": {
+        "url": "https://github.com/mbj733/dsh-hermes-memory"
+      },
+      "updatedAt": "2026-08-14T06:43:55.000Z"
+    },
+    {
+      "id": "mccxs/dsh-client-plugin-manager",
+      "name": "@deepseek-ai/dsh-client-plugin-manager",
+      "displayName": "dsh-client-plugin-manager",
+      "summary": "DeepSeek Harness 客户端插件管理器：分组插件清单 + 插件市场标签页（dsh-client-plugin-manager）",
+      "repository": {
+        "url": "https://github.com/mccxs/dsh-client-plugin-manager"
+      },
+      "updatedAt": "2026-08-15T00:27:59.000Z"
+    },
+    {
+      "id": "me9rez/dsh-vlm-bridge",
+      "name": "dsh-vlm-bridge",
+      "displayName": "dsh-vlm-bridge",
+      "summary": "DeepSeek Harness (dsh) bundle plugin: vision_analyze tool lets text-only LLM agents read images via SenseNova VLM, with Schemastery config and single-source credentials",
+      "repository": {
+        "url": "https://github.com/me9rez/dsh-vlm-bridge"
+      },
+      "updatedAt": "2026-08-14T10:12:43.000Z"
+    },
+    {
+      "id": "meliodascz89/deepseek-harness-plugins",
+      "name": "meliodascz89/deepseek-harness-plugins",
+      "displayName": "deepseek-harness-plugins",
+      "summary": "Community plugins for DeepSeek Harness: local-vision (Ollama image description) and claude-to-dsh (Claude Code migration). MIT and Repetition guard and content cleaner plug-in.",
+      "repository": {
+        "url": "https://github.com/meliodascz89/deepseek-harness-plugins"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-15T15:21:16.000Z"
+    },
+    {
+      "id": "Melody-max114/dsh-excel-panel",
+      "name": "dsh-excel-panel",
+      "displayName": "dsh-excel-panel",
+      "summary": "DSH 右侧栏 Excel 编辑插件：支持 xlsx 预览/编辑、公式实时计算、合并单元格、格式设置并保存回原文件。",
+      "repository": {
+        "url": "https://github.com/Melody-max114/dsh-excel-panel"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "excel",
+        "xlsx",
+        "editor",
+        "better-sidebar"
+      ],
+      "updatedAt": "2026-08-17T02:50:30.000Z"
+    },
+    {
+      "id": "memorax-ai/dsh-patchouli",
+      "name": "dsh-patchouli",
+      "displayName": "dsh-patchouli",
+      "summary": "Agent knowledge hub and deepseek-harness plugin",
+      "repository": {
+        "url": "https://github.com/memorax-ai/dsh-patchouli"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "dsh",
+        "dsh-plugin",
+        "cordis",
+        "memory",
+        "knowledge",
+        "knowledge-management",
+        "local-first",
+        "plugin",
+        "context"
+      ],
+      "updatedAt": "2026-08-18T17:45:04.000Z"
+    },
+    {
+      "id": "mengyaoi/dsh-mcp-pack",
+      "name": "dsh-mcp-pack",
+      "displayName": "dsh-mcp-pack",
+      "summary": "常用 MCP server 一键接入 DeepSeek Harness (dsh) 的 .cordis.yml 清单合集，开箱即用，零代码。",
+      "repository": {
+        "url": "https://github.com/mengyaoi/dsh-mcp-pack"
       },
       "license": "MIT",
       "keywords": [
         "deepseek",
         "harness",
         "dsh",
+        "mcp",
+        "cordis",
+        "plugin",
         "dsh-plugin",
-        "wallpaper-engine",
-        "background",
-        "theme"
+        "ai-agent"
       ],
-      "updatedAt": "2026-08-18T06:49:07.000Z"
+      "updatedAt": "2026-08-14T08:21:00.000Z"
     },
     {
-      "id": "Sal7one/DSH-Design-Studio",
-      "name": "@sal7one/dsh-design-studio",
-      "displayName": "DSH-Design-Studio",
-      "summary": "Inspired By Calude design, A Deepseek harness Design Plugin!, Select elements, Use Open Router Vision agents, upload images and much more!! You can make quick changes with deepseek or invoke the Vision model with a prompt directly!",
+      "id": "mengyihh233/dsh-optimizer",
+      "name": "dsh-optimizer",
+      "displayName": "dsh-optimizer",
+      "summary": "DSH 优化插件：会话体检/归档/清理 + history 分页补丁（流式 chunk 不再拖慢会话切换）",
       "repository": {
-        "url": "https://github.com/Sal7one/DSH-Design-Studio"
+        "url": "https://github.com/mengyihh233/dsh-optimizer"
       },
-      "license": "MIT",
-      "updatedAt": "2026-08-15T02:40:20.000Z"
-    },
-    {
-      "id": "sala003/dsh-tool-describe-image",
-      "name": "dsh-tool-describe-image",
-      "displayName": "dsh-tool-describe-image",
-      "summary": "DeepSeek Harness plugin hosted at sala003/dsh-tool-describe-image.",
-      "repository": {
-        "url": "https://github.com/sala003/dsh-tool-describe-image"
-      },
-      "license": "MIT",
       "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "plugin",
-        "tool",
-        "vision",
-        "image",
-        "qwen-vl",
-        "dashscope",
-        "paste"
-      ],
-      "updatedAt": "2026-08-13T18:50:14.000Z"
-    },
-    {
-      "id": "samecorner/dsh-token-usage",
-      "name": "@samecorner/dsh-client-ui-token-usage",
-      "displayName": "dsh-token-usage",
-      "summary": "DSH (DeepSeek Harness) web plugin — Token usage analytics tab for the conversation view (KPIs, context meter, donut, stacked per-turn bars, cumulative curve)",
-      "repository": {
-        "url": "https://github.com/samecorner/dsh-token-usage"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "plugin",
-        "token-usage",
-        "web-ui"
-      ],
-      "updatedAt": "2026-08-14T09:35:46.000Z"
-    },
-    {
-      "id": "SamurAIGPT/dsh-plugin-muapi",
-      "name": "@dsh-plugin/dsh-plugin-muapi",
-      "displayName": "dsh-plugin-muapi",
-      "summary": "DeepSeek Harness plugin exposing MuApi's 100+ image/video/audio generation models as an agent tool",
-      "repository": {
-        "url": "https://github.com/SamurAIGPT/dsh-plugin-muapi"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
         "dsh",
         "dsh-plugin",
-        "muapi",
-        "image-generation",
-        "video-generation",
-        "text-to-image",
-        "text-to-video"
+        "performance",
+        "optimizer",
+        "session"
       ],
-      "updatedAt": "2026-08-17T06:08:44.000Z"
+      "updatedAt": "2026-08-18T04:17:56.000Z"
     },
     {
-      "id": "Sanqi-normal/dsh-model-picker",
-      "name": "dsh-model-picker",
-      "displayName": "dsh-model-picker",
-      "summary": "针对DSH web前端设计，对模型选择面板进行了升级，改为供应商-模型两侧滚动面板，并添加了搜索框",
+      "id": "MeowTnT3r/catalog-capabilities-zh",
+      "name": "catalog-capabilities-zh",
+      "displayName": "catalog-capabilities-zh",
+      "summary": "一个面向 Codex 的公开 skill：编排当前 Agent 已有的可信安装器，并为 skills、插件和市场能力维护一份有来源依据的中文说明目录",
       "repository": {
-        "url": "https://github.com/Sanqi-normal/dsh-model-picker"
+        "url": "https://github.com/MeowTnT3r/catalog-capabilities-zh"
       },
       "license": "MIT",
       "keywords": [
         "dsh",
-        "agent-harness",
+        "deepseek-harness",
         "plugin",
-        "model",
-        "picker",
+        "skill",
+        "catalog",
+        "capabilities"
+      ],
+      "updatedAt": "2026-08-17T08:02:37.000Z"
+    },
+    {
+      "id": "Mg-K-Mn/dsh-plugin-manager",
+      "name": "dsh-plugin-manager",
+      "displayName": "dsh-plugin-manager",
+      "summary": "DeepSeek Harness plugin hosted at Mg-K-Mn/dsh-plugin-manager.",
+      "repository": {
+        "url": "https://github.com/Mg-K-Mn/dsh-plugin-manager"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "plugin",
+        "plugin-manager",
+        "enable",
+        "disable",
         "web",
         "ui"
       ],
-      "updatedAt": "2026-08-15T07:16:31.000Z"
+      "updatedAt": "2026-08-15T17:27:14.000Z"
     },
     {
-      "id": "SASE223/dsh-dev-team-manager",
-      "name": "@dsh-external/dsh-dev-team-manager",
-      "displayName": "dsh-dev-team-manager",
-      "summary": "一个将Claudecode的dev-team插件兼容到dsh的套壳插件, token使用很快, 非使用dsh中重度开发的谨慎使用. A wrapper plugin that ports Claude Code's dev-team plugin to dsh. Heavy token usage — use with caution unless you're doing intensive dsh development.",
+      "id": "MichengAI/dsh-codex-ui",
+      "name": "@michengai/dsh-codex-ui",
+      "displayName": "dsh-codex-ui",
+      "summary": "DSH Codex UI 基于 DeepSeek Harness 的 Codex UI 插件，还原度90%，小细节拉满",
       "repository": {
-        "url": "https://github.com/SASE223/dsh-dev-team-manager"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dev-team",
-        "multi-agent",
-        "ai-agents",
-        "orchestration",
-        "coordinator",
-        "code-review",
-        "doc-review",
-        "skills",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-08-14T12:19:01.000Z"
-    },
-    {
-      "id": "Scotlight/dsh-auto-approval",
-      "name": "dsh-auto-approval",
-      "displayName": "dsh-auto-approval",
-      "summary": "Independent model-backed automatic approval plugin for DSH (Codex Guardian-style auto-review)",
-      "repository": {
-        "url": "https://github.com/Scotlight/dsh-auto-approval"
-      },
-      "updatedAt": "2026-08-18T07:13:50.000Z"
-    },
-    {
-      "id": "SCSpotato/dsh-remote",
-      "name": "SCSpotato/dsh-remote",
-      "displayName": "dsh-remote",
-      "summary": "Native Android client to remotely control DeepSeek Harness (DSH) from your phone",
-      "repository": {
-        "url": "https://github.com/SCSpotato/dsh-remote"
-      },
-      "license": "GPL-3.0",
-      "updatedAt": "2026-08-17T06:14:43.000Z"
-    },
-    {
-      "id": "scwlkq/dsh-task-board",
-      "name": "dsh-task-board",
-      "displayName": "dsh-task-board",
-      "summary": "Single-package durable task board plugin for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/scwlkq/dsh-task-board"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "task-board",
-        "kanban"
-      ],
-      "updatedAt": "2026-08-15T20:48:31.000Z"
-    },
-    {
-      "id": "sd1g1/dsh-image-describe",
-      "name": "@local/dsh-image-describe",
-      "displayName": "dsh-image-describe",
-      "summary": "DeepSeek Harness 宿主插件：让纯文本主模型也能通过 describe_image 工具“看图”",
-      "repository": {
-        "url": "https://github.com/sd1g1/dsh-image-describe"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "cordis",
-        "vision",
-        "image-description",
-        "llm",
-        "plugin"
-      ],
-      "updatedAt": "2026-08-16T02:05:12.000Z"
-    },
-    {
-      "id": "sd1g1/dsh-minimal-bash-fix",
-      "name": "dsh-minimal-bash-fix",
-      "displayName": "dsh-minimal-bash-fix",
-      "summary": "DSH 插件：修复极简模式（minimal）预设中 persistent bash 工具约 3.5s 延迟返回的 bug，并提供 minimal-fast preset",
-      "repository": {
-        "url": "https://github.com/sd1g1/dsh-minimal-bash-fix"
-      },
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "cordis",
-        "agent-preset",
-        "minimal"
-      ],
-      "updatedAt": "2026-08-16T02:32:59.000Z"
-    },
-    {
-      "id": "Sdongmaker/vpshub",
-      "name": "dsh-vps-hub",
-      "displayName": "vpshub",
-      "summary": "VPS Hub for DeepSeek Harness: SSH ledger plugin — agents discover, test, execute on, and transfer files to your cloud servers. Keys stay local as path references.",
-      "repository": {
-        "url": "https://github.com/Sdongmaker/vpshub"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "cordis",
-        "plugin",
-        "vps",
-        "ssh",
-        "scp",
-        "server",
-        "ledger",
-        "agent",
-        "orca"
-      ],
-      "updatedAt": "2026-08-14T13:19:47.000Z"
-    },
-    {
-      "id": "Semidia/dsh-sampling-sliders",
-      "name": "dsh-sampling-sliders",
-      "displayName": "dsh-sampling-sliders",
-      "summary": "DSH plugin: model sampling sliders (temperature/maxTokens) with hot & persist modes, for all providers",
-      "repository": {
-        "url": "https://github.com/Semidia/dsh-sampling-sliders"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-15T10:40:00.000Z"
-    },
-    {
-      "id": "SenryLee/dsh-frosted-window",
-      "name": "dsh-frosted-window",
-      "displayName": "dsh-frosted-window",
-      "summary": "Upload an image as a full-window frosted-glass theme for DeepSeek Harness Web.",
-      "repository": {
-        "url": "https://github.com/SenryLee/dsh-frosted-window"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "theme",
-        "wallpaper",
-        "frosted-glass",
-        "glassmorphism"
-      ],
-      "updatedAt": "2026-08-15T17:09:27.000Z"
-    },
-    {
-      "id": "sgsjsgzy-commits/dsh-subagent-rules",
-      "name": "@dsh-external/dsh-subagent-rules",
-      "displayName": "dsh-subagent-rules",
-      "summary": "dsh-subagent-rules 子代理模型与思考强度规定：subagent_flash 锁定 flash 模型路由，思考强度默认 max 且可按会话自定义，分发规则自动注入所有对话。零依赖 DSH 宿主平面插件。",
-      "repository": {
-        "url": "https://github.com/sgsjsgzy-commits/dsh-subagent-rules"
-      },
-      "updatedAt": "2026-08-16T15:16:26.000Z"
-    },
-    {
-      "id": "ShanHaiFish/dsh-plugin-security-review",
-      "name": "dsh-plugin-security-review",
-      "displayName": "dsh-plugin-security-review",
-      "summary": "DSH 动态 Cordis 插件安装安全审查守卫 (DeepSeek Harness plugin install security review gate, security-first)",
-      "repository": {
-        "url": "https://github.com/ShanHaiFish/dsh-plugin-security-review"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "harness",
-        "dsh",
-        "dsh-plugin",
-        "security",
-        "plugin-guard"
-      ],
-      "updatedAt": "2026-08-15T16:48:15.000Z"
-    },
-    {
-      "id": "ShanHaiFish/sent-msg-locator",
-      "name": "sent-msg-locator",
-      "displayName": "sent-msg-locator",
-      "summary": "DSH 插件：对话区左缘轮次图标列，点击定位到每轮用户输入文本。A DSH plugin: left-edge turn rail, click to locate each turn's user message.",
-      "repository": {
-        "url": "https://github.com/ShanHaiFish/sent-msg-locator"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "harness",
-        "dsh",
-        "dsh-plugin",
-        "sent-messages",
-        "locator",
-        "composer"
-      ],
-      "updatedAt": "2026-08-16T13:54:31.000Z"
-    },
-    {
-      "id": "shaoyi1991/dsh-restart-web",
-      "name": "dsh-restart-web",
-      "displayName": "dsh-restart-web",
-      "summary": "DSH Web 设置页新增的「重启」入口：点击即可安全重启整个 DSH 进程，页面约 5 秒后自动重新连接。",
-      "repository": {
-        "url": "https://github.com/shaoyi1991/dsh-restart-web"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "restart"
-      ],
-      "updatedAt": "2026-08-14T08:55:30.000Z"
-    },
-    {
-      "id": "ShawnSiao/dsh-credentials-keychain",
-      "name": "ShawnSiao/dsh-credentials-keychain",
-      "displayName": "dsh-credentials-keychain",
-      "summary": "Planned OS-backed credential provider for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/ShawnSiao/dsh-credentials-keychain"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-13T15:52:50.000Z"
-    },
-    {
-      "id": "Shawnxxboxx/dsh-balance",
-      "name": "dsh-balance-dock",
-      "displayName": "dsh-balance",
-      "summary": "DSH plugin: show DeepSeek account balance below the conversation · 在对话下方显示 DeepSeek 账户余额",
-      "repository": {
-        "url": "https://github.com/Shawnxxboxx/dsh-balance"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "balance",
-        "usage"
-      ],
-      "updatedAt": "2026-08-16T08:52:02.000Z"
-    },
-    {
-      "id": "sheny-bio/dsh-echarts",
-      "name": "@dsh-external/dsh-echarts",
-      "displayName": "dsh-echarts",
-      "summary": "DeepSeek Harness plugin hosted at sheny-bio/dsh-echarts.",
-      "repository": {
-        "url": "https://github.com/sheny-bio/dsh-echarts"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "plugin",
-        "dsh-plugin",
-        "web-ui",
-        "echarts",
-        "data-visualization",
-        "canvas"
-      ],
-      "updatedAt": "2026-08-18T06:09:02.000Z"
-    },
-    {
-      "id": "sherconan/dsh-entity-dd",
-      "name": "dsh-entity-dd",
-      "displayName": "dsh-entity-dd",
-      "summary": "出海交易对手尽调 · DeepSeek Harness 插件：先确认你在跟哪个法人签约，再判断这份登记资料能不能作为决策依据。免费官方数据源，无需密钥。",
-      "repository": {
-        "url": "https://github.com/sherconan/dsh-entity-dd"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "due-diligence",
-        "lei",
-        "gleif",
-        "kyc"
-      ],
-      "updatedAt": "2026-08-14T08:21:56.000Z"
-    },
-    {
-      "id": "ShinewineW/dsh-claude-in",
-      "name": "dsh-claude-in",
-      "displayName": "dsh-claude-in",
-      "summary": "Read-only Claude Code compatibility bridge for DeepSeek Harness: Skills, Rules, command Hooks, and Agents from .claude as SSOT.",
-      "repository": {
-        "url": "https://github.com/ShinewineW/dsh-claude-in"
-      },
-      "license": "BSD-3-Clause",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "claude-code",
-        "cordis"
-      ],
-      "updatedAt": "2026-08-16T05:32:25.000Z"
-    },
-    {
-      "id": "ShiXiangYu2/dsh-translate-pro",
-      "name": "dsh-translate-pro",
-      "displayName": "dsh-translate-pro",
-      "summary": "Professional translation plugin for DeepSeek Harness: 18 languages, 4 styles, glossary control, whole-file translation with format preservation. Powered by DeepSeek via SiliconFlow.",
-      "repository": {
-        "url": "https://github.com/ShiXiangYu2/dsh-translate-pro"
-      },
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "plugin",
-        "translate",
-        "translation",
-        "i18n",
-        "tool"
-      ],
-      "categories": [
-        "tool"
-      ],
-      "updatedAt": "2026-08-15T02:18:38.000Z"
-    },
-    {
-      "id": "showlibia/dsh-plugin-installer",
-      "name": "dsh-plugin-installer",
-      "displayName": "dsh-plugin-installer",
-      "summary": "DeepSeek Harness plugin hosted at showlibia/dsh-plugin-installer.",
-      "repository": {
-        "url": "https://github.com/showlibia/dsh-plugin-installer"
-      },
-      "updatedAt": "2026-08-16T04:37:50.000Z"
-    },
-    {
-      "id": "shrekcg/dsh-im-channel",
-      "name": "dsh-im-channel",
-      "displayName": "dsh-im-channel",
-      "summary": "将 DeepSeek Harness 接入飞书/Lark 的双向通道：持久会话、群聊、流式卡片、40 个飞书 MCP 工具",
-      "repository": {
-        "url": "https://github.com/shrekcg/dsh-im-channel"
-      },
-      "license": "MIT",
-      "keywords": [
-        "feishu",
-        "lark",
-        "dsh",
-        "deepseek",
-        "bridge",
-        "chatbot",
-        "openclaw",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-08-16T20:06:49.000Z"
-    },
-    {
-      "id": "shsr07/dsh-go-usage",
-      "name": "dsh-go-usage",
-      "displayName": "dsh-go-usage",
-      "summary": "OpenCode GO subscription usage widget for DeepSeek Harness: rolling / weekly / monthly usage with reset countdowns, collapsible to a right-edge tab.—— DeepSeek Harness 的 OpenCode GO 套餐用量角标插件：右下角卡片显示滚动 / 每周 / 每月用量与重置倒计时，可收起为右边缘竖条。",
-      "repository": {
-        "url": "https://github.com/shsr07/dsh-go-usage"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek",
-        "deepseek-harness",
-        "opencode",
-        "go",
-        "usage",
-        "cordis"
-      ],
-      "updatedAt": "2026-08-17T05:34:29.000Z"
-    },
-    {
-      "id": "shujiTech/dsh-plugin-wepre",
-      "name": "dsh-plugin-wepre",
-      "displayName": "dsh-plugin-wepre",
-      "summary": "DeepSeek Harness plugin: publish single-screen content cards to WePre Next from a dsh agent session",
-      "repository": {
-        "url": "https://github.com/shujiTech/dsh-plugin-wepre"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "deepseek",
-        "wepre",
-        "agent",
-        "publish"
-      ],
-      "updatedAt": "2026-08-13T15:16:05.000Z"
-    },
-    {
-      "id": "SihanLv/dsh-literature",
-      "name": "dsh-literature-standalone",
-      "displayName": "dsh-literature",
-      "summary": "Literature research for DeepSeek Harness — dblp + arXiv search, authoritative BibTeX, and full-text download.",
-      "repository": {
-        "url": "https://github.com/SihanLv/dsh-literature"
-      },
-      "updatedAt": "2026-08-17T11:49:49.000Z"
-    },
-    {
-      "id": "sijidoubi/dsh-image-zoom",
-      "name": "@dsh-external/dsh-image-zoom",
-      "displayName": "dsh-image-zoom",
-      "summary": "DeepSeek Harness (dsh) client plugin: click-to-zoom lightbox for markdown/chat images",
-      "repository": {
-        "url": "https://github.com/sijidoubi/dsh-image-zoom"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "image",
-        "lightbox",
-        "zoom",
-        "viewer"
-      ],
-      "updatedAt": "2026-08-15T06:57:18.000Z"
-    },
-    {
-      "id": "sijidoubi/dsh-plugin-mermaid",
-      "name": "dsh-tool-mermaid",
-      "displayName": "dsh-plugin-mermaid",
-      "summary": "DeepSeek Harness (dsh) plugin: mermaid_render tool renders Mermaid source to SVG in-process (mermaid 11 + jsdom, no browser needed)",
-      "repository": {
-        "url": "https://github.com/sijidoubi/dsh-plugin-mermaid"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "mermaid",
-        "diagram",
-        "svg",
-        "tool"
-      ],
-      "updatedAt": "2026-08-15T06:57:12.000Z"
-    },
-    {
-      "id": "sikwoxy/dsh-tool-memory",
-      "name": "dsh-tool-memory",
-      "displayName": "dsh-tool-memory",
-      "summary": "DeepSeek Harness 插件：跨会话持久记忆（Hermes 式）",
-      "repository": {
-        "url": "https://github.com/sikwoxy/dsh-tool-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "plugin",
-        "tool",
-        "memory",
-        "记忆"
-      ],
-      "updatedAt": "2026-08-14T05:35:48.000Z"
-    },
-    {
-      "id": "sikwoxy/dsh-tool-reqpipe",
-      "name": "sikwoxy/dsh-tool-reqpipe",
-      "displayName": "dsh-tool-reqpipe",
-      "summary": "reqpipe — DeepSeek Harness 需求流水线插件（7 tools）+ Python CLI（需求→方案→评审→开发）",
-      "repository": {
-        "url": "https://github.com/sikwoxy/dsh-tool-reqpipe"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-14T04:11:33.000Z"
-    },
-    {
-      "id": "Sim-xia/dsh-vscode-theme",
-      "name": "dsh-vscode-theme",
-      "displayName": "dsh-vscode-theme",
-      "summary": "allow deepseek harness to use .vsix theme file designed for visual studio code",
-      "repository": {
-        "url": "https://github.com/Sim-xia/dsh-vscode-theme"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "vscode",
-        "theme",
-        "vsix",
-        "theme-importer"
-      ],
-      "updatedAt": "2026-08-15T10:00:12.000Z"
-    },
-    {
-      "id": "simbamo/dsh-session-unarchive",
-      "name": "dsh-session-unarchive",
-      "displayName": "dsh-session-unarchive",
-      "summary": "DeepSeek Harness 插件：查看并恢复已归档的会话（侧边栏「归档会话」入口 + session_archive 工具 + /unarchive 命令）",
-      "repository": {
-        "url": "https://github.com/simbamo/dsh-session-unarchive"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "plugin",
-        "session",
-        "archive",
-        "unarchive"
-      ],
-      "updatedAt": "2026-08-17T10:09:43.000Z"
-    },
-    {
-      "id": "Simon314620/dsh-turn-index",
-      "name": "dsh-turn-index",
-      "displayName": "dsh-turn-index",
-      "summary": "deepseek harness的侧边栏对话轮次索引插件",
-      "repository": {
-        "url": "https://github.com/Simon314620/dsh-turn-index"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "plugin",
-        "client-plugin",
-        "conversation",
-        "turn-index",
-        "navigation",
-        "sidebar"
-      ],
-      "updatedAt": "2026-08-13T19:50:03.000Z"
-    },
-    {
-      "id": "SingleOne/dsh-notify-center",
-      "name": "dsh-notify-center",
-      "displayName": "dsh-notify-center",
-      "summary": "Native desktop and webhook notifications for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/SingleOne/dsh-notify-center"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "notification",
-        "webhook",
-        "toast"
-      ],
-      "updatedAt": "2026-08-16T16:41:41.000Z"
-    },
-    {
-      "id": "SiriLee/dsh-edit-approval",
-      "name": "dsh-edit-approval",
-      "displayName": "dsh-edit-approval",
-      "summary": "DeepSeek Harness plugin: per-edit approval with red/green line diff before write/edit/str_replace_editor (approve / reject / always allow)",
-      "repository": {
-        "url": "https://github.com/SiriLee/dsh-edit-approval"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "dsh-plugin",
-        "approval",
-        "diff",
-        "edit"
-      ],
-      "updatedAt": "2026-08-18T04:16:43.000Z"
-    },
-    {
-      "id": "siruignaw-sys/dsh-tool-bandit-search",
-      "name": "dsh-tool-bandit-search",
-      "displayName": "dsh-tool-bandit-search",
-      "summary": "DeepSeek Harness plugin hosted at siruignaw-sys/dsh-tool-bandit-search.",
-      "repository": {
-        "url": "https://github.com/siruignaw-sys/dsh-tool-bandit-search"
-      },
-      "keywords": [
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-08-16T08:03:50.000Z"
-    },
-    {
-      "id": "SiYue-ZO/dsh-translator",
-      "name": "dsh-translator",
-      "displayName": "dsh-translator",
-      "summary": "Turn DeepSeek Harness into a focused, configurable AI translation workspace.",
-      "repository": {
-        "url": "https://github.com/SiYue-ZO/dsh-translator"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "translation",
-        "translator",
-        "localization",
-        "ai"
-      ],
-      "updatedAt": "2026-08-13T15:38:50.000Z"
-    },
-    {
-      "id": "sjakdhasdh/dsh-vision",
-      "name": "dsh-vision",
-      "displayName": "dsh-vision",
-      "summary": "Vision tool plugin for DeepSeek Harness (DSH): give text-only models like deepseek-v4-flash image recognition via Alibaba Bailian / any OpenAI-compatible vision API. 给 DeepSeek Harness 无识图能力模型加识图工具。",
-      "repository": {
-        "url": "https://github.com/sjakdhasdh/dsh-vision"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-14T11:34:01.000Z"
-    },
-    {
-      "id": "sjh9714/dsh-what-changed",
-      "name": "dsh-what-changed",
-      "displayName": "dsh-what-changed",
-      "summary": "看得见 Agent 到底改了什么。一个会话里所有文件改动，一屏看完再决定要不要提交 | See what the agent actually changed. Every file it wrote this session, in one review panel.",
-      "repository": {
-        "url": "https://github.com/sjh9714/dsh-what-changed"
-      },
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "deepseek-harness",
-        "deepseek",
-        "diff",
-        "review",
-        "changes"
-      ],
-      "updatedAt": "2026-08-17T08:56:15.000Z"
-    },
-    {
-      "id": "skadi-0510/sakura-Snow",
-      "name": "skadi-0510/sakura-Snow",
-      "displayName": "sakura-Snow",
-      "summary": "DeepSeek Harness plugin hosted at skadi-0510/sakura-Snow.",
-      "repository": {
-        "url": "https://github.com/skadi-0510/sakura-Snow"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-15T16:01:44.000Z"
-    },
-    {
-      "id": "skitse/dsh-dev-actions",
-      "name": "dsh-dev-actions",
-      "displayName": "dsh-dev-actions",
-      "summary": "AI turns repeated dev commands, prompts, and habits into one-click DeepSeek Harness actions.",
-      "repository": {
-        "url": "https://github.com/skitse/dsh-dev-actions"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ai-agent",
-        "developer-tools",
-        "human-in-the-loop",
-        "workflow-automation",
-        "flutter",
-        "dev-server",
-        "prompt",
-        "productivity"
-      ],
-      "updatedAt": "2026-08-13T20:59:08.000Z"
-    },
-    {
-      "id": "skkjkk/dsh-usage-dashboard",
-      "name": "@skkjkk/dsh-usage-dashboard",
-      "displayName": "dsh-usage-dashboard",
-      "summary": "DSH (DeepSeek Harness) usage statistics dashboard plugin: token / cost / duration / session aggregation with trend, heatmap and calendar views.",
-      "repository": {
-        "url": "https://github.com/skkjkk/dsh-usage-dashboard"
+        "url": "https://github.com/MichengAI/dsh-codex-ui"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-17T19:39:08.000Z"
+      "updatedAt": "2026-08-18T18:46:37.000Z"
     },
     {
-      "id": "sky-unicorn/dsh-mcp-server-manager",
-      "name": "dsh-mcp-server-manager",
-      "displayName": "dsh-mcp-server-manager",
-      "summary": "DeepSeek Harness 的 MCP 服务器可视化管理插件，支持配置、校验及一键导入 Claude Code 与 Codex 配置。",
+      "id": "MichengAI/dsh-im-connect",
+      "name": "@michengai/dsh-im-connect",
+      "displayName": "dsh-im-connect",
+      "summary": "DSH IM Connect 基于 DeepSeek Harness 的IM链接插件，无缝链接微信、企业微信、钉钉、QQ、飞书等",
       "repository": {
-        "url": "https://github.com/sky-unicorn/dsh-mcp-server-manager"
+        "url": "https://github.com/MichengAI/dsh-im-connect"
       },
-      "updatedAt": "2026-08-18T06:18:01.000Z"
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-18T10:23:17.000Z"
     },
     {
-      "id": "sky-unicorn/dsh-plugin-market",
-      "name": "dsh-plugin-market",
-      "displayName": "dsh-plugin-market",
-      "summary": "DeepSeek Harness 插件社区，支持插件浏览、搜索、排序与便捷安装。",
+      "id": "MicroHEROX/dsh-koboldcpp-hands",
+      "name": "dsh-koboldcpp-hands",
+      "displayName": "dsh-koboldcpp-hands",
+      "summary": "KoboldCpp for DeepSeek Harness - a tool plugin that lets the harness online model hand repetitive text and vision (OCR) labor to a local KoboldCpp (llama.cpp) server.",
       "repository": {
-        "url": "https://github.com/sky-unicorn/dsh-plugin-market"
+        "url": "https://github.com/MicroHEROX/dsh-koboldcpp-hands"
       },
       "license": "MIT",
       "keywords": [
         "dsh",
         "dsh-plugin",
         "deepseek-harness",
-        "plugin-marketplace"
+        "koboldcpp",
+        "llm",
+        "llama.cpp",
+        "local",
+        "offline"
       ],
-      "updatedAt": "2026-08-18T07:34:04.000Z"
+      "updatedAt": "2026-08-18T03:30:36.000Z"
+    },
+    {
+      "id": "miisaka19800/dsh-restart-fab",
+      "name": "dsh-restart-fab",
+      "displayName": "dsh-restart-fab",
+      "summary": "A floating one-click restart button for the DeepSeek Harness web GUI — self-contained, cross-platform.",
+      "repository": {
+        "url": "https://github.com/miisaka19800/dsh-restart-fab"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "harness",
+        "dsh",
+        "dsh-plugin",
+        "restart",
+        "web"
+      ],
+      "updatedAt": "2026-08-15T13:11:19.000Z"
+    },
+    {
+      "id": "miku00039-01/dsh-whale-pet",
+      "name": "dsh-whale-pet",
+      "displayName": "dsh-whale-pet",
+      "summary": "🐋 DSH 桌宠:DeepSeek Harness 的 Windows 桌面宠物,一键启动/停止/监测服务,双击唤起 GUI,零依赖单文件 exe",
+      "repository": {
+        "url": "https://github.com/miku00039-01/dsh-whale-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T12:32:56.000Z"
+    },
+    {
+      "id": "minatoAI/jina-web-search-dsh-plugin",
+      "name": "dsh-jina",
+      "displayName": "jina-web-search-dsh-plugin",
+      "summary": "Jina AI tools for DeepSeek Harness: 12 model tools (web / arXiv / SSRN search, read, screenshot, embeddings, rerank, classify, PDF, primer) plus a settings-page API key card with live balance check.",
+      "repository": {
+        "url": "https://github.com/minatoAI/jina-web-search-dsh-plugin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "jina",
+        "jina-ai",
+        "search",
+        "embedding",
+        "rerank",
+        "plugin"
+      ],
+      "updatedAt": "2026-08-18T01:08:40.000Z"
+    },
+    {
+      "id": "Mingxi2077/dsh-plugin-review",
+      "name": "plugin-review",
+      "displayName": "dsh-plugin-review",
+      "summary": "DSH Review Mode plugin: multi-dimension code health scoring + radar chart + review history (DSH 审查模式插件)",
+      "repository": {
+        "url": "https://github.com/Mingxi2077/dsh-plugin-review"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "review",
+        "code-review",
+        "radar-chart",
+        "quality"
+      ],
+      "updatedAt": "2026-08-14T00:00:41.000Z"
+    },
+    {
+      "id": "mingzeng21/dsh-notion",
+      "name": "dsh-notion-mcp",
+      "displayName": "dsh-notion",
+      "summary": "Connect DeepSeek Harness (dsh) to Notion via the official Notion MCP — OAuth 2.0 + PKCE, one-time login, silent token refresh.",
+      "repository": {
+        "url": "https://github.com/mingzeng21/dsh-notion"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "notion",
+        "mcp",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-08-16T10:08:19.000Z"
+    },
+    {
+      "id": "mitao-su/dsh-playwright-native",
+      "name": "dsh-playwright-native",
+      "displayName": "dsh-playwright-native",
+      "summary": "把原生 Playwright CLI 注册为 DeepSeek Harness 透传工具（dsh-plugin）",
+      "repository": {
+        "url": "https://github.com/mitao-su/dsh-playwright-native"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "playwright",
+        "e2e",
+        "testing"
+      ],
+      "updatedAt": "2026-08-14T03:32:21.000Z"
+    },
+    {
+      "id": "mitian233/dsh-plugin-commandcode-provider",
+      "name": "dsh-plugin-commandcode-provider",
+      "displayName": "dsh-plugin-commandcode-provider",
+      "summary": "DeepSeek Harness plugin hosted at mitian233/dsh-plugin-commandcode-provider.",
+      "repository": {
+        "url": "https://github.com/mitian233/dsh-plugin-commandcode-provider"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "commandcode",
+        "llm-provider"
+      ],
+      "updatedAt": "2026-08-16T06:26:37.000Z"
+    },
+    {
+      "id": "MJorgin/dsh-agent-conductor",
+      "name": "dsh-agent-conductor",
+      "displayName": "dsh-agent-conductor",
+      "summary": "⚡ DSH 指挥家（动态插件/热更新版）：在会话里派活给 11 种外部 agent CLI（Codex/Claude Code/TraeCode…），cordis_define 秒级安装，不碰 profile。",
+      "repository": {
+        "url": "https://github.com/MJorgin/dsh-agent-conductor"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-17T14:12:41.000Z"
+    },
+    {
+      "id": "MJorgin/dsh-skill-router",
+      "name": "dsh-skill-router",
+      "displayName": "dsh-skill-router",
+      "summary": "Rule-first pre-step skill router for DeepSeek Harness — pours matched skills on high-confidence hits, stays silent otherwise. Deterministic: zero LLM calls, zero token cost until a rule pours, one pour per session, broken YAML never breaks the session. 规则路由 · 高置信命中 · 静默放行 · 零 Token 消耗",
+      "repository": {
+        "url": "https://github.com/MJorgin/dsh-skill-router"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-17T04:11:10.000Z"
+    },
+    {
+      "id": "MJorgin/skill-bartender",
+      "name": "skill-bartender",
+      "displayName": "skill-bartender",
+      "summary": "Task-to-skill pairing for DeepSeek Harness — pours the minimal set (usually one; zero when plain tools suffice), prefers workflow skills over hand-composed atomics. Laziness ladder, quarantine → SkillSpector scan → explicit human approval, never auto-installs. 任务配技能 · 懒惰阶梯 · 安全酒窖 · 绝不自动安装",
+      "repository": {
+        "url": "https://github.com/MJorgin/skill-bartender"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-17T04:11:06.000Z"
+    },
+    {
+      "id": "mldhao/dsh-blue-archive-shiroko",
+      "name": "dsh-blue-archive-shiroko",
+      "displayName": "dsh-blue-archive-shiroko",
+      "summary": "Blue Archive-inspired DSH theme with a Shiroko desktop companion, Codex-style reply bubbles, petting effects, and completion chime.",
+      "repository": {
+        "url": "https://github.com/mldhao/dsh-blue-archive-shiroko"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "theme",
+        "blue-archive",
+        "shiroko",
+        "desktop-pet",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-08-15T14:06:24.000Z"
+    },
+    {
+      "id": "MlittleFriend/dsh-character-profiler",
+      "name": "dsh-character-profiler",
+      "displayName": "dsh-character-profiler",
+      "summary": "This is a novel creation assistance tool. It can analyze the character traits or other characteristics based on the current storyline, thereby assessing the degree of deviation from the character design during the creative process.",
+      "repository": {
+        "url": "https://github.com/MlittleFriend/dsh-character-profiler"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "dsh-bundle",
+        "novel",
+        "writing",
+        "character",
+        "profiling",
+        "consistency"
+      ],
+      "updatedAt": "2026-08-18T00:27:26.000Z"
+    },
+    {
+      "id": "mlosun/dsh-docs-panel",
+      "name": "dsh-docs-panel",
+      "displayName": "dsh-docs-panel",
+      "summary": "DSH WebUI 里的「随身手册」：全局 Markdown 笔记，任何工作区随时可读。",
+      "repository": {
+        "url": "https://github.com/mlosun/dsh-docs-panel"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "markdown",
+        "docs",
+        "reading",
+        "web"
+      ],
+      "updatedAt": "2026-08-16T16:58:34.000Z"
+    },
+    {
+      "id": "MmMmaru/dsh-vscode-sidebar",
+      "name": "dsh-vscode-sidebar",
+      "displayName": "dsh-vscode-sidebar",
+      "summary": "simple sidebar for deepseek-harness",
+      "repository": {
+        "url": "https://github.com/MmMmaru/dsh-vscode-sidebar"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-17T07:16:47.000Z"
+    },
+    {
+      "id": "modestoma/dsh-webfile",
+      "name": "dsh-webfile",
+      "displayName": "dsh-webfile",
+      "summary": "Secure S3, Xiaomi FDS, and FTP/FTPS file tools for DeepSeek Harness, with approval-gated mutations and cancellable transfers.",
+      "repository": {
+        "url": "https://github.com/modestoma/dsh-webfile"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "s3",
+        "fds",
+        "ftp",
+        "agent-tools",
+        "file-management"
+      ],
+      "updatedAt": "2026-08-17T05:15:51.000Z"
+    },
+    {
+      "id": "Moeblack/dsh-payload-capture",
+      "name": "dsh-payload-capture",
+      "displayName": "dsh-payload-capture",
+      "summary": "DSH 插件：捕捉每次上行模型 API payload，JSON 落盘 | DSH plugin: capture every upstream model API payload to JSON",
+      "repository": {
+        "url": "https://github.com/Moeblack/dsh-payload-capture"
+      },
+      "updatedAt": "2026-08-13T14:36:04.000Z"
+    },
+    {
+      "id": "mojiexuan/dsh-git",
+      "name": "@mojiexuan/dsh-git",
+      "displayName": "dsh-git",
+      "summary": "A VS Code-style Git source control panel plugin for DeepSeek Harness.为 DeepSeek Harness 开发的一个类似 VS Code 的 Git 源代码管理面板插件。",
+      "repository": {
+        "url": "https://github.com/mojiexuan/dsh-git"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "git",
+        "plugin",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-08-17T16:17:05.000Z"
+    },
+    {
+      "id": "momo-gen/dsh-browser-pilot",
+      "name": "dsh-browser-pilot",
+      "displayName": "dsh-browser-pilot",
+      "summary": "Browser automation tools for the DeepSeek Harness (DSH) agent - a self-contained Cordis agent-preset plugin (Playwright).",
+      "repository": {
+        "url": "https://github.com/momo-gen/dsh-browser-pilot"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "browser",
+        "automation",
+        "playwright",
+        "cordis",
+        "agent-preset",
+        "headless",
+        "scraping",
+        "testing"
+      ],
+      "updatedAt": "2026-08-14T06:35:12.000Z"
+    },
+    {
+      "id": "moneka123/deepseek-harness-plugin-dev-guide",
+      "name": "moneka123/deepseek-harness-plugin-dev-guide",
+      "displayName": "deepseek-harness-plugin-dev-guide",
+      "summary": "面向 AI 编程助手的 DSH 插件开发规范。详解扩展点（tools/systemPrompt/agent/llm）、ctx.effect 资源清理、动态 Cordis（define/run/stop）Host/Client 双端沙箱、Bundle Patch 覆盖及 Profile 安装底层实现。",
+      "repository": {
+        "url": "https://github.com/moneka123/deepseek-harness-plugin-dev-guide"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-16T02:27:56.000Z"
+    },
+    {
+      "id": "Mongfayi/dsh-local-filetree",
+      "name": "dsh-local-filetree",
+      "displayName": "dsh-local-filetree",
+      "summary": "File tree panel for the DSH Web UI: the right details column shows the current session workspace tree (lazy, read-only).",
+      "repository": {
+        "url": "https://github.com/Mongfayi/dsh-local-filetree"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-08-13T14:44:22.000Z"
+    },
+    {
+      "id": "moonbowterfly/dsh-bio-genie",
+      "name": "@dsh-bio/dsh-bio-genie",
+      "displayName": "dsh-bio-genie",
+      "summary": "🧬 dsh bio analysis plugin for DeepSeek Harness — wish-style bioinformatics & biology analysis: Biopython-powered sequence analysis, genomics, zero-install Python env (uv+venv)",
+      "repository": {
+        "url": "https://github.com/moonbowterfly/dsh-bio-genie"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "dsh-plugin",
+        "bioinformatics",
+        "biology",
+        "bio-analysis",
+        "biology-analysis",
+        "biopython",
+        "genomics",
+        "sequence-analysis",
+        "wish-coding",
+        "python"
+      ],
+      "updatedAt": "2026-08-18T06:47:17.000Z"
+    },
+    {
+      "id": "moonquake2004/dsh-doctor",
+      "name": "moonquake2004/dsh-doctor",
+      "displayName": "dsh-doctor",
+      "summary": "DeepSeek Harness plugin hosted at moonquake2004/dsh-doctor.",
+      "repository": {
+        "url": "https://github.com/moonquake2004/dsh-doctor"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T13:42:56.000Z"
+    },
+    {
+      "id": "moton16/dsh-msg-edit",
+      "name": "@moton16/dsh-msg-edit",
+      "displayName": "dsh-msg-edit",
+      "summary": "Message edit / regenerate plugin for DeepSeek Harness Web — Cordis host plugin (/api/msg-edit/*) + dsh.client UI plugin (assistant action strip). Declarative bundle, no install scripts.",
+      "repository": {
+        "url": "https://github.com/moton16/dsh-msg-edit"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-15T08:07:43.000Z"
+    },
+    {
+      "id": "moton16/dsh-vision-mcp",
+      "name": "dsh-vision-mcp",
+      "displayName": "dsh-vision-mcp",
+      "summary": "Give your text-only LLM eyes: zero-dependency MCP server that reads images via external OpenAI-compatible vision models with automatic provider fallback, plus a one-command patch for DSH image-attachment degradation.",
+      "repository": {
+        "url": "https://github.com/moton16/dsh-vision-mcp"
+      },
+      "license": "MIT",
+      "keywords": [
+        "mcp",
+        "model-context-protocol",
+        "vision",
+        "image",
+        "multimodal",
+        "ocr",
+        "llm",
+        "ai",
+        "read-image"
+      ],
+      "updatedAt": "2026-08-15T18:29:36.000Z"
+    },
+    {
+      "id": "mouliangyu/dsh-plugins",
+      "name": "dsh-community-plugins",
+      "displayName": "dsh-plugins",
+      "summary": "Community plugins for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/mouliangyu/dsh-plugins"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T09:08:14.000Z"
+    },
+    {
+      "id": "moxingovo/dsh-bilibili",
+      "name": "dsh-plugin-bilibili",
+      "displayName": "dsh-bilibili",
+      "summary": "DeepSeek Harness plugin: Bilibili video search, metadata, and subtitle transcripts (bilibili_search / bilibili_video / bilibili_subtitles) · DeepSeek Harness 插件:B 站视频检索、元数据与字幕文稿,匿名可用,可选 SESSDATA 解锁登录字幕",
+      "repository": {
+        "url": "https://github.com/moxingovo/dsh-bilibili"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "bilibili",
+        "video",
+        "subtitles",
+        "agent-tool"
+      ],
+      "updatedAt": "2026-08-15T18:39:43.000Z"
+    },
+    {
+      "id": "moxingovo/dsh-github",
+      "name": "dsh-plugin-github",
+      "displayName": "dsh-github",
+      "summary": "DeepSeek Harness plugin: GitHub repository & issue search, repo/issue details, and file reading tools (github_search / github_get) · DeepSeek Harness 插件:GitHub 仓库与 issue 检索、详情与文件读取,匿名可用,可选只读 token 解锁代码搜索",
+      "repository": {
+        "url": "https://github.com/moxingovo/dsh-github"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "github",
+        "github-api",
+        "search",
+        "agent-tool"
+      ],
+      "updatedAt": "2026-08-15T18:39:38.000Z"
+    },
+    {
+      "id": "moyuer233/dsh-deepseek-monitor",
+      "name": "dsh-deepseek-monitor",
+      "displayName": "dsh-deepseek-monitor",
+      "summary": "DeepSeek usage monitor as a DeepSeek Harness (DSH) plugin: balance / day-month-all-time token & cost panel in the chat UI with drag-reorder config, plus an optional local usage proxy",
+      "repository": {
+        "url": "https://github.com/moyuer233/dsh-deepseek-monitor"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-15T12:29:01.000Z"
+    },
+    {
+      "id": "mr-mihu/dsh-dbhub-live",
+      "name": "dsh-dbhub-live",
+      "displayName": "dsh-dbhub-live",
+      "summary": "DSH 数据库 MCP 桥接插件：常驻多源 dbhub 服务 + 按工作区工具 + 临时动态连接。未装 dbhub 时自动安装并自动更新。",
+      "repository": {
+        "url": "https://github.com/mr-mihu/dsh-dbhub-live"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dbhub",
+        "mcp",
+        "database",
+        "mysql",
+        "postgres",
+        "sqlite",
+        "mariadb",
+        "sqlserver",
+        "plugin"
+      ],
+      "updatedAt": "2026-08-18T08:40:03.000Z"
+    },
+    {
+      "id": "MRZHUH/dsh-remote-server",
+      "name": "dsh-remote-server",
+      "displayName": "dsh-remote-server",
+      "summary": "Mention a server with @ in a DeepSeek Harness session and run commands on it over SSH, behind a two-tier approval gate that fails closed.",
+      "repository": {
+        "url": "https://github.com/MRZHUH/dsh-remote-server"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "ssh",
+        "remote-execution",
+        "devops",
+        "agent",
+        "cordis"
+      ],
+      "updatedAt": "2026-08-17T02:32:59.000Z"
+    },
+    {
+      "id": "mtaech/dsh-material-you",
+      "name": "@deepseek-ai/dsh-skin-material-you",
+      "displayName": "dsh-material-you",
+      "summary": "Material You (M3) skin for DeepSeek Harness: HCT tonal palette + Maple Mono NF CN, clean blue & white",
+      "repository": {
+        "url": "https://github.com/mtaech/dsh-material-you"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-14T09:34:55.000Z"
+    },
+    {
+      "id": "Mu-scorpio/token-usage-counter",
+      "name": "dsh-token-usage-counter",
+      "displayName": "token-usage-counter",
+      "summary": "Persistent provider-reported token usage statistics for DeepSeek Harness with per-session, per-model, and daily activity data.",
+      "repository": {
+        "url": "https://github.com/Mu-scorpio/token-usage-counter"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek",
+        "deepseek-harness",
+        "token-usage",
+        "usage-statistics",
+        "token-analytics",
+        "prompt-cache",
+        "llm-observability",
+        "typescript",
+        "cordis"
+      ],
+      "updatedAt": "2026-08-16T17:55:46.000Z"
+    },
+    {
+      "id": "muretai/muretai-dsh-skill",
+      "name": "muretai-dsh-skill",
+      "displayName": "muretai-dsh-skill",
+      "summary": "Join the Muretai agent network from DeepSeek Harness (dsh) — one-step install, MCP wiring, inbound-mail wake",
+      "repository": {
+        "url": "https://github.com/muretai/muretai-dsh-skill"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-14T15:15:01.000Z"
+    },
+    {
+      "id": "mux9056-bot/dsh-theme",
+      "name": "dsh-theme",
+      "displayName": "dsh-theme",
+      "summary": "DeepSeek Harness 主题插件 · 30 款即插即用主题（零依赖 DSH 客户端插件 + 独立 CSS）/ 30-theme pack for DeepSeek Harness web UI",
+      "repository": {
+        "url": "https://github.com/mux9056-bot/dsh-theme"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "theme",
+        "plugin",
+        "cordis"
+      ],
+      "updatedAt": "2026-08-18T07:03:07.000Z"
+    },
+    {
+      "id": "mxl2498/dsh-balance",
+      "name": "@dsh-external/余额悬浮球",
+      "displayName": "dsh-balance",
+      "summary": "DSH Web 插件：悬浮显示 DeepSeek 账户余额，点击直达充值页 | DSH widget showing your DeepSeek balance with a top-up link",
+      "repository": {
+        "url": "https://github.com/mxl2498/dsh-balance"
+      },
+      "updatedAt": "2026-08-16T11:25:26.000Z"
+    },
+    {
+      "id": "mxl2498/dsh-sound-alert",
+      "name": "@dsh-external/声音提醒",
+      "displayName": "dsh-sound-alert",
+      "summary": "DSH Web 插件：助手回答结束时播放「叮咚」提示音 | DSH plugin that plays a chime when the assistant finishes replying",
+      "repository": {
+        "url": "https://github.com/mxl2498/dsh-sound-alert"
+      },
+      "updatedAt": "2026-08-16T09:26:05.000Z"
+    },
+    {
+      "id": "myfire2014/dsh-admin-gateway",
+      "name": "dsh-admin-gateway",
+      "displayName": "dsh-admin-gateway",
+      "summary": "dsh-admin-gateway DeepSeek Harness (dsh) 管理员验证网关插件。 只需一个绑定在 Cloudflare 的域名",
+      "repository": {
+        "url": "https://github.com/myfire2014/dsh-admin-gateway"
+      },
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "cordis",
+        "plugin",
+        "admin-gateway",
+        "auth",
+        "reverse-proxy"
+      ],
+      "updatedAt": "2026-08-18T04:44:53.000Z"
+    },
+    {
+      "id": "myflx/hundun-dsh",
+      "name": "hundun-dsh",
+      "displayName": "hundun-dsh",
+      "summary": "DeepSeek Harness plugin hosted at myflx/hundun-dsh.",
+      "repository": {
+        "url": "https://github.com/myflx/hundun-dsh"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-18T16:47:39.000Z"
+    },
+    {
+      "id": "Mystery-God/dsh-balance",
+      "name": "@linxin666/dsh-balance",
+      "displayName": "dsh-balance",
+      "summary": "模型账户余额悬浮窗插件 for DeepSeek Harness Web GUI — floating model-account balance monitor with a settings master switch",
+      "repository": {
+        "url": "https://github.com/Mystery-God/dsh-balance"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "plugin",
+        "balance",
+        "monitor",
+        "billing"
+      ],
+      "updatedAt": "2026-08-15T15:10:31.000Z"
+    },
+    {
+      "id": "Mystery-God/dsh-chime",
+      "name": "@linxin666/dsh-chime",
+      "displayName": "dsh-chime",
+      "summary": "任务完成提示音插件 for DeepSeek Harness Web GUI — task-completion chime, volume control, custom audio, Plugins settings page",
+      "repository": {
+        "url": "https://github.com/Mystery-God/dsh-chime"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "plugin",
+        "chime",
+        "notification",
+        "sound"
+      ],
+      "updatedAt": "2026-08-18T00:59:10.000Z"
+    },
+    {
+      "id": "namesColin/DSH-Plugin-Account-HUD",
+      "name": "dsh-account-hud",
+      "displayName": "DSH-Plugin-Account-HUD",
+      "summary": "一个deepseek harness的插件，用于实时显示api-key的余额和api服务状态。昨天dsh发布后高强度使用，发现这个功能对我这种余额敏感开发者很重要，遂开发之，后续必然有更多更好的插件涌现出来，我谨以此项目权作抛砖引玉，开源出来，也供后续我自己回看之用。",
+      "repository": {
+        "url": "https://github.com/namesColin/DSH-Plugin-Account-HUD"
+      },
+      "license": "AGPL-3.0",
+      "keywords": [
+        "deepseek",
+        "dsh",
+        "plugin",
+        "hud",
+        "balance",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-08-15T04:46:39.000Z"
+    },
+    {
+      "id": "nanami-0713/dsh-notifier",
+      "name": "@dsh-external/dsh-notifier",
+      "displayName": "dsh-notifier",
+      "summary": "DSH 插件：任务结束 / 需要用户决策时弹窗提醒（web toast + 桌面通知），类似 Codex / Claude Code 体验",
+      "repository": {
+        "url": "https://github.com/nanami-0713/dsh-notifier"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "notifications",
+        "toast",
+        "approval",
+        "codex"
+      ],
+      "updatedAt": "2026-08-17T00:52:07.000Z"
+    },
+    {
+      "id": "nanami-0713/dsh-plugin-rankings",
+      "name": "@dsh-external/dsh-plugin-rankings",
+      "displayName": "dsh-plugin-rankings",
+      "summary": "DSH 插件榜单：dsh-plugin 生态 Top 10 / Top 100（GitHub Star 热度 / npm 周下载量）",
+      "repository": {
+        "url": "https://github.com/nanami-0713/dsh-plugin-rankings"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "rankings",
+        "leaderboard",
+        "plugin-market",
+        "popularity",
+        "downloads"
+      ],
+      "updatedAt": "2026-08-16T14:04:09.000Z"
+    },
+    {
+      "id": "nanami-0713/dsh-remote-public",
+      "name": "dsh-remote",
+      "displayName": "dsh-remote-public",
+      "summary": "DSH-Remote 公开脱敏镜像：基于 DeepSeek Harness 的手机远程控制客户端",
+      "repository": {
+        "url": "https://github.com/nanami-0713/dsh-remote-public"
+      },
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "remote-control",
+        "qr-pairing"
+      ],
+      "updatedAt": "2026-08-17T12:16:33.000Z"
+    },
+    {
+      "id": "nanbbb/dsh-computer-use-windows",
+      "name": "dsh-computer-use-windows",
+      "displayName": "dsh-computer-use-windows",
+      "summary": "Windows Computer Use tools for DeepSeek Harness: self-contained UIA native helper, occlusion-aware screenshots, safety-gated input",
+      "repository": {
+        "url": "https://github.com/nanbbb/dsh-computer-use-windows"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "computer-use",
+        "windows",
+        "modlens",
+        "accessibility"
+      ],
+      "updatedAt": "2026-08-17T11:30:20.000Z"
+    },
+    {
+      "id": "nanbujiwanfeng/deepseek-harness-translation",
+      "name": "nanbujiwanfeng/deepseek-harness-translation",
+      "displayName": "deepseek-harness-translation",
+      "summary": "Bidirectional Chinese↔English conversation translation for deepseek-harness: Chinese-speaking users converse in Chinese, each message is auto-translated to English for the agent, and English replies return as Chinese with bilingual rows in the Web Client.",
+      "repository": {
+        "url": "https://github.com/nanbujiwanfeng/deepseek-harness-translation"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-16T13:13:25.000Z"
+    },
+    {
+      "id": "nanshanyi/dsh-mcp-xcode",
+      "name": "dsh-mcp-xcode",
+      "displayName": "dsh-mcp-xcode",
+      "summary": "dsh-mcp-xcode",
+      "repository": {
+        "url": "https://github.com/nanshanyi/dsh-mcp-xcode"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "cordis",
+        "mcp",
+        "xcode"
+      ],
+      "updatedAt": "2026-08-15T11:33:45.000Z"
+    },
+    {
+      "id": "nbfys/dsh-web-attention-badge-enhanced",
+      "name": "dsh-web-attention-badge",
+      "displayName": "dsh-web-attention-badge-enhanced",
+      "summary": "DSH Web attention badge (fork): [Waiting]/[Done] tab title, current-session done tracking, acknowledged reminders. MIT, based on Luaphes/dsh-web-attention-badge",
+      "repository": {
+        "url": "https://github.com/nbfys/dsh-web-attention-badge-enhanced"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "plugin",
+        "web",
+        "attention",
+        "badge",
+        "notification",
+        "sessions"
+      ],
+      "updatedAt": "2026-08-15T14:35:37.000Z"
+    },
+    {
+      "id": "Neplich/dsh_plugin",
+      "name": "dsh-plugin-root",
+      "displayName": "dsh_plugin",
+      "summary": "DeepSeek Harness plugin hosted at Neplich/dsh_plugin.",
+      "repository": {
+        "url": "https://github.com/Neplich/dsh_plugin"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T11:57:48.000Z"
+    },
+    {
+      "id": "NEVSTOP-LAB/dsh-approval-mode",
+      "name": "dsh-approval-mode",
+      "displayName": "dsh-approval-mode",
+      "summary": "DSH 审批模式插件，在 DSH 窗口的权限下拉框（Read Only / Workspace Write / Full Access）旁边加一个「审批模式」按钮，在 Workspace Write 模式下工具调用自动放行",
+      "repository": {
+        "url": "https://github.com/NEVSTOP-LAB/dsh-approval-mode"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "plugin",
+        "approval",
+        "permissions",
+        "agent"
+      ],
+      "updatedAt": "2026-08-16T13:32:15.000Z"
+    },
+    {
+      "id": "nexsjournal/dsh-customui-plugin",
+      "name": "dsh-customui-plugin",
+      "displayName": "dsh-customui-plugin",
+      "summary": "Personalize the DeepSeek Harness web GUI: sidebar logo, empty-conversation hero, and chat background image — applied live, no restart",
+      "repository": {
+        "url": "https://github.com/nexsjournal/dsh-customui-plugin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "plugin",
+        "ui",
+        "personalization",
+        "theme",
+        "background"
+      ],
+      "updatedAt": "2026-08-17T10:42:40.000Z"
+    },
+    {
+      "id": "nexsjournal/dsh-desktop-app",
+      "name": "yuanharness-desktop",
+      "displayName": "dsh-desktop-app",
+      "summary": "Includes image recognition and generation functions.",
+      "repository": {
+        "url": "https://github.com/nexsjournal/dsh-desktop-app"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T13:04:50.000Z"
+    },
+    {
+      "id": "nexsjournal/dsh-imagegen-plugin",
+      "name": "dsh-imagegen-plugin",
+      "displayName": "dsh-imagegen-plugin",
+      "summary": "给 DeepSeek Harness（DSH）加上第三方生图/改图能力的插件：对话召唤 + 设置卡片，支持 OpenAI 兼容 / 阿里百炼 / Replicate / fal.ai",
+      "repository": {
+        "url": "https://github.com/nexsjournal/dsh-imagegen-plugin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "plugin",
+        "image-generation",
+        "text-to-image",
+        "生图"
+      ],
+      "updatedAt": "2026-08-17T06:17:41.000Z"
+    },
+    {
+      "id": "nexsjournal/dsh-tryboard-plugin",
+      "name": "dsh-tryboard-plugin",
+      "displayName": "dsh-tryboard-plugin",
+      "summary": "Trello-style kanban boards inside the DeepSeek Harness (DSH) web GUI: sidebar 看板 entry, multiple workboards, drag & drop, DSH-native styling, persisted in DSH settings",
+      "repository": {
+        "url": "https://github.com/nexsjournal/dsh-tryboard-plugin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "plugin",
+        "kanban",
+        "trello",
+        "board",
+        "todo",
+        "看板"
+      ],
+      "updatedAt": "2026-08-18T05:27:33.000Z"
+    },
+    {
+      "id": "nexsjournal/dsh-vision-plugin",
+      "name": "dsh-vision-plugin",
+      "displayName": "dsh-vision-plugin",
+      "summary": "DeepSeek Harness plugin hosted at nexsjournal/dsh-vision-plugin.",
+      "repository": {
+        "url": "https://github.com/nexsjournal/dsh-vision-plugin"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-16T14:46:15.000Z"
+    },
+    {
+      "id": "nineandnine-9/dsh-theme-rheostat",
+      "name": "@dsh-external/dsh-theme-rheostat",
+      "displayName": "dsh-theme-rheostat",
+      "summary": "Sliding-rheostat theme plugin for the DeepSeek Harness web GUI: model + reasoning-effort driven accents, composer glow, and a whale slider.",
+      "repository": {
+        "url": "https://github.com/nineandnine-9/dsh-theme-rheostat"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-16T11:49:40.000Z"
+    },
+    {
+      "id": "ninedaywoo-web/DSH-Plugin-API-Usage-Monitor",
+      "name": "dsh-plugin-api-usage-monitor",
+      "displayName": "DSH-Plugin-API-Usage-Monitor",
+      "summary": "DeepSeek Harness plugin for API balance monitoring, daily cost and token tracking, peak/off-peak pricing indicators, recharge refresh, and one-click restart.",
+      "repository": {
+        "url": "https://github.com/ninedaywoo-web/DSH-Plugin-API-Usage-Monitor"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "harness",
+        "dsh",
+        "dsh-plugin",
+        "api-usage",
+        "balance-monitor",
+        "cost-tracker",
+        "token-usage",
+        "peak-pricing",
+        "off-peak-pricing"
+      ],
+      "updatedAt": "2026-08-16T14:07:15.000Z"
+    },
+    {
+      "id": "NinjaSln-labs/dsh-plugins",
+      "name": "dsh-plugins",
+      "displayName": "dsh-plugins",
+      "summary": "DeepSeek Harness 个人自研插件集：上下文罗盘 / 跨会话知识 / 子代理模型路由 / AI 生图（Personally developed plugins for DeepSeek Harness）",
+      "repository": {
+        "url": "https://github.com/NinjaSln-labs/dsh-plugins"
+      },
+      "updatedAt": "2026-08-19T01:09:48.000Z"
+    },
+    {
+      "id": "nnbw-liu/deepseek-ai-dsh-llm-local",
+      "name": "@deepseek-ai/dsh-llm-local",
+      "displayName": "deepseek-ai-dsh-llm-local",
+      "summary": "基于本地的ollma的模型推理",
+      "repository": {
+        "url": "https://github.com/nnbw-liu/deepseek-ai-dsh-llm-local"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-15T15:30:18.000Z"
+    },
+    {
+      "id": "NOirBRight/dsh-llm-codex",
+      "name": "dsh-llm-codex",
+      "displayName": "dsh-llm-codex",
+      "summary": "ChatGPT Codex login, sortable catalog, and Fast models for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/NOirBRight/dsh-llm-codex"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T17:02:24.000Z"
+    },
+    {
+      "id": "NOirBRight/dsh-llm-ollama",
+      "name": "dsh-llm-ollama",
+      "displayName": "dsh-llm-ollama",
+      "summary": "Native Ollama Cloud provider and Web configuration plugin for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/NOirBRight/dsh-llm-ollama"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T17:02:41.000Z"
+    },
+    {
+      "id": "NokorinNishikino/kidai-plugin-market-hub",
+      "name": "kidai-plugin-market-hub",
+      "displayName": "kidai-plugin-market-hub",
+      "summary": "DeepSeek Harness plugin hosted at NokorinNishikino/kidai-plugin-market-hub.",
+      "repository": {
+        "url": "https://github.com/NokorinNishikino/kidai-plugin-market-hub"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T21:17:13.000Z"
+    },
+    {
+      "id": "noname-iii/dsh-leisure-games",
+      "name": "noname-iii/dsh-leisure-games",
+      "displayName": "dsh-leisure-games",
+      "summary": "Leisure games client plugin for DeepSeek Harness (dsh): Tetris, Snake, skill Gomoku and Minesweeper with a playtime limit, agent notifications, custom colors and hardened persisted state.",
+      "repository": {
+        "url": "https://github.com/noname-iii/dsh-leisure-games"
+      },
+      "license": "GPL-3.0",
+      "updatedAt": "2026-08-18T15:10:29.000Z"
+    },
+    {
+      "id": "noneghost/dsh-deepseek-usage",
+      "name": "dsh-deepseek-usage",
+      "displayName": "dsh-deepseek-usage",
+      "summary": "DSH plugin replicating the official DeepSeek usage page: live balance, historical token usage by time-range/model/workspace, 8-17 peak-pricing cost estimate and usage-time advice. 复刻官方 DeepSeek 用量页面的 DSH 插件：余额/用量/峰谷消费/时段建议。",
+      "repository": {
+        "url": "https://github.com/noneghost/dsh-deepseek-usage"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek",
+        "cordis",
+        "plugin",
+        "token-usage",
+        "usage-dashboard",
+        "balance",
+        "peak-pricing",
+        "峰谷定价",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-08-14T17:29:24.000Z"
+    },
+    {
+      "id": "nonmean/dsh-lan-access",
+      "name": "dsh-lan-access",
+      "displayName": "dsh-lan-access",
+      "summary": "DeepSeek Harness web plugin that adds a LAN access",
+      "repository": {
+        "url": "https://github.com/nonmean/dsh-lan-access"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T19:48:00.000Z"
+    },
+    {
+      "id": "NoNshiranai/dshX",
+      "name": "@dshx/dshx",
+      "displayName": "dshX",
+      "summary": "一个基于 dsh 的优化版 TUI",
+      "repository": {
+        "url": "https://github.com/NoNshiranai/dshX"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T10:38:30.000Z"
+    },
+    {
+      "id": "NormanFxxkingRockwell/dsh-auto-vision",
+      "name": "dsh-auto-vision",
+      "displayName": "dsh-auto-vision",
+      "summary": "DeepSeek Harness 视觉桥：自动发现你已配置的多模态模型，给纯文本主模型装上 vision 工具，识别结果以纯文本返回。零配置，一条命令安装。",
+      "repository": {
+        "url": "https://github.com/NormanFxxkingRockwell/dsh-auto-vision"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "dsh-plugin",
+        "cordis",
+        "plugin",
+        "vision",
+        "image",
+        "multimodal",
+        "qwen"
+      ],
+      "updatedAt": "2026-08-19T00:53:40.000Z"
+    },
+    {
+      "id": "NormanFxxkingRockwell/dsh-keyboard-history",
+      "name": "dsh-keyboard-history",
+      "displayName": "dsh-keyboard-history",
+      "summary": "DSH 会话输入框的极简输入历史：按 ↑/↓ 翻阅你发过的每一条消息。只有方向键，别无其他。",
+      "repository": {
+        "url": "https://github.com/NormanFxxkingRockwell/dsh-keyboard-history"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "input-history",
+        "keyboard",
+        "web-ui"
+      ],
+      "updatedAt": "2026-08-18T03:42:15.000Z"
+    },
+    {
+      "id": "Nothree-code/review-quote-sh",
+      "name": "review-quote-sh",
+      "displayName": "review-quote-sh",
+      "summary": "DeepSeek Harness plugin hosted at Nothree-code/review-quote-sh.",
+      "repository": {
+        "url": "https://github.com/Nothree-code/review-quote-sh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-17T23:33:02.000Z"
+    },
+    {
+      "id": "ns-zzj/dsh-hos-scrcpy",
+      "name": "ns-zzj/dsh-hos-scrcpy",
+      "displayName": "dsh-hos-scrcpy",
+      "summary": "在DeepSeek Harness网页中控制鸿蒙手机",
+      "repository": {
+        "url": "https://github.com/ns-zzj/dsh-hos-scrcpy"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T02:56:21.000Z"
+    },
+    {
+      "id": "Nunchakus888/dsh-turn-budget",
+      "name": "dsh-turn-budget",
+      "displayName": "dsh-turn-budget",
+      "summary": "Fail-closed per-turn step, tool-call, and provider-token budgets for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/Nunchakus888/dsh-turn-budget"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "cordis",
+        "agent-governance",
+        "resource-budget",
+        "ai-agent"
+      ],
+      "updatedAt": "2026-08-14T03:53:41.000Z"
+    },
+    {
+      "id": "Nuo-cl/dsh-auto-mode",
+      "name": "dsh-auto-mode",
+      "displayName": "dsh-auto-mode",
+      "summary": "DSH plugin: auto mode that routes permission-gated tool calls through an LLM review before approving, blocking, or asking for confirmation.",
+      "repository": {
+        "url": "https://github.com/Nuo-cl/dsh-auto-mode"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "auto-mode",
+        "approval",
+        "permissions",
+        "plugin"
+      ],
+      "updatedAt": "2026-08-16T19:17:26.000Z"
+    },
+    {
+      "id": "nvnoa57-star/dsh-compaction-slider",
+      "name": "nvnoa57-star/dsh-compaction-slider",
+      "displayName": "dsh-compaction-slider",
+      "summary": "DeepSeek Harness plugin hosted at nvnoa57-star/dsh-compaction-slider.",
+      "repository": {
+        "url": "https://github.com/nvnoa57-star/dsh-compaction-slider"
+      },
+      "updatedAt": "2026-08-18T09:38:11.000Z"
+    },
+    {
+      "id": "o-Sakurajimamai-o/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop/App",
+      "repository": {
+        "url": "https://github.com/o-Sakurajimamai-o/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-14T07:49:20.000Z"
+    },
+    {
+      "id": "oakcakerolls/dsh-think-summary",
+      "name": "dsh-think-summary",
+      "displayName": "dsh-think-summary",
+      "summary": "Deepseek Harness 为长思考链实时分段并实时总结，让你知道模型当前正在想什么",
+      "repository": {
+        "url": "https://github.com/oakcakerolls/dsh-think-summary"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "cordis",
+        "thinking",
+        "reasoning",
+        "summary"
+      ],
+      "updatedAt": "2026-08-18T18:24:40.000Z"
+    },
+    {
+      "id": "oceanxuikun/dsh-eva-theme-plugin",
+      "name": "dsh-eva-theme-plugin",
+      "displayName": "dsh-eva-theme-plugin",
+      "summary": "Evangelion-inspired theme plugin for DSH WebUI, featuring Unit-00, Unit-01, and Unit-02 themes with immersive backgrounds and mecha-style UI effects.",
+      "repository": {
+        "url": "https://github.com/oceanxuikun/dsh-eva-theme-plugin"
+      },
+      "updatedAt": "2026-08-14T11:12:25.000Z"
+    },
+    {
+      "id": "Oliver0804/dsh-discord-bot",
+      "name": "dsh-discord-bot",
+      "displayName": "dsh-discord-bot",
+      "summary": "Map dsh (DeepSeek Harness) workspaces onto a Discord category — query session trajectories and live subagents, and drive an agent, from anywhere with no inbound port.",
+      "repository": {
+        "url": "https://github.com/Oliver0804/dsh-discord-bot"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "dsh",
+        "deepseek-harness",
+        "cordis-plugin",
+        "discord",
+        "discord-bot",
+        "remote-access"
+      ],
+      "updatedAt": "2026-08-16T11:38:30.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-cron",
+      "name": "dsh-cron",
+      "displayName": "dsh-cron",
+      "summary": "Scheduled tasks (cron) for DeepSeek Harness: model- and human-callable scheduling that fires followup/inject into agent sessions",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-cron"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-18T12:59:05.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-essential",
+      "name": "@deepseek-ai/dsh-essential",
+      "displayName": "dsh-essential",
+      "summary": "为 DeepSeek Harness 提供可恢复的对话删除能力，支持菜单集成、即时隐藏与重启安全归档",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-essential"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-14T08:21:56.000Z"
     }
   ],
   "page": {
