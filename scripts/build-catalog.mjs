@@ -11,15 +11,23 @@
 //
 // Inputs : data/plugins.json (with verdict-stamped `items`)
 // Outputs: docs/catalog/manifest.json
-//          docs/catalog/v1/plugins/index.json     (first page, served at /v1/plugins)
-//          docs/catalog/v1/plugins/page-N.json   (remaining pages, linked via cursor)
+//          docs/catalog/.nojekyll                  (bypasses Jekyll so the
+//                                                  extension-less endpoint file
+//                                                  below is served verbatim)
+//          docs/catalog/v1/plugins                 (first page, served at
+//                                                  /v1/plugins — note: file has
+//                                                  NO extension so GitHub Pages
+//                                                  does not 301 it to /v1/plugins/
+//                                                  and the schema regex
+//                                                  `/v1/plugins$` matches the
+//                                                  final URL exactly)
 //
 // Every emitted item is repository-only (no `package`, no install command), so
 // any Market user with this source selected will see the entries in the
 // browse-only lane. Verified-only is the user-selected strict tier; we filter
 // here, never on the wire.
 
-import { readFile, writeFile, mkdir } from 'node:fs/promises';
+import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 
@@ -28,10 +36,14 @@ const DATA = join(ROOT, 'data', 'plugins.json');
 
 // Output roots — match what GitHub Pages serves at project root.
 const CATALOG_DIR     = join(ROOT, 'docs', 'catalog');
-const PLUGINS_DIR     = join(CATALOG_DIR, 'v1', 'plugins');
+const V1_DIR          = join(CATALOG_DIR, 'v1');
+// The page is a single extension-less file served at /v1/plugins. Putting it
+// inside a `plugins/` directory would make GitHub Pages treat the URL as a
+// directory index and 301-redirect /v1/plugins -> /v1/plugins/, which breaks
+// the schema endpoint regex `/v1/plugins$` (anchored end, no trailing slash).
+const PLUGINS_FILE    = join(V1_DIR, 'plugins');
 const MANIFEST_FILE   = join(CATALOG_DIR, 'manifest.json');
-const FIRST_PAGE_FILE = join(PLUGINS_DIR, 'index.json');
-const PROVIDER_PAGE   = join(PLUGINS_DIR, '%s.json');
+const OLD_PLUGINS_DIR = join(V1_DIR, 'plugins');
 
 // Schema constants — keep in lockstep with catalog-provider-page.schema.json.
 const SCHEMA_VERSION         = '1.0.0';
@@ -207,7 +219,11 @@ async function main() {
     seen.add(it.id);
   }
 
-  await mkdir(PLUGINS_DIR, { recursive: true });
+  await mkdir(V1_DIR, { recursive: true });
+  // Remove the previous `plugins/` directory layout if it survived from an
+  // older build. Without this the file write below would target a path that
+  // is still a directory on disk (legacy: docs/catalog/v1/plugins/index.json).
+  await rm(OLD_PLUGINS_DIR, { recursive: true, force: true });
 
   // Single-page snapshot. GitHub Pages cannot honor a query-string
   // cursor because it serves the same file regardless of `?cursor=...`
@@ -216,7 +232,7 @@ async function main() {
   // MAX_ITEMS_PER_PAGE and skip the cursor mechanism entirely.
   const pageItems = items.slice(0, MAX_ITEMS_PER_PAGE);
   const payload = buildPage(pageItems, undefined, pageItems.length);
-  await writeFile(FIRST_PAGE_FILE, JSON.stringify(payload, null, 2) + '\n');
+  await writeFile(PLUGINS_FILE, JSON.stringify(payload, null, 2) + '\n');
 
   // Manifest (catalog-source v1). Query capability advertisement: q,
   // category, limit. cursor is intentionally absent.
@@ -241,7 +257,7 @@ async function main() {
   };
   await writeFile(MANIFEST_FILE, JSON.stringify(manifest, null, 2) + '\n');
 
-  console.log(`OK catalog: ${pageItems.length} verified items → 1 single-page snapshot; manifest=${MANIFEST_URL}`);
+  console.log(`OK catalog: ${pageItems.length} verified items → 1 extension-less single-page snapshot; manifest=${MANIFEST_URL}; endpoint=${ENDPOINT_URL}`);
 }
 
 main().catch((e) => {

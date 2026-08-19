@@ -8,10 +8,10 @@
 // scripts/build-catalog.mjs itself:
 //   * manifest validates against catalog-source.schema.json (shape + URL rules)
 //   * first page validates against catalog-provider-page.schema.json
-//   * every page has ≤ 100 items, unique ids within and across pages
+//   * the single emitted page has ≤ 100 items with unique ids
 //   * every item has a repository field (path-A variant: repository-only)
 //   * no item carries install commands, scripts, HTML, or forbidden fields
-//   * nextCursor chains resolve to existing files until the last page
+//   * nextCursor is absent (single-page snapshot)
 //
 // Schema files are pulled from the anywhere-labs upstream at runtime, so
 // tests reflect the live contract. They fail fast and clearly if upstream
@@ -19,7 +19,7 @@
 
 import { test } from 'node:test';
 import { strict as assert } from 'node:assert';
-import { readFile, writeFile, mkdir, readdir, rm } from 'node:fs/promises';
+import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import { dirname, join } from 'node:path';
 import { tmpdir } from 'node:os';
@@ -168,7 +168,7 @@ test('catalog manifest validates against catalog-source.schema.json', async () =
 
 test('first page validates against catalog-provider-page.schema.json', async () => {
   const schema = await loadSchema('schemas/catalog-provider-page.schema.json');
-  const page = JSON.parse(await readFile(join(DOCS, 'v1', 'plugins', 'index.json'), 'utf-8'));
+  const page = JSON.parse(await readFile(join(DOCS, 'v1', 'plugins'), 'utf-8'));
   const validator = makeLocalValidator(schema);
   const r = validator.validate(page);
   assert.equal(r.ok, true, `first page: ${JSON.stringify(r.errors)}`);
@@ -178,44 +178,40 @@ test('first page validates against catalog-provider-page.schema.json', async () 
 });
 
 test('every emitted item is repository-only, has unique id, and carries no forbidden fields', async () => {
-  const pluginsDir = join(DOCS, 'v1', 'plugins');
+  // Single-page snapshot lives at the extension-less path v1/plugins so
+  // GitHub Pages does not 301-redirect /v1/plugins to /v1/plugins/.
+  const page = JSON.parse(await readFile(join(DOCS, 'v1', 'plugins'), 'utf-8'));
   const seenIds = new Set();
-  for (const name of await readdir(pluginsDir)) {
-    if (!name.endsWith('.json')) continue;
-    const page = JSON.parse(await readFile(join(pluginsDir, name), 'utf-8'));
-    assert.equal(page.schemaVersion, '1.0.0');
-    assert.ok(page.items.length <= 100, `${name}: too many items`);
-    for (const item of page.items) {
-      assert.ok(!seenIds.has(item.id), `duplicate id across pages: ${item.id}`);
-      seenIds.add(item.id);
-      // path-A repository-only — no npm package, no install surface.
-      assert.equal(item.package, undefined, `item ${item.id} unexpectedly has package`);
-      assert.ok(item.repository?.url?.startsWith('https://github.com/'));
-      // No remote code surface.
-      for (const forbidden of ['script', 'install', 'cmd', 'command', 'shell']) {
-        assert.equal(item[forbidden], undefined, `${item.id} carries forbidden field "${forbidden}"`);
-      }
-      // Plain-text fields must not include control/bidi codepoints.
-      for (const f of ['id', 'name', 'displayName', 'summary', 'license']) {
-        if (item[f] !== undefined) {
-          assert.doesNotMatch(item[f], /[\u0000-\u001F\u007F-\u009F\u202A-\u202E\u2066-\u2069]/,
-            `${item.id}.${f} contains control/bidi char`);
-        }
+  assert.equal(page.schemaVersion, '1.0.0');
+  assert.ok(page.items.length <= 100, `too many items`);
+  for (const item of page.items) {
+    assert.ok(!seenIds.has(item.id), `duplicate id across pages: ${item.id}`);
+    seenIds.add(item.id);
+    // path-A repository-only — no npm package, no install surface.
+    assert.equal(item.package, undefined, `item ${item.id} unexpectedly has package`);
+    assert.ok(item.repository?.url?.startsWith('https://github.com/'));
+    // No remote code surface.
+    for (const forbidden of ['script', 'install', 'cmd', 'command', 'shell']) {
+      assert.equal(item[forbidden], undefined, `${item.id} carries forbidden field "${forbidden}"`);
+    }
+    // Plain-text fields must not include control/bidi codepoints.
+    for (const f of ['id', 'name', 'displayName', 'summary', 'license']) {
+      if (item[f] !== undefined) {
+        assert.doesNotMatch(item[f], /[\u0000-\u001F\u007F-\u009F\u202A-\u202E\u2066-\u2069]/,
+          `${item.id}.${f} contains control/bidi char`);
       }
     }
   }
 });
 
 test('nextCursor is absent in the single-page snapshot', async () => {
-  const pluginsDir = join(DOCS, 'v1', 'plugins');
-  const first = JSON.parse(await readFile(join(pluginsDir, 'index.json'), 'utf-8'));
+  const first = JSON.parse(await readFile(join(DOCS, 'v1', 'plugins'), 'utf-8'));
   assert.equal(first.page.nextCursor, undefined,
     'single-page snapshot must not carry a nextCursor');
 });
 
 test('total count in first page equals the number of unique ids in that page', async () => {
-  const pluginsDir = join(DOCS, 'v1', 'plugins');
-  const first = JSON.parse(await readFile(join(pluginsDir, 'index.json'), 'utf-8'));
+  const first = JSON.parse(await readFile(join(DOCS, 'v1', 'plugins'), 'utf-8'));
   if (typeof first.page.total !== 'number') return;
   const ids = new Set(first.items.map((it) => it.id));
   assert.equal(ids.size, first.page.total, 'total must equal unique-id count in the single page');
