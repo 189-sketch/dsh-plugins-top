@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-08-19T05:12:35.000Z"
+      "updatedAt": "2026-08-19T05:16:24.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web-ui"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-19T05:02:40.000Z"
+      "updatedAt": "2026-08-19T05:38:48.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -118,7 +118,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T05:12:58.000Z"
+      "updatedAt": "2026-08-19T05:22:26.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -159,7 +159,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-08-19T05:04:03.000Z"
+      "updatedAt": "2026-08-19T05:36:39.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -243,7 +243,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-19T05:12:56.000Z"
+      "updatedAt": "2026-08-19T05:39:26.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -280,7 +280,7 @@
         "screenshot-testing",
         "gui-automation"
       ],
-      "updatedAt": "2026-08-18T19:23:29.000Z"
+      "updatedAt": "2026-08-19T05:37:43.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -300,7 +300,7 @@
         "spinner",
         "pi-coding-agent"
       ],
-      "updatedAt": "2026-08-18T00:21:56.000Z"
+      "updatedAt": "2026-08-19T05:30:56.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
@@ -442,7 +442,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-19T05:03:58.000Z"
+      "updatedAt": "2026-08-19T05:43:48.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -822,7 +822,7 @@
         "url": "https://github.com/Ruler4396/dsh-launcher"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T05:04:11.000Z"
+      "updatedAt": "2026-08-19T05:33:00.000Z"
     },
     {
       "id": "zhaoolee/notes",
@@ -1005,7 +1005,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-17T19:23:33.000Z"
+      "updatedAt": "2026-08-19T05:29:39.000Z"
     },
     {
       "id": "ZSeven-W/dsh-noema",
@@ -1026,6 +1026,16 @@
       "updatedAt": "2026-08-15T06:05:30.000Z"
     },
     {
+      "id": "kingOfSoySauce/dsh-liang-skin",
+      "name": "dsh-client-liang-intensity-skin",
+      "displayName": "dsh-liang-skin",
+      "summary": "DeepSeek Harness 滑动变阻器皮肤",
+      "repository": {
+        "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
+      },
+      "updatedAt": "2026-08-18T11:34:49.000Z"
+    },
+    {
       "id": "zh667/TokenLedger",
       "name": "dsh-tokenledger",
       "displayName": "TokenLedger",
@@ -1044,16 +1054,6 @@
         "relay-attribution"
       ],
       "updatedAt": "2026-08-17T09:36:20.000Z"
-    },
-    {
-      "id": "kingOfSoySauce/dsh-liang-skin",
-      "name": "dsh-client-liang-intensity-skin",
-      "displayName": "dsh-liang-skin",
-      "summary": "DeepSeek Harness 滑动变阻器皮肤",
-      "repository": {
-        "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
-      },
-      "updatedAt": "2026-08-18T11:34:49.000Z"
     },
     {
       "id": "NanmiCoder/dsh-auto-mode",
@@ -1171,25 +1171,6 @@
       "updatedAt": "2026-08-18T19:00:55.000Z"
     },
     {
-      "id": "beancookie/awesome-dsh-plugin",
-      "name": "awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "Awesome DeepSeek Harness (DSH) Plugin",
-      "repository": {
-        "url": "https://github.com/beancookie/awesome-dsh-plugin"
-      },
-      "license": "CC0-1.0",
-      "keywords": [
-        "awesome",
-        "awesome-list",
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "deepseek"
-      ],
-      "updatedAt": "2026-08-19T01:52:26.000Z"
-    },
-    {
       "id": "Sanqi-normal/dsh-webui-market-plugin",
       "name": "@sanqi-normal/dsh-webui-market-plugin",
       "displayName": "dsh-webui-market-plugin",
@@ -1207,6 +1188,25 @@
         "ui"
       ],
       "updatedAt": "2026-08-18T04:43:03.000Z"
+    },
+    {
+      "id": "beancookie/awesome-dsh-plugin",
+      "name": "awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "Awesome DeepSeek Harness (DSH) Plugin",
+      "repository": {
+        "url": "https://github.com/beancookie/awesome-dsh-plugin"
+      },
+      "license": "CC0-1.0",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "deepseek"
+      ],
+      "updatedAt": "2026-08-19T01:52:26.000Z"
     },
     {
       "id": "Tabbit-Browser/dsh-plugin",
@@ -1419,6 +1419,17 @@
       "updatedAt": "2026-08-18T14:54:28.000Z"
     },
     {
+      "id": "AITabby/dockyard-dsh",
+      "name": "@dockyard-dsh/plugin",
+      "displayName": "dockyard-dsh",
+      "summary": "A macOS-only native account-pool and provider plugin for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/AITabby/dockyard-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-17T20:19:56.000Z"
+    },
+    {
       "id": "labring/sealos-skills",
       "name": "sealos",
       "displayName": "sealos-skills",
@@ -1437,15 +1448,14 @@
       "updatedAt": "2026-08-14T06:36:11.000Z"
     },
     {
-      "id": "AITabby/dockyard-dsh",
-      "name": "@dockyard-dsh/plugin",
-      "displayName": "dockyard-dsh",
-      "summary": "A macOS-only native account-pool and provider plugin for DeepSeek Harness.",
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
       "repository": {
-        "url": "https://github.com/AITabby/dockyard-dsh"
+        "url": "https://github.com/howmp/dsh-pentest"
       },
-      "license": "MIT",
-      "updatedAt": "2026-08-17T20:19:56.000Z"
+      "updatedAt": "2026-08-16T05:32:07.000Z"
     },
     {
       "id": "cocode-agency/cocode",
@@ -1456,17 +1466,7 @@
         "url": "https://github.com/cocode-agency/cocode"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-19T00:19:49.000Z"
-    },
-    {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-08-16T05:32:07.000Z"
+      "updatedAt": "2026-08-19T05:40:31.000Z"
     },
     {
       "id": "oil-oil/dsh-vision",
@@ -1541,7 +1541,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-08-19T03:56:49.000Z"
+      "updatedAt": "2026-08-19T05:41:04.000Z"
     },
     {
       "id": "Vladimir-Human/ru-marketplace-mcp",
