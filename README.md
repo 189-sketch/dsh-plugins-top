@@ -20,11 +20,21 @@ DSH is an open ecosystem of composable plugins: skills, tools, themes, providers
 
 This project also publishes a [DSH Community Market standard catalog](https://github.com/anywhere-labs/deepseek-harness-desktop/blob/master/dsh-community-market/docs/catalog-provider-contract.md) — Path A, no Market code change required. The manifest tells any compliant Market host how to fetch our verified GitHub-plugin directory as a readonly, repository-only catalog.
 
+The catalog is served from **two** URLs (same content, mirror). Use the Cloudflare Worker URL as the primary — it sets `Content-Type: application/json` for the extension-less `/v1/plugins` endpoint that the runtime requires. The GitHub Pages URL stays reachable as a read-only mirror.
+
 ```text
-Manifest URL : https://189-sketch.github.io/dsh-plugins-top/catalog/manifest.json
-Endpoint     : https://189-sketch.github.io/dsh-plugins-top/catalog/v1/plugins
-Self-hosted  : override via CATALOG_BASE_URL when running the build
+Primary  (Cloudflare Worker)
+  Manifest : https://dsh-plugins-top.charlie901030.workers.dev/catalog/manifest.json
+  Endpoint : https://dsh-plugins-top.charlie901030.workers.dev/catalog/v1/plugins
+
+Mirror   (GitHub Pages — historical, no Content-Type fix)
+  Manifest : https://189-sketch.github.io/dsh-plugins-top/catalog/manifest.json
+  Endpoint : https://189-sketch.github.io/dsh-plugins-top/catalog/v1/plugins
+
+Self-host : override via CATALOG_BASE_URL when running scripts/build-catalog.mjs
 ```
+
+> **Why the mirror is not the primary**: GitHub Pages 301-redirects `/v1/plugins` to `/v1/plugins/` (directory-index behavior) AND serves extension-less files with `Content-Type: application/octet-stream`. Both break the runtime (`catalog-provider-contract.zh.md` requires the final URL to match the schema regex `/v1/plugins$` and a JSON Content-Type). The Worker side dodges both: no directory redirect and a Transform Rule pins `Content-Type: application/json`.
 
 The catalog only contains **`verified`** entries (definitive evidence — `dsh` field in `package.json`, `cordis.patch.yml` / `dsh.plugin.json`, or install-CLI docs in the README). Items are **repository-only**: Market will show them in the browse-only lane (same status as dshfind today) and never auto-install. No install command, no script, no shell fragment is ever emitted — the contract forbids it.
 

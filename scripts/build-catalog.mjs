@@ -57,8 +57,16 @@ const HTTPS_URI_PATTERN      = /^https:\/\/(?![^/?#]*@)(?![^/?#]*:)[^#]+$/;
 // Manifest URL is determined by where the project is hosted. Public consumers
 // (e.g. DSH Community Market) only need the manifest URL — they fetch the
 // page JSON from the declared endpoint, which lives at the same origin.
+// Default base URL is the Cloudflare Worker that fronts this catalog
+// (https://dsh-plugins-top.charlie901030.workers.dev). The Worker proxies
+// `/catalog/v1/plugins` and `/catalog/manifest.json` from GitHub Pages, but
+// the Worker host is the one where the DSH Community Market runtime can
+// fetch the endpoint with a non-empty Content-Type. The Worker is expected
+// to set `Content-Type: application/json` for both paths via a Transform
+// Rule; GitHub Pages stays reachable as a read-only mirror and still serves
+// the same content.
 const SITE_BASE_URL = process.env.CATALOG_BASE_URL
-  || 'https://189-sketch.github.io/dsh-plugins-top';
+  || 'https://dsh-plugins-top.charlie901030.workers.dev';
 const MANIFEST_URL = `${SITE_BASE_URL}/catalog/manifest.json`;
 const ENDPOINT_URL = `${SITE_BASE_URL}/catalog/v1/plugins`;
 

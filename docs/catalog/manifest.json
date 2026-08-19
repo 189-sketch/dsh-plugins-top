@@ -3,15 +3,15 @@
   "providerId": "community.dsh-plugins-top",
   "name": "DSH Plugins Top",
   "description": "Auto-updated leaderboard of public GitHub repositories carrying the `dsh-plugin` topic, verified against real plugin evidence.",
-  "homepage": "https://189-sketch.github.io/dsh-plugins-top",
+  "homepage": "https://dsh-plugins-top.charlie901030.workers.dev",
   "attribution": {
     "name": "dsh-plugins-top",
-    "url": "https://189-sketch.github.io/dsh-plugins-top",
+    "url": "https://dsh-plugins-top.charlie901030.workers.dev",
     "notice": "Auto-updated leaderboard of public GitHub repositories that declare themselves as DeepSeek Harness (DSH) plugins. Verified evidence: a `dsh` field in package.json, `cordis.patch.yml` / `dsh.plugin.json` at repo root, or install-CLI documentation in the README."
   },
   "transport": {
     "kind": "https-json",
-    "endpoint": "https://189-sketch.github.io/dsh-plugins-top/catalog/v1/plugins",
+    "endpoint": "https://dsh-plugins-top.charlie901030.workers.dev/catalog/v1/plugins",
     "method": "GET"
   },
   "query": {
