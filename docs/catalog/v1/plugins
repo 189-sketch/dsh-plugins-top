@@ -51,7 +51,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-20T18:12:47.000Z"
+      "updatedAt": "2026-08-20T20:22:57.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web-ui",
@@ -96,7 +96,7 @@
         "multimodal",
         "modlens"
       ],
-      "updatedAt": "2026-08-20T14:19:24.000Z"
+      "updatedAt": "2026-08-20T20:05:55.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -118,7 +118,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-20T18:15:11.000Z"
+      "updatedAt": "2026-08-20T20:07:04.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -232,7 +232,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-20T18:19:46.000Z"
+      "updatedAt": "2026-08-20T19:49:10.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -269,7 +269,7 @@
         "screenshot-testing",
         "gui-automation"
       ],
-      "updatedAt": "2026-08-20T14:40:27.000Z"
+      "updatedAt": "2026-08-20T20:25:42.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -280,7 +280,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-20T15:30:05.000Z"
+      "updatedAt": "2026-08-20T19:27:46.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -524,7 +524,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-20T16:05:57.000Z"
+      "updatedAt": "2026-08-20T19:06:03.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -741,6 +741,17 @@
       "updatedAt": "2026-08-20T06:26:23.000Z"
     },
     {
+      "id": "Devin-AXIS/deepseek-design",
+      "name": "Devin-AXIS/deepseek-design",
+      "displayName": "deepseek-design",
+      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/deepseek-design"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-08-18T09:54:38.000Z"
+    },
+    {
       "id": "QCYTSN/dsh-dafeiyu",
       "name": "dsh-dafeiyu",
       "displayName": "dsh-dafeiyu",
@@ -756,17 +767,6 @@
         "agent-companion"
       ],
       "updatedAt": "2026-08-20T01:29:02.000Z"
-    },
-    {
-      "id": "Devin-AXIS/deepseek-design",
-      "name": "Devin-AXIS/deepseek-design",
-      "displayName": "deepseek-design",
-      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/deepseek-design"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-18T09:54:38.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -789,7 +789,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-08-20T17:31:30.000Z"
+      "updatedAt": "2026-08-20T20:06:00.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-visualize",
@@ -1051,7 +1051,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-20T18:34:26.000Z"
+      "updatedAt": "2026-08-20T20:23:23.000Z"
     },
     {
       "id": "ZSeven-W/dsh-openpencil",
@@ -1079,7 +1079,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-20T17:20:17.000Z"
+      "updatedAt": "2026-08-20T19:32:58.000Z"
     },
     {
       "id": "yjh051108/dsh-super-injector",
@@ -1271,7 +1271,38 @@
         "windows",
         "powershell"
       ],
-      "updatedAt": "2026-08-19T17:49:27.000Z"
+      "updatedAt": "2026-08-20T19:14:27.000Z"
+    },
+    {
+      "id": "xmanrui/dsh-im",
+      "name": "@xmanrui/dsh-im",
+      "displayName": "dsh-im",
+      "summary": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
+      "repository": {
+        "url": "https://github.com/xmanrui/dsh-im"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ai-agent",
+        "im",
+        "instant-messaging",
+        "chatbot",
+        "feishu",
+        "lark",
+        "wechat",
+        "wecom",
+        "dingtalk",
+        "qq",
+        "slack",
+        "telegram",
+        "discord",
+        "whatsapp",
+        "ai-office"
+      ],
+      "updatedAt": "2026-08-20T20:24:02.000Z"
     },
     {
       "id": "omdsh-dev/dsh-data-agent",
@@ -1311,37 +1342,6 @@
         "cordis"
       ],
       "updatedAt": "2026-08-19T16:46:32.000Z"
-    },
-    {
-      "id": "xmanrui/dsh-im",
-      "name": "@xmanrui/dsh-im",
-      "displayName": "dsh-im",
-      "summary": "通过扫码或机器人凭据把IM机器人接入DeepSeek Harness（支持飞书、微信、钉钉、企业微信、QQ、Slack、Telegram、Discord和WhatsApp）。 Connect IM bots to DeepSeek Harness via QR code or credentials (9 channels).",
-      "repository": {
-        "url": "https://github.com/xmanrui/dsh-im"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ai-agent",
-        "im",
-        "instant-messaging",
-        "chatbot",
-        "feishu",
-        "lark",
-        "wechat",
-        "wecom",
-        "dingtalk",
-        "qq",
-        "slack",
-        "telegram",
-        "discord",
-        "whatsapp",
-        "ai-office"
-      ],
-      "updatedAt": "2026-08-20T17:12:18.000Z"
     },
     {
       "id": "Ychris12138/dsh-usage-stats",
@@ -1399,6 +1399,26 @@
       "updatedAt": "2026-08-18T04:43:03.000Z"
     },
     {
+      "id": "Anionex/dsh-turn-rewind",
+      "name": "@anionex/dsh-turn-rewind",
+      "displayName": "dsh-turn-rewind",
+      "summary": "deepseek harness对话和代码状态回退插件 | DSH — rewind conversation and workspace state, powered by a persistent Change Ledger",
+      "repository": {
+        "url": "https://github.com/Anionex/dsh-turn-rewind"
+      },
+      "license": "BSD-3-Clause",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "cordis",
+        "restore-point",
+        "workspace",
+        "change-ledger",
+        "turn-rewind"
+      ],
+      "updatedAt": "2026-08-16T17:17:17.000Z"
+    },
+    {
       "id": "HanaAyane/dsh-reasoning-effort",
       "name": "dsh-reasoning-effort",
       "displayName": "dsh-reasoning-effort",
@@ -1431,26 +1451,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-20T05:39:33.000Z"
-    },
-    {
-      "id": "Anionex/dsh-turn-rewind",
-      "name": "@anionex/dsh-turn-rewind",
-      "displayName": "dsh-turn-rewind",
-      "summary": "deepseek harness对话和代码状态回退插件 | DSH — rewind conversation and workspace state, powered by a persistent Change Ledger",
-      "repository": {
-        "url": "https://github.com/Anionex/dsh-turn-rewind"
-      },
-      "license": "BSD-3-Clause",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "cordis",
-        "restore-point",
-        "workspace",
-        "change-ledger",
-        "turn-rewind"
-      ],
-      "updatedAt": "2026-08-16T17:17:17.000Z"
     },
     {
       "id": "oil-oil/dsh-oil-creator",
@@ -1518,7 +1518,7 @@
         "url": "https://github.com/cocode-agency/cocode"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-20T18:35:26.000Z"
+      "updatedAt": "2026-08-20T18:57:09.000Z"
     },
     {
       "id": "Nwflower/dsh-chat-import",
