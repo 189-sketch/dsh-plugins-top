@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [uckkk/dsh-azerbaijan](https://github.com/uckkk/dsh-azerbaijan) | ⭐ 0 | ✅ | 阿塞拜疆国家 | `other` |
-| #2 | [uckkk/dsh-austria](https://github.com/uckkk/dsh-austria) | ⭐ 0 | ✅ | 奥地利国家 | `other` |
-| #3 | [uckkk/dsh-australia](https://github.com/uckkk/dsh-australia) | ⭐ 0 | ✅ | 澳大利亚国家 | `other` |
-| #4 | [uckkk/dsh-render-time](https://github.com/uckkk/dsh-render-time) | ⭐ 0 | ✅ | 渲染时间估算 | `other` |
-| #5 | [uckkk/dsh-audio-bitrate](https://github.com/uckkk/dsh-audio-bitrate) | ⭐ 0 | ✅ | 音频比特率 | `other` |
-| #6 | [uckkk/dsh-astronomy-terms](https://github.com/uckkk/dsh-astronomy-terms) | ⭐ 0 | ✅ | 天文学术语 | `other` |
-| #7 | [uckkk/dsh-frame-rate](https://github.com/uckkk/dsh-frame-rate) | ⭐ 0 | ✅ | 帧率选择 | `other` |
-| #8 | [uckkk/dsh-astatine](https://github.com/uckkk/dsh-astatine) | ⭐ 0 | ✅ | 砹元素 | `other` |
-| #9 | [ERVeepp/dsh-plugins](https://github.com/ERVeepp/dsh-plugins) | ⭐ 0 | ✅ |  | `other` |
-| #10 | [uckkk/dsh-live-bitrate](https://github.com/uckkk/dsh-live-bitrate) | ⭐ 0 | ✅ | 直播码率 | `other` |
-| #11 | [qslowprofile/dsh-session-nexus](https://github.com/qslowprofile/dsh-session-nexus) | ⭐ 0 | ✅ | Unofficial DeepSeek Harness plugin — sessions as addressable, first-class citizens: lifecycle controls + cross-session messaging. Companion to deepseek-harness#3640 | `ui-panel` |
-| #12 | [uckkk/dsh-bitrate-choice](https://github.com/uckkk/dsh-bitrate-choice) | ⭐ 0 | ✅ | 码率选择 | `other` |
-| #13 | [jiaererw/dsh-plugin-chrome](https://github.com/jiaererw/dsh-plugin-chrome) | ⭐ 0 | ✅ | DeepSeek Harness browser visualization plugin: a visible Chrome window per session, 16 chrome_* agent tools, live view in the Web GUI. 浏览器可视化插件：每会话一个可见 Chrome 窗口，16 个 chrome_* 工具与实时画面。 | `ui-panel` |
-| #14 | [Trewyn/dsh-host-update](https://github.com/Trewyn/dsh-host-update) | ⭐ 0 | ✅ | DSH宿主本体自动更新插件 —— 侧边栏独立入口，检测 @deepseek-ai/dsh 更新、一键静默更新并重启，并对当前 profile 的插件做兼容性诊断 | `ui-panel` |
-| #15 | [uckkk/dsh-video-size](https://github.com/uckkk/dsh-video-size) | ⭐ 0 | ✅ | 视频文件大小 | `other` |
-| #16 | [uckkk/dsh-art-terms](https://github.com/uckkk/dsh-art-terms) | ⭐ 0 | ✅ | 艺术术语 | `other` |
-| #17 | [mscnegocio-del/dsh-espanol](https://github.com/mscnegocio-del/dsh-espanol) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #18 | [uckkk/dsh-arsenic](https://github.com/uckkk/dsh-arsenic) | ⭐ 0 | ✅ | 砷元素 | `other` |
-| #19 | [uckkk/dsh-armenia](https://github.com/uckkk/dsh-armenia) | ⭐ 0 | ✅ | 亚美尼亚国家 | `other` |
-| #20 | [uckkk/dsh-argon](https://github.com/uckkk/dsh-argon) | ⭐ 0 | ✅ | 氩元素 | `other` |
-| #21 | [uckkk/dsh-fire-safety](https://github.com/uckkk/dsh-fire-safety) | ⭐ 0 | ✅ | 露营用火安全 | `other` |
-| #22 | [uckkk/dsh-argentina](https://github.com/uckkk/dsh-argentina) | ⭐ 0 | ✅ | 阿根廷国家 | `other` |
-| #23 | [uckkk/dsh-property-tax](https://github.com/uckkk/dsh-property-tax) | ⭐ 0 | ✅ | 物业费估算 | `other` |
-| #24 | [uckkk/dsh-stain-mix](https://github.com/uckkk/dsh-stain-mix) | ⭐ 0 | ✅ | 自制清洁配方 | `other` |
-| #25 | [uckkk/dsh-bundle-calc](https://github.com/uckkk/dsh-bundle-calc) | ⭐ 0 | ✅ | 套餐设计 | `other` |
-| #26 | [uckkk/dsh-camp-food](https://github.com/uckkk/dsh-camp-food) | ⭐ 0 | ✅ | 露营食物准备 | `other` |
-| #27 | [bluelightgit/dsh-remote-access](https://github.com/bluelightgit/dsh-remote-access) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #28 | [uckkk/dsh-kids-swim](https://github.com/uckkk/dsh-kids-swim) | ⭐ 0 | ✅ | 儿童游泳建议 | `other` |
-| #29 | [uckkk/dsh-wedding-timeline](https://github.com/uckkk/dsh-wedding-timeline) | ⭐ 0 | ✅ | 婚礼时间线 | `other` |
-| #30 | [uckkk/dsh-trade-in](https://github.com/uckkk/dsh-trade-in) | ⭐ 0 | ✅ | 换房置换 | `other` |
+| #1 | [uckkk/dsh-pet-pill](https://github.com/uckkk/dsh-pet-pill) | ⭐ 0 | ✅ | 宠物喂药 | `other` |
+| #2 | [uckkk/dsh-practice-plan](https://github.com/uckkk/dsh-practice-plan) | ⭐ 0 | ✅ | 练琴计划 | `other` |
+| #3 | [uckkk/dsh-dough-mix](https://github.com/uckkk/dsh-dough-mix) | ⭐ 0 | ✅ | 和面比例 | `other` |
+| #4 | [uckkk/dsh-cafe-start](https://github.com/uckkk/dsh-cafe-start) | ⭐ 0 | ✅ | 咖啡店启动测算 | `other` |
+| #5 | [uckkk/dsh-float-setup](https://github.com/uckkk/dsh-float-setup) | ⭐ 0 | ✅ | 调漂入门 | `other` |
+| #6 | [uckkk/dsh-hanfu-style](https://github.com/uckkk/dsh-hanfu-style) | ⭐ 0 | ✅ | 汉服形制选择 | `other` |
+| #7 | [uckkk/dsh-breath-tech](https://github.com/uckkk/dsh-breath-tech) | ⭐ 0 | ✅ | 呼吸法指导 | `other` |
+| #8 | [uckkk/dsh-scent-pick](https://github.com/uckkk/dsh-scent-pick) | ⭐ 0 | ✅ | 香调场景选择 | `other` |
+| #9 | [uckkk/dsh-pot-base](https://github.com/uckkk/dsh-pot-base) | ⭐ 0 | ✅ | 火锅锅底选择 | `other` |
+| #10 | [uckkk/dsh-watch-maintain](https://github.com/uckkk/dsh-watch-maintain) | ⭐ 0 | ✅ | 手表保养 | `other` |
+| #11 | [uckkk/dsh-bait-pick](https://github.com/uckkk/dsh-bait-pick) | ⭐ 0 | ✅ | 鱼饵选择 | `other` |
+| #12 | [uckkk/dsh-declutter-decide](https://github.com/uckkk/dsh-declutter-decide) | ⭐ 0 | ✅ | 断舍离决策 | `other` |
+| #13 | [uckkk/dsh-fert-plan](https://github.com/uckkk/dsh-fert-plan) | ⭐ 0 | ✅ | 施肥方案 | `other` |
+| #14 | [uckkk/dsh-metronome](https://github.com/uckkk/dsh-metronome) | ⭐ 0 | ✅ | 节拍练习 | `other` |
+| #15 | [uckkk/dsh-bulgaria](https://github.com/uckkk/dsh-bulgaria) | ⭐ 0 | ✅ | 保加利亚国家 | `other` |
+| #16 | [uckkk/dsh-candle-make](https://github.com/uckkk/dsh-candle-make) | ⭐ 0 | ✅ | 香薰蜡烛配方 | `other` |
+| #17 | [uckkk/dsh-tent-pick](https://github.com/uckkk/dsh-tent-pick) | ⭐ 0 | ✅ | 帐篷选择 | `other` |
+| #18 | [uckkk/dsh-stretch-plan](https://github.com/uckkk/dsh-stretch-plan) | ⭐ 0 | ✅ | 运动拉伸计划 | `other` |
+| #19 | [uckkk/dsh-fish-weather](https://github.com/uckkk/dsh-fish-weather) | ⭐ 0 | ✅ | 出钓天气判断 | `other` |
+| #20 | [uckkk/dsh-toilet-train](https://github.com/uckkk/dsh-toilet-train) | ⭐ 0 | ✅ | 如厕训练 | `other` |
+| #21 | [uckkk/dsh-cutting-guide](https://github.com/uckkk/dsh-cutting-guide) | ⭐ 0 | ✅ | 扦插繁殖指南 | `other` |
+| #22 | [uckkk/dsh-guitar-chord](https://github.com/uckkk/dsh-guitar-chord) | ⭐ 0 | ✅ | 吉他调性和弦 | `other` |
+| #23 | [uckkk/dsh-diffuser-use](https://github.com/uckkk/dsh-diffuser-use) | ⭐ 0 | ✅ | 香薰机用量 | `other` |
+| #24 | [uckkk/dsh-pose-pick](https://github.com/uckkk/dsh-pose-pick) | ⭐ 0 | ✅ | 瑜伽体式选择 | `other` |
+| #25 | [uckkk/dsh-fear-pet](https://github.com/uckkk/dsh-fear-pet) | ⭐ 0 | ✅ | 恐惧缓解 | `other` |
+| #26 | [uckkk/dsh-aggression](https://github.com/uckkk/dsh-aggression) | ⭐ 0 | ✅ | 攻击行为 | `other` |
+| #27 | [uckkk/dsh-eo-dilute](https://github.com/uckkk/dsh-eo-dilute) | ⭐ 0 | ✅ | 精油稀释计算 | `other` |
+| #28 | [uckkk/dsh-prune-guide](https://github.com/uckkk/dsh-prune-guide) | ⭐ 0 | ✅ | 修剪指南 | `other` |
+| #29 | [zaimokuza-yoshiteru/dsh-theme-library](https://github.com/zaimokuza-yoshiteru/dsh-theme-library) | ⭐ 0 | ✅ | Extensible animated theme library for DeepSeek Harness | `skin` |
+| #30 | [uckkk/dsh-picky-eat](https://github.com/uckkk/dsh-picky-eat) | ⭐ 0 | ✅ | 挑食纠正 | `other` |
