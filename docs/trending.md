@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [uckkk/dsh-clean-plan2](https://github.com/uckkk/dsh-clean-plan2) | ⭐ 0 | ✅ | 清洁计划 | `other` |
-| #2 | [uckkk/dsh-amb-light](https://github.com/uckkk/dsh-amb-light) | ⭐ 0 | ✅ | 氛围照明 | `other` |
-| #3 | [uckkk/dsh-pet-teeth](https://github.com/uckkk/dsh-pet-teeth) | ⭐ 0 | ✅ | 口腔健康 | `other` |
-| #4 | [uckkk/dsh-wall-fix](https://github.com/uckkk/dsh-wall-fix) | ⭐ 0 | ✅ | 墙面修补 | `other` |
-| #5 | [uckkk/dsh-hidden-storage](https://github.com/uckkk/dsh-hidden-storage) | ⭐ 0 | ✅ | 隐形收纳 | `other` |
-| #6 | [uckkk/dsh-wash-machine](https://github.com/uckkk/dsh-wash-machine) | ⭐ 0 | ✅ | 洗地机 | `other` |
-| #7 | [uckkk/dsh-wall-art](https://github.com/uckkk/dsh-wall-art) | ⭐ 0 | ✅ | 挂画摆放 | `other` |
-| #8 | [uckkk/dsh-reading-light](https://github.com/uckkk/dsh-reading-light) | ⭐ 0 | ✅ | 阅读灯光 | `other` |
-| #9 | [uckkk/dsh-new-home-check](https://github.com/uckkk/dsh-new-home-check) | ⭐ 0 | ✅ | 新家验收 | `other` |
-| #10 | [uckkk/dsh-purifier](https://github.com/uckkk/dsh-purifier) | ⭐ 0 | ✅ | 净水器选购 | `other` |
-| #11 | [uckkk/dsh-lab-check](https://github.com/uckkk/dsh-lab-check) | ⭐ 0 | ✅ | 体检指标 | `other` |
-| #12 | [uckkk/dsh-senior-pet](https://github.com/uckkk/dsh-senior-pet) | ⭐ 0 | ✅ | 老年宠物 | `other` |
-| #13 | [uckkk/dsh-furniture-fix](https://github.com/uckkk/dsh-furniture-fix) | ⭐ 0 | ✅ | 家具维修 | `other` |
-| #14 | [uckkk/dsh-hike-safe](https://github.com/uckkk/dsh-hike-safe) | ⭐ 0 | ✅ | 徒步安全 | `other` |
-| #15 | [infosave2007/cortiq-router](https://github.com/infosave2007/cortiq-router) | ⭐ 0 | ✅ | Smart LLM request router for DeepSeek Harness — classifies prompts by task type and complexity via the allaigate semantic router, then dispatches to the best-suited model | `other` |
-| #16 | [uckkk/dsh-claim](https://github.com/uckkk/dsh-claim) | ⭐ 0 | ✅ | 理赔流程 | `other` |
-| #17 | [uckkk/dsh-balcony-make](https://github.com/uckkk/dsh-balcony-make) | ⭐ 0 | ✅ | 阳台改造 | `other` |
-| #18 | [uckkk/dsh-steam-mop](https://github.com/uckkk/dsh-steam-mop) | ⭐ 0 | ✅ | 蒸汽拖把 | `other` |
-| #19 | [uckkk/dsh-rug-pick](https://github.com/uckkk/dsh-rug-pick) | ⭐ 0 | ✅ | 地毯选择 | `other` |
-| #20 | [uckkk/dsh-move-day](https://github.com/uckkk/dsh-move-day) | ⭐ 0 | ✅ | 搬家当日 | `other` |
-| #21 | [uckkk/dsh-bike-care](https://github.com/uckkk/dsh-bike-care) | ⭐ 0 | ✅ | 自行车保养 | `other` |
-| #22 | [uckkk/dsh-bulb-buy](https://github.com/uckkk/dsh-bulb-buy) | ⭐ 0 | ✅ | 灯泡选购 | `other` |
-| #23 | [uckkk/dsh-family-gather](https://github.com/uckkk/dsh-family-gather) | ⭐ 0 | ✅ | 家庭聚会 | `other` |
-| #24 | [uckkk/dsh-poison-aid](https://github.com/uckkk/dsh-poison-aid) | ⭐ 0 | ✅ | 中毒急救 | `other` |
-| #25 | [uckkk/dsh-water-heater](https://github.com/uckkk/dsh-water-heater) | ⭐ 0 | ✅ | 热水器选购 | `other` |
-| #26 | [uckkk/dsh-vertical-org](https://github.com/uckkk/dsh-vertical-org) | ⭐ 0 | ✅ | 垂直收纳 | `other` |
-| #27 | [uckkk/dsh-pet-diet](https://github.com/uckkk/dsh-pet-diet) | ⭐ 0 | ✅ | 减肥计划 | `other` |
-| #28 | [uckkk/dsh-mover-pick](https://github.com/uckkk/dsh-mover-pick) | ⭐ 0 | ✅ | 搬家公司 | `other` |
-| #29 | [uckkk/dsh-fatigue](https://github.com/uckkk/dsh-fatigue) | ⭐ 0 | ✅ | 疲劳自测 | `other` |
-| #30 | [uckkk/dsh-no-main-light](https://github.com/uckkk/dsh-no-main-light) | ⭐ 0 | ✅ | 无主灯方案 | `other` |
+| #1 | [uckkk/dsh-big-purchase](https://github.com/uckkk/dsh-big-purchase) | ⭐ 0 | ✅ | 大额消费决策 | `other` |
+| #2 | [uckkk/dsh-beer-pick](https://github.com/uckkk/dsh-beer-pick) | ⭐ 0 | ✅ | 啤酒选择 | `other` |
+| #3 | [uckkk/dsh-best-time](https://github.com/uckkk/dsh-best-time) | ⭐ 0 | ✅ | 最佳发布时间 | `other` |
+| #4 | [uckkk/dsh-bean-choice](https://github.com/uckkk/dsh-bean-choice) | ⭐ 0 | ✅ | 选豆建议 | `other` |
+| #5 | [uckkk/dsh-congo-dr](https://github.com/uckkk/dsh-congo-dr) | ⭐ 0 | ✅ | 刚果民主共和国国家 | `other` |
+| #6 | [uckkk/dsh-combination](https://github.com/uckkk/dsh-combination) | ⭐ 0 | ✅ | 组合数 | `other` |
+| #7 | [uckkk/dsh-basic-training](https://github.com/uckkk/dsh-basic-training) | ⭐ 0 | ✅ | 基础训练 | `other` |
+| #8 | [Biobuilder-ai/dsh-plugin-ui-toggle](https://github.com/Biobuilder-ai/dsh-plugin-ui-toggle) | ⭐ 0 | ✅ | deepseek-harness的插件，可以在web页面直接开关插件，轻量方便 | `ui-panel` |
+| #9 | [uckkk/dsh-colombia](https://github.com/uckkk/dsh-colombia) | ⭐ 0 | ✅ | 哥伦比亚国家 | `other` |
+| #10 | [uckkk/dsh-barking-fix](https://github.com/uckkk/dsh-barking-fix) | ⭐ 0 | ✅ | 吠叫纠正 | `other` |
+| #11 | [uckkk/dsh-cobalt](https://github.com/uckkk/dsh-cobalt) | ⭐ 0 | ✅ | 钴元素 | `other` |
+| #12 | [uckkk/dsh-climate-terms](https://github.com/uckkk/dsh-climate-terms) | ⭐ 0 | ✅ | 气候术语 | `other` |
+| #13 | [uckkk/dsh-circuit-plan](https://github.com/uckkk/dsh-circuit-plan) | ⭐ 0 | ✅ | 电路回路规划 | `other` |
+| #14 | [uckkk/dsh-baijiu-pick](https://github.com/uckkk/dsh-baijiu-pick) | ⭐ 0 | ✅ | 白酒选择 | `other` |
+| #15 | [Mikoribbit/odsh-bridge](https://github.com/Mikoribbit/odsh-bridge) | ⭐ 0 | ✅ | A bridge that connects Openclaw and DeepSeek Harness | `other` |
+| #16 | [uckkk/dsh-chromium](https://github.com/uckkk/dsh-chromium) | ⭐ 0 | ✅ | 铬元素 | `other` |
+| #17 | [uckkk/dsh-chlorine](https://github.com/uckkk/dsh-chlorine) | ⭐ 0 | ✅ | 氯元素 | `other` |
+| #18 | [uckkk/dsh-china](https://github.com/uckkk/dsh-china) | ⭐ 0 | ✅ | 中国国家 | `other` |
+| #19 | [uckkk/dsh-chile](https://github.com/uckkk/dsh-chile) | ⭐ 0 | ✅ | 智利国家 | `other` |
+| #20 | [uckkk/dsh-back-care](https://github.com/uckkk/dsh-back-care) | ⭐ 0 | ✅ | 腰背护理 | `other` |
+| #21 | [uckkk/dsh-chicago-city](https://github.com/uckkk/dsh-chicago-city) | ⭐ 0 | ✅ | 芝加哥市 | `other` |
+| #22 | [uckkk/dsh-baby-fever](https://github.com/uckkk/dsh-baby-fever) | ⭐ 0 | ✅ | 宝宝发烧 | `other` |
+| #23 | [uckkk/dsh-chemistry-terms](https://github.com/uckkk/dsh-chemistry-terms) | ⭐ 0 | ✅ | 化学术语 | `other` |
+| #24 | [uckkk/dsh-cerium](https://github.com/uckkk/dsh-cerium) | ⭐ 0 | ✅ | 铈元素 | `other` |
+| #25 | [uckkk/dsh-antibiotic](https://github.com/uckkk/dsh-antibiotic) | ⭐ 0 | ✅ | 抗生素使用 | `other` |
+| #26 | [uckkk/dsh-cat-age](https://github.com/uckkk/dsh-cat-age) | ⭐ 0 | ✅ | 猫龄换算 | `other` |
+| #27 | [uckkk/dsh-anti-slip](https://github.com/uckkk/dsh-anti-slip) | ⭐ 0 | ✅ | 防滑措施 | `other` |
+| #28 | [uckkk/dsh-diy-safe](https://github.com/uckkk/dsh-diy-safe) | ⭐ 0 | ✅ | DIY安全 | `other` |
+| #29 | [uckkk/dsh-amb-light](https://github.com/uckkk/dsh-amb-light) | ⭐ 0 | ✅ | 氛围照明 | `other` |
+| #30 | [uckkk/dsh-pet-teeth](https://github.com/uckkk/dsh-pet-teeth) | ⭐ 0 | ✅ | 口腔健康 | `other` |

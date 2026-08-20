@@ -51,7 +51,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-20T20:22:57.000Z"
+      "updatedAt": "2026-08-20T21:07:01.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web-ui",
@@ -118,7 +118,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-20T20:07:04.000Z"
+      "updatedAt": "2026-08-20T21:51:57.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -269,7 +269,7 @@
         "screenshot-testing",
         "gui-automation"
       ],
-      "updatedAt": "2026-08-20T20:25:42.000Z"
+      "updatedAt": "2026-08-20T20:50:05.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -524,7 +524,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-20T19:06:03.000Z"
+      "updatedAt": "2026-08-20T21:48:15.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -709,17 +709,6 @@
       "updatedAt": "2026-08-20T13:45:23.000Z"
     },
     {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-19T15:34:39.000Z"
-    },
-    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -739,6 +728,17 @@
         "grok"
       ],
       "updatedAt": "2026-08-20T06:26:23.000Z"
+    },
+    {
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "repository": {
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-19T15:34:39.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -854,17 +854,6 @@
       "updatedAt": "2026-08-20T07:29:09.000Z"
     },
     {
-      "id": "Ruler4396/dsh-launcher",
-      "name": "Ruler4396/dsh-launcher",
-      "displayName": "dsh-launcher",
-      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
-      "repository": {
-        "url": "https://github.com/Ruler4396/dsh-launcher"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-20T13:24:04.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -881,6 +870,17 @@
         "web-fetch"
       ],
       "updatedAt": "2026-08-19T08:21:29.000Z"
+    },
+    {
+      "id": "Ruler4396/dsh-launcher",
+      "name": "Ruler4396/dsh-launcher",
+      "displayName": "dsh-launcher",
+      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
+      "repository": {
+        "url": "https://github.com/Ruler4396/dsh-launcher"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-20T13:24:04.000Z"
     },
     {
       "id": "ningbainb/deepseek-harness-desktop",
@@ -991,7 +991,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-20T16:34:30.000Z"
+      "updatedAt": "2026-08-20T21:44:58.000Z"
     },
     {
       "id": "liceses/dsh-gitbash-preset",
@@ -1079,7 +1079,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-20T19:32:58.000Z"
+      "updatedAt": "2026-08-20T21:12:08.000Z"
     },
     {
       "id": "yjh051108/dsh-super-injector",
@@ -1249,31 +1249,6 @@
       "updatedAt": "2026-08-13T13:58:54.000Z"
     },
     {
-      "id": "lire1131/dsh-undo-savepoint",
-      "name": "dsh-undo-savepoint",
-      "displayName": "dsh-undo-savepoint",
-      "summary": "DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot.",
-      "repository": {
-        "url": "https://github.com/lire1131/dsh-undo-savepoint"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "plugin",
-        "undo",
-        "redo",
-        "rollback",
-        "snapshot",
-        "backup",
-        "crash-recovery",
-        "safe-mode",
-        "windows",
-        "powershell"
-      ],
-      "updatedAt": "2026-08-20T19:14:27.000Z"
-    },
-    {
       "id": "xmanrui/dsh-im",
       "name": "@xmanrui/dsh-im",
       "displayName": "dsh-im",
@@ -1303,6 +1278,31 @@
         "ai-office"
       ],
       "updatedAt": "2026-08-20T20:24:02.000Z"
+    },
+    {
+      "id": "lire1131/dsh-undo-savepoint",
+      "name": "dsh-undo-savepoint",
+      "displayName": "dsh-undo-savepoint",
+      "summary": "DSH crash-rescue plugin: undo config & plugin-code changes, secret-safe snapshots, one-click SAFE MODE, plus offline CLI/GUI that work even when DSH won't boot.",
+      "repository": {
+        "url": "https://github.com/lire1131/dsh-undo-savepoint"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "plugin",
+        "undo",
+        "redo",
+        "rollback",
+        "snapshot",
+        "backup",
+        "crash-recovery",
+        "safe-mode",
+        "windows",
+        "powershell"
+      ],
+      "updatedAt": "2026-08-20T19:14:27.000Z"
     },
     {
       "id": "omdsh-dev/dsh-data-agent",
