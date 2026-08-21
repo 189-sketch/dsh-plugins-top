@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [uckkk/dsh-big-purchase](https://github.com/uckkk/dsh-big-purchase) | ⭐ 0 | ✅ | 大额消费决策 | `other` |
-| #2 | [uckkk/dsh-beer-pick](https://github.com/uckkk/dsh-beer-pick) | ⭐ 0 | ✅ | 啤酒选择 | `other` |
-| #3 | [uckkk/dsh-best-time](https://github.com/uckkk/dsh-best-time) | ⭐ 0 | ✅ | 最佳发布时间 | `other` |
-| #4 | [uckkk/dsh-bean-choice](https://github.com/uckkk/dsh-bean-choice) | ⭐ 0 | ✅ | 选豆建议 | `other` |
-| #5 | [uckkk/dsh-congo-dr](https://github.com/uckkk/dsh-congo-dr) | ⭐ 0 | ✅ | 刚果民主共和国国家 | `other` |
-| #6 | [uckkk/dsh-combination](https://github.com/uckkk/dsh-combination) | ⭐ 0 | ✅ | 组合数 | `other` |
-| #7 | [uckkk/dsh-basic-training](https://github.com/uckkk/dsh-basic-training) | ⭐ 0 | ✅ | 基础训练 | `other` |
-| #8 | [Biobuilder-ai/dsh-plugin-ui-toggle](https://github.com/Biobuilder-ai/dsh-plugin-ui-toggle) | ⭐ 0 | ✅ | deepseek-harness的插件，可以在web页面直接开关插件，轻量方便 | `ui-panel` |
-| #9 | [uckkk/dsh-colombia](https://github.com/uckkk/dsh-colombia) | ⭐ 0 | ✅ | 哥伦比亚国家 | `other` |
-| #10 | [uckkk/dsh-barking-fix](https://github.com/uckkk/dsh-barking-fix) | ⭐ 0 | ✅ | 吠叫纠正 | `other` |
-| #11 | [uckkk/dsh-cobalt](https://github.com/uckkk/dsh-cobalt) | ⭐ 0 | ✅ | 钴元素 | `other` |
-| #12 | [uckkk/dsh-climate-terms](https://github.com/uckkk/dsh-climate-terms) | ⭐ 0 | ✅ | 气候术语 | `other` |
-| #13 | [uckkk/dsh-circuit-plan](https://github.com/uckkk/dsh-circuit-plan) | ⭐ 0 | ✅ | 电路回路规划 | `other` |
-| #14 | [uckkk/dsh-baijiu-pick](https://github.com/uckkk/dsh-baijiu-pick) | ⭐ 0 | ✅ | 白酒选择 | `other` |
-| #15 | [Mikoribbit/odsh-bridge](https://github.com/Mikoribbit/odsh-bridge) | ⭐ 0 | ✅ | A bridge that connects Openclaw and DeepSeek Harness | `other` |
-| #16 | [uckkk/dsh-chromium](https://github.com/uckkk/dsh-chromium) | ⭐ 0 | ✅ | 铬元素 | `other` |
-| #17 | [uckkk/dsh-chlorine](https://github.com/uckkk/dsh-chlorine) | ⭐ 0 | ✅ | 氯元素 | `other` |
-| #18 | [uckkk/dsh-china](https://github.com/uckkk/dsh-china) | ⭐ 0 | ✅ | 中国国家 | `other` |
-| #19 | [uckkk/dsh-chile](https://github.com/uckkk/dsh-chile) | ⭐ 0 | ✅ | 智利国家 | `other` |
-| #20 | [uckkk/dsh-back-care](https://github.com/uckkk/dsh-back-care) | ⭐ 0 | ✅ | 腰背护理 | `other` |
-| #21 | [uckkk/dsh-chicago-city](https://github.com/uckkk/dsh-chicago-city) | ⭐ 0 | ✅ | 芝加哥市 | `other` |
-| #22 | [uckkk/dsh-baby-fever](https://github.com/uckkk/dsh-baby-fever) | ⭐ 0 | ✅ | 宝宝发烧 | `other` |
-| #23 | [uckkk/dsh-chemistry-terms](https://github.com/uckkk/dsh-chemistry-terms) | ⭐ 0 | ✅ | 化学术语 | `other` |
-| #24 | [uckkk/dsh-cerium](https://github.com/uckkk/dsh-cerium) | ⭐ 0 | ✅ | 铈元素 | `other` |
-| #25 | [uckkk/dsh-antibiotic](https://github.com/uckkk/dsh-antibiotic) | ⭐ 0 | ✅ | 抗生素使用 | `other` |
-| #26 | [uckkk/dsh-cat-age](https://github.com/uckkk/dsh-cat-age) | ⭐ 0 | ✅ | 猫龄换算 | `other` |
-| #27 | [uckkk/dsh-anti-slip](https://github.com/uckkk/dsh-anti-slip) | ⭐ 0 | ✅ | 防滑措施 | `other` |
-| #28 | [uckkk/dsh-diy-safe](https://github.com/uckkk/dsh-diy-safe) | ⭐ 0 | ✅ | DIY安全 | `other` |
-| #29 | [uckkk/dsh-amb-light](https://github.com/uckkk/dsh-amb-light) | ⭐ 0 | ✅ | 氛围照明 | `other` |
-| #30 | [uckkk/dsh-pet-teeth](https://github.com/uckkk/dsh-pet-teeth) | ⭐ 0 | ✅ | 口腔健康 | `other` |
+| #1 | [uckkk/dsh-dog-food](https://github.com/uckkk/dsh-dog-food) | ⭐ 0 | ✅ | 狗粮喂食量 | `other` |
+| #2 | [uckkk/dsh-dog-age](https://github.com/uckkk/dsh-dog-age) | ⭐ 0 | ✅ | 狗龄换算 | `other` |
+| #3 | [blaxel-ai/deepseek-harness-blaxel-sandbox](https://github.com/blaxel-ai/deepseek-harness-blaxel-sandbox) | ⭐ 0 | ✅ | Blaxel sandbox execution plugin for DeepSeek Harness | `ui-panel` |
+| #4 | [uckkk/dsh-djibouti](https://github.com/uckkk/dsh-djibouti) | ⭐ 0 | ✅ | 吉布提国 | `other` |
+| #5 | [sd1g1/dsh-opencode-go-models](https://github.com/sd1g1/dsh-opencode-go-models) | ⭐ 0 | ✅ | DSH plugin: supplement the OpenCode Go model catalog | `provider` |
+| #6 | [uckkk/dsh-burn-first-aid](https://github.com/uckkk/dsh-burn-first-aid) | ⭐ 0 | ✅ | 烫伤急救 | `other` |
+| #7 | [uckkk/dsh-digital-root](https://github.com/uckkk/dsh-digital-root) | ⭐ 0 | ✅ | 数字根 | `other` |
+| #8 | [zhy201810576/dsh-zh-reasoning](https://github.com/zhy201810576/dsh-zh-reasoning) | ⭐ 1 | ✅ | 让 DeepSeek Harness 的思考（reasoning）与最终回答默认使用简体中文的中文插件 | `other` |
+| #9 | [uckkk/dsh-dev-paradigms](https://github.com/uckkk/dsh-dev-paradigms) | ⭐ 0 | ✅ | 编程范式 | `other` |
+| #10 | [uckkk/dsh-dev-http-tools](https://github.com/uckkk/dsh-dev-http-tools) | ⭐ 0 | ✅ | Web 技术 | `tool` |
+| #11 | [LAN-TINA-WS/dsh-windows-shell-policy](https://github.com/LAN-TINA-WS/dsh-windows-shell-policy) | ⭐ 1 | ✅ | DeepSeek Harness Windows 默认 Shell 策略：探测 git-bash/MSYS2，配置面板一键切换 bash/pwsh，动态注册 bash 工具并裁剪提示词工具面 · DSH 组合插件。 | `ui-panel` |
+| #12 | [whateverboy2333/dsh-flat-teams](https://github.com/whateverboy2333/dsh-flat-teams) | ⭐ 1 | ✅ | Leaderless flat agent teams for DeepSeek Harness: cross-window structured task dispatch, recorder service, and web dashboard | `ui-panel` |
+| #13 | [uckkk/dsh-dev-frameworks](https://github.com/uckkk/dsh-dev-frameworks) | ⭐ 0 | ✅ | 编程框架 | `other` |
+| #14 | [uckkk/dsh-dev-databases](https://github.com/uckkk/dsh-dev-databases) | ⭐ 0 | ✅ | 数据库 | `other` |
+| #15 | [uckkk/dsh-dev-cloud](https://github.com/uckkk/dsh-dev-cloud) | ⭐ 0 | ✅ | 云服务 | `other` |
+| #16 | [uckkk/dsh-brush-pet](https://github.com/uckkk/dsh-brush-pet) | ⭐ 0 | ✅ | 梳毛频率 | `other` |
+| #17 | [lovstudio/dsh-better-restart](https://github.com/lovstudio/dsh-better-restart) | ⭐ 0 | ✅ |  | `other` |
+| #18 | [lovstudio/dsh-frontend-inspector](https://github.com/lovstudio/dsh-frontend-inspector) | ⭐ 0 | ✅ |  | `other` |
+| #19 | [uckkk/dsh-bp-manage](https://github.com/uckkk/dsh-bp-manage) | ⭐ 0 | ✅ | 血压管理 | `other` |
+| #20 | [uckkk/dsh-deposit-interest](https://github.com/uckkk/dsh-deposit-interest) | ⭐ 0 | ✅ | 存款利息计算器 | `other` |
+| #21 | [uckkk/dsh-denmark](https://github.com/uckkk/dsh-denmark) | ⭐ 0 | ✅ | 丹麦国家 | `other` |
+| #22 | [uckkk/dsh-delhi-city](https://github.com/uckkk/dsh-delhi-city) | ⭐ 0 | ✅ | 德里市 | `other` |
+| #23 | [uckkk/dsh-bone-check](https://github.com/uckkk/dsh-bone-check) | ⭐ 0 | ✅ | 骨密度筛查 | `other` |
+| #24 | [uckkk/dsh-book-plan](https://github.com/uckkk/dsh-book-plan) | ⭐ 0 | ✅ | 阅读计划 | `other` |
+| #25 | [uckkk/dsh-book-pick](https://github.com/uckkk/dsh-book-pick) | ⭐ 0 | ✅ | 选书方法 | `other` |
+| #26 | [uckkk/dsh-brew-method](https://github.com/uckkk/dsh-brew-method) | ⭐ 0 | ✅ | 冲煮器具 | `other` |
+| #27 | [uckkk/dsh-data-structures](https://github.com/uckkk/dsh-data-structures) | ⭐ 0 | ✅ | 数据结构 | `other` |
+| #28 | [uckkk/dsh-darmstadtium](https://github.com/uckkk/dsh-darmstadtium) | ⭐ 0 | ✅ | 𫟼元素 | `other` |
+| #29 | [uckkk/dsh-czechia](https://github.com/uckkk/dsh-czechia) | ⭐ 0 | ✅ | 捷克国家 | `other` |
+| #30 | [uckkk/dsh-blender-pick](https://github.com/uckkk/dsh-blender-pick) | ⭐ 0 | ✅ | 料理机选择 | `other` |
