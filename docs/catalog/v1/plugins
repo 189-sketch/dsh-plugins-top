@@ -73,7 +73,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web-ui"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-21T11:20:53.000Z"
+      "updatedAt": "2026-08-21T14:32:35.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -118,7 +118,7 @@
         "multimodal",
         "modlens"
       ],
-      "updatedAt": "2026-08-20T20:05:55.000Z"
+      "updatedAt": "2026-08-21T14:11:07.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -129,7 +129,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-21T10:31:03.000Z"
+      "updatedAt": "2026-08-21T14:09:29.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -140,7 +140,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-21T12:42:32.000Z"
+      "updatedAt": "2026-08-21T14:36:12.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -170,7 +170,7 @@
       "repository": {
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
-      "updatedAt": "2026-08-21T03:58:03.000Z"
+      "updatedAt": "2026-08-21T14:28:28.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -254,7 +254,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-21T12:43:36.000Z"
+      "updatedAt": "2026-08-21T13:31:46.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -280,7 +280,7 @@
         "screenshot-testing",
         "gui-automation"
       ],
-      "updatedAt": "2026-08-20T20:50:05.000Z"
+      "updatedAt": "2026-08-21T14:35:29.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -415,7 +415,7 @@
       "repository": {
         "url": "https://github.com/Electricitysheep/dsh-handbook"
       },
-      "updatedAt": "2026-08-21T08:11:42.000Z"
+      "updatedAt": "2026-08-21T13:51:12.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -537,7 +537,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-08-21T12:33:33.000Z"
+      "updatedAt": "2026-08-21T13:23:41.000Z"
     },
     {
       "id": "Ikalus1988/MisakaNet",
@@ -548,7 +548,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-21T11:30:53.000Z"
+      "updatedAt": "2026-08-21T13:53:12.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -560,38 +560,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-21T08:38:28.000Z"
-    },
-    {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-20T09:08:56.000Z"
-    },
-    {
-      "id": "text2future/flowix",
-      "name": "flowix",
-      "displayName": "flowix",
-      "summary": "Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding",
-      "repository": {
-        "url": "https://github.com/text2future/flowix"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-19T17:44:52.000Z"
-    },
-    {
-      "id": "linhay/harmony-next.skills",
-      "name": "dsh-harmony-next",
-      "displayName": "harmony-next.skills",
-      "summary": "🚀 Expert guidance for HarmonyOS NEXT (API 12+) development. Covers IDE operations, performance tuning, architecture (HAP/HAR/HSP), and automation testing.",
-      "repository": {
-        "url": "https://github.com/linhay/harmony-next.skills"
-      },
-      "updatedAt": "2026-08-18T08:05:29.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -623,6 +591,38 @@
         "ai-office"
       ],
       "updatedAt": "2026-08-21T11:10:16.000Z"
+    },
+    {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-21T13:34:34.000Z"
+    },
+    {
+      "id": "text2future/flowix",
+      "name": "flowix",
+      "displayName": "flowix",
+      "summary": "Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding",
+      "repository": {
+        "url": "https://github.com/text2future/flowix"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-19T17:44:52.000Z"
+    },
+    {
+      "id": "linhay/harmony-next.skills",
+      "name": "dsh-harmony-next",
+      "displayName": "harmony-next.skills",
+      "summary": "🚀 Expert guidance for HarmonyOS NEXT (API 12+) development. Covers IDE operations, performance tuning, architecture (HAP/HAR/HSP), and automation testing.",
+      "repository": {
+        "url": "https://github.com/linhay/harmony-next.skills"
+      },
+      "updatedAt": "2026-08-18T08:05:29.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -683,12 +683,12 @@
       "id": "PC2005-cloud/dsh-pet",
       "name": "PC2005-cloud/dsh-pet",
       "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令安装现成宠物（28 个透明动画，即装即用），或内置素材链从 AI 视频自造专属宠物 | One-line install desktop pet for DeepSeek Harness + DIY asset pipeline",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
       "repository": {
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-21T11:36:49.000Z"
+      "updatedAt": "2026-08-21T13:55:01.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -913,7 +913,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-21T12:38:55.000Z"
+      "updatedAt": "2026-08-21T14:06:37.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -948,25 +948,6 @@
       "updatedAt": "2026-08-20T13:24:04.000Z"
     },
     {
-      "id": "cocofhu/anime-find",
-      "name": "@cocofhu/anime-find",
-      "displayName": "anime-find",
-      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
-      "repository": {
-        "url": "https://github.com/cocofhu/anime-find"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "anime",
-        "mikan",
-        "bangumi"
-      ],
-      "updatedAt": "2026-08-19T17:08:51.000Z"
-    },
-    {
       "id": "ningbainb/deepseek-harness-desktop",
       "name": "dsh-web-ui",
       "displayName": "deepseek-harness-desktop",
@@ -978,12 +959,12 @@
       "updatedAt": "2026-08-20T05:29:52.000Z"
     },
     {
-      "id": "Grivn/dsh-mnemon",
+      "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
       "summary": "Three-tier memory control plane for DeepSeek Harness: persistent runtime context, searchable project documents, pluggable long-term memory, smart routing, supervised agent workflows, WebUI, and headless tools.",
       "repository": {
-        "url": "https://github.com/Grivn/dsh-mnemon"
+        "url": "https://github.com/omdsh-dev/dsh-mnemon"
       },
       "license": "MIT",
       "keywords": [
@@ -1018,7 +999,44 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-21T12:43:44.000Z"
+      "updatedAt": "2026-08-21T13:48:52.000Z"
+    },
+    {
+      "id": "ZSeven-W/dsh-ios",
+      "name": "@zseven-w/dsh-ios",
+      "displayName": "dsh-ios",
+      "summary": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "repository": {
+        "url": "https://github.com/ZSeven-W/dsh-ios"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "simulator",
+        "ios-simulator",
+        "plugin",
+        "ios"
+      ],
+      "updatedAt": "2026-08-21T14:30:06.000Z"
+    },
+    {
+      "id": "cocofhu/anime-find",
+      "name": "@cocofhu/anime-find",
+      "displayName": "anime-find",
+      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+      "repository": {
+        "url": "https://github.com/cocofhu/anime-find"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "anime",
+        "mikan",
+        "bangumi"
+      ],
+      "updatedAt": "2026-08-19T17:08:51.000Z"
     },
     {
       "id": "weijiafu14/pi2dsh",
@@ -1037,24 +1055,6 @@
         "compatibility"
       ],
       "updatedAt": "2026-08-21T10:28:11.000Z"
-    },
-    {
-      "id": "ZSeven-W/dsh-ios",
-      "name": "@zseven-w/dsh-ios",
-      "displayName": "dsh-ios",
-      "summary": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-ios"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "simulator",
-        "ios-simulator",
-        "plugin",
-        "ios"
-      ],
-      "updatedAt": "2026-08-21T11:34:45.000Z"
     },
     {
       "id": "zhaoolee/notes",
@@ -1102,7 +1102,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-08-21T10:28:47.000Z"
+      "updatedAt": "2026-08-21T14:00:49.000Z"
     },
     {
       "id": "liceses/dsh-gitbash-preset",
@@ -1127,6 +1127,17 @@
       "updatedAt": "2026-08-16T17:54:06.000Z"
     },
     {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T07:44:10.000Z"
+    },
+    {
       "id": "ZSeven-W/dsh-openpencil",
       "name": "@zseven-w/dsh-openpencil",
       "displayName": "dsh-openpencil",
@@ -1141,7 +1152,7 @@
         "plugin",
         "design"
       ],
-      "updatedAt": "2026-08-20T13:01:52.000Z"
+      "updatedAt": "2026-08-21T14:32:24.000Z"
     },
     {
       "id": "yjh051108/dsh-super-injector",
@@ -1162,18 +1173,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-21T11:05:22.000Z"
-    },
-    {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T07:44:10.000Z"
+      "updatedAt": "2026-08-21T13:41:39.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1192,7 +1192,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-08-21T06:10:13.000Z"
+      "updatedAt": "2026-08-21T13:25:22.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1240,7 +1240,7 @@
         "plugin",
         "agent"
       ],
-      "updatedAt": "2026-08-20T13:03:03.000Z"
+      "updatedAt": "2026-08-21T14:30:13.000Z"
     },
     {
       "id": "Ayase34/gal-view",
@@ -1361,31 +1361,6 @@
       "updatedAt": "2026-08-20T19:14:27.000Z"
     },
     {
-      "id": "taxueseek/argo",
-      "name": "argo-search",
-      "displayName": "argo",
-      "summary": "专门为 agent 打造的 agent 搜索工具，具备多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。",
-      "repository": {
-        "url": "https://github.com/taxueseek/argo"
-      },
-      "license": "MIT",
-      "keywords": [
-        "mcp",
-        "mcp-server",
-        "search",
-        "web-search",
-        "research",
-        "ai-agent",
-        "claude",
-        "grok",
-        "kimi",
-        "codex",
-        "argo",
-        "npx"
-      ],
-      "updatedAt": "2026-08-13T13:58:54.000Z"
-    },
-    {
       "id": "oil-oil/dsh-oil-creator",
       "name": "dsh-oil-creator",
       "displayName": "dsh-oil-creator",
@@ -1412,6 +1387,31 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-20T06:20:04.000Z"
+    },
+    {
+      "id": "taxueseek/argo",
+      "name": "argo-search",
+      "displayName": "argo",
+      "summary": "专门为 agent 打造的 agent 搜索工具，具备多语言搜索能力，覆盖中文/英文/学术/代码/购物/金融/新闻/百科。",
+      "repository": {
+        "url": "https://github.com/taxueseek/argo"
+      },
+      "license": "MIT",
+      "keywords": [
+        "mcp",
+        "mcp-server",
+        "search",
+        "web-search",
+        "research",
+        "ai-agent",
+        "claude",
+        "grok",
+        "kimi",
+        "codex",
+        "argo",
+        "npx"
+      ],
+      "updatedAt": "2026-08-13T13:58:54.000Z"
     },
     {
       "id": "Ychris12138/dsh-usage-stats",
@@ -1473,6 +1473,36 @@
       "updatedAt": "2026-08-18T04:43:03.000Z"
     },
     {
+      "id": "beancookie/awesome-dsh-plugin",
+      "name": "awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "Awesome DeepSeek Harness (DSH) Plugin",
+      "repository": {
+        "url": "https://github.com/beancookie/awesome-dsh-plugin"
+      },
+      "license": "CC0-1.0",
+      "keywords": [
+        "awesome",
+        "awesome-list",
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "deepseek"
+      ],
+      "updatedAt": "2026-08-21T08:49:41.000Z"
+    },
+    {
+      "id": "orziz/odai",
+      "name": "odai-workspace",
+      "displayName": "odai",
+      "summary": "AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified delivery.",
+      "repository": {
+        "url": "https://github.com/orziz/odai"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T11:39:09.000Z"
+    },
+    {
       "id": "Anionex/dsh-turn-rewind",
       "name": "@anionex/dsh-turn-rewind",
       "displayName": "dsh-turn-rewind",
@@ -1491,36 +1521,6 @@
         "turn-rewind"
       ],
       "updatedAt": "2026-08-16T17:17:17.000Z"
-    },
-    {
-      "id": "orziz/odai",
-      "name": "odai-workspace",
-      "displayName": "odai",
-      "summary": "AI agent 通用任务治理框架：对齐目标与事实，规划和调度能力，守住授权与风险边界，治理任务执行到真实验收与交付。Governance framework for evidence-driven planning, orchestration, and verified delivery.",
-      "repository": {
-        "url": "https://github.com/orziz/odai"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T11:39:09.000Z"
-    },
-    {
-      "id": "beancookie/awesome-dsh-plugin",
-      "name": "awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "Awesome DeepSeek Harness (DSH) Plugin",
-      "repository": {
-        "url": "https://github.com/beancookie/awesome-dsh-plugin"
-      },
-      "license": "CC0-1.0",
-      "keywords": [
-        "awesome",
-        "awesome-list",
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "deepseek"
-      ],
-      "updatedAt": "2026-08-21T08:49:41.000Z"
     },
     {
       "id": "omdsh-dev/dsh_workflow",
@@ -1542,16 +1542,6 @@
       "updatedAt": "2026-08-13T23:53:40.000Z"
     },
     {
-      "id": "Tabbit-Browser/dsh-tabbit",
-      "name": "dsh-tabbit",
-      "displayName": "dsh-tabbit",
-      "summary": "Tabbit Broser plugins for Deepseek Harness",
-      "repository": {
-        "url": "https://github.com/Tabbit-Browser/dsh-tabbit"
-      },
-      "updatedAt": "2026-08-21T12:43:51.000Z"
-    },
-    {
       "id": "ZSeven-W/dsh-crew",
       "name": "@zseven-w/dsh-crew",
       "displayName": "dsh-crew",
@@ -1571,7 +1561,17 @@
         "plugin",
         "agent"
       ],
-      "updatedAt": "2026-08-20T16:26:17.000Z"
+      "updatedAt": "2026-08-21T14:30:26.000Z"
+    },
+    {
+      "id": "Tabbit-Browser/dsh-tabbit",
+      "name": "dsh-tabbit",
+      "displayName": "dsh-tabbit",
+      "summary": "Tabbit Browser plugins for Deepseek Harness",
+      "repository": {
+        "url": "https://github.com/Tabbit-Browser/dsh-tabbit"
+      },
+      "updatedAt": "2026-08-21T13:22:15.000Z"
     },
     {
       "id": "Fishquito7/dsh-skill-mcp-panel",
