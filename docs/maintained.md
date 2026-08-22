@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [VinsonWild/Wangdefa.Memory](https://github.com/VinsonWild/Wangdefa.Memory) | ⭐ 2 | ✅ | Wangdefa.Memory 是一个为个人助理Agent 设计的五层记忆体组件，数据完全保留在本地，不依赖云端，达到轻量、白盒可控、可解释，未来将进一步往企业级原生记忆体方向拓展。 | `skill` |
-| #2 | [ai-daming/clickvibe](https://github.com/ai-daming/clickvibe) | ⭐ 6 | ✅ |  | `ui-panel` |
-| #3 | [qkycir-123/dsh-run2skill](https://github.com/qkycir-123/dsh-run2skill) | ⭐ 7 | ✅ | DSH-native, local-first Run-to-Skill plugin for DeepSeek Harness | `skill` |
-| #4 | [Yiklek/dsh-web-profile](https://github.com/Yiklek/dsh-web-profile) | ⭐ 1 | ✅ |  | `provider` |
-| #5 | [PolinniZhong/dsh-personal-center](https://github.com/PolinniZhong/dsh-personal-center) | ⭐ 22 | ✅ | DeepSeek Harness 个人中心:用量统计 / 自定义指令 / 成本估算 / 桌面宠物(纯本地，不联网）。 Personal center & custom instructions for DSH | `ui-panel` |
-| #6 | [AI-Scarlett/dsh-safe-plugin-manager](https://github.com/AI-Scarlett/dsh-safe-plugin-manager) | ⭐ 1 | ✅ | DSH STORE — third-party plugin marketplace and guarded lifecycle manager for DeepSeek Harness. | `ui-panel` |
-| #7 | [tinchak0207/dsh-emu-workbench](https://github.com/tinchak0207/dsh-emu-workbench) | ⭐ 0 | ✅ | Emu 影像工作台 for DeepSeek Harness — 多供应商生图/改图/模型可用性探测 + Emu 独家 opencode 许愿 Agent | `ui-panel` |
-| #8 | [BananaSoldier01/dsh-tidychat](https://github.com/BananaSoldier01/dsh-tidychat) | ⭐ 4 | ✅ | DSH Web 会话时间线整理：自动折叠 / 分隔线 / 左缘定位条 / 四开关设置 | `ui-panel` |
-| #9 | [duhu2000/dsh-mcp-connector](https://github.com/duhu2000/dsh-mcp-connector) | ⭐ 1 | ✅ | DeepSeek Harness 通用 MCP连接器、连接管理与扩展市场：连接 MCP Server，发现工具与 Prompt，扩展 AI 技能；支持 OAuth/PKCE、API Key、JSON 导入。由企查查（Qichacha/QCC）团队发起维护。General-purpose MCP connector, connection manager, plugin, extension and integration marketplace. | `skill` |
-| #10 | [shaobeichen/dsh-pocket](https://github.com/shaobeichen/dsh-pocket) | ⭐ 403 | ✅ | 把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏） | `ui-panel` |
-| #11 | [tttnny/my-dsh](https://github.com/tttnny/my-dsh) | ⭐ 0 | ✅ | DeepSeek Harness 插件合集：dsh-client-ui-deepseek-bg（仿 Harness 官网深色皮肤：极光/粒子鲸鱼/星座网格/玻璃拟态/Border Beam/Thinking Orbs）+ dsh-escalation-noop + ptc-creative-cordis | `skin` |
-| #12 | [taxueseek/dsh-snippets](https://github.com/taxueseek/dsh-snippets) | ⭐ 0 | ✅ | DeepSeek Harness 极简常用片段/命令工具箱：JSONL 存储，5 个工具，零依赖。AI 的收藏夹。 | `other` |
-| #13 | [taxueseek/dsh-healthcheck](https://github.com/taxueseek/dsh-healthcheck) | ⭐ 0 | ✅ | DeepSeek Harness 环境体检插件：磁盘/内存/延迟/~/.dsh 膨胀/插件版本落后检测，历史基线趋势，只读不删。 | `other` |
-| #14 | [Iwctwbh/dsh-flowglass](https://github.com/Iwctwbh/dsh-flowglass) | ⭐ 7 | ✅ | 流镜 Flowglass — DeepSeek Harness session flowgraph，实时可视化消息、工具组、子代理分支与步骤详情。 | `ui-panel` |
-| #15 | [dsh-blue/blue](https://github.com/dsh-blue/blue) | ⭐ 1 | ✅ | Blue: a TUI is not a package, it is a Cordis plugin tree — a modern terminal UI for DeepSeek Harness with hot-swappable render, interaction, and command plugins. | `provider` |
-| #16 | [kobenfang/BigLead](https://github.com/kobenfang/BigLead) | ⭐ 0 | ✅ | 🎯 BigLead 精准客户线索挖掘 - B2B销售获客 \| B2B lead generation, sales prospecting | `skill` |
-| #17 | [kobenfang/BigFood](https://github.com/kobenfang/BigFood) | ⭐ 0 | ✅ | 🍳 BigFood AI冰箱管家 - 食材识别→菜谱推荐 \| Food recognition, recipe recommendation | `skill` |
-| #18 | [taxueseek/taxue-dsh-artisan](https://github.com/taxueseek/taxue-dsh-artisan) | ⭐ 0 | ✅ | taxue 画师：DeepSeek Harness 一体化视觉创作工具链（提示词反推/优化 + 多供应商生图，支持异步后台出图） | `ui-panel` |
-| #19 | [kobenfang/BigFish](https://github.com/kobenfang/BigFish) | ⭐ 0 | ✅ | 🎣 BigFish AI钓鱼助手 - 钓点分析·鱼情分析·钓点分享 \| Fishing spot analysis, fish activity, bait & lure | `skill` |
-| #20 | [Rinsonlaw/law-dsh-plugin](https://github.com/Rinsonlaw/law-dsh-plugin) | ⭐ 0 | ✅ |  | `other` |
-| #21 | [kobenfang/Big8](https://github.com/kobenfang/Big8) | ⭐ 0 | ✅ | ☯ Big8 AI玄学助手 - 看风水·看面相·算八字·查星座·每日一卦·老黄历 \| AI fortune-telling: feng shui, face reading, BaZi, zodiac | `skill` |
-| #22 | [TQSY114514/dsh-ui-appearance](https://github.com/TQSY114514/dsh-ui-appearance) | ⭐ 10 | ✅ | Appearance customization plugin for DeepSeek Harness: theme color palette, background image, opacity/blur, glass effect | `skin` |
-| #23 | [kobenfang/bigA](https://github.com/kobenfang/bigA) | ⭐ 3 | ✅ | openclaw-skills BigA · A股智能选股（选股分析·量化交易·股票池） | `skill` |
-| #24 | [taxueseek/dsh-files](https://github.com/taxueseek/dsh-files) | ⭐ 18 | ✅ | DeepSeek Harness dual-face plugin: session-isolated file upload with colorful composer cards + read_document tool (text/PDF/DOCX/XLSX) with content sniffing and LRU caching | `ui-panel` |
-| #25 | [winliyou/dsh-plugins](https://github.com/winliyou/dsh-plugins) | ⭐ 0 | ✅ | deepseek harness plugin set | `other` |
-| #26 | [kobenfang/BigSeedSkill](https://github.com/kobenfang/BigSeedSkill) | ⭐ 0 | ✅ | 🌱 BigSeed 闪念记录与人生拼图 - 捕捉生活点滴生成人生故事/自传 \| Life story, journal, biography, memory keeper | `skill` |
-| #27 | [kobenfang/BigPlan](https://github.com/kobenfang/BigPlan) | ⭐ 0 | ✅ | 📋 BigPlan AI产品调研 - 市场/技术/供应链分析，三套产品规格方案 \| Product research, market analysis | `skill` |
-| #28 | [kobenfang/BigFocus](https://github.com/kobenfang/BigFocus) | ⭐ 0 | ✅ | 🎯 BigFocus 追踪管家 - 商品价格/明星动态/行业追踪 \| Price tracking, monitoring, alerts | `skill` |
-| #29 | [Han-1413141/dsh-cost-meter](https://github.com/Han-1413141/dsh-cost-meter) | ⭐ 154 | ✅ | DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI | `provider` |
-| #30 | [fuzhengwei/walioffice-dsh-plugin](https://github.com/fuzhengwei/walioffice-dsh-plugin) | ⭐ 0 | ✅ | Deepseek Harness Walioffice 办公软件 插件 | `ui-panel` |
+| #1 | [flizzywine/dsh-tavern](https://github.com/flizzywine/dsh-tavern) | ⭐ 23 | ✅ | 基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。 | `ui-panel` |
+| #2 | [Chael-Chael/dsh-reference-anything](https://github.com/Chael-Chael/dsh-reference-anything) | ⭐ 8 | ✅ | Reference Anything in DeepSeek Harness—enhance the @ menu to reference commands, skills, files, DSH sessions, and conversations from external chatbot platforms \| 在 DeepSeek Harness 中引用一切——增强@菜单，统一引用命令、Skills、文件、DSH 会话与外部 Chatbot 平台对话 | `skill` |
+| #3 | [weijiafu14/pi2dsh](https://github.com/weijiafu14/pi2dsh) | ⭐ 156 | ✅ | Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。 | `provider` |
+| #4 | [AI-Scarlett/dsh-safe-plugin-manager](https://github.com/AI-Scarlett/dsh-safe-plugin-manager) | ⭐ 1 | ✅ | DSH STORE — third-party plugin marketplace and guarded lifecycle manager for DeepSeek Harness. | `ui-panel` |
+| #5 | [Wanbinyu/wanbinyu-harness-toolbox](https://github.com/Wanbinyu/wanbinyu-harness-toolbox) | ⭐ 1 | ✅ | Independent third-party plugins and tools for DeepSeek Harness, maintained by Wanbinyu | `tool` |
+| #6 | [MS666666/dsh-archive-manager](https://github.com/MS666666/dsh-archive-manager) | ⭐ 0 | ✅ | DeepSeek Harness归档管理器 | `ui-panel` |
+| #7 | [blackdm666/dsh-plugin-88api-image](https://github.com/blackdm666/dsh-plugin-88api-image) | ⭐ 0 | ✅ | 88API Image Studio for DSH — Image2 + Nano Banana, text-to-image, multi-reference editing, 2K/4K output, sequential batches, and persistent defaults. | `tool` |
+| #8 | [duhu2000/dsh-mcp-connector](https://github.com/duhu2000/dsh-mcp-connector) | ⭐ 1 | ✅ | DeepSeek Harness 通用 MCP连接器、连接管理与扩展市场：连接 MCP Server，发现工具与 Prompt，扩展 AI 技能；支持 OAuth/PKCE、API Key、JSON 导入。由企查查（Qichacha/QCC）团队发起维护。General-purpose MCP connector, connection manager, plugin, extension and integration marketplace. | `skill` |
+| #9 | [DamonBao/dsh-dungeon-party](https://github.com/DamonBao/dsh-dungeon-party) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #10 | [DosterBool/dsh-shutup](https://github.com/DosterBool/dsh-shutup) | ⭐ 0 | ✅ | Tell DeepSeek：快捷键打断当前生成，载入纠偏提示（steer 注入）；继续时思考链回填以可折叠上下文行呈现 | `ui-panel` |
+| #11 | [Che-Year/dsh-unidoc](https://github.com/Che-Year/dsh-unidoc) | ⭐ 1 | ✅ | DSH 插件 - 用于处理非结构化文档 (Unstructured Document Processing) | `ui-panel` |
+| #12 | [kaidiren/dsh-reasoning](https://github.com/kaidiren/dsh-reasoning) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #13 | [liyongzheng666/dsh-browser-bridge](https://github.com/liyongzheng666/dsh-browser-bridge) | ⭐ 0 | ✅ | DSH browser bridge plugin + Firefox extension: browsers read/control via localhost WebSocket | `other` |
+| #14 | [Mrzhailiming/deepseek-pet](https://github.com/Mrzhailiming/deepseek-pet) | ⭐ 0 | ✅ | 在 DeepSeek Harness 的 Web 界面里养一只鲸鱼娘 | `other` |
+| #15 | [qianxiao1213/zcode-usage-stats](https://github.com/qianxiao1213/zcode-usage-stats) | ⭐ 0 | ✅ | 仿zcode的使用统计 - DSH Token 用量统计插件(趋势图/仪表盘/活跃热力图) v0.1.0 | `ui-panel` |
+| #16 | [oxlyn/dsh-model-health](https://github.com/oxlyn/dsh-model-health) | ⭐ 0 | ✅ | dsh model health status check | `ui-panel` |
+| #17 | [TaurusWood/dsh-plugin-appshot](https://github.com/TaurusWood/dsh-plugin-appshot) | ⭐ 0 | ✅ | dsh-plugin-appshot — a DeepSeek Harness plugin (tool template). | `ui-panel` |
+| #18 | [oxlyn/dsh-plugin-mgr](https://github.com/oxlyn/dsh-plugin-mgr) | ⭐ 0 | ✅ | deepseek harness plugin manager | `ui-panel` |
+| #19 | [NattoCB/dsh-plugin-wechat-bridge](https://github.com/NattoCB/dsh-plugin-wechat-bridge) | ⭐ 1 | ✅ | WeChat (ilink bot) bridge plugin for DeepSeek Harness: one DSH agent session per peer per day | `skill` |
+| #20 | [kenz1117/dsh-ui-usage-billing](https://github.com/kenz1117/dsh-ui-usage-billing) | ⭐ 4 | ✅ | Usage billing dashboard plugin for DeepSeek Harness: sidebar cost metrics, real usage aggregation from session logs, current multi-provider pricing catalog | `provider` |
+| #21 | [enoughpower/dsh-desktop-mac](https://github.com/enoughpower/dsh-desktop-mac) | ⭐ 0 | ✅ | DeepSeekHarnessMac精简版 | `other` |
+| #22 | [Lixiaoyiao/deepseek-harness-action](https://github.com/Lixiaoyiao/deepseek-harness-action) | ⭐ 13 | 🟡 | Community GitHub Action for DeepSeek Harness — AI Code Review · CI Diagnosis · Auto Fix · Issue → PR | `tool` |
+| #23 | [Wanbinyu/dsh-billing](https://github.com/Wanbinyu/dsh-billing) | ⭐ 3 | ✅ | Billing and usage inspection plugin for DeepSeek Harness. | `ui-panel` |
+| #24 | [Wanbinyu/dsh-plugin-git-inspect](https://github.com/Wanbinyu/dsh-plugin-git-inspect) | ⭐ 1 | ✅ | Read-only Git inspection tools for DeepSeek Harness | `tool` |
+| #25 | [Yiklek/dsh-web-profile](https://github.com/Yiklek/dsh-web-profile) | ⭐ 1 | ✅ |  | `provider` |
+| #26 | [Wanbinyu/dsh-provider-probe](https://github.com/Wanbinyu/dsh-provider-probe) | ⭐ 1 | ✅ | Manual provider connectivity and latency checks for DeepSeek Harness | `provider` |
+| #27 | [Wanbinyu/dsh-error-lens](https://github.com/Wanbinyu/dsh-error-lens) | ⭐ 1 | ✅ | Read-only, redacted provider error diagnostics for DeepSeek Harness | `ui-panel` |
+| #28 | [uckkk/dsh-valley-meter](https://github.com/uckkk/dsh-valley-meter) | ⭐ 0 | ✅ | Minimal peak/valley electricity-price countdown widget for DeepSeek Harness: live off-peak countdown & period, official account balance, today's spend, configurable colors, minimal/detailed styles. | `ui-panel` |
+| #29 | [TheYoungChen/dsh-plugin-market](https://github.com/TheYoungChen/dsh-plugin-market) | ⭐ 5 | ✅ | DeepSeek Harness plugin market - browse, search & install dsh-plugin topic plugins (dsh 插件市场：浏览/搜索/安装插件) | `ui-panel` |
+| #30 | [L3n3L/dsh-resume](https://github.com/L3n3L/dsh-resume) | ⭐ 2 | ✅ | AI 写简历容易，但写完总会遇到模板难看、排版溢出、页面留白、改一处全局变形等问题。dsh-resume 专注解决“内容生成后的视觉复核”：让 AI 和用户一起把简历调到真正适合投递的刚好一页。AI can write a resume, but the result often looks unbalanced, overflows the page, leaves large blank areas, or breaks after a small edit. dsh-resume focuses on visual review after generation, helping AI and users refine the resume into a polished. | `ui-panel` |
