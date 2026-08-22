@@ -54,6 +54,16 @@
       "updatedAt": "2026-08-21T08:57:55.000Z"
     },
     {
+      "id": "yjh051108/dsh-routing-suite",
+      "name": "yjh051108/dsh-routing-suite",
+      "displayName": "dsh-routing-suite",
+      "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
+      "repository": {
+        "url": "https://github.com/yjh051108/dsh-routing-suite"
+      },
+      "updatedAt": "2026-08-22T21:32:42.000Z"
+    },
+    {
       "id": "Q00/ouroboros",
       "name": "Q00/ouroboros",
       "displayName": "ouroboros",
@@ -140,7 +150,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-22T20:13:54.000Z"
+      "updatedAt": "2026-08-22T21:50:28.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -211,7 +221,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T20:23:36.000Z"
+      "updatedAt": "2026-08-22T21:54:07.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -257,6 +267,17 @@
       "updatedAt": "2026-08-22T17:51:10.000Z"
     },
     {
+      "id": "0xsline/awesome-deepseek-harness",
+      "name": "0xsline/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "repository": {
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      "license": "CC0-1.0",
+      "updatedAt": "2026-08-22T10:25:12.000Z"
+    },
+    {
       "id": "NanmiCoder/dsh-agent-teams",
       "name": "@nanmicoder/dsh-agent-teams",
       "displayName": "dsh-agent-teams",
@@ -278,17 +299,6 @@
       "updatedAt": "2026-08-22T19:01:20.000Z"
     },
     {
-      "id": "0xsline/awesome-deepseek-harness",
-      "name": "0xsline/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "repository": {
-        "url": "https://github.com/0xsline/awesome-deepseek-harness"
-      },
-      "license": "CC0-1.0",
-      "updatedAt": "2026-08-22T10:25:12.000Z"
-    },
-    {
       "id": "bowenliang123/dsh-context",
       "name": "dsh-context",
       "displayName": "dsh-context",
@@ -306,7 +316,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-22T11:57:28.000Z"
+      "updatedAt": "2026-08-22T21:14:29.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -484,7 +494,7 @@
         "url": "https://github.com/Nagi-ovo/dsh-ads"
       },
       "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-18T01:28:47.000Z"
+      "updatedAt": "2026-08-22T20:59:04.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -617,7 +627,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T18:52:55.000Z"
+      "updatedAt": "2026-08-22T21:40:56.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -629,6 +639,24 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-22T04:17:32.000Z"
+    },
+    {
+      "id": "yjh051108/dsh-router-standard",
+      "name": "dsh-router-standard",
+      "displayName": "dsh-router-standard",
+      "summary": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.",
+      "repository": {
+        "url": "https://github.com/yjh051108/dsh-router-standard"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "dsh",
+        "deepseek-harness",
+        "progressive-disclosure",
+        "agent-preset"
+      ],
+      "updatedAt": "2026-08-22T21:32:36.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -775,17 +803,6 @@
       "updatedAt": "2026-08-20T12:42:53.000Z"
     },
     {
-      "id": "mrpulor-gh/nuphus-mcp",
-      "name": "mrpulor-gh/nuphus-mcp",
-      "displayName": "nuphus-mcp",
-      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "repository": {
-        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T18:33:01.000Z"
-    },
-    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -805,6 +822,17 @@
         "grok"
       ],
       "updatedAt": "2026-08-22T04:31:32.000Z"
+    },
+    {
+      "id": "mrpulor-gh/nuphus-mcp",
+      "name": "mrpulor-gh/nuphus-mcp",
+      "displayName": "nuphus-mcp",
+      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "repository": {
+        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T18:33:01.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -902,7 +930,7 @@
         "url": "https://github.com/Nagi-ovo/dsh-visualize"
       },
       "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-17T16:27:54.000Z"
+      "updatedAt": "2026-08-22T20:59:11.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1013,7 +1041,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-21T13:48:52.000Z"
+      "updatedAt": "2026-08-22T21:40:43.000Z"
     },
     {
       "id": "Ruler4396/dsh-launcher",
@@ -1210,7 +1238,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-22T19:04:04.000Z"
+      "updatedAt": "2026-08-22T20:52:43.000Z"
     },
     {
       "id": "liceses/dsh-gitbash-preset",
@@ -1326,6 +1354,23 @@
       "updatedAt": "2026-08-16T00:02:38.000Z"
     },
     {
+      "id": "oil-oil/dsh-oil-creator",
+      "name": "dsh-oil-creator",
+      "displayName": "dsh-oil-creator",
+      "summary": "AI-assisted local creator workbench for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/oil-oil/dsh-oil-creator"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "creator",
+        "content-workflow",
+        "video"
+      ],
+      "updatedAt": "2026-08-20T00:40:08.000Z"
+    },
+    {
       "id": "ZSeven-W/dsh-noema",
       "name": "@zseven-w/dsh-noema",
       "displayName": "dsh-noema",
@@ -1363,21 +1408,25 @@
       "updatedAt": "2026-08-22T08:40:32.000Z"
     },
     {
-      "id": "oil-oil/dsh-oil-creator",
-      "name": "dsh-oil-creator",
-      "displayName": "dsh-oil-creator",
-      "summary": "AI-assisted local creator workbench for DeepSeek Harness",
+      "id": "saya-ch/dsh-mobile",
+      "name": "dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness 移动端适配与安全局域网访问插件，支持 Android App 和手机浏览器。",
       "repository": {
-        "url": "https://github.com/oil-oil/dsh-oil-creator"
+        "url": "https://github.com/saya-ch/dsh-mobile"
       },
-      "license": "MIT",
+      "license": "Apache-2.0",
       "keywords": [
         "deepseek-harness",
-        "creator",
-        "content-workflow",
-        "video"
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "android",
+        "lan",
+        "mobile",
+        "https"
       ],
-      "updatedAt": "2026-08-20T00:40:08.000Z"
+      "updatedAt": "2026-08-19T09:04:15.000Z"
     },
     {
       "id": "toolclub/dsh-agent-team-gui",
@@ -1402,27 +1451,6 @@
         "agent-team"
       ],
       "updatedAt": "2026-08-19T02:37:45.000Z"
-    },
-    {
-      "id": "saya-ch/dsh-mobile",
-      "name": "dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness 移动端适配与安全局域网访问插件，支持 Android App 和手机浏览器。",
-      "repository": {
-        "url": "https://github.com/saya-ch/dsh-mobile"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "android",
-        "lan",
-        "mobile",
-        "https"
-      ],
-      "updatedAt": "2026-08-19T09:04:15.000Z"
     },
     {
       "id": "lire1131/dsh-undo-savepoint",
@@ -1543,47 +1571,6 @@
         "deepseek"
       ],
       "updatedAt": "2026-08-22T09:03:41.000Z"
-    },
-    {
-      "id": "Sanqi-normal/dsh-webui-market-plugin",
-      "name": "@sanqi-normal/dsh-webui-market-plugin",
-      "displayName": "dsh-webui-market-plugin",
-      "summary": "dsh Web GUI 社区插件市场：浏览 awesome-dsh-plugin.com 插件目录，一键安装/卸载到 profile。Community plugin market for the DeepSeek Harness (dsh) web GUI: browse, install and uninstall plugins into a profile.",
-      "repository": {
-        "url": "https://github.com/Sanqi-normal/dsh-webui-market-plugin"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "agent-harness",
-        "plugin",
-        "market",
-        "web",
-        "ui"
-      ],
-      "updatedAt": "2026-08-22T05:36:20.000Z"
-    },
-    {
-      "id": "ZSeven-W/dsh-crew",
-      "name": "@zseven-w/dsh-crew",
-      "displayName": "dsh-crew",
-      "summary": "DeepSeek Harness (DSH) plugin: dispatch work to DSH agents from Claude Code / Codex — native subagent progress, in-host worker sessions with per-tier presets, and a multimodal bridge that lends the text-only harness vision and image generation.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-crew"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek",
-        "claude-code",
-        "codex",
-        "subagent",
-        "worker",
-        "multimodal",
-        "plugin",
-        "agent"
-      ],
-      "updatedAt": "2026-08-21T14:50:49.000Z"
     }
   ],
   "page": {
