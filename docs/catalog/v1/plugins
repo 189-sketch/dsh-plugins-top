@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-08-23T16:26:06.000Z"
+      "updatedAt": "2026-08-23T17:27:19.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -72,7 +72,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web-ui"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-23T16:09:28.000Z"
+      "updatedAt": "2026-08-23T16:49:33.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -83,7 +83,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T13:04:53.000Z"
+      "updatedAt": "2026-08-23T17:39:34.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -105,7 +105,7 @@
         "url": "https://github.com/xiaobright/dsh-anchored-standard"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-17T06:19:58.000Z"
+      "updatedAt": "2026-08-23T17:23:42.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -139,7 +139,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T16:01:42.000Z"
+      "updatedAt": "2026-08-23T17:22:44.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -150,7 +150,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T16:09:44.000Z"
+      "updatedAt": "2026-08-23T16:59:11.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -170,7 +170,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-08-23T14:34:49.000Z"
+      "updatedAt": "2026-08-23T17:26:06.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -264,7 +264,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-23T16:23:44.000Z"
+      "updatedAt": "2026-08-23T18:19:18.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -284,7 +284,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-23T16:19:07.000Z"
+      "updatedAt": "2026-08-23T16:33:50.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -316,7 +316,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-23T15:25:47.000Z"
+      "updatedAt": "2026-08-23T17:28:01.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -382,27 +382,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T16:00:29.000Z"
-    },
-    {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
-      ],
-      "updatedAt": "2026-08-20T08:08:44.000Z"
+      "updatedAt": "2026-08-23T18:27:46.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -433,7 +413,27 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-08-23T14:45:05.000Z"
+      "updatedAt": "2026-08-23T18:18:52.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-08-20T08:08:44.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -496,7 +496,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T16:00:40.000Z"
+      "updatedAt": "2026-08-23T17:30:45.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -649,7 +649,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-23T16:03:19.000Z"
+      "updatedAt": "2026-08-23T16:53:33.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -722,7 +722,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T16:03:38.000Z"
+      "updatedAt": "2026-08-23T16:35:15.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -794,7 +794,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T15:34:17.000Z"
+      "updatedAt": "2026-08-23T17:22:59.000Z"
     },
     {
       "id": "ericshang98/Perfect-Web-Clone",
@@ -959,7 +959,7 @@
         "plugin",
         "ios"
       ],
-      "updatedAt": "2026-08-23T05:08:41.000Z"
+      "updatedAt": "2026-08-23T17:17:32.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -990,7 +990,7 @@
       "repository": {
         "url": "https://github.com/libukai/awesome-deepseek-harness"
       },
-      "updatedAt": "2026-08-23T05:32:23.000Z"
+      "updatedAt": "2026-08-23T16:35:22.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1145,7 +1145,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T13:33:34.000Z"
+      "updatedAt": "2026-08-23T16:32:09.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1183,7 +1183,7 @@
         "mikan",
         "bangumi"
       ],
-      "updatedAt": "2026-08-23T13:32:11.000Z"
+      "updatedAt": "2026-08-23T17:46:45.000Z"
     },
     {
       "id": "omdsh-dev/dsh-data-agent",
@@ -1288,7 +1288,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T15:46:46.000Z"
+      "updatedAt": "2026-08-23T16:56:38.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1336,7 +1336,7 @@
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness 移动端适配与安全局域网访问插件，支持 Android App 和手机浏览器。",
+      "summary": "DeepSeek Harness 移动端适配与安全访问插件，支持局域网、远程连接、Android App 和手机浏览器。",
       "repository": {
         "url": "https://github.com/saya-ch/dsh-mobile"
       },
@@ -1348,10 +1348,23 @@
         "plugin",
         "android",
         "lan",
+        "remote-access",
+        "tailscale",
+        "cpolar",
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-08-23T10:51:03.000Z"
+      "updatedAt": "2026-08-23T17:37:40.000Z"
+    },
+    {
+      "id": "kingOfSoySauce/dsh-liang-skin",
+      "name": "dsh-client-liang-intensity-skin",
+      "displayName": "dsh-liang-skin",
+      "summary": "DeepSeek Harness 滑动变阻器皮肤",
+      "repository": {
+        "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
+      },
+      "updatedAt": "2026-08-21T03:23:04.000Z"
     },
     {
       "id": "summer1238/dsh-remote-web-gateway",
@@ -1368,22 +1381,12 @@
       "id": "EthanYoQ/Invoice-Downloader",
       "name": "EthanYoQ/Invoice-Downloader",
       "displayName": "Invoice-Downloader",
-      "summary": "InvoiceFlowAI：Windows 与 macOS 发票助手，自动下载邮箱电子发票、OCR 识别、分类归档并生成 Excel 报销汇总；可安装为 DeepSeek Harness 插件。",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
       "repository": {
         "url": "https://github.com/EthanYoQ/Invoice-Downloader"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-23T04:47:54.000Z"
-    },
-    {
-      "id": "kingOfSoySauce/dsh-liang-skin",
-      "name": "dsh-client-liang-intensity-skin",
-      "displayName": "dsh-liang-skin",
-      "summary": "DeepSeek Harness 滑动变阻器皮肤",
-      "repository": {
-        "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
-      },
-      "updatedAt": "2026-08-21T03:23:04.000Z"
+      "updatedAt": "2026-08-23T17:21:55.000Z"
     },
     {
       "id": "oil-oil/dsh-oil-creator",
