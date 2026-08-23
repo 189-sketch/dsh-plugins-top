@@ -83,7 +83,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T17:39:34.000Z"
+      "updatedAt": "2026-08-23T20:24:41.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -128,7 +128,7 @@
         "multimodal",
         "modlens"
       ],
-      "updatedAt": "2026-08-22T08:13:27.000Z"
+      "updatedAt": "2026-08-23T18:50:13.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -150,7 +150,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T16:59:11.000Z"
+      "updatedAt": "2026-08-23T19:17:09.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -221,7 +221,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T23:53:45.000Z"
+      "updatedAt": "2026-08-23T20:10:59.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -264,7 +264,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-23T18:19:18.000Z"
+      "updatedAt": "2026-08-23T18:59:55.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -284,7 +284,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-23T16:33:50.000Z"
+      "updatedAt": "2026-08-23T20:02:06.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -316,7 +316,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-23T17:28:01.000Z"
+      "updatedAt": "2026-08-23T19:25:32.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -382,7 +382,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T18:27:46.000Z"
+      "updatedAt": "2026-08-23T20:23:45.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -413,7 +413,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-08-23T18:18:52.000Z"
+      "updatedAt": "2026-08-23T20:13:14.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -638,7 +638,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-08-23T04:16:59.000Z"
+      "updatedAt": "2026-08-23T18:46:51.000Z"
     },
     {
       "id": "Ikalus1988/MisakaNet",
@@ -649,7 +649,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-23T16:53:33.000Z"
+      "updatedAt": "2026-08-23T18:52:15.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -846,17 +846,6 @@
       "updatedAt": "2026-08-23T13:31:28.000Z"
     },
     {
-      "id": "mrpulor-gh/nuphus-mcp",
-      "name": "mrpulor-gh/nuphus-mcp",
-      "displayName": "nuphus-mcp",
-      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "repository": {
-        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T18:33:01.000Z"
-    },
-    {
       "id": "QCYTSN/dsh-dafeiyu",
       "name": "dsh-dafeiyu",
       "displayName": "dsh-dafeiyu",
@@ -872,6 +861,17 @@
         "agent-companion"
       ],
       "updatedAt": "2026-08-23T03:13:46.000Z"
+    },
+    {
+      "id": "mrpulor-gh/nuphus-mcp",
+      "name": "mrpulor-gh/nuphus-mcp",
+      "displayName": "nuphus-mcp",
+      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "repository": {
+        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T18:33:01.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1288,7 +1288,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T16:56:38.000Z"
+      "updatedAt": "2026-08-23T19:05:00.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1386,7 +1386,7 @@
         "url": "https://github.com/EthanYoQ/Invoice-Downloader"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-23T17:21:55.000Z"
+      "updatedAt": "2026-08-23T19:07:21.000Z"
     },
     {
       "id": "oil-oil/dsh-oil-creator",
@@ -1454,30 +1454,6 @@
       "updatedAt": "2026-08-21T14:50:44.000Z"
     },
     {
-      "id": "toolclub/dsh-agent-team-gui",
-      "name": "dsh-agent-team-gui",
-      "displayName": "dsh-agent-team-gui",
-      "summary": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
-      "repository": {
-        "url": "https://github.com/toolclub/dsh-agent-team-gui"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "agent",
-        "multi-agent",
-        "multi-model",
-        "orchestration",
-        "token-usage",
-        "agent-team"
-      ],
-      "updatedAt": "2026-08-23T10:37:55.000Z"
-    },
-    {
       "id": "lire1131/dsh-undo-savepoint",
       "name": "dsh-undo-savepoint",
       "displayName": "dsh-undo-savepoint",
@@ -1501,6 +1477,30 @@
         "powershell"
       ],
       "updatedAt": "2026-08-22T19:58:07.000Z"
+    },
+    {
+      "id": "toolclub/dsh-agent-team-gui",
+      "name": "dsh-agent-team-gui",
+      "displayName": "dsh-agent-team-gui",
+      "summary": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+      "repository": {
+        "url": "https://github.com/toolclub/dsh-agent-team-gui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "agent",
+        "multi-agent",
+        "multi-model",
+        "orchestration",
+        "token-usage",
+        "agent-team"
+      ],
+      "updatedAt": "2026-08-23T10:37:55.000Z"
     },
     {
       "id": "Totoro-qaq/dsh-plugin-bridge",
