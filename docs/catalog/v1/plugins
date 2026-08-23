@@ -83,7 +83,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T20:24:41.000Z"
+      "updatedAt": "2026-08-23T22:22:17.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -150,7 +150,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T19:17:09.000Z"
+      "updatedAt": "2026-08-23T22:18:30.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -316,7 +316,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-23T19:25:32.000Z"
+      "updatedAt": "2026-08-23T21:24:06.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -382,7 +382,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T20:23:45.000Z"
+      "updatedAt": "2026-08-23T22:17:47.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -649,7 +649,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-23T18:52:15.000Z"
+      "updatedAt": "2026-08-23T22:23:28.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -1134,7 +1134,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-08-23T08:08:09.000Z"
+      "updatedAt": "2026-08-23T21:56:21.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1164,7 +1164,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-08-23T14:46:34.000Z"
+      "updatedAt": "2026-08-23T21:10:57.000Z"
     },
     {
       "id": "cocofhu/anime-find",
@@ -1280,17 +1280,6 @@
       "updatedAt": "2026-08-21T09:24:08.000Z"
     },
     {
-      "id": "bradeGithub/DSH-Plugins-Marketplace",
-      "name": "dsh-plugin-marketplace",
-      "displayName": "DSH-Plugins-Marketplace",
-      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-      "repository": {
-        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-23T19:05:00.000Z"
-    },
-    {
       "id": "zh667/TokenLedger",
       "name": "dsh-tokenledger",
       "displayName": "TokenLedger",
@@ -1309,6 +1298,17 @@
         "relay-attribution"
       ],
       "updatedAt": "2026-08-22T02:08:23.000Z"
+    },
+    {
+      "id": "bradeGithub/DSH-Plugins-Marketplace",
+      "name": "dsh-plugin-marketplace",
+      "displayName": "DSH-Plugins-Marketplace",
+      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+      "repository": {
+        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-23T20:54:08.000Z"
     },
     {
       "id": "liceses/dsh-gitbash-preset",
