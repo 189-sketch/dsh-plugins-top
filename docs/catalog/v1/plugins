@@ -72,7 +72,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web-ui"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-23T06:26:08.000Z"
+      "updatedAt": "2026-08-23T08:28:06.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -150,7 +150,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T06:33:36.000Z"
+      "updatedAt": "2026-08-23T08:28:00.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -264,7 +264,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-23T06:37:12.000Z"
+      "updatedAt": "2026-08-23T07:42:06.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -436,7 +436,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T06:09:13.000Z"
+      "updatedAt": "2026-08-23T07:59:11.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -454,7 +454,7 @@
         "balance",
         "widget"
       ],
-      "updatedAt": "2026-08-23T04:50:03.000Z"
+      "updatedAt": "2026-08-23T08:23:28.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -638,7 +638,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-23T06:30:49.000Z"
+      "updatedAt": "2026-08-23T07:10:45.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -649,7 +649,7 @@
         "url": "https://github.com/Lum1104/dsh-browser"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T04:42:34.000Z"
+      "updatedAt": "2026-08-23T08:22:59.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -681,17 +681,6 @@
       "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
-      "id": "text2future/flowix",
-      "name": "flowix",
-      "displayName": "flowix",
-      "summary": "Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding",
-      "repository": {
-        "url": "https://github.com/text2future/flowix"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-23T05:00:52.000Z"
-    },
-    {
       "id": "PC2005-cloud/dsh-pet",
       "name": "PC2005-cloud/dsh-pet",
       "displayName": "dsh-pet",
@@ -701,6 +690,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-22T05:11:04.000Z"
+    },
+    {
+      "id": "text2future/flowix",
+      "name": "flowix",
+      "displayName": "flowix",
+      "summary": "Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding",
+      "repository": {
+        "url": "https://github.com/text2future/flowix"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-23T08:13:17.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -951,6 +951,16 @@
       "updatedAt": "2026-08-21T03:58:28.000Z"
     },
     {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-08-20T05:28:37.000Z"
+    },
+    {
       "id": "Nagi-ovo/dsh-visualize",
       "name": "@dsh-external/dsh-visualize",
       "displayName": "dsh-visualize",
@@ -960,16 +970,6 @@
       },
       "license": "BSD-3-Clause",
       "updatedAt": "2026-08-22T20:59:11.000Z"
-    },
-    {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-08-20T05:28:37.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1041,7 +1041,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-22T21:40:43.000Z"
+      "updatedAt": "2026-08-23T08:12:49.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1052,18 +1052,18 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-23T06:37:03.000Z"
+      "updatedAt": "2026-08-23T08:06:39.000Z"
     },
     {
-      "id": "Ruler4396/dsh-launcher",
-      "name": "Ruler4396/dsh-launcher",
-      "displayName": "dsh-launcher",
-      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
       "repository": {
-        "url": "https://github.com/Ruler4396/dsh-launcher"
+        "url": "https://github.com/liangmianya/dsh-synapse"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-22T04:52:29.000Z"
+      "updatedAt": "2026-08-21T07:44:10.000Z"
     },
     {
       "id": "ningbainb/deepseek-harness-desktop",
@@ -1077,15 +1077,15 @@
       "updatedAt": "2026-08-22T07:12:13.000Z"
     },
     {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "id": "Ruler4396/dsh-launcher",
+      "name": "Ruler4396/dsh-launcher",
+      "displayName": "dsh-launcher",
+      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
       "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
+        "url": "https://github.com/Ruler4396/dsh-launcher"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-21T07:44:10.000Z"
+      "updatedAt": "2026-08-22T04:52:29.000Z"
     },
     {
       "id": "tinqiao-oss/engramory",
@@ -1107,7 +1107,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T06:25:01.000Z"
+      "updatedAt": "2026-08-23T07:45:09.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1134,7 +1134,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-08-22T14:41:07.000Z"
+      "updatedAt": "2026-08-23T08:08:09.000Z"
     },
     {
       "id": "cocofhu/anime-find",
@@ -1154,6 +1154,17 @@
         "bangumi"
       ],
       "updatedAt": "2026-08-23T02:16:31.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-data-agent",
+      "name": "@yejiming/dsh-data-agent",
+      "displayName": "dsh-data-agent",
+      "summary": "Connect DSH to your database for conversational data analysis and actionable business insights.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-data-agent"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-22T16:59:06.000Z"
     },
     {
       "id": "weijiafu14/pi2dsh",
@@ -1193,17 +1204,6 @@
       "updatedAt": "2026-08-22T18:47:40.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-data-agent",
-      "name": "@yejiming/dsh-data-agent",
-      "displayName": "dsh-data-agent",
-      "summary": "Connect DSH to your database for conversational data analysis and actionable business insights.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-data-agent"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-22T16:59:06.000Z"
-    },
-    {
       "id": "zhaoolee/notes",
       "name": "notes",
       "displayName": "notes",
@@ -1241,17 +1241,6 @@
       "updatedAt": "2026-08-21T09:24:08.000Z"
     },
     {
-      "id": "bradeGithub/DSH-Plugins-Marketplace",
-      "name": "dsh-plugin-marketplace",
-      "displayName": "DSH-Plugins-Marketplace",
-      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-      "repository": {
-        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-23T03:34:42.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1280,24 +1269,15 @@
       "updatedAt": "2026-08-19T16:46:32.000Z"
     },
     {
-      "id": "zh667/TokenLedger",
-      "name": "dsh-tokenledger",
-      "displayName": "TokenLedger",
-      "summary": "Relay-site attributed token usage for DeepSeek Harness — zero config, no credentials",
+      "id": "bradeGithub/DSH-Plugins-Marketplace",
+      "name": "dsh-plugin-marketplace",
+      "displayName": "DSH-Plugins-Marketplace",
+      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
       "repository": {
-        "url": "https://github.com/zh667/TokenLedger"
+        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "token-usage",
-        "billing",
-        "dsh-bundle",
-        "cordis-plugin",
-        "relay-attribution"
-      ],
-      "updatedAt": "2026-08-22T02:08:23.000Z"
+      "updatedAt": "2026-08-23T07:22:50.000Z"
     },
     {
       "id": "liceses/dsh-gitbash-preset",
@@ -1322,6 +1302,37 @@
       "updatedAt": "2026-08-16T17:54:06.000Z"
     },
     {
+      "id": "zh667/TokenLedger",
+      "name": "dsh-tokenledger",
+      "displayName": "TokenLedger",
+      "summary": "Relay-site attributed token usage for DeepSeek Harness — zero config, no credentials",
+      "repository": {
+        "url": "https://github.com/zh667/TokenLedger"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "token-usage",
+        "billing",
+        "dsh-bundle",
+        "cordis-plugin",
+        "relay-attribution"
+      ],
+      "updatedAt": "2026-08-22T02:08:23.000Z"
+    },
+    {
+      "id": "summer1238/dsh-remote-web-gateway",
+      "name": "dsh-remote-web-gateway",
+      "displayName": "dsh-remote-web-gateway",
+      "summary": "手机平板远程 DeepSeek Harness：扫码即可继续使用电脑上的 DSH，无需远程桌面 / SSH / 公网 IP，支持一次性配对、Github授权加密登录，独立设备授权与随时撤销，实现远程连接很简单，但安全才是我们所想要的。",
+      "repository": {
+        "url": "https://github.com/summer1238/dsh-remote-web-gateway"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T13:38:39.000Z"
+    },
+    {
       "id": "EthanYoQ/Invoice-Downloader",
       "name": "EthanYoQ/Invoice-Downloader",
       "displayName": "Invoice-Downloader",
@@ -1343,28 +1354,6 @@
       "updatedAt": "2026-08-21T03:23:04.000Z"
     },
     {
-      "id": "summer1238/dsh-remote-web-gateway",
-      "name": "dsh-remote-web-gateway",
-      "displayName": "dsh-remote-web-gateway",
-      "summary": "手机平板远程 DeepSeek Harness：扫码即可继续使用电脑上的 DSH，无需远程桌面 / SSH / 公网 IP，支持一次性配对、Github授权加密登录，独立设备授权与随时撤销，实现远程连接很简单，但安全才是我们所想要的。",
-      "repository": {
-        "url": "https://github.com/summer1238/dsh-remote-web-gateway"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T13:38:39.000Z"
-    },
-    {
-      "id": "Ayase34/gal-view",
-      "name": "gal-view",
-      "displayName": "gal-view",
-      "summary": "把dsh会话界面切换成galgame游戏界面的插件",
-      "repository": {
-        "url": "https://github.com/Ayase34/gal-view"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-16T00:02:38.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1383,7 +1372,18 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-08-19T09:04:15.000Z"
+      "updatedAt": "2026-08-23T08:02:45.000Z"
+    },
+    {
+      "id": "Ayase34/gal-view",
+      "name": "gal-view",
+      "displayName": "gal-view",
+      "summary": "把dsh会话界面切换成galgame游戏界面的插件",
+      "repository": {
+        "url": "https://github.com/Ayase34/gal-view"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-16T00:02:38.000Z"
     },
     {
       "id": "NanmiCoder/dsh-auto-mode",
@@ -1514,7 +1514,7 @@
         "dsh",
         "token-usage"
       ],
-      "updatedAt": "2026-08-23T06:00:53.000Z"
+      "updatedAt": "2026-08-23T07:07:49.000Z"
     },
     {
       "id": "HanaAyane/dsh-reasoning-effort",
