@@ -72,7 +72,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-22T18:01:26.000Z"
+      "updatedAt": "2026-08-23T02:17:47.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web-ui",
@@ -83,7 +83,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web-ui"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T14:48:00.000Z"
+      "updatedAt": "2026-08-23T03:03:35.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -94,7 +94,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-22T15:52:47.000Z"
+      "updatedAt": "2026-08-23T02:36:14.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -150,7 +150,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-23T01:08:33.000Z"
+      "updatedAt": "2026-08-23T02:58:19.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -264,7 +264,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-22T17:51:10.000Z"
+      "updatedAt": "2026-08-23T02:57:37.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -425,7 +425,25 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-08-20T06:30:49.000Z"
+      "updatedAt": "2026-08-23T01:49:16.000Z"
+    },
+    {
+      "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "name": "dsh-whale-widget",
+      "displayName": "DeepSeek-Balance-Whale-Widget",
+      "summary": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "repository": {
+        "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "balance",
+        "widget"
+      ],
+      "updatedAt": "2026-08-22T17:27:55.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -466,24 +484,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-08-21T06:52:50.000Z"
-    },
-    {
-      "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "name": "dsh-whale-widget",
-      "displayName": "DeepSeek-Balance-Whale-Widget",
-      "summary": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "repository": {
-        "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "balance",
-        "widget"
-      ],
-      "updatedAt": "2026-08-22T17:27:55.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -557,21 +557,10 @@
       "updatedAt": "2026-08-20T12:12:36.000Z"
     },
     {
-      "id": "FSMargoo/dsh-at-file",
-      "name": "dsh-at-file",
-      "displayName": "dsh-at-file",
-      "summary": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
-      "repository": {
-        "url": "https://github.com/FSMargoo/dsh-at-file"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-22T16:48:38.000Z"
-    },
-    {
       "id": "shaobeichen/dsh-pocket",
       "name": "dsh-pocket",
       "displayName": "dsh-pocket",
-      "summary": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）",
+      "summary": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)",
       "repository": {
         "url": "https://github.com/shaobeichen/dsh-pocket"
       },
@@ -586,6 +575,17 @@
         "tunnel"
       ],
       "updatedAt": "2026-08-22T13:45:29.000Z"
+    },
+    {
+      "id": "FSMargoo/dsh-at-file",
+      "name": "dsh-at-file",
+      "displayName": "dsh-at-file",
+      "summary": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
+      "repository": {
+        "url": "https://github.com/FSMargoo/dsh-at-file"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-22T16:48:38.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -627,7 +627,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T21:40:56.000Z"
+      "updatedAt": "2026-08-23T03:04:57.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -803,17 +803,6 @@
       "updatedAt": "2026-08-20T12:42:53.000Z"
     },
     {
-      "id": "mrpulor-gh/nuphus-mcp",
-      "name": "mrpulor-gh/nuphus-mcp",
-      "displayName": "nuphus-mcp",
-      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "repository": {
-        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T18:33:01.000Z"
-    },
-    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -835,6 +824,17 @@
       "updatedAt": "2026-08-22T04:31:32.000Z"
     },
     {
+      "id": "mrpulor-gh/nuphus-mcp",
+      "name": "mrpulor-gh/nuphus-mcp",
+      "displayName": "nuphus-mcp",
+      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "repository": {
+        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T18:33:01.000Z"
+    },
+    {
       "id": "QCYTSN/dsh-dafeiyu",
       "name": "dsh-dafeiyu",
       "displayName": "dsh-dafeiyu",
@@ -849,7 +849,7 @@
         "desktop-pet",
         "agent-companion"
       ],
-      "updatedAt": "2026-08-22T09:52:33.000Z"
+      "updatedAt": "2026-08-23T03:02:06.000Z"
     },
     {
       "id": "huiliyi37/dsh-tianshu-tui",
@@ -998,7 +998,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-23T00:36:43.000Z"
+      "updatedAt": "2026-08-23T02:44:07.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1055,17 +1055,6 @@
       "updatedAt": "2026-08-22T04:52:29.000Z"
     },
     {
-      "id": "tinqiao-oss/engramory",
-      "name": "dsh-engramory",
-      "displayName": "engramory",
-      "summary": "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.",
-      "repository": {
-        "url": "https://github.com/tinqiao-oss/engramory"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-20T07:29:09.000Z"
-    },
-    {
       "id": "ningbainb/deepseek-harness-desktop",
       "name": "dsh-web-ui",
       "displayName": "deepseek-harness-desktop",
@@ -1077,6 +1066,17 @@
       "updatedAt": "2026-08-22T07:12:13.000Z"
     },
     {
+      "id": "tinqiao-oss/engramory",
+      "name": "dsh-engramory",
+      "displayName": "engramory",
+      "summary": "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.",
+      "repository": {
+        "url": "https://github.com/tinqiao-oss/engramory"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-20T07:29:09.000Z"
+    },
+    {
       "id": "liangmianya/dsh-synapse",
       "name": "dsh-synapse",
       "displayName": "dsh-synapse",
@@ -1086,17 +1086,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-21T07:44:10.000Z"
-    },
-    {
-      "id": "imsai-sh/awesome-deepseek-harness-plugins",
-      "name": "dsh-1024store-monorepo",
-      "displayName": "awesome-deepseek-harness-plugins",
-      "summary": "DeepSeek Harness plugin store, marketplace and hub — 3,100+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
-      "repository": {
-        "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-23T01:08:39.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1126,6 +1115,17 @@
       "updatedAt": "2026-08-22T14:41:07.000Z"
     },
     {
+      "id": "imsai-sh/awesome-deepseek-harness-plugins",
+      "name": "dsh-1024store-monorepo",
+      "displayName": "awesome-deepseek-harness-plugins",
+      "summary": "DeepSeek Harness plugin store, marketplace and hub — 3,100+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
+      "repository": {
+        "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-23T01:30:03.000Z"
+    },
+    {
       "id": "cocofhu/anime-find",
       "name": "@cocofhu/anime-find",
       "displayName": "anime-find",
@@ -1142,7 +1142,7 @@
         "mikan",
         "bangumi"
       ],
-      "updatedAt": "2026-08-22T12:43:12.000Z"
+      "updatedAt": "2026-08-23T02:16:31.000Z"
     },
     {
       "id": "weijiafu14/pi2dsh",
@@ -1238,29 +1238,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-22T20:52:43.000Z"
-    },
-    {
-      "id": "liceses/dsh-gitbash-preset",
-      "name": "@icelily/dsh-gitbash-preset",
-      "displayName": "dsh-gitbash-preset",
-      "summary": "DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Windows 上的极简模式真正可用。",
-      "repository": {
-        "url": "https://github.com/liceses/dsh-gitbash-preset"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "cordis",
-        "agent-preset",
-        "minimal",
-        "git-bash",
-        "msys",
-        "windows"
-      ],
-      "updatedAt": "2026-08-16T17:54:06.000Z"
+      "updatedAt": "2026-08-23T02:04:42.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1289,6 +1267,28 @@
         "cordis"
       ],
       "updatedAt": "2026-08-19T16:46:32.000Z"
+    },
+    {
+      "id": "liceses/dsh-gitbash-preset",
+      "name": "@icelily/dsh-gitbash-preset",
+      "displayName": "dsh-gitbash-preset",
+      "summary": "DeepSeek Harness 插件：一键安装「极简模式 (Git Bash)」agent preset —— 把 DSH 自带极简模式中的 bash 调用映射到 Git for Windows 的 bash（MSYS），让 Windows 上的极简模式真正可用。",
+      "repository": {
+        "url": "https://github.com/liceses/dsh-gitbash-preset"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "cordis",
+        "agent-preset",
+        "minimal",
+        "git-bash",
+        "msys",
+        "windows"
+      ],
+      "updatedAt": "2026-08-16T17:54:06.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1506,6 +1506,29 @@
       "updatedAt": "2026-08-22T07:42:47.000Z"
     },
     {
+      "id": "HanaAyane/dsh-reasoning-effort",
+      "name": "dsh-reasoning-effort",
+      "displayName": "dsh-reasoning-effort",
+      "summary": "DSH适用的Codex风格的思考强度滑块，以及大肥鱼跑步滑块。Codex-style model and reasoning-effort slider for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/HanaAyane/dsh-reasoning-effort"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "reasoning-effort",
+        "thinking",
+        "model-selector",
+        "slider",
+        "ui",
+        "cordis"
+      ],
+      "updatedAt": "2026-08-17T13:21:36.000Z"
+    },
+    {
       "id": "taxueseek/argo",
       "name": "argo-search",
       "displayName": "argo",
@@ -1529,29 +1552,6 @@
         "npx"
       ],
       "updatedAt": "2026-08-22T14:13:36.000Z"
-    },
-    {
-      "id": "HanaAyane/dsh-reasoning-effort",
-      "name": "dsh-reasoning-effort",
-      "displayName": "dsh-reasoning-effort",
-      "summary": "DSH适用的Codex风格的思考强度滑块，以及大肥鱼跑步滑块。Codex-style model and reasoning-effort slider for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/HanaAyane/dsh-reasoning-effort"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "reasoning-effort",
-        "thinking",
-        "model-selector",
-        "slider",
-        "ui",
-        "cordis"
-      ],
-      "updatedAt": "2026-08-17T13:21:36.000Z"
     },
     {
       "id": "beancookie/awesome-dsh-plugin",
