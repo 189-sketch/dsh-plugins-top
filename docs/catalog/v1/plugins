@@ -150,7 +150,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-22T21:50:28.000Z"
+      "updatedAt": "2026-08-23T01:08:33.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -221,7 +221,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T21:54:07.000Z"
+      "updatedAt": "2026-08-22T23:53:45.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -486,17 +486,6 @@
       "updatedAt": "2026-08-22T17:27:55.000Z"
     },
     {
-      "id": "Nagi-ovo/dsh-ads",
-      "name": "@dsh-external/dsh-ads",
-      "displayName": "dsh-ads",
-      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-ads"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-22T20:59:04.000Z"
-    },
-    {
       "id": "xmanrui/dsh-im",
       "name": "@xmanrui/dsh-im",
       "displayName": "dsh-im",
@@ -526,6 +515,17 @@
         "ai-office"
       ],
       "updatedAt": "2026-08-22T17:21:08.000Z"
+    },
+    {
+      "id": "Nagi-ovo/dsh-ads",
+      "name": "@dsh-external/dsh-ads",
+      "displayName": "dsh-ads",
+      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-ads"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-08-22T20:59:04.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -803,6 +803,17 @@
       "updatedAt": "2026-08-20T12:42:53.000Z"
     },
     {
+      "id": "mrpulor-gh/nuphus-mcp",
+      "name": "mrpulor-gh/nuphus-mcp",
+      "displayName": "nuphus-mcp",
+      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "repository": {
+        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T18:33:01.000Z"
+    },
+    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -822,17 +833,6 @@
         "grok"
       ],
       "updatedAt": "2026-08-22T04:31:32.000Z"
-    },
-    {
-      "id": "mrpulor-gh/nuphus-mcp",
-      "name": "mrpulor-gh/nuphus-mcp",
-      "displayName": "nuphus-mcp",
-      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "repository": {
-        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T18:33:01.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -922,17 +922,6 @@
       "updatedAt": "2026-08-21T14:50:37.000Z"
     },
     {
-      "id": "Nagi-ovo/dsh-visualize",
-      "name": "@dsh-external/dsh-visualize",
-      "displayName": "dsh-visualize",
-      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-visualize"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-22T20:59:11.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -949,6 +938,17 @@
         "web-fetch"
       ],
       "updatedAt": "2026-08-21T03:58:28.000Z"
+    },
+    {
+      "id": "Nagi-ovo/dsh-visualize",
+      "name": "@dsh-external/dsh-visualize",
+      "displayName": "dsh-visualize",
+      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-visualize"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-08-22T20:59:11.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -998,7 +998,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-22T14:41:45.000Z"
+      "updatedAt": "2026-08-23T00:36:43.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1096,26 +1096,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-22T19:59:52.000Z"
-    },
-    {
-      "id": "cocofhu/anime-find",
-      "name": "@cocofhu/anime-find",
-      "displayName": "anime-find",
-      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
-      "repository": {
-        "url": "https://github.com/cocofhu/anime-find"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "anime",
-        "mikan",
-        "bangumi"
-      ],
-      "updatedAt": "2026-08-22T12:43:12.000Z"
+      "updatedAt": "2026-08-23T01:08:39.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1143,6 +1124,25 @@
         "language"
       ],
       "updatedAt": "2026-08-22T14:41:07.000Z"
+    },
+    {
+      "id": "cocofhu/anime-find",
+      "name": "@cocofhu/anime-find",
+      "displayName": "anime-find",
+      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+      "repository": {
+        "url": "https://github.com/cocofhu/anime-find"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "anime",
+        "mikan",
+        "bangumi"
+      ],
+      "updatedAt": "2026-08-22T12:43:12.000Z"
     },
     {
       "id": "weijiafu14/pi2dsh",
@@ -1291,17 +1291,6 @@
       "updatedAt": "2026-08-19T16:46:32.000Z"
     },
     {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "InvoiceFlowAI：Windows 与 macOS 发票助手，自动下载邮箱电子发票、OCR 识别、分类归档并生成 Excel 报销汇总；可安装为 DeepSeek Harness 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T09:45:29.000Z"
-    },
-    {
       "id": "zh667/TokenLedger",
       "name": "dsh-tokenledger",
       "displayName": "TokenLedger",
@@ -1320,6 +1309,17 @@
         "relay-attribution"
       ],
       "updatedAt": "2026-08-22T02:08:23.000Z"
+    },
+    {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "InvoiceFlowAI：Windows 与 macOS 发票助手，自动下载邮箱电子发票、OCR 识别、分类归档并生成 Excel 报销汇总；可安装为 DeepSeek Harness 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-22T09:45:29.000Z"
     },
     {
       "id": "kingOfSoySauce/dsh-liang-skin",
@@ -1570,7 +1570,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-08-22T09:03:41.000Z"
+      "updatedAt": "2026-08-23T00:24:04.000Z"
     }
   ],
   "page": {
