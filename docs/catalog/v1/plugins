@@ -172,7 +172,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T20:24:01.000Z"
+      "updatedAt": "2026-08-24T21:56:31.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -338,7 +338,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-24T19:24:47.000Z"
+      "updatedAt": "2026-08-24T21:24:44.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -435,7 +435,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T20:27:49.000Z"
+      "updatedAt": "2026-08-24T22:27:58.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -682,7 +682,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-24T19:05:40.000Z"
+      "updatedAt": "2026-08-24T21:48:29.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -920,17 +920,6 @@
       "updatedAt": "2026-08-21T18:33:01.000Z"
     },
     {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-24T13:42:39.000Z"
-    },
-    {
       "id": "ZSeven-W/dsh-ios",
       "name": "@zseven-w/dsh-ios",
       "displayName": "dsh-ios",
@@ -947,6 +936,17 @@
         "ios"
       ],
       "updatedAt": "2026-08-24T15:57:29.000Z"
+    },
+    {
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "repository": {
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-24T13:42:39.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1135,7 +1135,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T19:45:09.000Z"
+      "updatedAt": "2026-08-24T22:13:06.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1237,7 +1237,7 @@
         "mikan",
         "bangumi"
       ],
-      "updatedAt": "2026-08-24T19:48:39.000Z"
+      "updatedAt": "2026-08-24T20:59:01.000Z"
     },
     {
       "id": "weijiafu14/pi2dsh",
@@ -1323,17 +1323,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T19:12:15.000Z"
-    },
-    {
-      "id": "kingOfSoySauce/dsh-liang-skin",
-      "name": "dsh-client-liang-intensity-skin",
-      "displayName": "dsh-liang-skin",
-      "summary": "DeepSeek Harness 滑动变阻器皮肤",
-      "repository": {
-        "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
-      },
-      "updatedAt": "2026-08-21T03:23:04.000Z"
+      "updatedAt": "2026-08-24T20:59:29.000Z"
     },
     {
       "id": "oil-oil/dsh-oil-creator",
@@ -1351,6 +1341,16 @@
         "video"
       ],
       "updatedAt": "2026-08-20T00:40:08.000Z"
+    },
+    {
+      "id": "kingOfSoySauce/dsh-liang-skin",
+      "name": "dsh-client-liang-intensity-skin",
+      "displayName": "dsh-liang-skin",
+      "summary": "DeepSeek Harness 滑动变阻器皮肤",
+      "repository": {
+        "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
+      },
+      "updatedAt": "2026-08-21T03:23:04.000Z"
     },
     {
       "id": "ChisaAlter/Deepseek-Harness-Desktop",
@@ -1432,25 +1432,6 @@
       "updatedAt": "2026-08-23T19:07:21.000Z"
     },
     {
-      "id": "NanmiCoder/dsh-auto-mode",
-      "name": "@nanmicoder/dsh-auto-mode",
-      "displayName": "dsh-auto-mode",
-      "summary": "Safe automatic permissions for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/NanmiCoder/dsh-auto-mode"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "permission",
-        "security",
-        "plugin"
-      ],
-      "updatedAt": "2026-08-22T08:40:32.000Z"
-    },
-    {
       "id": "toolclub/dsh-agent-team-gui",
       "name": "dsh-agent-team-gui",
       "displayName": "dsh-agent-team-gui",
@@ -1475,15 +1456,23 @@
       "updatedAt": "2026-08-24T06:30:56.000Z"
     },
     {
-      "id": "Ayase34/gal-view",
-      "name": "gal-view",
-      "displayName": "gal-view",
-      "summary": "把dsh会话界面切换成galgame游戏界面的插件",
+      "id": "NanmiCoder/dsh-auto-mode",
+      "name": "@nanmicoder/dsh-auto-mode",
+      "displayName": "dsh-auto-mode",
+      "summary": "Safe automatic permissions for DeepSeek Harness.",
       "repository": {
-        "url": "https://github.com/Ayase34/gal-view"
+        "url": "https://github.com/NanmiCoder/dsh-auto-mode"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-16T00:02:38.000Z"
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "permission",
+        "security",
+        "plugin"
+      ],
+      "updatedAt": "2026-08-22T08:40:32.000Z"
     },
     {
       "id": "Totoro-qaq/dsh-plugin-bridge",
@@ -1502,7 +1491,18 @@
         "agent-preset",
         "session-migration"
       ],
-      "updatedAt": "2026-08-24T10:31:52.000Z"
+      "updatedAt": "2026-08-24T22:11:29.000Z"
+    },
+    {
+      "id": "Ayase34/gal-view",
+      "name": "gal-view",
+      "displayName": "gal-view",
+      "summary": "把dsh会话界面切换成galgame游戏界面的插件",
+      "repository": {
+        "url": "https://github.com/Ayase34/gal-view"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-16T00:02:38.000Z"
     },
     {
       "id": "ZSeven-W/dsh-noema",
