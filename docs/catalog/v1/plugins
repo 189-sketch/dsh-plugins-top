@@ -10,7 +10,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-24T06:51:05.000Z"
+      "updatedAt": "2026-08-24T08:00:24.000Z"
     },
     {
       "id": "tt-a1i/archify",
@@ -51,7 +51,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-24T06:28:09.000Z"
+      "updatedAt": "2026-08-24T07:58:33.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -67,12 +67,12 @@
       "id": "zhu1090093659/dsh-web",
       "name": "dsh-web",
       "displayName": "dsh-web",
-      "summary": "DeepSeek Harness（DSH）Web GUI 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 SSH 运维构筑开发工作台；皮肤经 WebGL 深度优化，更支持 Wallpaper Engine 壁纸；皮肤、宠物、插件由 DSH 大市场一键安装，正迈向 DSH 创意工坊。A pluggable plugin-skin ecosystem for the DSH Web GUI - Task board, remote mobile UI, SSH ops, WebGL-optimized skins with Wallpaper Engine wallpapers - becoming a DSH creative workshop.",
+      "summary": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）",
       "repository": {
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-24T06:22:55.000Z"
+      "updatedAt": "2026-08-24T08:44:36.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -83,7 +83,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T06:55:14.000Z"
+      "updatedAt": "2026-08-24T08:48:27.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -94,7 +94,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-24T04:30:02.000Z"
+      "updatedAt": "2026-08-24T07:38:33.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -131,6 +131,17 @@
       "updatedAt": "2026-08-23T18:50:13.000Z"
     },
     {
+      "id": "agentscope-ai/ReMe",
+      "name": "agentscope-ai/ReMe",
+      "displayName": "ReMe",
+      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "repository": {
+        "url": "https://github.com/agentscope-ai/ReMe"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-24T07:21:28.000Z"
+    },
+    {
       "id": "omdsh-dev/DSH-better-sidebar",
       "name": "dsh-better-sidebar",
       "displayName": "DSH-better-sidebar",
@@ -150,7 +161,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T06:36:30.000Z"
+      "updatedAt": "2026-08-24T08:41:39.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -191,7 +202,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T06:52:20.000Z"
+      "updatedAt": "2026-08-24T08:26:09.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -251,7 +262,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-24T01:52:48.000Z"
+      "updatedAt": "2026-08-24T07:44:17.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -274,7 +285,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-24T06:38:06.000Z"
+      "updatedAt": "2026-08-24T08:49:25.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -316,7 +327,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-24T05:27:53.000Z"
+      "updatedAt": "2026-08-24T07:27:49.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -413,7 +424,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T06:51:39.000Z"
+      "updatedAt": "2026-08-24T08:41:31.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -649,7 +660,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-24T06:39:04.000Z"
+      "updatedAt": "2026-08-24T07:51:51.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -671,7 +682,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-22T05:11:04.000Z"
+      "updatedAt": "2026-08-24T08:11:42.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -794,7 +805,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T03:07:39.000Z"
+      "updatedAt": "2026-08-24T08:44:39.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -847,17 +858,6 @@
       "updatedAt": "2026-08-20T12:42:53.000Z"
     },
     {
-      "id": "mrpulor-gh/nuphus-mcp",
-      "name": "mrpulor-gh/nuphus-mcp",
-      "displayName": "nuphus-mcp",
-      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "repository": {
-        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T18:33:01.000Z"
-    },
-    {
       "id": "QCYTSN/dsh-dafeiyu",
       "name": "dsh-dafeiyu",
       "displayName": "dsh-dafeiyu",
@@ -873,6 +873,17 @@
         "agent-companion"
       ],
       "updatedAt": "2026-08-23T03:13:46.000Z"
+    },
+    {
+      "id": "mrpulor-gh/nuphus-mcp",
+      "name": "mrpulor-gh/nuphus-mcp",
+      "displayName": "nuphus-mcp",
+      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "repository": {
+        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T18:33:01.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -907,6 +918,34 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-19T15:34:39.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-08-24T04:12:22.000Z"
+    },
+    {
+      "id": "ZSeven-W/dsh-ios",
+      "name": "@zseven-w/dsh-ios",
+      "displayName": "dsh-ios",
+      "summary": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "repository": {
+        "url": "https://github.com/ZSeven-W/dsh-ios"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "simulator",
+        "ios-simulator",
+        "plugin",
+        "ios"
+      ],
+      "updatedAt": "2026-08-23T17:17:32.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -945,34 +984,6 @@
       "updatedAt": "2026-08-22T10:35:10.000Z"
     },
     {
-      "id": "ZSeven-W/dsh-ios",
-      "name": "@zseven-w/dsh-ios",
-      "displayName": "dsh-ios",
-      "summary": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-ios"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "simulator",
-        "ios-simulator",
-        "plugin",
-        "ios"
-      ],
-      "updatedAt": "2026-08-23T17:17:32.000Z"
-    },
-    {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-08-24T04:12:22.000Z"
-    },
-    {
       "id": "Nagi-ovo/dsh-visualize",
       "name": "@dsh-external/dsh-visualize",
       "displayName": "dsh-visualize",
@@ -992,6 +1003,17 @@
         "url": "https://github.com/libukai/awesome-deepseek-harness"
       },
       "updatedAt": "2026-08-24T04:21:36.000Z"
+    },
+    {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T07:44:10.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1034,18 +1056,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-24T06:26:29.000Z"
-    },
-    {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T07:44:10.000Z"
+      "updatedAt": "2026-08-24T07:14:48.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1075,7 +1086,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-24T06:36:01.000Z"
+      "updatedAt": "2026-08-24T08:35:42.000Z"
     },
     {
       "id": "ningbainb/deepseek-harness-desktop",
@@ -1097,7 +1108,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T05:25:01.000Z"
+      "updatedAt": "2026-08-24T08:41:25.000Z"
     },
     {
       "id": "Ruler4396/dsh-launcher",
@@ -1108,7 +1119,7 @@
         "url": "https://github.com/Ruler4396/dsh-launcher"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T06:25:53.000Z"
+      "updatedAt": "2026-08-24T08:09:06.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1244,17 +1255,7 @@
         "migration",
         "compatibility"
       ],
-      "updatedAt": "2026-08-24T03:56:21.000Z"
-    },
-    {
-      "id": "zhaoolee/notes",
-      "name": "notes",
-      "displayName": "notes",
-      "summary": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
-      "repository": {
-        "url": "https://github.com/zhaoolee/notes"
-      },
-      "updatedAt": "2026-08-22T07:32:59.000Z"
+      "updatedAt": "2026-08-24T08:31:48.000Z"
     },
     {
       "id": "ZSeven-W/dsh-openpencil",
@@ -1272,6 +1273,16 @@
         "design"
       ],
       "updatedAt": "2026-08-21T14:32:24.000Z"
+    },
+    {
+      "id": "zhaoolee/notes",
+      "name": "notes",
+      "displayName": "notes",
+      "summary": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
+      "repository": {
+        "url": "https://github.com/zhaoolee/notes"
+      },
+      "updatedAt": "2026-08-24T08:40:53.000Z"
     },
     {
       "id": "yjh051108/dsh-super-injector",
@@ -1301,7 +1312,7 @@
         "cordis-plugin",
         "relay-attribution"
       ],
-      "updatedAt": "2026-08-22T02:08:23.000Z"
+      "updatedAt": "2026-08-24T08:37:10.000Z"
     },
     {
       "id": "bradeGithub/DSH-Plugins-Marketplace",
@@ -1312,7 +1323,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T06:33:22.000Z"
+      "updatedAt": "2026-08-24T07:35:16.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1535,17 +1546,6 @@
         "session-migration"
       ],
       "updatedAt": "2026-08-22T19:54:36.000Z"
-    },
-    {
-      "id": "Vladimir-Human/humanizer-ru",
-      "name": "Vladimir-Human/humanizer-ru",
-      "displayName": "humanizer-ru",
-      "summary": "Скилл для ИИ-агентов: находит и убирает следы машинной генерации из русского текста. 38 паттернов, 39 regex-маркеров с реестром доказательств, слепые парные прогоны, файловый слой снятия C2PA/EXIF/XMP. Пакет на PyPI и онлайн-демо | Russian AI-writing humanizer skill, PyPI: humanizer-ru, live demo",
-      "repository": {
-        "url": "https://github.com/Vladimir-Human/humanizer-ru"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T20:46:07.000Z"
     }
   ],
   "page": {
