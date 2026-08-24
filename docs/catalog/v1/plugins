@@ -10,7 +10,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-24T04:22:58.000Z"
+      "updatedAt": "2026-08-24T06:51:05.000Z"
     },
     {
       "id": "tt-a1i/archify",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-08-24T04:09:07.000Z"
+      "updatedAt": "2026-08-24T05:37:24.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -51,7 +51,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-21T08:57:55.000Z"
+      "updatedAt": "2026-08-24T06:28:09.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -64,15 +64,15 @@
       "updatedAt": "2026-08-23T03:26:50.000Z"
     },
     {
-      "id": "zhu1090093659/dsh-web-ui",
-      "name": "dsh-web-ui",
-      "displayName": "dsh-web-ui",
+      "id": "zhu1090093659/dsh-web",
+      "name": "dsh-web",
+      "displayName": "dsh-web",
       "summary": "DeepSeek Harness（DSH）Web GUI 插件与皮肤生态：一切皆插件。任务看板、移动端远程与 SSH 运维构筑开发工作台；皮肤经 WebGL 深度优化，更支持 Wallpaper Engine 壁纸；皮肤、宠物、插件由 DSH 大市场一键安装，正迈向 DSH 创意工坊。A pluggable plugin-skin ecosystem for the DSH Web GUI - Task board, remote mobile UI, SSH ops, WebGL-optimized skins with Wallpaper Engine wallpapers - becoming a DSH creative workshop.",
       "repository": {
-        "url": "https://github.com/zhu1090093659/dsh-web-ui"
+        "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-24T03:06:54.000Z"
+      "updatedAt": "2026-08-24T06:22:55.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -83,7 +83,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T01:10:44.000Z"
+      "updatedAt": "2026-08-24T06:55:14.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -139,7 +139,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T04:27:02.000Z"
+      "updatedAt": "2026-08-24T06:32:03.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -150,7 +150,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T04:29:20.000Z"
+      "updatedAt": "2026-08-24T06:36:30.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -191,7 +191,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T03:02:39.000Z"
+      "updatedAt": "2026-08-24T06:52:20.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -221,7 +221,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-23T23:04:20.000Z"
+      "updatedAt": "2026-08-24T06:37:43.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -274,7 +274,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-24T04:02:22.000Z"
+      "updatedAt": "2026-08-24T06:38:06.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -284,7 +284,7 @@
       "repository": {
         "url": "https://github.com/mindscale-noah/MindMemOS"
       },
-      "updatedAt": "2026-08-24T03:08:37.000Z"
+      "updatedAt": "2026-08-24T04:47:12.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -316,7 +316,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-24T03:24:45.000Z"
+      "updatedAt": "2026-08-24T05:27:53.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -413,7 +413,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T04:41:46.000Z"
+      "updatedAt": "2026-08-24T06:51:39.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -517,7 +517,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-24T04:37:59.000Z"
+      "updatedAt": "2026-08-24T05:34:55.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -539,17 +539,6 @@
       "updatedAt": "2026-08-21T06:52:50.000Z"
     },
     {
-      "id": "Nagi-ovo/dsh-ads",
-      "name": "@dsh-external/dsh-ads",
-      "displayName": "dsh-ads",
-      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-ads"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-22T20:59:04.000Z"
-    },
-    {
       "id": "shaobeichen/dsh-pocket",
       "name": "dsh-pocket",
       "displayName": "dsh-pocket",
@@ -568,6 +557,17 @@
         "tunnel"
       ],
       "updatedAt": "2026-08-23T13:28:38.000Z"
+    },
+    {
+      "id": "Nagi-ovo/dsh-ads",
+      "name": "@dsh-external/dsh-ads",
+      "displayName": "dsh-ads",
+      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-ads"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-08-22T20:59:04.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -649,7 +649,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-24T04:10:31.000Z"
+      "updatedAt": "2026-08-24T06:39:04.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -660,7 +660,7 @@
         "url": "https://github.com/Lum1104/dsh-browser"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T03:37:43.000Z"
+      "updatedAt": "2026-08-24T06:08:19.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -847,6 +847,17 @@
       "updatedAt": "2026-08-20T12:42:53.000Z"
     },
     {
+      "id": "mrpulor-gh/nuphus-mcp",
+      "name": "mrpulor-gh/nuphus-mcp",
+      "displayName": "nuphus-mcp",
+      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "repository": {
+        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T18:33:01.000Z"
+    },
+    {
       "id": "QCYTSN/dsh-dafeiyu",
       "name": "dsh-dafeiyu",
       "displayName": "dsh-dafeiyu",
@@ -862,17 +873,6 @@
         "agent-companion"
       ],
       "updatedAt": "2026-08-23T03:13:46.000Z"
-    },
-    {
-      "id": "mrpulor-gh/nuphus-mcp",
-      "name": "mrpulor-gh/nuphus-mcp",
-      "displayName": "nuphus-mcp",
-      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "repository": {
-        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T18:33:01.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -909,24 +909,6 @@
       "updatedAt": "2026-08-19T15:34:39.000Z"
     },
     {
-      "id": "huiliyi37/dsh-tianshu-tui",
-      "name": "@huiliyi37/dsh-tianshu-tui",
-      "displayName": "dsh-tianshu-tui",
-      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开源项目天枢 Tui 演进）、流式 Markdown/工具卡、多会话 tab、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、成本统计、启动自更新。纯展示层。",
-      "repository": {
-        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "agent-harness",
-        "terminal",
-        "tui",
-        "cli"
-      ],
-      "updatedAt": "2026-08-22T10:35:10.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -943,6 +925,24 @@
         "web-fetch"
       ],
       "updatedAt": "2026-08-24T03:15:34.000Z"
+    },
+    {
+      "id": "huiliyi37/dsh-tianshu-tui",
+      "name": "@huiliyi37/dsh-tianshu-tui",
+      "displayName": "dsh-tianshu-tui",
+      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简渲染核心（由作者自己的开源项目天枢 Tui 演进）、流式 Markdown/工具卡、多会话 tab、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、成本统计、启动自更新。纯展示层。",
+      "repository": {
+        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "agent-harness",
+        "terminal",
+        "tui",
+        "cli"
+      ],
+      "updatedAt": "2026-08-22T10:35:10.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1034,7 +1034,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-23T08:12:49.000Z"
+      "updatedAt": "2026-08-24T06:26:29.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1075,7 +1075,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-24T04:41:42.000Z"
+      "updatedAt": "2026-08-24T06:36:01.000Z"
     },
     {
       "id": "ningbainb/deepseek-harness-desktop",
@@ -1089,17 +1089,6 @@
       "updatedAt": "2026-08-22T07:12:13.000Z"
     },
     {
-      "id": "Ruler4396/dsh-launcher",
-      "name": "Ruler4396/dsh-launcher",
-      "displayName": "dsh-launcher",
-      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
-      "repository": {
-        "url": "https://github.com/Ruler4396/dsh-launcher"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-24T04:05:42.000Z"
-    },
-    {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
       "name": "dsh-1024store-monorepo",
       "displayName": "awesome-deepseek-harness-plugins",
@@ -1108,7 +1097,18 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T02:47:36.000Z"
+      "updatedAt": "2026-08-24T05:25:01.000Z"
+    },
+    {
+      "id": "Ruler4396/dsh-launcher",
+      "name": "Ruler4396/dsh-launcher",
+      "displayName": "dsh-launcher",
+      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
+      "repository": {
+        "url": "https://github.com/Ruler4396/dsh-launcher"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-24T06:25:53.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1168,36 +1168,6 @@
       "updatedAt": "2026-08-23T23:34:17.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-data-agent",
-      "name": "@yejiming/dsh-data-agent",
-      "displayName": "dsh-data-agent",
-      "summary": "Connect DSH to your database for conversational data analysis and actionable business insights.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-data-agent"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-22T16:59:06.000Z"
-    },
-    {
-      "id": "cocofhu/anime-find",
-      "name": "@cocofhu/anime-find",
-      "displayName": "anime-find",
-      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
-      "repository": {
-        "url": "https://github.com/cocofhu/anime-find"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "anime",
-        "mikan",
-        "bangumi"
-      ],
-      "updatedAt": "2026-08-23T17:46:45.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1227,6 +1197,36 @@
         "cordis"
       ],
       "updatedAt": "2026-08-24T03:11:48.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-data-agent",
+      "name": "@yejiming/dsh-data-agent",
+      "displayName": "dsh-data-agent",
+      "summary": "Connect DSH to your database for conversational data analysis and actionable business insights.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-data-agent"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-24T05:48:43.000Z"
+    },
+    {
+      "id": "cocofhu/anime-find",
+      "name": "@cocofhu/anime-find",
+      "displayName": "anime-find",
+      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+      "repository": {
+        "url": "https://github.com/cocofhu/anime-find"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "anime",
+        "mikan",
+        "bangumi"
+      ],
+      "updatedAt": "2026-08-23T17:46:45.000Z"
     },
     {
       "id": "weijiafu14/pi2dsh",
@@ -1312,7 +1312,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T03:36:02.000Z"
+      "updatedAt": "2026-08-24T06:33:22.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1432,24 +1432,6 @@
       "updatedAt": "2026-08-16T00:02:38.000Z"
     },
     {
-      "id": "ZSeven-W/dsh-noema",
-      "name": "@zseven-w/dsh-noema",
-      "displayName": "dsh-noema",
-      "summary": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-noema"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "noema",
-        "memory",
-        "plugin",
-        "agent"
-      ],
-      "updatedAt": "2026-08-21T14:50:44.000Z"
-    },
-    {
       "id": "NanmiCoder/dsh-auto-mode",
       "name": "@nanmicoder/dsh-auto-mode",
       "displayName": "dsh-auto-mode",
@@ -1467,6 +1449,24 @@
         "plugin"
       ],
       "updatedAt": "2026-08-22T08:40:32.000Z"
+    },
+    {
+      "id": "ZSeven-W/dsh-noema",
+      "name": "@zseven-w/dsh-noema",
+      "displayName": "dsh-noema",
+      "summary": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+      "repository": {
+        "url": "https://github.com/ZSeven-W/dsh-noema"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "noema",
+        "memory",
+        "plugin",
+        "agent"
+      ],
+      "updatedAt": "2026-08-21T14:50:44.000Z"
     },
     {
       "id": "toolclub/dsh-agent-team-gui",
@@ -1490,7 +1490,7 @@
         "token-usage",
         "agent-team"
       ],
-      "updatedAt": "2026-08-23T10:37:55.000Z"
+      "updatedAt": "2026-08-24T06:30:56.000Z"
     },
     {
       "id": "lire1131/dsh-undo-savepoint",
