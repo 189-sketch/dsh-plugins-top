@@ -61,7 +61,7 @@
       "repository": {
         "url": "https://github.com/yjh051108/dsh-routing-suite"
       },
-      "updatedAt": "2026-08-23T03:26:50.000Z"
+      "updatedAt": "2026-08-24T19:09:17.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -172,7 +172,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T18:38:23.000Z"
+      "updatedAt": "2026-08-24T20:24:01.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -296,7 +296,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-24T18:40:43.000Z"
+      "updatedAt": "2026-08-24T19:15:14.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -338,7 +338,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-24T17:24:48.000Z"
+      "updatedAt": "2026-08-24T19:24:47.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -424,7 +424,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-08-24T18:39:43.000Z"
+      "updatedAt": "2026-08-24T20:25:32.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -435,7 +435,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T18:33:03.000Z"
+      "updatedAt": "2026-08-24T20:27:49.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -682,7 +682,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-24T18:32:57.000Z"
+      "updatedAt": "2026-08-24T19:05:40.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -949,16 +949,6 @@
       "updatedAt": "2026-08-24T15:57:29.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-08-24T04:12:22.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -975,6 +965,16 @@
         "web-fetch"
       ],
       "updatedAt": "2026-08-24T13:20:47.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-08-24T04:12:22.000Z"
     },
     {
       "id": "huiliyi37/dsh-tianshu-tui",
@@ -1135,7 +1135,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T15:45:46.000Z"
+      "updatedAt": "2026-08-24T19:45:09.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1237,7 +1237,7 @@
         "mikan",
         "bangumi"
       ],
-      "updatedAt": "2026-08-23T17:46:45.000Z"
+      "updatedAt": "2026-08-24T19:48:39.000Z"
     },
     {
       "id": "weijiafu14/pi2dsh",
@@ -1258,6 +1258,16 @@
       "updatedAt": "2026-08-24T15:07:29.000Z"
     },
     {
+      "id": "zhaoolee/notes",
+      "name": "notes",
+      "displayName": "notes",
+      "summary": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
+      "repository": {
+        "url": "https://github.com/zhaoolee/notes"
+      },
+      "updatedAt": "2026-08-24T08:56:51.000Z"
+    },
+    {
       "id": "ZSeven-W/dsh-openpencil",
       "name": "@zseven-w/dsh-openpencil",
       "displayName": "dsh-openpencil",
@@ -1275,16 +1285,6 @@
       "updatedAt": "2026-08-24T15:56:38.000Z"
     },
     {
-      "id": "zhaoolee/notes",
-      "name": "notes",
-      "displayName": "notes",
-      "summary": "开源版锤子便签，复刻锤科美学，一键Docker私有化部署，支持skill调用，支持dsh plugin，支持多租户，一键生成公众号格式，支持导出便签为图片",
-      "repository": {
-        "url": "https://github.com/zhaoolee/notes"
-      },
-      "updatedAt": "2026-08-24T08:56:51.000Z"
-    },
-    {
       "id": "yjh051108/dsh-super-injector",
       "name": "@dsh-external/dsh-super-injector",
       "displayName": "dsh-super-injector",
@@ -1292,7 +1292,7 @@
       "repository": {
         "url": "https://github.com/yjh051108/dsh-super-injector"
       },
-      "updatedAt": "2026-08-21T09:24:08.000Z"
+      "updatedAt": "2026-08-24T19:11:01.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1323,7 +1323,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T17:09:40.000Z"
+      "updatedAt": "2026-08-24T19:12:15.000Z"
     },
     {
       "id": "kingOfSoySauce/dsh-liang-skin",
@@ -1486,6 +1486,25 @@
       "updatedAt": "2026-08-16T00:02:38.000Z"
     },
     {
+      "id": "Totoro-qaq/dsh-plugin-bridge",
+      "name": "dsh-plugin-bridge",
+      "displayName": "dsh-plugin-bridge",
+      "summary": "DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched.",
+      "repository": {
+        "url": "https://github.com/Totoro-qaq/dsh-plugin-bridge"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "bridge",
+        "context-migration",
+        "agent-preset",
+        "session-migration"
+      ],
+      "updatedAt": "2026-08-24T10:31:52.000Z"
+    },
+    {
       "id": "ZSeven-W/dsh-noema",
       "name": "@zseven-w/dsh-noema",
       "displayName": "dsh-noema",
@@ -1527,25 +1546,6 @@
         "powershell"
       ],
       "updatedAt": "2026-08-22T19:58:07.000Z"
-    },
-    {
-      "id": "Totoro-qaq/dsh-plugin-bridge",
-      "name": "dsh-plugin-bridge",
-      "displayName": "dsh-plugin-bridge",
-      "summary": "DeepSeek Harness plugin for previewable cross-preset session migration. Fixed-schema handoffs preserve state, source-model intent, and unresolved images; the original session stays untouched.",
-      "repository": {
-        "url": "https://github.com/Totoro-qaq/dsh-plugin-bridge"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "bridge",
-        "context-migration",
-        "agent-preset",
-        "session-migration"
-      ],
-      "updatedAt": "2026-08-24T10:31:52.000Z"
     }
   ],
   "page": {
