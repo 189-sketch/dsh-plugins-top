@@ -162,7 +162,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T19:46:52.000Z"
+      "updatedAt": "2026-08-25T22:26:32.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -214,7 +214,7 @@
         "url": "https://github.com/AdamPlatin123/awesome-dsh-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T19:50:07.000Z"
+      "updatedAt": "2026-08-25T22:10:12.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -368,7 +368,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-25T19:25:19.000Z"
+      "updatedAt": "2026-08-25T21:25:16.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -447,7 +447,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T20:28:10.000Z"
+      "updatedAt": "2026-08-25T22:23:54.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -613,7 +613,7 @@
         "knowledge-graph",
         "sqlite"
       ],
-      "updatedAt": "2026-08-25T04:22:41.000Z"
+      "updatedAt": "2026-08-25T22:02:15.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -728,7 +728,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-25T19:04:01.000Z"
+      "updatedAt": "2026-08-25T21:48:12.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -851,7 +851,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T20:18:59.000Z"
+      "updatedAt": "2026-08-25T22:00:18.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1127,33 +1127,6 @@
       "updatedAt": "2026-08-25T14:41:38.000Z"
     },
     {
-      "id": "Han-1413141/dsh-cost-meter",
-      "name": "dsh-cost-meter",
-      "displayName": "dsh-cost-meter",
-      "summary": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
-      "repository": {
-        "url": "https://github.com/Han-1413141/dsh-cost-meter"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "client-plugin",
-        "cost",
-        "usage",
-        "billing",
-        "budget",
-        "i18n",
-        "bilingual",
-        "zh",
-        "en",
-        "language"
-      ],
-      "updatedAt": "2026-08-25T13:24:39.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1183,6 +1156,33 @@
         "cordis"
       ],
       "updatedAt": "2026-08-24T03:11:48.000Z"
+    },
+    {
+      "id": "Han-1413141/dsh-cost-meter",
+      "name": "dsh-cost-meter",
+      "displayName": "dsh-cost-meter",
+      "summary": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
+      "repository": {
+        "url": "https://github.com/Han-1413141/dsh-cost-meter"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "client-plugin",
+        "cost",
+        "usage",
+        "billing",
+        "budget",
+        "i18n",
+        "bilingual",
+        "zh",
+        "en",
+        "language"
+      ],
+      "updatedAt": "2026-08-25T13:24:39.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1220,7 +1220,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-08-25T20:22:12.000Z"
+      "updatedAt": "2026-08-25T20:38:24.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1312,7 +1312,7 @@
         "url": "https://github.com/cocode-agency/cocode"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T20:14:27.000Z"
+      "updatedAt": "2026-08-25T21:39:29.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1400,17 +1400,6 @@
       "updatedAt": "2026-08-20T00:40:08.000Z"
     },
     {
-      "id": "bradeGithub/DSH-Plugins-Marketplace",
-      "name": "dsh-plugin-marketplace",
-      "displayName": "DSH-Plugins-Marketplace",
-      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-      "repository": {
-        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-25T19:08:17.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1433,6 +1422,17 @@
         "https"
       ],
       "updatedAt": "2026-08-25T06:42:05.000Z"
+    },
+    {
+      "id": "bradeGithub/DSH-Plugins-Marketplace",
+      "name": "dsh-plugin-marketplace",
+      "displayName": "DSH-Plugins-Marketplace",
+      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+      "repository": {
+        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-25T20:52:33.000Z"
     },
     {
       "id": "summer1238/dsh-remote-web-gateway",
