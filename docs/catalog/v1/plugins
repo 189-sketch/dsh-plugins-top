@@ -68,12 +68,12 @@
       "id": "zhu1090093659/dsh-web",
       "name": "dsh-web",
       "displayName": "dsh-web",
-      "summary": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发（dsh-market.com）",
+      "summary": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发",
       "repository": {
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-24T14:59:55.000Z"
+      "updatedAt": "2026-08-25T02:40:18.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -84,7 +84,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T17:47:09.000Z"
+      "updatedAt": "2026-08-25T02:43:30.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -95,7 +95,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-24T11:23:17.000Z"
+      "updatedAt": "2026-08-25T02:23:50.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -173,7 +173,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T01:05:39.000Z"
+      "updatedAt": "2026-08-25T02:55:03.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -214,7 +214,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T09:33:55.000Z"
+      "updatedAt": "2026-08-25T02:33:47.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -297,7 +297,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-25T00:43:19.000Z"
+      "updatedAt": "2026-08-25T01:44:44.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -436,7 +436,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T01:02:32.000Z"
+      "updatedAt": "2026-08-25T02:58:00.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -560,7 +560,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-25T01:01:14.000Z"
+      "updatedAt": "2026-08-25T02:51:11.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -683,7 +683,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-24T21:48:29.000Z"
+      "updatedAt": "2026-08-25T01:55:52.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -817,7 +817,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T00:27:02.000Z"
+      "updatedAt": "2026-08-25T02:46:50.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -840,6 +840,29 @@
         "github-copilot"
       ],
       "updatedAt": "2026-08-24T11:16:31.000Z"
+    },
+    {
+      "id": "liustack/modsearch",
+      "name": "@liustack/modsearch",
+      "displayName": "modsearch",
+      "summary": "🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。",
+      "repository": {
+        "url": "https://github.com/liustack/modsearch"
+      },
+      "license": "MIT",
+      "keywords": [
+        "search",
+        "web-fetch",
+        "cli",
+        "llm",
+        "agent",
+        "agent-skill",
+        "antigravity",
+        "modsearch",
+        "dsh-plugin",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-08-24T15:42:17.000Z"
     },
     {
       "id": "ericshang98/Perfect-Web-Clone",
@@ -887,29 +910,6 @@
       "updatedAt": "2026-08-24T15:08:25.000Z"
     },
     {
-      "id": "liustack/modsearch",
-      "name": "@liustack/modsearch",
-      "displayName": "modsearch",
-      "summary": "🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。",
-      "repository": {
-        "url": "https://github.com/liustack/modsearch"
-      },
-      "license": "MIT",
-      "keywords": [
-        "search",
-        "web-fetch",
-        "cli",
-        "llm",
-        "agent",
-        "agent-skill",
-        "antigravity",
-        "modsearch",
-        "dsh-plugin",
-        "deepseek-harness"
-      ],
-      "updatedAt": "2026-08-24T15:42:17.000Z"
-    },
-    {
       "id": "mrpulor-gh/nuphus-mcp",
       "name": "mrpulor-gh/nuphus-mcp",
       "displayName": "nuphus-mcp",
@@ -919,24 +919,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-21T18:33:01.000Z"
-    },
-    {
-      "id": "ZSeven-W/dsh-ios",
-      "name": "@zseven-w/dsh-ios",
-      "displayName": "dsh-ios",
-      "summary": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-ios"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "simulator",
-        "ios-simulator",
-        "plugin",
-        "ios"
-      ],
-      "updatedAt": "2026-08-24T15:57:29.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -957,15 +939,22 @@
       "updatedAt": "2026-08-24T13:20:47.000Z"
     },
     {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "id": "ZSeven-W/dsh-ios",
+      "name": "@zseven-w/dsh-ios",
+      "displayName": "dsh-ios",
+      "summary": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
       "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+        "url": "https://github.com/ZSeven-W/dsh-ios"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T13:42:39.000Z"
+      "keywords": [
+        "dsh",
+        "simulator",
+        "ios-simulator",
+        "plugin",
+        "ios"
+      ],
+      "updatedAt": "2026-08-24T15:57:29.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -976,6 +965,17 @@
         "url": "https://github.com/howmp/dsh-pentest"
       },
       "updatedAt": "2026-08-24T04:12:22.000Z"
+    },
+    {
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "repository": {
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-24T13:42:39.000Z"
     },
     {
       "id": "huiliyi37/dsh-tianshu-tui",
@@ -993,7 +993,7 @@
         "tui",
         "cli"
       ],
-      "updatedAt": "2026-08-22T10:35:10.000Z"
+      "updatedAt": "2026-08-25T02:31:44.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-visualize",
@@ -1005,6 +1005,17 @@
       },
       "license": "BSD-3-Clause",
       "updatedAt": "2026-08-22T20:59:11.000Z"
+    },
+    {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T07:44:10.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1050,17 +1061,6 @@
       "updatedAt": "2026-08-24T09:58:02.000Z"
     },
     {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T07:44:10.000Z"
-    },
-    {
       "id": "libukai/awesome-deepseek-harness",
       "name": "libukai/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -1079,7 +1079,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-25T00:42:27.000Z"
+      "updatedAt": "2026-08-25T02:41:42.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1128,17 +1128,6 @@
       "updatedAt": "2026-08-24T13:47:08.000Z"
     },
     {
-      "id": "imsai-sh/awesome-deepseek-harness-plugins",
-      "name": "dsh-1024store-monorepo",
-      "displayName": "awesome-deepseek-harness-plugins",
-      "summary": "DeepSeek Harness plugin store, marketplace and hub — 3,100+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
-      "repository": {
-        "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-24T22:13:06.000Z"
-    },
-    {
       "id": "elysia395/dsh-wallpaper-engine",
       "name": "dsh-plugin-wallpaper-engine",
       "displayName": "dsh-wallpaper-engine",
@@ -1158,15 +1147,15 @@
       "updatedAt": "2026-08-24T15:49:33.000Z"
     },
     {
-      "id": "Ruler4396/dsh-launcher",
-      "name": "Ruler4396/dsh-launcher",
-      "displayName": "dsh-launcher",
-      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
+      "id": "imsai-sh/awesome-deepseek-harness-plugins",
+      "name": "dsh-1024store-monorepo",
+      "displayName": "awesome-deepseek-harness-plugins",
+      "summary": "DeepSeek Harness plugin store, marketplace and hub — 3,100+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
       "repository": {
-        "url": "https://github.com/Ruler4396/dsh-launcher"
+        "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T10:50:01.000Z"
+      "updatedAt": "2026-08-25T02:51:53.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1198,6 +1187,17 @@
         "cordis"
       ],
       "updatedAt": "2026-08-24T03:11:48.000Z"
+    },
+    {
+      "id": "Ruler4396/dsh-launcher",
+      "name": "Ruler4396/dsh-launcher",
+      "displayName": "dsh-launcher",
+      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
+      "repository": {
+        "url": "https://github.com/Ruler4396/dsh-launcher"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-24T10:50:01.000Z"
     },
     {
       "id": "tinqiao-oss/engramory",
@@ -1238,7 +1238,7 @@
         "mikan",
         "bangumi"
       ],
-      "updatedAt": "2026-08-24T20:59:01.000Z"
+      "updatedAt": "2026-08-25T02:26:49.000Z"
     },
     {
       "id": "weijiafu14/pi2dsh",
@@ -1316,17 +1316,6 @@
       "updatedAt": "2026-08-24T08:37:10.000Z"
     },
     {
-      "id": "bradeGithub/DSH-Plugins-Marketplace",
-      "name": "dsh-plugin-marketplace",
-      "displayName": "DSH-Plugins-Marketplace",
-      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-      "repository": {
-        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-24T23:01:33.000Z"
-    },
-    {
       "id": "oil-oil/dsh-oil-creator",
       "name": "dsh-oil-creator",
       "displayName": "dsh-oil-creator",
@@ -1344,6 +1333,17 @@
       "updatedAt": "2026-08-20T00:40:08.000Z"
     },
     {
+      "id": "bradeGithub/DSH-Plugins-Marketplace",
+      "name": "dsh-plugin-marketplace",
+      "displayName": "DSH-Plugins-Marketplace",
+      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+      "repository": {
+        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-25T01:53:11.000Z"
+    },
+    {
       "id": "kingOfSoySauce/dsh-liang-skin",
       "name": "dsh-client-liang-intensity-skin",
       "displayName": "dsh-liang-skin",
@@ -1352,17 +1352,6 @@
         "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
       },
       "updatedAt": "2026-08-21T03:23:04.000Z"
-    },
-    {
-      "id": "ChisaAlter/Deepseek-Harness-Desktop",
-      "name": "deepseek-harness-desktop",
-      "displayName": "Deepseek-Harness-Desktop",
-      "summary": "DSH桌面端，支持主题和背景图等多种个性化配置。Electron desktop shell for DeepSeek Harness web UI",
-      "repository": {
-        "url": "https://github.com/ChisaAlter/Deepseek-Harness-Desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-25T00:54:15.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1492,7 +1481,7 @@
         "agent-preset",
         "session-migration"
       ],
-      "updatedAt": "2026-08-24T22:11:29.000Z"
+      "updatedAt": "2026-08-25T02:21:28.000Z"
     },
     {
       "id": "Ayase34/gal-view",
@@ -1504,24 +1493,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-16T00:02:38.000Z"
-    },
-    {
-      "id": "ZSeven-W/dsh-noema",
-      "name": "@zseven-w/dsh-noema",
-      "displayName": "dsh-noema",
-      "summary": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-noema"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "noema",
-        "memory",
-        "plugin",
-        "agent"
-      ],
-      "updatedAt": "2026-08-21T14:50:44.000Z"
     },
     {
       "id": "lire1131/dsh-undo-savepoint",
@@ -1547,6 +1518,35 @@
         "powershell"
       ],
       "updatedAt": "2026-08-22T19:58:07.000Z"
+    },
+    {
+      "id": "ZSeven-W/dsh-noema",
+      "name": "@zseven-w/dsh-noema",
+      "displayName": "dsh-noema",
+      "summary": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
+      "repository": {
+        "url": "https://github.com/ZSeven-W/dsh-noema"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "noema",
+        "memory",
+        "plugin",
+        "agent"
+      ],
+      "updatedAt": "2026-08-21T14:50:44.000Z"
+    },
+    {
+      "id": "shengsheng90/DSH-taskboard",
+      "name": "@shengsheng/dsh-taskboard",
+      "displayName": "DSH-taskboard",
+      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "repository": {
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-22T07:59:16.000Z"
     }
   ],
   "page": {
