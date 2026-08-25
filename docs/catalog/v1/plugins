@@ -61,7 +61,8 @@
       "repository": {
         "url": "https://github.com/yjh051108/dsh-routing-suite"
       },
-      "updatedAt": "2026-08-24T19:09:17.000Z"
+      "license": "MIT",
+      "updatedAt": "2026-08-24T23:56:40.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -172,7 +173,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T21:56:31.000Z"
+      "updatedAt": "2026-08-25T01:05:39.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -296,7 +297,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-24T19:15:14.000Z"
+      "updatedAt": "2026-08-25T00:43:19.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -338,7 +339,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-24T21:24:44.000Z"
+      "updatedAt": "2026-08-24T23:24:34.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -435,7 +436,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T22:27:58.000Z"
+      "updatedAt": "2026-08-25T01:02:32.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -559,7 +560,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-24T14:25:54.000Z"
+      "updatedAt": "2026-08-25T01:01:14.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -721,7 +722,7 @@
       "id": "yjh051108/dsh-router-standard",
       "name": "dsh-router-standard",
       "displayName": "dsh-router-standard",
-      "summary": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.",
+      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
       "repository": {
         "url": "https://github.com/yjh051108/dsh-router-standard"
       },
@@ -816,7 +817,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T16:24:09.000Z"
+      "updatedAt": "2026-08-25T00:27:02.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -938,17 +939,6 @@
       "updatedAt": "2026-08-24T15:57:29.000Z"
     },
     {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-24T13:42:39.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -965,6 +955,17 @@
         "web-fetch"
       ],
       "updatedAt": "2026-08-24T13:20:47.000Z"
+    },
+    {
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "repository": {
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-24T13:42:39.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1004,17 +1005,6 @@
       },
       "license": "BSD-3-Clause",
       "updatedAt": "2026-08-22T20:59:11.000Z"
-    },
-    {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T07:44:10.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1060,6 +1050,17 @@
       "updatedAt": "2026-08-24T09:58:02.000Z"
     },
     {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T07:44:10.000Z"
+    },
+    {
       "id": "libukai/awesome-deepseek-harness",
       "name": "libukai/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -1078,7 +1079,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-24T14:40:12.000Z"
+      "updatedAt": "2026-08-25T00:42:27.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1288,7 +1289,7 @@
       "id": "yjh051108/dsh-super-injector",
       "name": "@dsh-external/dsh-super-injector",
       "displayName": "dsh-super-injector",
-      "summary": "DeepSeek Harness plugin hosted at yjh051108/dsh-super-injector.",
+      "summary": "推荐组件（非必须）：DeepSeek Harness 运行时注入器；已随 dsh-routing-suite 单仓库化保留，本仓库继续维护/发布。",
       "repository": {
         "url": "https://github.com/yjh051108/dsh-super-injector"
       },
@@ -1323,7 +1324,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T20:59:29.000Z"
+      "updatedAt": "2026-08-24T23:01:33.000Z"
     },
     {
       "id": "oil-oil/dsh-oil-creator",
@@ -1361,7 +1362,7 @@
         "url": "https://github.com/ChisaAlter/Deepseek-Harness-Desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T17:51:25.000Z"
+      "updatedAt": "2026-08-25T00:54:15.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1432,6 +1433,25 @@
       "updatedAt": "2026-08-23T19:07:21.000Z"
     },
     {
+      "id": "NanmiCoder/dsh-auto-mode",
+      "name": "@nanmicoder/dsh-auto-mode",
+      "displayName": "dsh-auto-mode",
+      "summary": "Safe automatic permissions for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/NanmiCoder/dsh-auto-mode"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "permission",
+        "security",
+        "plugin"
+      ],
+      "updatedAt": "2026-08-22T08:40:32.000Z"
+    },
+    {
       "id": "toolclub/dsh-agent-team-gui",
       "name": "dsh-agent-team-gui",
       "displayName": "dsh-agent-team-gui",
@@ -1454,25 +1474,6 @@
         "agent-team"
       ],
       "updatedAt": "2026-08-24T06:30:56.000Z"
-    },
-    {
-      "id": "NanmiCoder/dsh-auto-mode",
-      "name": "@nanmicoder/dsh-auto-mode",
-      "displayName": "dsh-auto-mode",
-      "summary": "Safe automatic permissions for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/NanmiCoder/dsh-auto-mode"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "permission",
-        "security",
-        "plugin"
-      ],
-      "updatedAt": "2026-08-22T08:40:32.000Z"
     },
     {
       "id": "Totoro-qaq/dsh-plugin-bridge",
