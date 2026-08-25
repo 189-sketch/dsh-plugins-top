@@ -10,7 +10,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-25T05:24:58.000Z"
+      "updatedAt": "2026-08-25T07:47:48.000Z"
     },
     {
       "id": "tt-a1i/archify",
@@ -21,7 +21,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-22T17:43:10.000Z"
+      "updatedAt": "2026-08-25T07:34:57.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-08-25T03:56:33.000Z"
+      "updatedAt": "2026-08-25T08:16:22.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -73,7 +73,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-25T06:00:29.000Z"
+      "updatedAt": "2026-08-25T08:43:27.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -84,7 +84,7 @@
         "url": "https://github.com/Q00/ouroboros"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T06:10:44.000Z"
+      "updatedAt": "2026-08-25T06:51:05.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -95,7 +95,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-25T03:48:07.000Z"
+      "updatedAt": "2026-08-25T07:51:51.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -162,7 +162,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T06:33:51.000Z"
+      "updatedAt": "2026-08-25T08:04:13.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -193,7 +193,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-08-25T06:40:38.000Z"
+      "updatedAt": "2026-08-25T07:50:03.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -214,7 +214,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T04:20:37.000Z"
+      "updatedAt": "2026-08-25T08:12:25.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -264,7 +264,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-25T04:52:14.000Z"
+      "updatedAt": "2026-08-25T07:20:51.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -274,7 +274,7 @@
       "repository": {
         "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
       },
-      "updatedAt": "2026-08-25T06:40:59.000Z"
+      "updatedAt": "2026-08-25T06:52:19.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -318,7 +318,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-25T06:22:17.000Z"
+      "updatedAt": "2026-08-25T08:24:09.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -357,7 +357,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-25T05:26:52.000Z"
+      "updatedAt": "2026-08-25T07:25:57.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -414,7 +414,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-08-25T05:15:40.000Z"
+      "updatedAt": "2026-08-25T07:15:29.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -436,7 +436,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T06:44:26.000Z"
+      "updatedAt": "2026-08-25T08:37:06.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -560,7 +560,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-25T06:45:26.000Z"
+      "updatedAt": "2026-08-25T08:09:18.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -675,17 +675,6 @@
       "updatedAt": "2026-08-24T06:08:19.000Z"
     },
     {
-      "id": "Ikalus1988/MisakaNet",
-      "name": "misakanet",
-      "displayName": "MisakaNet",
-      "summary": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
-      "repository": {
-        "url": "https://github.com/Ikalus1988/MisakaNet"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-25T04:47:26.000Z"
-    },
-    {
       "id": "Devin-AXIS/deepseek-design",
       "name": "Devin-AXIS/deepseek-design",
       "displayName": "deepseek-design",
@@ -695,6 +684,17 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-08-25T03:49:59.000Z"
+    },
+    {
+      "id": "Ikalus1988/MisakaNet",
+      "name": "misakanet",
+      "displayName": "MisakaNet",
+      "summary": "📚 A zero-dependency, git-backed micro-lesson library for AI Agents to asynchronously share and search verified debugging experience. Python stdlib only. | https://misakanet.org",
+      "repository": {
+        "url": "https://github.com/Ikalus1988/MisakaNet"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-25T07:13:18.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -784,7 +784,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-24T14:29:17.000Z"
+      "updatedAt": "2026-08-25T07:11:25.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -806,7 +806,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T06:37:42.000Z"
+      "updatedAt": "2026-08-25T07:09:56.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -993,7 +993,7 @@
         "tui",
         "cli"
       ],
-      "updatedAt": "2026-08-25T02:31:44.000Z"
+      "updatedAt": "2026-08-25T08:43:55.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-2",
@@ -1007,17 +1007,6 @@
       "updatedAt": "2026-08-22T16:11:26.000Z"
     },
     {
-      "id": "Nagi-ovo/dsh-visualize",
-      "name": "@dsh-external/dsh-visualize",
-      "displayName": "dsh-visualize",
-      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-visualize"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-22T20:59:11.000Z"
-    },
-    {
       "id": "liangmianya/dsh-synapse",
       "name": "dsh-synapse",
       "displayName": "dsh-synapse",
@@ -1027,6 +1016,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-21T07:44:10.000Z"
+    },
+    {
+      "id": "Nagi-ovo/dsh-visualize",
+      "name": "@dsh-external/dsh-visualize",
+      "displayName": "dsh-visualize",
+      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-visualize"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-08-22T20:59:11.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1090,7 +1090,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-25T06:36:00.000Z"
+      "updatedAt": "2026-08-25T08:34:44.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1110,52 +1110,6 @@
         "ocean"
       ],
       "updatedAt": "2026-08-24T13:59:05.000Z"
-    },
-    {
-      "id": "Han-1413141/dsh-cost-meter",
-      "name": "dsh-cost-meter",
-      "displayName": "dsh-cost-meter",
-      "summary": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
-      "repository": {
-        "url": "https://github.com/Han-1413141/dsh-cost-meter"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "client-plugin",
-        "cost",
-        "usage",
-        "billing",
-        "budget",
-        "i18n",
-        "bilingual",
-        "zh",
-        "en",
-        "language"
-      ],
-      "updatedAt": "2026-08-25T06:16:10.000Z"
-    },
-    {
-      "id": "elysia395/dsh-wallpaper-engine",
-      "name": "dsh-plugin-wallpaper-engine",
-      "displayName": "dsh-wallpaper-engine",
-      "summary": "把本机 Wallpaper Engine 的壁纸变成 DSH 网页界面的背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸提取主纹理作为静态帧；iOS 液态玻璃设置窗口（配色 / 玻璃颜色 / 透明度）、内容分级与类型过滤、自定义壁纸上传、紧凑 CD 架布局、黑胶唱片展示、隐藏 / 恢复、倍速 / 翻转与自动轮播。感谢 Jerry 维护 macOS 版。",
-      "repository": {
-        "url": "https://github.com/elysia395/dsh-wallpaper-engine"
-      },
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "wallpaper",
-        "wallpaper-engine",
-        "theme",
-        "background"
-      ],
-      "updatedAt": "2026-08-25T05:35:19.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1189,6 +1143,52 @@
       "updatedAt": "2026-08-24T03:11:48.000Z"
     },
     {
+      "id": "Han-1413141/dsh-cost-meter",
+      "name": "dsh-cost-meter",
+      "displayName": "dsh-cost-meter",
+      "summary": "DeepSeek Harness session cost meter plugin: session/daily cost, budget, history, OpenCode Go quota, official & custom-provider balance, Codex-like token heatmap, peak/off-peak pricing with pre-switch popup & system-notification alerts, official price sync, 90+ model pricing catalog, Coding Plan quota queries (7 vendors), bilingual zh/en UI",
+      "repository": {
+        "url": "https://github.com/Han-1413141/dsh-cost-meter"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "client-plugin",
+        "cost",
+        "usage",
+        "billing",
+        "budget",
+        "i18n",
+        "bilingual",
+        "zh",
+        "en",
+        "language"
+      ],
+      "updatedAt": "2026-08-25T08:42:04.000Z"
+    },
+    {
+      "id": "elysia395/dsh-wallpaper-engine",
+      "name": "dsh-plugin-wallpaper-engine",
+      "displayName": "dsh-wallpaper-engine",
+      "summary": "把本机 Wallpaper Engine 的壁纸变成 DSH 网页界面的背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸提取主纹理作为静态帧；iOS 液态玻璃设置窗口（配色 / 玻璃颜色 / 透明度）、内容分级与类型过滤、自定义壁纸上传、紧凑 CD 架布局、黑胶唱片展示、隐藏 / 恢复、倍速 / 翻转与自动轮播。感谢 Jerry 维护 macOS 版。",
+      "repository": {
+        "url": "https://github.com/elysia395/dsh-wallpaper-engine"
+      },
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "wallpaper",
+        "wallpaper-engine",
+        "theme",
+        "background"
+      ],
+      "updatedAt": "2026-08-25T07:41:59.000Z"
+    },
+    {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
       "name": "dsh-1024store-monorepo",
       "displayName": "awesome-deepseek-harness-plugins",
@@ -1197,7 +1197,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T06:34:52.000Z"
+      "updatedAt": "2026-08-25T08:41:30.000Z"
     },
     {
       "id": "Ruler4396/dsh-launcher",
@@ -1267,7 +1267,7 @@
         "migration",
         "compatibility"
       ],
-      "updatedAt": "2026-08-25T06:31:59.000Z"
+      "updatedAt": "2026-08-25T07:32:36.000Z"
     },
     {
       "id": "zhaoolee/notes",
@@ -1277,7 +1277,7 @@
       "repository": {
         "url": "https://github.com/zhaoolee/notes"
       },
-      "updatedAt": "2026-08-24T08:56:51.000Z"
+      "updatedAt": "2026-08-25T08:16:47.000Z"
     },
     {
       "id": "ZSeven-W/dsh-openpencil",
@@ -1352,7 +1352,18 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T06:30:14.000Z"
+      "updatedAt": "2026-08-25T07:11:56.000Z"
+    },
+    {
+      "id": "cocode-agency/cocode",
+      "name": "cocode-agency/cocode",
+      "displayName": "cocode",
+      "summary": "Best ready-to-run DeepSeek Harness distribution: DSH desktop GUI, DSH terminal TUI, and harness integration.",
+      "repository": {
+        "url": "https://github.com/cocode-agency/cocode"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-25T08:28:13.000Z"
     },
     {
       "id": "kingOfSoySauce/dsh-liang-skin",
@@ -1363,6 +1374,17 @@
         "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
       },
       "updatedAt": "2026-08-21T03:23:04.000Z"
+    },
+    {
+      "id": "summer1238/dsh-remote-web-gateway",
+      "name": "dsh-remote-web-gateway",
+      "displayName": "dsh-remote-web-gateway",
+      "summary": "手机平板远程 DeepSeek Harness：扫码即可继续使用电脑上的 DSH，无需远程桌面 / SSH / 公网 IP，支持一次性配对、Github授权加密登录，独立设备授权与随时撤销，实现远程连接很简单，但安全才是我们所想要的。",
+      "repository": {
+        "url": "https://github.com/summer1238/dsh-remote-web-gateway"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-21T13:38:39.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1387,17 +1409,6 @@
         "https"
       ],
       "updatedAt": "2026-08-25T06:42:05.000Z"
-    },
-    {
-      "id": "summer1238/dsh-remote-web-gateway",
-      "name": "dsh-remote-web-gateway",
-      "displayName": "dsh-remote-web-gateway",
-      "summary": "手机平板远程 DeepSeek Harness：扫码即可继续使用电脑上的 DSH，无需远程桌面 / SSH / 公网 IP，支持一次性配对、Github授权加密登录，独立设备授权与随时撤销，实现远程连接很简单，但安全才是我们所想要的。",
-      "repository": {
-        "url": "https://github.com/summer1238/dsh-remote-web-gateway"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T13:38:39.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
@@ -1529,24 +1540,6 @@
         "powershell"
       ],
       "updatedAt": "2026-08-22T19:58:07.000Z"
-    },
-    {
-      "id": "ZSeven-W/dsh-noema",
-      "name": "@zseven-w/dsh-noema",
-      "displayName": "dsh-noema",
-      "summary": "Noema long-term memory plugin for DSH: durable, inspectable agent memory with recall tools and a settings page.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-noema"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "noema",
-        "memory",
-        "plugin",
-        "agent"
-      ],
-      "updatedAt": "2026-08-21T14:50:44.000Z"
     }
   ],
   "page": {
