@@ -73,7 +73,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-25T14:34:31.000Z"
+      "updatedAt": "2026-08-26T00:09:25.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -162,7 +162,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T22:26:32.000Z"
+      "updatedAt": "2026-08-26T01:07:25.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -275,7 +275,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-25T19:45:35.000Z"
+      "updatedAt": "2026-08-26T00:38:26.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -347,7 +347,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-25T18:20:40.000Z"
+      "updatedAt": "2026-08-26T01:00:35.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -368,7 +368,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-25T21:25:16.000Z"
+      "updatedAt": "2026-08-25T23:25:19.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -447,7 +447,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T22:23:54.000Z"
+      "updatedAt": "2026-08-26T01:06:00.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -571,7 +571,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-25T20:20:33.000Z"
+      "updatedAt": "2026-08-26T00:53:03.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -667,6 +667,17 @@
       "updatedAt": "2026-08-20T12:12:36.000Z"
     },
     {
+      "id": "Devin-AXIS/deepseek-design",
+      "name": "Devin-AXIS/deepseek-design",
+      "displayName": "deepseek-design",
+      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/deepseek-design"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-08-25T09:58:11.000Z"
+    },
+    {
       "id": "EthanYoQ/AI-Novel-Writer",
       "name": "ai-novel-writer",
       "displayName": "AI-Novel-Writer",
@@ -687,17 +698,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-25T09:03:43.000Z"
-    },
-    {
-      "id": "Devin-AXIS/deepseek-design",
-      "name": "Devin-AXIS/deepseek-design",
-      "displayName": "deepseek-design",
-      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/deepseek-design"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-25T09:58:11.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -728,7 +728,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-25T21:48:12.000Z"
+      "updatedAt": "2026-08-26T00:29:32.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -851,7 +851,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-25T22:00:18.000Z"
+      "updatedAt": "2026-08-26T00:11:42.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -863,28 +863,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-25T15:14:29.000Z"
-    },
-    {
-      "id": "V1ki/dsh-plugin-subscriptions",
-      "name": "dsh-plugin-subscriptions",
-      "displayName": "dsh-plugin-subscriptions",
-      "summary": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
-      "repository": {
-        "url": "https://github.com/V1ki/dsh-plugin-subscriptions"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "llm",
-        "oauth",
-        "chatgpt",
-        "codex",
-        "claude",
-        "grok",
-        "github-copilot"
-      ],
-      "updatedAt": "2026-08-24T11:16:31.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -908,6 +886,28 @@
         "deepseek-harness"
       ],
       "updatedAt": "2026-08-24T15:42:17.000Z"
+    },
+    {
+      "id": "V1ki/dsh-plugin-subscriptions",
+      "name": "dsh-plugin-subscriptions",
+      "displayName": "dsh-plugin-subscriptions",
+      "summary": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+      "repository": {
+        "url": "https://github.com/V1ki/dsh-plugin-subscriptions"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "oauth",
+        "chatgpt",
+        "codex",
+        "claude",
+        "grok",
+        "github-copilot"
+      ],
+      "updatedAt": "2026-08-24T11:16:31.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -945,17 +945,6 @@
       "updatedAt": "2026-08-22T14:39:08.000Z"
     },
     {
-      "id": "op7418/pilot-harness",
-      "name": "@deepseek-ai/dsh-root",
-      "displayName": "pilot-harness",
-      "summary": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
-      "repository": {
-        "url": "https://github.com/op7418/pilot-harness"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-20T12:42:53.000Z"
-    },
-    {
       "id": "QCYTSN/dsh-dafeiyu",
       "name": "dsh-dafeiyu",
       "displayName": "dsh-dafeiyu",
@@ -971,6 +960,17 @@
         "agent-companion"
       ],
       "updatedAt": "2026-08-25T05:30:02.000Z"
+    },
+    {
+      "id": "op7418/pilot-harness",
+      "name": "@deepseek-ai/dsh-root",
+      "displayName": "pilot-harness",
+      "summary": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+      "repository": {
+        "url": "https://github.com/op7418/pilot-harness"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-20T12:42:53.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1038,7 +1038,7 @@
         "tui",
         "cli"
       ],
-      "updatedAt": "2026-08-25T12:54:52.000Z"
+      "updatedAt": "2026-08-26T00:59:29.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1124,7 +1124,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-25T14:41:38.000Z"
+      "updatedAt": "2026-08-26T00:40:13.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1304,17 +1304,6 @@
       "updatedAt": "2026-08-25T15:35:30.000Z"
     },
     {
-      "id": "cocode-agency/cocode",
-      "name": "cocode-agency/cocode",
-      "displayName": "cocode",
-      "summary": "Best ready-to-run DeepSeek Harness distribution: DSH desktop GUI, DSH terminal TUI, and harness integration.",
-      "repository": {
-        "url": "https://github.com/cocode-agency/cocode"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-25T21:39:29.000Z"
-    },
-    {
       "id": "zh667/TokenLedger",
       "name": "dsh-tokenledger",
       "displayName": "TokenLedger",
@@ -1333,6 +1322,28 @@
         "relay-attribution"
       ],
       "updatedAt": "2026-08-24T08:37:10.000Z"
+    },
+    {
+      "id": "Aisland-SJL/dsh-worktable",
+      "name": "Aisland-SJL/dsh-worktable",
+      "displayName": "dsh-worktable",
+      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+      "repository": {
+        "url": "https://github.com/Aisland-SJL/dsh-worktable"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-25T08:52:11.000Z"
+    },
+    {
+      "id": "cocode-agency/cocode",
+      "name": "cocode-agency/cocode",
+      "displayName": "cocode",
+      "summary": "Best ready-to-run DeepSeek Harness distribution: DSH desktop GUI, DSH terminal TUI, and harness integration.",
+      "repository": {
+        "url": "https://github.com/cocode-agency/cocode"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-26T00:41:47.000Z"
     },
     {
       "id": "zhaoolee/notes",
@@ -1362,17 +1373,6 @@
       "updatedAt": "2026-08-25T15:20:36.000Z"
     },
     {
-      "id": "Aisland-SJL/dsh-worktable",
-      "name": "Aisland-SJL/dsh-worktable",
-      "displayName": "dsh-worktable",
-      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "repository": {
-        "url": "https://github.com/Aisland-SJL/dsh-worktable"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-25T08:52:11.000Z"
-    },
-    {
       "id": "yjh051108/dsh-super-injector",
       "name": "@dsh-external/dsh-super-injector",
       "displayName": "dsh-super-injector",
@@ -1400,6 +1400,17 @@
       "updatedAt": "2026-08-20T00:40:08.000Z"
     },
     {
+      "id": "bradeGithub/DSH-Plugins-Marketplace",
+      "name": "dsh-plugin-marketplace",
+      "displayName": "DSH-Plugins-Marketplace",
+      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
+      "repository": {
+        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-25T22:54:41.000Z"
+    },
+    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1422,17 +1433,6 @@
         "https"
       ],
       "updatedAt": "2026-08-25T06:42:05.000Z"
-    },
-    {
-      "id": "bradeGithub/DSH-Plugins-Marketplace",
-      "name": "dsh-plugin-marketplace",
-      "displayName": "DSH-Plugins-Marketplace",
-      "summary": "DSH插件市场 / DSH Plugin Marketplace: 在 DeepSeek Harness Web GUI 中一键浏览、安装与更新 GitHub topic:dsh-plugin 的全部插件 | browse, install & update all GitHub dsh-plugin plugins in the DSH Web GUI",
-      "repository": {
-        "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-25T20:52:33.000Z"
     },
     {
       "id": "summer1238/dsh-remote-web-gateway",
@@ -1505,26 +1505,18 @@
         "agent-preset",
         "session-migration"
       ],
-      "updatedAt": "2026-08-25T17:23:02.000Z"
+      "updatedAt": "2026-08-25T23:14:43.000Z"
     },
     {
-      "id": "NanmiCoder/dsh-auto-mode",
-      "name": "@nanmicoder/dsh-auto-mode",
-      "displayName": "dsh-auto-mode",
-      "summary": "Safe automatic permissions for DeepSeek Harness.",
+      "id": "shengsheng90/DSH-taskboard",
+      "name": "@shengsheng/dsh-taskboard",
+      "displayName": "DSH-taskboard",
+      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
       "repository": {
-        "url": "https://github.com/NanmiCoder/dsh-auto-mode"
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
       },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "permission",
-        "security",
-        "plugin"
-      ],
-      "updatedAt": "2026-08-22T08:40:32.000Z"
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-22T07:59:16.000Z"
     }
   ],
   "page": {
