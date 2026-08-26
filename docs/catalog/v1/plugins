@@ -51,7 +51,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-26T12:27:23.000Z"
+      "updatedAt": "2026-08-26T17:18:47.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -73,7 +73,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-26T16:32:19.000Z"
+      "updatedAt": "2026-08-26T17:53:29.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -162,7 +162,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T16:43:23.000Z"
+      "updatedAt": "2026-08-26T19:17:28.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -258,17 +258,6 @@
       "updatedAt": "2026-08-26T03:31:11.000Z"
     },
     {
-      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
-      "name": "cloudbase-ai-toolkit",
-      "displayName": "CloudBase-AI-Toolkit",
-      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
-      "repository": {
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-26T13:10:57.000Z"
-    },
-    {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
       "name": "dsh-whale-widget",
       "displayName": "DeepSeek-Balance-Whale-Widget",
@@ -285,6 +274,17 @@
         "widget"
       ],
       "updatedAt": "2026-08-24T17:14:19.000Z"
+    },
+    {
+      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+      "name": "cloudbase-ai-toolkit",
+      "displayName": "CloudBase-AI-Toolkit",
+      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+      "repository": {
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-26T13:10:57.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -325,7 +325,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-26T15:57:11.000Z"
+      "updatedAt": "2026-08-26T18:51:41.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -348,7 +348,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-26T16:26:08.000Z"
+      "updatedAt": "2026-08-26T19:48:08.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -379,7 +379,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-26T15:27:54.000Z"
+      "updatedAt": "2026-08-26T17:26:44.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -410,7 +410,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-08-26T14:24:45.000Z"
+      "updatedAt": "2026-08-26T18:15:16.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -458,7 +458,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T16:40:47.000Z"
+      "updatedAt": "2026-08-26T19:29:53.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -582,7 +582,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-26T15:13:10.000Z"
+      "updatedAt": "2026-08-26T18:06:25.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -819,7 +819,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-08-26T16:05:10.000Z"
+      "updatedAt": "2026-08-26T18:27:31.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -884,17 +884,6 @@
       "updatedAt": "2026-08-26T06:25:54.000Z"
     },
     {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-19T21:18:20.000Z"
-    },
-    {
       "id": "bruc3van/awesome-dsh-plugin",
       "name": "bruc3van/awesome-dsh-plugin",
       "displayName": "awesome-dsh-plugin",
@@ -904,6 +893,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-26T16:03:24.000Z"
+    },
+    {
+      "id": "vlln/whale-girl",
+      "name": "whale-girl",
+      "displayName": "whale-girl",
+      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+      "repository": {
+        "url": "https://github.com/vlln/whale-girl"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-19T21:18:20.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1049,7 +1049,7 @@
         "tui",
         "cli"
       ],
-      "updatedAt": "2026-08-26T13:01:53.000Z"
+      "updatedAt": "2026-08-26T18:55:26.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1106,17 +1106,6 @@
       "updatedAt": "2026-08-26T10:29:06.000Z"
     },
     {
-      "id": "Nagi-ovo/dsh-visualize",
-      "name": "@dsh-external/dsh-visualize",
-      "displayName": "dsh-visualize",
-      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-visualize"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-22T20:59:11.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1146,6 +1135,17 @@
         "cordis"
       ],
       "updatedAt": "2026-08-26T16:39:25.000Z"
+    },
+    {
+      "id": "Nagi-ovo/dsh-visualize",
+      "name": "@dsh-external/dsh-visualize",
+      "displayName": "dsh-visualize",
+      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-visualize"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-08-22T20:59:11.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1242,7 +1242,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-08-25T20:38:24.000Z"
+      "updatedAt": "2026-08-26T18:55:49.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1253,7 +1253,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T16:17:40.000Z"
+      "updatedAt": "2026-08-26T18:19:16.000Z"
     },
     {
       "id": "Ruler4396/dsh-launcher",
@@ -1307,25 +1307,6 @@
       "updatedAt": "2026-08-26T02:47:35.000Z"
     },
     {
-      "id": "cocofhu/anime-find",
-      "name": "@cocofhu/anime-find",
-      "displayName": "anime-find",
-      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
-      "repository": {
-        "url": "https://github.com/cocofhu/anime-find"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "anime",
-        "mikan",
-        "bangumi"
-      ],
-      "updatedAt": "2026-08-26T01:14:01.000Z"
-    },
-    {
       "id": "zh667/TokenLedger",
       "name": "dsh-tokenledger",
       "displayName": "TokenLedger",
@@ -1346,6 +1327,25 @@
       "updatedAt": "2026-08-24T08:37:10.000Z"
     },
     {
+      "id": "cocofhu/anime-find",
+      "name": "@cocofhu/anime-find",
+      "displayName": "anime-find",
+      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+      "repository": {
+        "url": "https://github.com/cocofhu/anime-find"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "anime",
+        "mikan",
+        "bangumi"
+      ],
+      "updatedAt": "2026-08-26T01:14:01.000Z"
+    },
+    {
       "id": "cocode-agency/cocode",
       "name": "cocode-agency/cocode",
       "displayName": "cocode",
@@ -1354,7 +1354,7 @@
         "url": "https://github.com/cocode-agency/cocode"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T16:52:41.000Z"
+      "updatedAt": "2026-08-26T17:26:32.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1375,6 +1375,30 @@
         "worktree"
       ],
       "updatedAt": "2026-08-26T13:33:13.000Z"
+    },
+    {
+      "id": "saya-ch/dsh-mobile",
+      "name": "dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness 移动端适配与安全访问插件，支持局域网、远程连接、Android App 和手机浏览器。",
+      "repository": {
+        "url": "https://github.com/saya-ch/dsh-mobile"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "android",
+        "lan",
+        "remote-access",
+        "tailscale",
+        "cpolar",
+        "mobile",
+        "https"
+      ],
+      "updatedAt": "2026-08-25T06:42:05.000Z"
     },
     {
       "id": "zhaoolee/notes",
@@ -1404,30 +1428,6 @@
       "updatedAt": "2026-08-26T15:33:14.000Z"
     },
     {
-      "id": "saya-ch/dsh-mobile",
-      "name": "dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness 移动端适配与安全访问插件，支持局域网、远程连接、Android App 和手机浏览器。",
-      "repository": {
-        "url": "https://github.com/saya-ch/dsh-mobile"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "android",
-        "lan",
-        "remote-access",
-        "tailscale",
-        "cpolar",
-        "mobile",
-        "https"
-      ],
-      "updatedAt": "2026-08-25T06:42:05.000Z"
-    },
-    {
       "id": "yjh051108/dsh-super-injector",
       "name": "@dsh-external/dsh-super-injector",
       "displayName": "dsh-super-injector",
@@ -1455,6 +1455,17 @@
       "updatedAt": "2026-08-20T00:40:08.000Z"
     },
     {
+      "id": "shengsheng90/DSH-taskboard",
+      "name": "@shengsheng/dsh-taskboard",
+      "displayName": "DSH-taskboard",
+      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "repository": {
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-22T07:59:16.000Z"
+    },
+    {
       "id": "summer1238/dsh-remote-web-gateway",
       "name": "dsh-remote-web-gateway",
       "displayName": "dsh-remote-web-gateway",
@@ -1474,18 +1485,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T16:32:53.000Z"
-    },
-    {
-      "id": "shengsheng90/DSH-taskboard",
-      "name": "@shengsheng/dsh-taskboard",
-      "displayName": "DSH-taskboard",
-      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "repository": {
-        "url": "https://github.com/shengsheng90/DSH-taskboard"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T07:59:16.000Z"
+      "updatedAt": "2026-08-26T17:16:58.000Z"
     },
     {
       "id": "kingOfSoySauce/dsh-liang-skin",
