@@ -73,7 +73,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-26T12:46:51.000Z"
+      "updatedAt": "2026-08-26T16:32:19.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -95,7 +95,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-26T14:46:49.000Z"
+      "updatedAt": "2026-08-26T16:18:10.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -151,7 +151,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T14:46:59.000Z"
+      "updatedAt": "2026-08-26T15:39:36.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -162,7 +162,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T14:09:28.000Z"
+      "updatedAt": "2026-08-26T16:43:23.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -325,7 +325,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-26T13:13:44.000Z"
+      "updatedAt": "2026-08-26T15:57:11.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -348,7 +348,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-26T14:44:53.000Z"
+      "updatedAt": "2026-08-26T16:26:08.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -379,7 +379,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-26T13:28:27.000Z"
+      "updatedAt": "2026-08-26T15:27:54.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -458,7 +458,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T14:45:56.000Z"
+      "updatedAt": "2026-08-26T16:40:47.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -582,7 +582,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-26T13:12:45.000Z"
+      "updatedAt": "2026-08-26T15:13:10.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -667,6 +667,17 @@
       "updatedAt": "2026-08-25T09:58:11.000Z"
     },
     {
+      "id": "Minglink/dsh-infinite-gen-2",
+      "name": "dsh-infinite-gen-2",
+      "displayName": "dsh-infinite-gen-2",
+      "summary": "DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ⭐",
+      "repository": {
+        "url": "https://github.com/Minglink/dsh-infinite-gen-2"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-26T06:27:28.000Z"
+    },
+    {
       "id": "FSMargoo/dsh-at-file",
       "name": "dsh-at-file",
       "displayName": "dsh-at-file",
@@ -686,7 +697,7 @@
         "url": "https://github.com/Lum1104/dsh-browser"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T13:53:40.000Z"
+      "updatedAt": "2026-08-26T16:43:54.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -739,7 +750,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-26T13:28:15.000Z"
+      "updatedAt": "2026-08-26T16:34:58.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -751,17 +762,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-25T19:54:02.000Z"
-    },
-    {
-      "id": "Minglink/dsh-infinite-gen-2",
-      "name": "dsh-infinite-gen-2",
-      "displayName": "dsh-infinite-gen-2",
-      "summary": "DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ⭐",
-      "repository": {
-        "url": "https://github.com/Minglink/dsh-infinite-gen-2"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-26T06:27:28.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -783,7 +783,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T14:25:07.000Z"
+      "updatedAt": "2026-08-26T16:43:56.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -819,7 +819,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-08-25T15:27:41.000Z"
+      "updatedAt": "2026-08-26T16:05:10.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -866,17 +866,6 @@
       "updatedAt": "2026-08-24T15:42:17.000Z"
     },
     {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-19T21:18:20.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -895,15 +884,15 @@
       "updatedAt": "2026-08-26T06:25:54.000Z"
     },
     {
-      "id": "hust-open-atom-club/oh-dsh",
-      "name": "@oh-dsh/desktop",
-      "displayName": "oh-dsh",
-      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
+      "id": "vlln/whale-girl",
+      "name": "whale-girl",
+      "displayName": "whale-girl",
+      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
       "repository": {
-        "url": "https://github.com/hust-open-atom-club/oh-dsh"
+        "url": "https://github.com/vlln/whale-girl"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T05:55:29.000Z"
+      "updatedAt": "2026-08-19T21:18:20.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -914,7 +903,18 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T09:44:31.000Z"
+      "updatedAt": "2026-08-26T16:03:24.000Z"
+    },
+    {
+      "id": "hust-open-atom-club/oh-dsh",
+      "name": "@oh-dsh/desktop",
+      "displayName": "oh-dsh",
+      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
+      "repository": {
+        "url": "https://github.com/hust-open-atom-club/oh-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-26T15:38:57.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1145,7 +1145,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-08-26T14:45:54.000Z"
+      "updatedAt": "2026-08-26T16:39:25.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1156,6 +1156,17 @@
         "url": "https://github.com/libukai/awesome-deepseek-harness"
       },
       "updatedAt": "2026-08-26T06:32:29.000Z"
+    },
+    {
+      "id": "Aisland-SJL/dsh-worktable",
+      "name": "Aisland-SJL/dsh-worktable",
+      "displayName": "dsh-worktable",
+      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+      "repository": {
+        "url": "https://github.com/Aisland-SJL/dsh-worktable"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-25T08:52:11.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1194,17 +1205,6 @@
         "language"
       ],
       "updatedAt": "2026-08-26T10:52:20.000Z"
-    },
-    {
-      "id": "Aisland-SJL/dsh-worktable",
-      "name": "Aisland-SJL/dsh-worktable",
-      "displayName": "dsh-worktable",
-      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "repository": {
-        "url": "https://github.com/Aisland-SJL/dsh-worktable"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-25T08:52:11.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1246,14 +1246,14 @@
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
-      "name": "dsh-1024store-monorepo",
+      "name": "awesome-deepseek-harness-plugins",
       "displayName": "awesome-deepseek-harness-plugins",
-      "summary": "DeepSeek Harness plugin store, marketplace and hub — 3,100+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
+      "summary": "DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
       "repository": {
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T11:33:23.000Z"
+      "updatedAt": "2026-08-26T16:17:40.000Z"
     },
     {
       "id": "Ruler4396/dsh-launcher",
@@ -1354,7 +1354,27 @@
         "url": "https://github.com/cocode-agency/cocode"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T11:42:25.000Z"
+      "updatedAt": "2026-08-26T16:52:41.000Z"
+    },
+    {
+      "id": "dream-num/dsh-univer-office",
+      "name": "dsh-univer-office",
+      "displayName": "dsh-univer-office",
+      "summary": "Preview, create, edit office spreadsheets, docs & slides inside DeepSeek Harness. Power by Univer.",
+      "repository": {
+        "url": "https://github.com/dream-num/dsh-univer-office"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "univer",
+        "spreadsheet",
+        "preview",
+        "worktree"
+      ],
+      "updatedAt": "2026-08-26T13:33:13.000Z"
     },
     {
       "id": "zhaoolee/notes",
@@ -1381,7 +1401,7 @@
         "plugin",
         "design"
       ],
-      "updatedAt": "2026-08-26T07:51:42.000Z"
+      "updatedAt": "2026-08-26T15:33:14.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1416,26 +1436,6 @@
         "url": "https://github.com/yjh051108/dsh-super-injector"
       },
       "updatedAt": "2026-08-24T19:11:01.000Z"
-    },
-    {
-      "id": "dream-num/dsh-univer-office",
-      "name": "dsh-univer-office",
-      "displayName": "dsh-univer-office",
-      "summary": "Preview, create, edit office spreadsheets, docs & slides inside DeepSeek Harness. Power by Univer.",
-      "repository": {
-        "url": "https://github.com/dream-num/dsh-univer-office"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "univer",
-        "spreadsheet",
-        "preview",
-        "worktree"
-      ],
-      "updatedAt": "2026-08-26T13:33:13.000Z"
     },
     {
       "id": "oil-oil/dsh-oil-creator",
@@ -1474,17 +1474,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T13:22:35.000Z"
-    },
-    {
-      "id": "kingOfSoySauce/dsh-liang-skin",
-      "name": "dsh-client-liang-intensity-skin",
-      "displayName": "dsh-liang-skin",
-      "summary": "DeepSeek Harness 滑动变阻器皮肤",
-      "repository": {
-        "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
-      },
-      "updatedAt": "2026-08-21T03:23:04.000Z"
+      "updatedAt": "2026-08-26T16:32:53.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1496,6 +1486,16 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-08-22T07:59:16.000Z"
+    },
+    {
+      "id": "kingOfSoySauce/dsh-liang-skin",
+      "name": "dsh-client-liang-intensity-skin",
+      "displayName": "dsh-liang-skin",
+      "summary": "DeepSeek Harness 滑动变阻器皮肤",
+      "repository": {
+        "url": "https://github.com/kingOfSoySauce/dsh-liang-skin"
+      },
+      "updatedAt": "2026-08-21T03:23:04.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
