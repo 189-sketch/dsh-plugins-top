@@ -73,7 +73,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-26T17:53:29.000Z"
+      "updatedAt": "2026-08-26T22:34:41.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -162,7 +162,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T19:17:28.000Z"
+      "updatedAt": "2026-08-26T22:28:42.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -214,7 +214,7 @@
         "url": "https://github.com/AdamPlatin123/awesome-dsh-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T13:26:49.000Z"
+      "updatedAt": "2026-08-26T22:29:43.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -287,6 +287,26 @@
       "updatedAt": "2026-08-26T13:10:57.000Z"
     },
     {
+      "id": "bowenliang123/dsh-context",
+      "name": "dsh-context",
+      "displayName": "dsh-context",
+      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "repository": {
+        "url": "https://github.com/bowenliang123/dsh-context"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "cordis",
+        "plugin",
+        "context",
+        "token",
+        "ui"
+      ],
+      "updatedAt": "2026-08-26T18:51:41.000Z"
+    },
+    {
       "id": "NanmiCoder/dsh-agent-teams",
       "name": "@nanmicoder/dsh-agent-teams",
       "displayName": "dsh-agent-teams",
@@ -306,26 +326,6 @@
         "llm"
       ],
       "updatedAt": "2026-08-26T10:04:26.000Z"
-    },
-    {
-      "id": "bowenliang123/dsh-context",
-      "name": "dsh-context",
-      "displayName": "dsh-context",
-      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
-      "repository": {
-        "url": "https://github.com/bowenliang123/dsh-context"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "cordis",
-        "plugin",
-        "context",
-        "token",
-        "ui"
-      ],
-      "updatedAt": "2026-08-26T18:51:41.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -348,7 +348,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-26T19:48:08.000Z"
+      "updatedAt": "2026-08-26T20:26:43.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -379,7 +379,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-26T17:26:44.000Z"
+      "updatedAt": "2026-08-26T22:30:08.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -458,17 +458,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T19:29:53.000Z"
-    },
-    {
-      "id": "Electricitysheep/dsh-handbook",
-      "name": "Electricitysheep/dsh-handbook",
-      "displayName": "dsh-handbook",
-      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "repository": {
-        "url": "https://github.com/Electricitysheep/dsh-handbook"
-      },
-      "updatedAt": "2026-08-22T08:57:27.000Z"
+      "updatedAt": "2026-08-26T22:44:02.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -489,6 +479,16 @@
         "tunnel"
       ],
       "updatedAt": "2026-08-25T16:13:30.000Z"
+    },
+    {
+      "id": "Electricitysheep/dsh-handbook",
+      "name": "Electricitysheep/dsh-handbook",
+      "displayName": "dsh-handbook",
+      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "repository": {
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      },
+      "updatedAt": "2026-08-22T08:57:27.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -582,7 +582,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-26T18:06:25.000Z"
+      "updatedAt": "2026-08-26T22:31:48.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -750,7 +750,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-26T16:34:58.000Z"
+      "updatedAt": "2026-08-26T20:13:47.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -1049,7 +1049,7 @@
         "tui",
         "cli"
       ],
-      "updatedAt": "2026-08-26T18:55:26.000Z"
+      "updatedAt": "2026-08-26T19:58:05.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1169,17 +1169,6 @@
       "updatedAt": "2026-08-25T08:52:11.000Z"
     },
     {
-      "id": "Dominic789654/awesome-deepseek-harness",
-      "name": "Dominic789654/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
-      "repository": {
-        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-26T14:43:36.000Z"
-    },
-    {
       "id": "Han-1413141/dsh-cost-meter",
       "name": "dsh-cost-meter",
       "displayName": "dsh-cost-meter",
@@ -1205,6 +1194,17 @@
         "language"
       ],
       "updatedAt": "2026-08-26T10:52:20.000Z"
+    },
+    {
+      "id": "Dominic789654/awesome-deepseek-harness",
+      "name": "Dominic789654/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+      "repository": {
+        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-08-26T14:43:36.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1242,7 +1242,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-08-26T18:55:49.000Z"
+      "updatedAt": "2026-08-26T22:13:48.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1485,7 +1485,7 @@
         "url": "https://github.com/bradeGithub/DSH-Plugins-Marketplace"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-26T17:16:58.000Z"
+      "updatedAt": "2026-08-26T20:12:23.000Z"
     },
     {
       "id": "kingOfSoySauce/dsh-liang-skin",
