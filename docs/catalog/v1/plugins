@@ -193,7 +193,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T18:25:39.000Z"
+      "updatedAt": "2026-08-29T21:43:52.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -236,7 +236,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T19:14:15.000Z"
+      "updatedAt": "2026-08-29T22:00:39.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -325,7 +325,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-29T19:10:52.000Z"
+      "updatedAt": "2026-08-29T22:21:57.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -359,7 +359,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-29T16:04:56.000Z"
+      "updatedAt": "2026-08-29T19:43:59.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -489,7 +489,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T19:11:58.000Z"
+      "updatedAt": "2026-08-29T22:22:11.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -719,7 +719,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-08-29T08:35:48.000Z"
+      "updatedAt": "2026-08-29T20:56:22.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -1158,7 +1158,7 @@
         "tui",
         "cli"
       ],
-      "updatedAt": "2026-08-28T23:38:42.000Z"
+      "updatedAt": "2026-08-29T20:00:46.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-visualize",
@@ -1209,17 +1209,6 @@
       "updatedAt": "2026-08-28T02:20:46.000Z"
     },
     {
-      "id": "Dominic789654/awesome-deepseek-harness",
-      "name": "Dominic789654/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
-      "repository": {
-        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-29T14:36:57.000Z"
-    },
-    {
       "id": "elysia395/dsh-wallpaper-engine",
       "name": "dsh-plugin-wallpaper-engine",
       "displayName": "dsh-wallpaper-engine",
@@ -1239,6 +1228,17 @@
       "updatedAt": "2026-08-27T14:29:20.000Z"
     },
     {
+      "id": "Dominic789654/awesome-deepseek-harness",
+      "name": "Dominic789654/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+      "repository": {
+        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-08-29T14:36:57.000Z"
+    },
+    {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
       "name": "awesome-deepseek-harness-plugins",
       "displayName": "awesome-deepseek-harness-plugins",
@@ -1247,7 +1247,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T16:49:44.000Z"
+      "updatedAt": "2026-08-29T21:42:15.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1342,6 +1342,17 @@
       "updatedAt": "2026-08-27T04:46:41.000Z"
     },
     {
+      "id": "tinqiao-oss/engramory",
+      "name": "dsh-engramory",
+      "displayName": "engramory",
+      "summary": "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.",
+      "repository": {
+        "url": "https://github.com/tinqiao-oss/engramory"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-20T07:29:09.000Z"
+    },
+    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1364,17 +1375,6 @@
         "https"
       ],
       "updatedAt": "2026-08-29T06:13:23.000Z"
-    },
-    {
-      "id": "tinqiao-oss/engramory",
-      "name": "dsh-engramory",
-      "displayName": "engramory",
-      "summary": "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.",
-      "repository": {
-        "url": "https://github.com/tinqiao-oss/engramory"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-20T07:29:09.000Z"
     },
     {
       "id": "weijiafu14/pi2dsh",
@@ -1468,7 +1468,7 @@
         "agent-preset",
         "session-migration"
       ],
-      "updatedAt": "2026-08-29T05:29:42.000Z"
+      "updatedAt": "2026-08-29T19:33:54.000Z"
     },
     {
       "id": "cocode-agency/cocode",
