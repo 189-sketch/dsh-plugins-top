@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T18:45:36.000Z"
+      "updatedAt": "2026-08-29T17:13:30.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-08-29T15:02:46.000Z"
+      "updatedAt": "2026-08-29T16:24:19.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -84,7 +84,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-29T11:45:06.000Z"
+      "updatedAt": "2026-08-29T16:35:22.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -106,7 +106,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-29T09:02:49.000Z"
+      "updatedAt": "2026-08-29T15:43:37.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -162,7 +162,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T09:10:19.000Z"
+      "updatedAt": "2026-08-29T17:01:10.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -182,7 +182,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-08-29T15:00:29.000Z"
+      "updatedAt": "2026-08-29T15:17:58.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -193,7 +193,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T15:02:33.000Z"
+      "updatedAt": "2026-08-29T18:25:39.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -236,7 +236,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T10:47:14.000Z"
+      "updatedAt": "2026-08-29T19:14:15.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -325,7 +325,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-29T07:21:03.000Z"
+      "updatedAt": "2026-08-29T19:10:52.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -359,7 +359,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-29T14:58:38.000Z"
+      "updatedAt": "2026-08-29T16:04:56.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -489,7 +489,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T15:00:27.000Z"
+      "updatedAt": "2026-08-29T19:11:58.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -596,6 +596,17 @@
       "updatedAt": "2026-08-27T03:37:01.000Z"
     },
     {
+      "id": "Minglink/dsh-infinite-gen-2",
+      "name": "dsh-infinite-gen-2",
+      "displayName": "dsh-infinite-gen-2",
+      "summary": "DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ⭐",
+      "repository": {
+        "url": "https://github.com/Minglink/dsh-infinite-gen-2"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-26T06:27:28.000Z"
+    },
+    {
       "id": "chainbase-labs/Agentkey",
       "name": "agentkey-skill",
       "displayName": "Agentkey",
@@ -617,17 +628,6 @@
         "real-time-data"
       ],
       "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
-      "id": "Minglink/dsh-infinite-gen-2",
-      "name": "dsh-infinite-gen-2",
-      "displayName": "dsh-infinite-gen-2",
-      "summary": "DeepSeek 专用破甲插件「无限二代」dsh-infinite-gen-2 — armor-breaking plugin for DeepSeek稳定化破甲提示词，求 Star 收藏 ⭐",
-      "repository": {
-        "url": "https://github.com/Minglink/dsh-infinite-gen-2"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-26T06:27:28.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -750,7 +750,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T10:07:43.000Z"
+      "updatedAt": "2026-08-29T16:12:52.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -783,7 +783,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T09:02:26.000Z"
+      "updatedAt": "2026-08-29T19:15:25.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -861,6 +861,16 @@
       "updatedAt": "2026-08-18T08:05:29.000Z"
     },
     {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-08-24T04:12:22.000Z"
+    },
+    {
       "id": "liustack/modsearch",
       "name": "@liustack/modsearch",
       "displayName": "modsearch",
@@ -893,16 +903,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-08-27T16:19:07.000Z"
-    },
-    {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-08-24T04:12:22.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -946,7 +946,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T04:08:59.000Z"
+      "updatedAt": "2026-08-29T17:52:54.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1011,7 +1011,7 @@
         "url": "https://github.com/mrpulor-gh/nuphus-mcp"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T18:35:26.000Z"
+      "updatedAt": "2026-08-29T16:13:06.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1082,17 +1082,6 @@
       "updatedAt": "2026-08-24T15:57:29.000Z"
     },
     {
-      "id": "op7418/pilot-harness",
-      "name": "@deepseek-ai/dsh-root",
-      "displayName": "pilot-harness",
-      "summary": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
-      "repository": {
-        "url": "https://github.com/op7418/pilot-harness"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-20T12:42:53.000Z"
-    },
-    {
       "id": "ericshang98/Perfect-Web-Clone",
       "name": "perfect-web-clone",
       "displayName": "Perfect-Web-Clone",
@@ -1108,6 +1097,17 @@
         "dsh-plugin"
       ],
       "updatedAt": "2026-08-22T14:39:08.000Z"
+    },
+    {
+      "id": "op7418/pilot-harness",
+      "name": "@deepseek-ai/dsh-root",
+      "displayName": "pilot-harness",
+      "summary": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+      "repository": {
+        "url": "https://github.com/op7418/pilot-harness"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-20T12:42:53.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1209,6 +1209,17 @@
       "updatedAt": "2026-08-28T02:20:46.000Z"
     },
     {
+      "id": "Dominic789654/awesome-deepseek-harness",
+      "name": "Dominic789654/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+      "repository": {
+        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-08-29T14:36:57.000Z"
+    },
+    {
       "id": "elysia395/dsh-wallpaper-engine",
       "name": "dsh-plugin-wallpaper-engine",
       "displayName": "dsh-wallpaper-engine",
@@ -1228,17 +1239,6 @@
       "updatedAt": "2026-08-27T14:29:20.000Z"
     },
     {
-      "id": "Dominic789654/awesome-deepseek-harness",
-      "name": "Dominic789654/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
-      "repository": {
-        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-29T14:36:57.000Z"
-    },
-    {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
       "name": "awesome-deepseek-harness-plugins",
       "displayName": "awesome-deepseek-harness-plugins",
@@ -1247,7 +1247,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T14:05:52.000Z"
+      "updatedAt": "2026-08-29T16:49:44.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1259,25 +1259,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-08-22T07:59:16.000Z"
-    },
-    {
-      "id": "d-dev0101/open-sea-skin",
-      "name": "open-sea-skin",
-      "displayName": "open-sea-skin",
-      "summary": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
-      "repository": {
-        "url": "https://github.com/d-dev0101/open-sea-skin"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "theme",
-        "skin",
-        "webgpu",
-        "ocean"
-      ],
-      "updatedAt": "2026-08-24T13:59:05.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1298,6 +1279,25 @@
         "worktree"
       ],
       "updatedAt": "2026-08-27T03:28:54.000Z"
+    },
+    {
+      "id": "d-dev0101/open-sea-skin",
+      "name": "open-sea-skin",
+      "displayName": "open-sea-skin",
+      "summary": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+      "repository": {
+        "url": "https://github.com/d-dev0101/open-sea-skin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "theme",
+        "skin",
+        "webgpu",
+        "ocean"
+      ],
+      "updatedAt": "2026-08-24T13:59:05.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1392,7 +1392,7 @@
         "migration",
         "compatibility"
       ],
-      "updatedAt": "2026-08-29T14:54:00.000Z"
+      "updatedAt": "2026-08-29T16:32:22.000Z"
     },
     {
       "id": "GraySilver/dsh-evolve-modes",
@@ -1479,7 +1479,7 @@
         "url": "https://github.com/cocode-agency/cocode"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-27T18:41:22.000Z"
+      "updatedAt": "2026-08-29T16:56:49.000Z"
     },
     {
       "id": "toolclub/dsh-agent-team-gui",
