@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [honoriomelo/dsh-model-picker-search](https://github.com/honoriomelo/dsh-model-picker-search) | ⭐ 0 | ✅ | DSH Web GUI plugin: adds a live search field inside the model picker menu of the composer, plus the Effort (reasoning) selector. Drop-in replacement for the native model seat, sharing the same per-session ModelDirectory so /model popup, the effort selector, and the /model command stay consistent. | `ui-panel` |
-| #2 | [honoriomelo/dsh-commit-ai](https://github.com/honoriomelo/dsh-commit-ai) | ⭐ 0 | ✅ | DSH Web GUI plugin: adds a 'Generate with AI' button to the dsh-solution-explorer commit box, filling the commit message from the staged diff using the deployment's default LLM in Conventional Commits format. | `ui-panel` |
-| #3 | [Witchwarren2344/dsh-mnemosyne-memory](https://github.com/Witchwarren2344/dsh-mnemosyne-memory) | ⭐ 0 | ✅ | Provide long-term memory, vector semantic search, and LLM reflection for DeepSeek Harness (DSH) with this free, MIT-licensed plugin. | `ui-panel` |
-| #4 | [liangxiaobing520/dsh-local-vector-memory](https://github.com/liangxiaobing520/dsh-local-vector-memory) | ⭐ 0 | ✅ | Fully local vector memory plugin for DeepSeek Harness: local embeddings, SQLite storage, automatic recall injection, dedup with conflict detection, soft-delete recycle bin, online backup. | `other` |
-| #5 | [yoshino-xiao7/dsh-codex](https://github.com/yoshino-xiao7/dsh-codex) | ⭐ 0 | ✅ | 社区维护的 DeepSeek Harness Codex 插件：OAuth、模型、图片与流式恢复；非官方 / Community Codex plugin for DSH: OAuth, models, images, stream recovery; unofficial. | `provider` |
-| #6 | [Viktirr/dsh-llm-lmstudio](https://github.com/Viktirr/dsh-llm-lmstudio) | ⭐ 0 | ✅ | LM Studio (OpenAI-compatible local server) adapter plugin for DeepSeek Harness | `provider` |
-| #7 | [yunniees/DSH-Plugin-Manager](https://github.com/yunniees/DSH-Plugin-Manager) | ⭐ 1 | ✅ | Visual plugin manager for DeepSeek Harness: AI auto-translation, AI one-click summaries, AI plugin search, one-click share & install of multiple plugins, bulk updates | `ui-panel` |
-| #8 | [Fast-Editor/lynkr-dsh-plugin](https://github.com/Fast-Editor/lynkr-dsh-plugin) | ⭐ 0 | ✅ | DeepSeek Harness (dsh) plugin: registers Lynkr as a custom OpenAI-compatible provider | `other` |
-| #9 | [DDDFXYqiming/dsh-session-recap](https://github.com/DDDFXYqiming/dsh-session-recap) | ⭐ 0 | ✅ | Claude Code-style away summaries for DeepSeek Harness sessions. | `ui-panel` |
-| #10 | [MarceloSenai/dsh-plugin-kie-ai](https://github.com/MarceloSenai/dsh-plugin-kie-ai) | ⭐ 0 | ✅ | DeepSeek Harness plugin: image and video generation over the KIE AI API | `tool` |
-| #11 | [morphlinglan/dsh-leopard-gecko](https://github.com/morphlinglan/dsh-leopard-gecko) | ⭐ 0 | ✅ | 豹纹守宫旅行桌宠小插件：一只会自己出门旅行、寄回明信片、带回特产的守宫。庭院三叶草随时间生长，收割后可在商店购买便当与护身符。 | `ui-panel` |
-| #12 | [flashyiyi/dsh-envelope-highlight](https://github.com/flashyiyi/dsh-envelope-highlight) | ⭐ 0 | ✅ | Restore syntax highlighting of read/write tool envelopes inside run_code (PTC / Code Mode) result cards | `ui-panel` |
-| #13 | [better-er/dsh-edit-diff](https://github.com/better-er/dsh-edit-diff) | ⭐ 1 | ✅ | dsh·去重复 diff 展示插件 | `ui-panel` |
-| #14 | [Elpsycoogroo/dsh-work-report](https://github.com/Elpsycoogroo/dsh-work-report) | ⭐ 1 | ✅ | Neural Ledger - turn DSH collaboration sessions into a visual work ledger: token analytics, smart insights, trend forecasting, and one-click daily/weekly/monthly Markdown reports. | `ui-panel` |
-| #15 | [xiyunSacire/dsh-skill-manager](https://github.com/xiyunSacire/dsh-skill-manager) | ⭐ 0 | ✅ |  The dsh-skill-manager is a deep-integration Web UI plugin designed to provide developers and advanced users with direct visibility and control over the true, persistent "skill memory" of DeepSeek Harness (DSH). | `skill` |
-| #16 | [jarvis959/galvanize-dsh](https://github.com/jarvis959/galvanize-dsh) | ⭐ 0 | ✅ | Triggers inside your DSH agent: wake a fresh DeepSeek Harness session when files, mail, webhooks, or git events happen. Native Cordis bundle, heartbeat-proved install. | `tool` |
-| #17 | [better-er/dsh-cache-billing](https://github.com/better-er/dsh-cache-billing) | ⭐ 1 | ✅ | DSH 缓存账单插件：上下文圆环弹层里实时算账，峰谷自动计价，第三方中转照常记账 | `ui-panel` |
-| #18 | [opdsh/unity-plugin](https://github.com/opdsh/unity-plugin) | ⭐ 0 | ✅ | DeepSeek Harness plugin: control the Unity Editor through the unity CLI | `skill` |
-| #19 | [HuanLinOTO/dsh-plugin-copilot](https://github.com/HuanLinOTO/dsh-plugin-copilot) | ⭐ 0 | ✅ | Copilot 引导层插件：WebUI 设置卡片一键 GitHub 授权 + 自动激活模型路由并收窄模型列表（复用 dsh-llm-pi-ai 内置 device-flow） \| Copilot onboarding plugin: one-click GitHub auth from the WebUI settings card, auto-activating the model route and narrowing the model list (reuses dsh-llm-pi-ai's builtin device flow) | `provider` |
-| #20 | [z7ping/narratica](https://github.com/z7ping/narratica) | ⭐ 0 | ✅ | AI 原生故事创作与媒体生产工作区｜AI-native storytelling workspace for novels, screenplays, and media production. | `ui-panel` |
-| #21 | [hadesybil-hub/dsh-restart-button](https://github.com/hadesybil-hub/dsh-restart-button) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #22 | [Wisdoverse/dsh-skills-manager-plugin](https://github.com/Wisdoverse/dsh-skills-manager-plugin) | ⭐ 0 | ✅ | Skill manager for DeepSeek Harness: proactive skill activation with trigger hooks, GitHub source sync, and a Settings management UI. | `skill` |
-| #23 | [shengmk/godsh](https://github.com/shengmk/godsh) | ⭐ 0 | ✅ | godsh - GUI launcher for DeepSeek Harness (dsh): manage profiles, plugins, kernels, and dsh versions | `other` |
-| #24 | [taod8205-spec/model-switcher-dsh](https://github.com/taod8205-spec/model-switcher-dsh) | ⭐ 0 | ✅ | DeepSeek Harness 模型与推理强度一键切换插件，支持胶囊滑杆、档位吸附和极高态视觉。 | `ui-panel` |
-| #25 | [zhangguiping-xydt/dsh-session-lab](https://github.com/zhangguiping-xydt/dsh-session-lab) | ⭐ 0 | ✅ | DeepSeek Harness session teaching, evidence capsules, and controlled trajectory comparison | `skill` |
-| #26 | [xuexiaolei1997/dsh-plugin-stock-x](https://github.com/xuexiaolei1997/dsh-plugin-stock-x) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #27 | [my-dsh/dsh-session-attention](https://github.com/my-dsh/dsh-session-attention) | ⭐ 0 | ✅ | Session attention overlay plugin for DeepSeek Harness: character dance animation while any session awaits user action | `other` |
-| #28 | [my-dsh/dsh-token-usage-dashboard](https://github.com/my-dsh/dsh-token-usage-dashboard) | ⭐ 0 | ✅ | Cross-session token usage dashboard plugin for DeepSeek Harness: SQLite-backed capture + browser dashboard panel | `ui-panel` |
-| #29 | [helibeiqi/dsh-cn-fixedincome-mcp](https://github.com/helibeiqi/dsh-cn-fixedincome-mcp) | ⭐ 0 | ✅ |  | `other` |
-| #30 | [LWLAymh/dsh-guardian](https://github.com/LWLAymh/dsh-guardian) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #1 | [antlordGit/dsh-plugin-session-batch-archive](https://github.com/antlordGit/dsh-plugin-session-batch-archive) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #2 | [masknull/dsh-workspace-default-path](https://github.com/masknull/dsh-workspace-default-path) | ⭐ 0 | ✅ | DSH plugin: remember the last used workspace directory for Add workspace (prefill + auto-memory, official flow untouched) | `ui-panel` |
+| #3 | [antlordGit/dsh-plugin-session-rollback](https://github.com/antlordGit/dsh-plugin-session-rollback) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #4 | [173787247/dsh-wsl-browser](https://github.com/173787247/dsh-wsl-browser) | ⭐ 1 | ✅ | DeepSeek Harness tool: open http(s) URLs in the Windows default browser from WSL. | `tool` |
+| #5 | [173787247/dsh-wsl-notify](https://github.com/173787247/dsh-wsl-notify) | ⭐ 1 | ✅ | DeepSeek Harness tool: Windows MessageBox notification from WSL. | `tool` |
+| #6 | [173787247/dsh-wsl-cred](https://github.com/173787247/dsh-wsl-cred) | ⭐ 1 | ✅ | DeepSeek Harness tool: safe Git credential hints for Windows GCM from WSL. | `tool` |
+| #7 | [173787247/dsh-wsl-distro](https://github.com/173787247/dsh-wsl-distro) | ⭐ 1 | ✅ | DeepSeek Harness plugin: current WSL distro facts and multi-distro warnings. | `other` |
+| #8 | [173787247/dsh-wsl-port](https://github.com/173787247/dsh-wsl-port) | ⭐ 1 | ✅ | DeepSeek Harness tool: diagnose WSL port listening and Windows localhost forwarding. | `tool` |
+| #9 | [stayhpjinng/dsh-provider-proxy](https://github.com/stayhpjinng/dsh-provider-proxy) | ⭐ 0 | ✅ | Provider-scoped HTTP/HTTPS forward proxy plugin for DeepSeek Harness | `provider` |
+| #10 | [173787247/dsh-wsl-gpu](https://github.com/173787247/dsh-wsl-gpu) | ⭐ 1 | ✅ | DeepSeek Harness tool: probe nvidia-smi / GPU visibility inside WSL. | `tool` |
+| #11 | [173787247/dsh-wsl-path](https://github.com/173787247/dsh-wsl-path) | ⭐ 1 | ✅ | DeepSeek Harness tool: convert WSL Linux and Windows paths with /mnt/c caveats. | `tool` |
+| #12 | [173787247/dsh-wsl-launch](https://github.com/173787247/dsh-wsl-launch) | ⭐ 1 | ✅ | DeepSeek Harness tool: launch allowlisted Windows apps from WSL. | `tool` |
+| #13 | [173787247/dsh-wsl-clipboard](https://github.com/173787247/dsh-wsl-clipboard) | ⭐ 1 | ✅ | DeepSeek Harness tool: read/write the Windows clipboard from WSL. | `tool` |
+| #14 | [xlin20021/dsh-mcp-hub](https://github.com/xlin20021/dsh-mcp-hub) | ⭐ 0 | ✅ | dsh-mcp-hub | `ui-panel` |
+| #15 | [aiko-dsh-plugins/dsh-bid-studio](https://github.com/aiko-dsh-plugins/dsh-bid-studio) | ⭐ 0 | ✅ | Installable Bid Studio workbench for DeepSeek Harness | `ui-panel` |
+| #16 | [aiko-dsh-plugins/dsh-ontology-kernel](https://github.com/aiko-dsh-plugins/dsh-ontology-kernel) | ⭐ 0 | ✅ | Installable Ontology Kernel bundle for DeepSeek Harness | `other` |
+| #17 | [sycamorestr/dsh-platform-account-manager-plugin](https://github.com/sycamorestr/dsh-platform-account-manager-plugin) | ⭐ 1 | ✅ | DSH platform account and persistent browser-session manager | `ui-panel` |
+| #18 | [taoser258/dsh-client-ui-skin-qingxiao](https://github.com/taoser258/dsh-client-ui-skin-qingxiao) | ⭐ 0 | ✅ | 清宵 · 弦凝清霄 —— DeepSeek Harness (DSH) Web 界面美化皮肤：以《鸣潮》角色清宵为灵感的冰蓝·青碧·月白·玄夜调色板，含可换背景画卷、剑气流光粒子、磨砂玻璃面板与新会话迎宾页。A Qingxiao (Wuthering Waves) themed client UI skin for the DSH web GUI. | `skin` |
+| #19 | [winter-street/dsh-plugin-agent-budget](https://github.com/winter-street/dsh-plugin-agent-budget) | ⭐ 1 | ✅ |  | `tool` |
+| #20 | [rongxingda/dsh-prompt-enhance](https://github.com/rongxingda/dsh-prompt-enhance) | ⭐ 0 | ✅ | Prompt enhancement plugin for the DeepSeek Harness web GUI: one-click rewrite of the composer draft into a structured prompt, with preview, fill-back, and undo. | `ui-panel` |
+| #21 | [173787247/dsh-tool-budget](https://github.com/173787247/dsh-tool-budget) | ⭐ 1 | ✅ | Hard-stop DeepSeek Harness tool use after a per-session call budget | `tool` |
+| #22 | [173787247/dsh-wsl-kit](https://github.com/173787247/dsh-wsl-kit) | ⭐ 1 | ✅ | DeepSeek Harness WSL kit (EN/ZH): docs + install.sh + cordis.patch for Windows browser + WSL agent plugins | `other` |
+| #23 | [Yurzi/dsh-web-search-enhanced](https://github.com/Yurzi/dsh-web-search-enhanced) | ⭐ 0 | ✅ | Multi-protocol web_search provider for DeepSeek Harness | `ui-panel` |
+| #24 | [yangzhe1991/dsh-project-session-store](https://github.com/yangzhe1991/dsh-project-session-store) | ⭐ 0 | ✅ | DSH plugin: store each project's session logs inside the project directory (.dsh/sessions/) \| DSH 插件:把每个项目的会话日志保存在项目目录(.dsh/sessions/)下,不再集中到 ~/.dsh/sessions | `other` |
+| #25 | [lovstudio/dsh-account-balance](https://github.com/lovstudio/dsh-account-balance) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #26 | [bruc3van/dsh-doctor](https://github.com/bruc3van/dsh-doctor) | ⭐ 0 | ✅ | DSH Doctor 用来定位 DeepSeek Harness 无法启动、配置损坏和第三方插件不兼容等常见问题。默认运行完全只读；只有显式使用 `--fix`，查看精确的文件或命令计划并确认后，它才会实施可回滚的修复。 | `other` |
+| #27 | [iguanren/Taishan-Vision](https://github.com/iguanren/Taishan-Vision) | ⭐ 0 | ✅ | 让 DeepSeek Harness 纯文本模型也能识图：默认推荐智谱 GLM-4.6V-FLASH和 GLM-4.1V-FLASH 免费视觉模型 | `ui-panel` |
+| #28 | [yanqd0/dsh-mint](https://github.com/yanqd0/dsh-mint) | ⭐ 0 | 🟡 | DSH plugin: mint issue tracking integration — session context injection, event reminders, plan binding, mint_query tool, and a session tab | `tool` |
+| #29 | [xlin20021/dsh-stock-chart](https://github.com/xlin20021/dsh-stock-chart) | ⭐ 0 | ✅ | dsh-stock-chart | `ui-panel` |
+| #30 | [lovstudio/dsh-better-command](https://github.com/lovstudio/dsh-better-command) | ⭐ 0 | ✅ |  | `ui-panel` |
