@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T06:02:22.000Z"
+      "updatedAt": "2026-08-28T18:45:36.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -55,14 +55,25 @@
     },
     {
       "id": "yjh051108/dsh-routing-suite",
-      "name": "yjh051108/dsh-routing-suite",
+      "name": "@dsh-external/dsh-super-injector",
       "displayName": "dsh-routing-suite",
       "summary": "dsh-routing-suite — injector + router-standard kit: install the runtime injector first, then the task-aware reasoning-mode router preset (measured P1-P23).",
       "repository": {
         "url": "https://github.com/yjh051108/dsh-routing-suite"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-24T23:56:40.000Z"
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "injector",
+        "super-injector",
+        "preset",
+        "router-standard",
+        "cordis",
+        "progressive-disclosure"
+      ],
+      "updatedAt": "2026-08-28T19:03:44.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -73,7 +84,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-28T16:38:59.000Z"
+      "updatedAt": "2026-08-28T18:09:58.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -151,7 +162,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T13:42:52.000Z"
+      "updatedAt": "2026-08-28T17:53:04.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -182,7 +193,7 @@
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T16:22:52.000Z"
+      "updatedAt": "2026-08-29T01:25:07.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -193,7 +204,7 @@
         "url": "https://github.com/zilliztech/memsearch"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T01:56:47.000Z"
+      "updatedAt": "2026-08-28T22:09:28.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -217,15 +228,15 @@
       "updatedAt": "2026-08-28T14:06:04.000Z"
     },
     {
-      "id": "AdamPlatin123/awesome-dsh-plugins",
-      "name": "AdamPlatin123/awesome-dsh-plugins",
-      "displayName": "awesome-dsh-plugins",
-      "summary": "DSH 插件雷达与精选榜：多路自动发现 14900+ 候选，容器真实安装路径运行级实测（四档判定），精选 Top 50 · 11 类人工策展，全量索引 PLUGINS-ALL.md，自动更新。",
+      "id": "AdamPlatin123/dsh-plugin-radar",
+      "name": "AdamPlatin123/dsh-plugin-radar",
+      "displayName": "dsh-plugin-radar",
+      "summary": "DSH Plugin Radar — 开源 DSH 插件生态雷达：自动发现 15900+ 候选、k8s 运行级实测 10000+、15 分钟快照管线；插件目录是其自动生成的 artifact",
       "repository": {
-        "url": "https://github.com/AdamPlatin123/awesome-dsh-plugins"
+        "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T16:32:24.000Z"
+      "updatedAt": "2026-08-29T01:16:27.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -267,25 +278,6 @@
       "updatedAt": "2026-08-27T03:37:39.000Z"
     },
     {
-      "id": "GanyuanRan/Aegis",
-      "name": "aegis",
-      "displayName": "Aegis",
-      "summary": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
-      "repository": {
-        "url": "https://github.com/GanyuanRan/Aegis"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "agent-skills",
-        "aegis",
-        "method-pack",
-        "dsh-plugin",
-        "deepseek-harness"
-      ],
-      "updatedAt": "2026-08-28T11:22:46.000Z"
-    },
-    {
       "id": "bowenliang123/dsh-context",
       "name": "dsh-context",
       "displayName": "dsh-context",
@@ -303,7 +295,26 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-08-28T14:34:03.000Z"
+      "updatedAt": "2026-08-28T18:16:56.000Z"
+    },
+    {
+      "id": "GanyuanRan/Aegis",
+      "name": "aegis",
+      "displayName": "Aegis",
+      "summary": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
+      "repository": {
+        "url": "https://github.com/GanyuanRan/Aegis"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "agent-skills",
+        "aegis",
+        "method-pack",
+        "dsh-plugin",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-08-28T11:22:46.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -325,7 +336,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T14:21:14.000Z"
+      "updatedAt": "2026-08-28T22:03:08.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -348,7 +359,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-08-28T15:32:05.000Z"
+      "updatedAt": "2026-08-28T19:18:52.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -410,7 +421,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-28T15:03:52.000Z"
+      "updatedAt": "2026-08-28T23:03:57.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -478,7 +489,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T16:33:05.000Z"
+      "updatedAt": "2026-08-29T01:18:22.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -509,7 +520,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-28T15:16:16.000Z"
+      "updatedAt": "2026-08-29T01:05:29.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -571,7 +582,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-08-27T19:16:35.000Z"
+      "updatedAt": "2026-08-28T16:51:53.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -761,7 +772,7 @@
         "url": "https://github.com/Ikalus1988/MisakaNet"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-28T16:27:02.000Z"
+      "updatedAt": "2026-08-28T23:35:17.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -819,7 +830,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-08-28T13:50:11.000Z"
+      "updatedAt": "2026-08-28T20:35:47.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -861,27 +872,6 @@
       "updatedAt": "2026-08-26T06:25:54.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-08-24T04:12:22.000Z"
-    },
-    {
-      "id": "zhoushoujianwork/easyeda-agent",
-      "name": "easyeda-agent-dsh",
-      "displayName": "easyeda-agent",
-      "summary": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
-      "repository": {
-        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-08-27T16:19:07.000Z"
-    },
-    {
       "id": "liustack/modsearch",
       "name": "@liustack/modsearch",
       "displayName": "modsearch",
@@ -905,6 +895,27 @@
       "updatedAt": "2026-08-27T17:38:26.000Z"
     },
     {
+      "id": "zhoushoujianwork/easyeda-agent",
+      "name": "easyeda-agent-dsh",
+      "displayName": "easyeda-agent",
+      "summary": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
+      "repository": {
+        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-08-27T16:19:07.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-08-24T04:12:22.000Z"
+    },
+    {
       "id": "vlln/whale-girl",
       "name": "whale-girl",
       "displayName": "whale-girl",
@@ -924,7 +935,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T10:02:55.000Z"
+      "updatedAt": "2026-08-28T23:43:06.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1003,34 +1014,6 @@
       "updatedAt": "2026-08-28T06:20:10.000Z"
     },
     {
-      "id": "mrpulor-gh/nuphus-mcp",
-      "name": "mrpulor-gh/nuphus-mcp",
-      "displayName": "nuphus-mcp",
-      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
-      "repository": {
-        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-21T18:33:01.000Z"
-    },
-    {
-      "id": "QCYTSN/dsh-dafeiyu",
-      "name": "dsh-dafeiyu",
-      "displayName": "dsh-dafeiyu",
-      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
-      "repository": {
-        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "desktop-pet",
-        "agent-companion"
-      ],
-      "updatedAt": "2026-08-27T10:21:43.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1062,6 +1045,34 @@
         "cordis"
       ],
       "updatedAt": "2026-08-28T10:00:57.000Z"
+    },
+    {
+      "id": "mrpulor-gh/nuphus-mcp",
+      "name": "mrpulor-gh/nuphus-mcp",
+      "displayName": "nuphus-mcp",
+      "summary": "Desktop automation MCP server — computer use for any AI agent: control screen, windows, mouse/keyboard, and Chrome via Model Context Protocol (stdio)",
+      "repository": {
+        "url": "https://github.com/mrpulor-gh/nuphus-mcp"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-28T18:35:26.000Z"
+    },
+    {
+      "id": "QCYTSN/dsh-dafeiyu",
+      "name": "dsh-dafeiyu",
+      "displayName": "dsh-dafeiyu",
+      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
+      "repository": {
+        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "desktop-pet",
+        "agent-companion"
+      ],
+      "updatedAt": "2026-08-27T10:21:43.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1147,7 +1158,7 @@
         "tui",
         "cli"
       ],
-      "updatedAt": "2026-08-28T04:42:41.000Z"
+      "updatedAt": "2026-08-28T23:38:42.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
@@ -1206,7 +1217,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-08-28T14:02:27.000Z"
+      "updatedAt": "2026-08-29T00:27:05.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1217,7 +1228,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-28T14:39:32.000Z"
+      "updatedAt": "2026-08-29T00:37:49.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1247,7 +1258,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-28T16:02:36.000Z"
+      "updatedAt": "2026-08-28T19:19:06.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1269,6 +1280,17 @@
       "updatedAt": "2026-08-24T13:59:05.000Z"
     },
     {
+      "id": "shengsheng90/DSH-taskboard",
+      "name": "@shengsheng/dsh-taskboard",
+      "displayName": "DSH-taskboard",
+      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "repository": {
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-22T07:59:16.000Z"
+    },
+    {
       "id": "dream-num/dsh-univer-office",
       "name": "dsh-univer-office",
       "displayName": "dsh-univer-office",
@@ -1287,17 +1309,6 @@
         "worktree"
       ],
       "updatedAt": "2026-08-27T03:28:54.000Z"
-    },
-    {
-      "id": "shengsheng90/DSH-taskboard",
-      "name": "@shengsheng/dsh-taskboard",
-      "displayName": "DSH-taskboard",
-      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "repository": {
-        "url": "https://github.com/shengsheng90/DSH-taskboard"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T07:59:16.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1395,53 +1406,6 @@
       "updatedAt": "2026-08-28T15:29:00.000Z"
     },
     {
-      "id": "cocofhu/anime-find",
-      "name": "@cocofhu/anime-find",
-      "displayName": "anime-find",
-      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
-      "repository": {
-        "url": "https://github.com/cocofhu/anime-find"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "anime",
-        "mikan",
-        "bangumi"
-      ],
-      "updatedAt": "2026-08-27T11:54:39.000Z"
-    },
-    {
-      "id": "cocode-agency/cocode",
-      "name": "cocode-agency/cocode",
-      "displayName": "cocode",
-      "summary": "Best ready-to-run DeepSeek Harness distribution: DSH desktop GUI, DSH terminal TUI, and harness integration.",
-      "repository": {
-        "url": "https://github.com/cocode-agency/cocode"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-27T18:41:22.000Z"
-    },
-    {
-      "id": "oil-oil/dsh-oil-creator",
-      "name": "dsh-oil-creator",
-      "displayName": "dsh-oil-creator",
-      "summary": "AI-assisted local creator workbench for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/oil-oil/dsh-oil-creator"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "creator",
-        "content-workflow",
-        "video"
-      ],
-      "updatedAt": "2026-08-20T00:40:08.000Z"
-    },
-    {
       "id": "GraySilver/dsh-evolve-modes",
       "name": "@graysilver/dsh-evolve-modes",
       "displayName": "dsh-evolve-modes",
@@ -1461,6 +1425,53 @@
         "acceptance-review"
       ],
       "updatedAt": "2026-08-26T13:53:10.000Z"
+    },
+    {
+      "id": "cocofhu/anime-find",
+      "name": "@cocofhu/anime-find",
+      "displayName": "anime-find",
+      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+      "repository": {
+        "url": "https://github.com/cocofhu/anime-find"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "anime",
+        "mikan",
+        "bangumi"
+      ],
+      "updatedAt": "2026-08-27T11:54:39.000Z"
+    },
+    {
+      "id": "oil-oil/dsh-oil-creator",
+      "name": "dsh-oil-creator",
+      "displayName": "dsh-oil-creator",
+      "summary": "AI-assisted local creator workbench for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/oil-oil/dsh-oil-creator"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "creator",
+        "content-workflow",
+        "video"
+      ],
+      "updatedAt": "2026-08-20T00:40:08.000Z"
+    },
+    {
+      "id": "cocode-agency/cocode",
+      "name": "cocode-agency/cocode",
+      "displayName": "cocode",
+      "summary": "Best ready-to-run DeepSeek Harness distribution: DSH desktop GUI, DSH terminal TUI, and harness integration.",
+      "repository": {
+        "url": "https://github.com/cocode-agency/cocode"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-27T18:41:22.000Z"
     },
     {
       "id": "Totoro-qaq/dsh-plugin-bridge",
@@ -1493,6 +1504,30 @@
       "updatedAt": "2026-08-28T11:00:58.000Z"
     },
     {
+      "id": "toolclub/dsh-agent-team-gui",
+      "name": "dsh-agent-team-gui",
+      "displayName": "dsh-agent-team-gui",
+      "summary": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+      "repository": {
+        "url": "https://github.com/toolclub/dsh-agent-team-gui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "agent",
+        "multi-agent",
+        "multi-model",
+        "orchestration",
+        "token-usage",
+        "agent-team"
+      ],
+      "updatedAt": "2026-08-24T06:30:56.000Z"
+    },
+    {
       "id": "zhaoolee/notes",
       "name": "notes",
       "displayName": "notes",
@@ -1517,31 +1552,7 @@
         "plugin",
         "design"
       ],
-      "updatedAt": "2026-08-26T15:33:14.000Z"
-    },
-    {
-      "id": "toolclub/dsh-agent-team-gui",
-      "name": "dsh-agent-team-gui",
-      "displayName": "dsh-agent-team-gui",
-      "summary": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
-      "repository": {
-        "url": "https://github.com/toolclub/dsh-agent-team-gui"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "agent",
-        "multi-agent",
-        "multi-model",
-        "orchestration",
-        "token-usage",
-        "agent-team"
-      ],
-      "updatedAt": "2026-08-24T06:30:56.000Z"
+      "updatedAt": "2026-08-29T01:18:11.000Z"
     }
   ],
   "page": {
