@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [tangwugang/dsh-multi-db-plugin](https://github.com/tangwugang/dsh-multi-db-plugin) | ⭐ 0 | ✅ |  | `other` |
-| #2 | [warment/dsh-locale-ru](https://github.com/warment/dsh-locale-ru) | ⭐ 0 | ✅ | Русский язык для DeepSeek Harness web UI — one-command install, 1061 строка, 100% покрытие | `ui-panel` |
-| #3 | [tianyuegithub/dsh-pactflow](https://github.com/tianyuegithub/dsh-pactflow) | ⭐ 0 | ✅ | DSH PactFlow（零脉模式）外部 Profile Bundle | `ui-panel` |
-| #4 | [dengyier/openworkproof-dsh-plugin](https://github.com/dengyier/openworkproof-dsh-plugin) | ⭐ 0 | ✅ | Community DeepSeek Harness plugin for verifiable AI agent authorization, execution evidence, and offline delivery verification | `tool` |
-| #5 | [wjf1/dsh-commandcode](https://github.com/wjf1/dsh-commandcode) | ⭐ 0 | ✅ | DSH-Desktop LLM provider plugin for Command Code with model catalog sync, request retry, multi-credential support, and a settings UI. | `ui-panel` |
-| #6 | [chenyangcun/dsh-fixed-new-session-model](https://github.com/chenyangcun/dsh-fixed-new-session-model) | ⭐ 0 | ✅ | 为 DSH 固定新会话的默认 Agent 预设与模型，支持全局默认设置和工作区独立配置。 | `ui-panel` |
-| #7 | [IKEASven69/dsh-opencli](https://github.com/IKEASven69/dsh-opencli) | ⭐ 0 | ✅ | 让 DeepSeek Harness (dsh) 会办事:登录态真实浏览器 + 170+ 站点适配器 + write 审批门 | `ui-panel` |
-| #8 | [joshryandavis/dsh-goal-restart](https://github.com/joshryandavis/dsh-goal-restart) | ⭐ 0 | ✅ | DSH plugin to automatically restart goals on harness restart | `other` |
-| #9 | [joshryandavis/dsh-catalog-refresh](https://github.com/joshryandavis/dsh-catalog-refresh) | ⭐ 0 | ✅ | DSH plugin to automatically rebuild model catalogues for OpenRouter, OpenCode, Fireworks, etc | `other` |
-| #10 | [tianhanly/dsh-official-port-nav](https://github.com/tianhanly/dsh-official-port-nav) | ⭐ 0 | ✅ | Perfectly replicate DeepSeek's official right-side chat navigation in Harness | `ui-panel` |
-| #11 | [johndfowler/dsh-photos](https://github.com/johndfowler/dsh-photos) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #12 | [johndfowler/dsh-serena-lens](https://github.com/johndfowler/dsh-serena-lens) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #13 | [johndfowler/dsh-voice](https://github.com/johndfowler/dsh-voice) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #14 | [jwilson411/dsh-arxiv](https://github.com/jwilson411/dsh-arxiv) | ⭐ 0 | ✅ | DeepSeek Harness plugin: tiny read-only arXiv search + abstract fetch (Atom API, no PDF ingest) | `tool` |
-| #15 | [dingyi580/dsh-plugin-gemini-theme](https://github.com/dingyi580/dsh-plugin-gemini-theme) | ⭐ 0 | ✅ | A Gemini-styled skin for the DeepSeek Harness web client | `skin` |
-| #16 | [HiSeax/dsh-agent-outputs-reader](https://github.com/HiSeax/dsh-agent-outputs-reader) | ⭐ 0 | ✅ | Overlay reader for agent output files: Markdown/GFM rendering, in-panel PDF, DOCX/XLSX/PPTX text preview, reply-end file chips. Pure JS, zero deps. | `ui-panel` |
-| #17 | [CSI-entitymorton/stavros-dsh-redteamer](https://github.com/CSI-entitymorton/stavros-dsh-redteamer) | ⭐ 1 | ✅ | Authorized-only AI red-team / pentest plugin for the DeepSeek Harness (DSH). Fail-closed scope guard: Stavros persona, 24 specialist subagents, 78 zero-dependency tools. | `tool` |
-| #18 | [bosinHU/dsh-skill-editor](https://github.com/bosinHU/dsh-skill-editor) | ⭐ 0 | ✅ | Edit skills directly in DSH web settings | `skill` |
-| #19 | [difimim/dsh-voice-input](https://github.com/difimim/dsh-voice-input) | ⭐ 0 | 🟡 | 语音输入插件 for Deepseek Harness | `other` |
-| #20 | [jo32/dsh-strudel-studio](https://github.com/jo32/dsh-strudel-studio) | ⭐ 0 | ✅ | A professional song-level Strudel visual sequencer with structured AI arrangement for DeepDeck. | `ui-panel` |
-| #21 | [Oscar-Williams/dsh-deepcanary](https://github.com/Oscar-Williams/dsh-deepcanary) | ⭐ 0 | ✅ | Local attention supervision for DeepSeek Harness: evidence-first signals, quiet notifications, and an actionable inbox. | `tool` |
-| #22 | [Ycet/dsh-awesome-hud](https://github.com/Ycet/dsh-awesome-hud) | ⭐ 1 | ✅ | dsh侧边HUD面板，包含多个信息展示模块（可自定义是否展示），集成压缩上下文、查看git graph等功能。DSH side HUD panel, containing multiple information display modules (customizable whether to display), integrating features such as compressed context, viewing git graph, etc. | `ui-panel` |
-| #23 | [Xylocarpro/dsh-plugin-recycle-bin](https://github.com/Xylocarpro/dsh-plugin-recycle-bin) | ⭐ 0 | ✅ | 强制 DSH 删除走回收站、禁用 del/rm/Remove-Item，回收站或硬盘满时停手询问用户。 | `other` |
-| #24 | [NOirBRight/dsh-plugins](https://github.com/NOirBRight/dsh-plugins) | ⭐ 0 | ✅ | Independent catalog of DSH plugins and mobile companion published by NOirBRight | `other` |
-| #25 | [blake-r/dsh-plugins](https://github.com/blake-r/dsh-plugins) | ⭐ 0 | ✅ |  | `other` |
-| #26 | [PaidaxingTuT/dsh-code-runner](https://github.com/PaidaxingTuT/dsh-code-runner) | ⭐ 0 | ✅ | 在 DSH-better-sidebar 中一键运行侧边栏代码文件，让代码可以在dsh终端中运行 | `ui-panel` |
-| #27 | [LWLAymh/dsh-tool-emoji](https://github.com/LWLAymh/dsh-tool-emoji) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #28 | [KarthusLorin/dsh-subagent-grok](https://github.com/KarthusLorin/dsh-subagent-grok) | ⭐ 0 | ✅ | One-shot Grok CLI subagent provider for DeepSeek Harness | `other` |
-| #29 | [dusbin/dsh-multi-tenant](https://github.com/dusbin/dsh-multi-tenant) | ⭐ 0 | ✅ | dsh 支持多租户插件 | `ui-panel` |
-| #30 | [FraYoshi/dsh-ui-models-invert-selection](https://github.com/FraYoshi/dsh-ui-models-invert-selection) | ⭐ 2 | ✅ | Invert selection in Deepseek Harness for when we are selecting models  | `ui-panel` |
+| #1 | [difimim/dsh-voice-input-npm](https://github.com/difimim/dsh-voice-input-npm) | ⭐ 0 | ✅ | 语音输入插件 for Deepseek Harness | `ui-panel` |
+| #2 | [iimaguest/dsh-contradictions-indicator](https://github.com/iimaguest/dsh-contradictions-indicator) | ⭐ 0 | ✅ | DSH plugin: 0-100 conversation coherence badge with parallel contradiction analysis | `ui-panel` |
+| #3 | [Olympianz/dsh-deploy-master](https://github.com/Olympianz/dsh-deploy-master) | ⭐ 0 | ✅ | A DSH deploy-assistant plugin: GitHub publish + Linear sync + npm publish + community announcement. | `tool` |
+| #4 | [HuanLinOTO/dsh-plugin-better-glob](https://github.com/HuanLinOTO/dsh-plugin-better-glob) | ⭐ 0 | ✅ | 以 per-agent 阴影顶替内置 glob：自动排除无底洞目录（node_modules 等），传 include 白名单才能搜入 \| Shadows the built-in glob per agent: auto-excludes bottomless directories (node_modules etc.), pass an include whitelist to search inside them | `other` |
+| #5 | [chenyangcun/dsh-command-palette](https://github.com/chenyangcun/dsh-command-palette) | ⭐ 0 | ✅ | A keyboard-first command palette for standard DeepSeek Harness | `ui-panel` |
+| #6 | [dusbin/dsh-attention](https://github.com/dusbin/dsh-attention) | ⭐ 0 | ✅ | 任务完成后进行提醒，发完任务就可以去喝杯咖啡了，完成了会叫你的 | `ui-panel` |
+| #7 | [QWE13-ART/dsh-skill-folder](https://github.com/QWE13-ART/dsh-skill-folder) | ⭐ 0 | ✅ | Fold the DSH skill catalog prompt surface: static KV-cache-stable catalog + BM25/bge-m3 hybrid skill_search + autoRoute hints. v0.3.0. npm: dsh-skill-folder | `skill` |
+| #8 | [QWE13-ART/dsh-tool-folder](https://github.com/QWE13-ART/dsh-tool-folder) | ⭐ 0 | ✅ | Fold the DSH tool surface per request + ChainGuard firewall (high-risk block + exfil-chain detection + anti-obfuscation) + BM25/bge-m3 hybrid tools_search. Shrinks schema tokens 80-90% while keeping selection accuracy. v0.2.0 adds a semantic retrieval leg (local Ollama bge-m3, RRF hybrid) and ChainGuard obfuscation detection. npm: dsh-tool-folder | `tool` |
+| #9 | [winghv/dsh-acp-activity](https://github.com/winghv/dsh-acp-activity) | ⭐ 0 | ✅ | Community ACP automation server for DeepSeek Harness with committed tool-activity frames (tool_call/tool_call_update) — dsh-plugin | `tool` |
+| #10 | [Lanzgale/dsh-listener](https://github.com/Lanzgale/dsh-listener) | ⭐ 0 | ✅ | 安全版本地语音输入插件 for DeepSeek Harness:同源宿主代理 + 127.0.0.1 + token,SenseVoice-Small INT8 ONNX 本地转写,音频不出网。 | `ui-panel` |
+| #11 | [luomeii/dsh-review-squad](https://github.com/luomeii/dsh-review-squad) | ⭐ 0 | ✅ | DeepSeek Harness 并行多角色代码评审插件：/review 派出安全/正确性/测试/风格四名只读评审员子代理（可各自指定模型与思考强度），汇总为结构化报告。 | `ui-panel` |
+| #12 | [zhubaohi/dsh-gpu-pulse](https://github.com/zhubaohi/dsh-gpu-pulse) | ⭐ 0 | ✅ | Floating GPU monitor (nvidia-smi) for the DSH Web UI — live per-GPU utilization, VRAM, temperature, power and fan, in the corner of the page. | `ui-panel` |
+| #13 | [phantomSuying/dsh-module-driven-develop](https://github.com/phantomSuying/dsh-module-driven-develop) | ⭐ 1 | ✅ | DSH plugin for module-driven development: decompose requirements into a module tree, generate each module with an independent agent, and fully regenerate from design on any change. | `other` |
+| #14 | [bjzkhy/dsh-token-ledger-pro](https://github.com/bjzkhy/dsh-token-ledger-pro) | ⭐ 0 | ✅ | DSH cost panel: meters every request from session events, prices it against a built-in catalog of 136 models across 16 providers, and shows model, balance, session/today/month spend and a monthly budget bar next to the composer. | `ui-panel` |
+| #15 | [meyaomiao/dsh-files-native](https://github.com/meyaomiao/dsh-files-native) | ⭐ 0 | ✅ | DSH 插件：接近原生质感的附件上传（拖入/粘贴/回形针，图片与文件混排） | `ui-panel` |
+| #16 | [nicecx/dsh-reset-handoff](https://github.com/nicecx/dsh-reset-handoff) | ⭐ 0 | ✅ | DSH never restarts itself: host plugin that hands reset requests to an external ops agent (e.g. Hermes) via a versioned JSON protocol — preflight → gate → restart → health-check → recover → deliver back | `other` |
+| #17 | [Zhanxueyou/dsh-plugin-manager](https://github.com/Zhanxueyou/dsh-plugin-manager) | ⭐ 1 | ✅ | DSH Web 客户端插件管理器侧边栏面板：全量插件清单（描述/状态/来源/版本/分类）、启停热重载、删除本地自定义插件，并可浏览、搜索、一键安装 GitHub topic:dsh-plugin 远程插件。 | `ui-panel` |
+| #18 | [P-CAmilE/dsh-plugin-token-heatmap](https://github.com/P-CAmilE/dsh-plugin-token-heatmap) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #19 | [Zhanxueyou/deepseek-balance](https://github.com/Zhanxueyou/deepseek-balance) | ⭐ 1 | ✅ | 零依赖 Python CLI 查询 DeepSeek API 余额，低余额自动提醒并发送 macOS 通知；附带 DSH 侧边栏插件，实时展示余额、今日/本月用量与缓存命中率。 | `ui-panel` |
+| #20 | [Lubaoshuai/dsh-notify](https://github.com/Lubaoshuai/dsh-notify) | ⭐ 0 | ✅ | Push notifications for DeepSeek Harness: agent-callable notify_send tool + external delivery for schedule reminders (Telegram/Slack/Discord/飞书/钉钉/Bark/ntfy/webhook). DSH plugin. | `tool` |
+| #21 | [my-dsh/dsh-web-search-tavily](https://github.com/my-dsh/dsh-web-search-tavily) | ⭐ 1 | ✅ | Tavily web-search provider plugin for DeepSeek Harness (dsh) — registers into ctx.web so the model-facing web_search tool uses Tavily | `tool` |
+| #22 | [wf-ping/dsh-message-injector](https://github.com/wf-ping/dsh-message-injector) | ⭐ 0 | ✅ | dsh（DeepSeek Harness）插件：预设消息注入内容组合，每条消息自动注入 —— auto-inject preset content into every message | `ui-panel` |
+| #23 | [AlgoVaultLabs/dsh-algovault](https://github.com/AlgoVaultLabs/dsh-algovault) | ⭐ 0 | ✅ | Preconfigured DeepSeek Harness bundle for the AlgoVault MCP server — composite trade calls, market regime and cross-venue funding arbitrage as mcp__algovault__* tools. | `tool` |
+| #24 | [guazixiong/dsh-coding-mode-preset](https://github.com/guazixiong/dsh-coding-mode-preset) | ⭐ 0 | ✅ | 为本地 DeepSeek Harness（`@deepseek-ai/dsh`）追加一个**编码模式** Agent Preset：门禁式工程交付流水线，包含三条独立流程——**需求开发**、**Bug 修复**、**功能迭代**。每个阶段的产物由全新上下文的"空白子代理"独立专家评审，通过后须经用户确认才进入下一阶段；最终以用户验收作为任务完结条件。 | `other` |
+| #25 | [jwilson411/dsh-kokoro](https://github.com/jwilson411/dsh-kokoro) | ⭐ 0 | ✅ | DeepSeek Harness plugin: HTTP TTS client for jwilson411/kokoro-tts-api. No weights. | `tool` |
+| #26 | [zhangzhenwen1/dsh-task-effort](https://github.com/zhangzhenwen1/dsh-task-effort) | ⭐ 0 | ✅ | Auto-adjust model reasoning effort per task with DeepSeek peak-pricing-period capping: off/low/high/max classification, [effort=...] markers, error escalation, countdown notices | `other` |
+| #27 | [luyu020816-droid/skill-dag](https://github.com/luyu020816-droid/skill-dag) | ⭐ 1 | ✅ |  | `skill` |
+| #28 | [warment/deepseek-harness-locale-ru](https://github.com/warment/deepseek-harness-locale-ru) | ⭐ 1 | ✅ | Русский язык для DeepSeek Harness web UI — one-command install, 1061 строка, 100% покрытие | `ui-panel` |
+| #29 | [xiaozuishuai-eng/prompt_optimize_dsh](https://github.com/xiaozuishuai-eng/prompt_optimize_dsh) | ⭐ 1 | ✅ | DeepSeek Harness (DSH) 提示词优化器插件：一句口语化需求 → 结构化高质量提示词，结果自动填入会话输入框。复用 DSH 内置模型路由，零 API Key 管理。 | `ui-panel` |
+| #30 | [tianyuegithub/dsh-pactflow](https://github.com/tianyuegithub/dsh-pactflow) | ⭐ 0 | ✅ | DSH PactFlow（零脉模式）外部 Profile Bundle | `ui-panel` |
