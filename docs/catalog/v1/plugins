@@ -98,7 +98,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-08-30T16:53:12.000Z"
+      "updatedAt": "2026-08-30T19:56:23.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -209,7 +209,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-08-30T19:04:15.000Z"
+      "updatedAt": "2026-08-30T21:14:43.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -252,7 +252,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-30T16:46:17.000Z"
+      "updatedAt": "2026-08-30T21:55:48.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -341,7 +341,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-30T06:39:24.000Z"
+      "updatedAt": "2026-08-30T21:34:15.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -406,7 +406,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-08-30T17:38:40.000Z"
+      "updatedAt": "2026-08-30T19:33:24.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -437,7 +437,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-30T16:04:00.000Z"
+      "updatedAt": "2026-08-30T22:03:36.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -505,7 +505,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-30T19:06:54.000Z"
+      "updatedAt": "2026-08-30T22:28:27.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -573,7 +573,7 @@
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
-      "summary": "Local-first, self-hosted AI agent runtime with MCP tools, sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
+      "summary": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
       "repository": {
         "url": "https://github.com/sandbaseai/sandbase-harness"
       },
@@ -614,7 +614,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-08-30T19:06:17.000Z"
+      "updatedAt": "2026-08-30T22:25:19.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -707,7 +707,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-08-30T18:38:02.000Z"
+      "updatedAt": "2026-08-30T20:10:36.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -1010,7 +1010,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-30T18:30:36.000Z"
+      "updatedAt": "2026-08-30T19:36:54.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1182,6 +1182,17 @@
       "updatedAt": "2026-08-27T21:36:31.000Z"
     },
     {
+      "id": "shengsheng90/DSH-taskboard",
+      "name": "@shengsheng/dsh-taskboard",
+      "displayName": "DSH-taskboard",
+      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "repository": {
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-22T07:59:16.000Z"
+    },
+    {
       "id": "Han-1413141/dsh-cost-meter",
       "name": "dsh-cost-meter",
       "displayName": "dsh-cost-meter",
@@ -1207,17 +1218,6 @@
         "language"
       ],
       "updatedAt": "2026-08-29T04:50:27.000Z"
-    },
-    {
-      "id": "shengsheng90/DSH-taskboard",
-      "name": "@shengsheng/dsh-taskboard",
-      "displayName": "DSH-taskboard",
-      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "repository": {
-        "url": "https://github.com/shengsheng90/DSH-taskboard"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-22T07:59:16.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1249,6 +1249,17 @@
       "updatedAt": "2026-08-30T13:57:01.000Z"
     },
     {
+      "id": "imsai-sh/awesome-deepseek-harness-plugins",
+      "name": "awesome-deepseek-harness-plugins",
+      "displayName": "awesome-deepseek-harness-plugins",
+      "summary": "DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
+      "repository": {
+        "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-30T22:21:08.000Z"
+    },
+    {
       "id": "Dominic789654/awesome-deepseek-harness",
       "name": "Dominic789654/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -1258,17 +1269,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-08-30T13:04:49.000Z"
-    },
-    {
-      "id": "imsai-sh/awesome-deepseek-harness-plugins",
-      "name": "awesome-deepseek-harness-plugins",
-      "displayName": "awesome-deepseek-harness-plugins",
-      "summary": "DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
-      "repository": {
-        "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-30T12:51:44.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
