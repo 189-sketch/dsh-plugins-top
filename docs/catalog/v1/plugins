@@ -79,12 +79,12 @@
       "id": "zhu1090093659/dsh-web",
       "name": "dsh-web",
       "displayName": "dsh-web",
-      "summary": "DeepSeek Harness（DSH）Web 插件聚合生态包 · 一切皆插件，创意工坊分发",
+      "summary": "DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
       "repository": {
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-30T16:12:40.000Z"
+      "updatedAt": "2026-08-31T03:22:34.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -98,7 +98,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-08-30T19:56:23.000Z"
+      "updatedAt": "2026-08-31T02:54:35.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -109,7 +109,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-30T11:44:58.000Z"
+      "updatedAt": "2026-08-31T01:26:23.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -209,7 +209,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-08-30T21:14:43.000Z"
+      "updatedAt": "2026-08-31T03:21:11.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -241,7 +241,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-29T08:16:40.000Z"
+      "updatedAt": "2026-08-31T03:24:22.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -252,7 +252,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-30T21:55:48.000Z"
+      "updatedAt": "2026-08-31T02:15:33.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -341,7 +341,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-30T21:34:15.000Z"
+      "updatedAt": "2026-08-31T01:52:33.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -352,7 +352,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-30T08:18:19.000Z"
+      "updatedAt": "2026-08-31T00:06:42.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -406,7 +406,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-08-30T19:33:24.000Z"
+      "updatedAt": "2026-08-31T02:02:46.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -437,7 +437,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-08-30T22:03:36.000Z"
+      "updatedAt": "2026-08-31T02:03:40.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -505,7 +505,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-30T22:28:27.000Z"
+      "updatedAt": "2026-08-31T00:09:21.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -536,7 +536,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-08-30T15:22:54.000Z"
+      "updatedAt": "2026-08-31T02:16:02.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-2",
@@ -614,7 +614,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-08-30T22:25:19.000Z"
+      "updatedAt": "2026-08-31T03:25:54.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -689,7 +689,7 @@
         "knowledge-graph",
         "sqlite"
       ],
-      "updatedAt": "2026-08-27T04:13:40.000Z"
+      "updatedAt": "2026-08-31T01:13:10.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -785,17 +785,6 @@
       "updatedAt": "2026-08-20T12:12:36.000Z"
     },
     {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
       "id": "Aisland-SJL/dsh-worktable",
       "name": "Aisland-SJL/dsh-worktable",
       "displayName": "dsh-worktable",
@@ -805,6 +794,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-29T13:40:26.000Z"
+    },
+    {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -937,17 +937,6 @@
       "updatedAt": "2026-08-30T18:13:22.000Z"
     },
     {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-27T08:49:20.000Z"
-    },
-    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -1010,7 +999,18 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-30T19:36:54.000Z"
+      "updatedAt": "2026-08-31T03:21:14.000Z"
+    },
+    {
+      "id": "vlln/whale-girl",
+      "name": "whale-girl",
+      "displayName": "whale-girl",
+      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+      "repository": {
+        "url": "https://github.com/vlln/whale-girl"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-27T08:49:20.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1074,6 +1074,17 @@
       "updatedAt": "2026-08-29T10:45:35.000Z"
     },
     {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-29T11:00:38.000Z"
+    },
+    {
       "id": "ZSeven-W/dsh-ios",
       "name": "@zseven-w/dsh-ios",
       "displayName": "dsh-ios",
@@ -1092,17 +1103,6 @@
       "updatedAt": "2026-08-24T15:57:29.000Z"
     },
     {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-29T11:00:38.000Z"
-    },
-    {
       "id": "csyangwen/dsh-memory-evolve",
       "name": "dsh-memory-evolve",
       "displayName": "dsh-memory-evolve",
@@ -1112,6 +1112,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-24T13:42:39.000Z"
+    },
+    {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-26T13:12:24.000Z"
     },
     {
       "id": "op7418/pilot-harness",
@@ -1140,17 +1151,6 @@
         "dsh-plugin"
       ],
       "updatedAt": "2026-08-22T14:39:08.000Z"
-    },
-    {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-26T13:12:24.000Z"
     },
     {
       "id": "huiliyi37/dsh-tianshu-tui",
@@ -1217,7 +1217,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-08-29T04:50:27.000Z"
+      "updatedAt": "2026-08-31T02:35:48.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1257,7 +1257,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-30T22:21:08.000Z"
+      "updatedAt": "2026-08-31T03:14:45.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1268,7 +1268,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-30T13:04:49.000Z"
+      "updatedAt": "2026-08-31T01:04:21.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1288,7 +1288,7 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-08-30T14:35:52.000Z"
+      "updatedAt": "2026-08-31T03:06:35.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1428,23 +1428,6 @@
       "updatedAt": "2026-08-30T15:33:34.000Z"
     },
     {
-      "id": "oil-oil/dsh-oil-creator",
-      "name": "dsh-oil-creator",
-      "displayName": "dsh-oil-creator",
-      "summary": "AI-assisted local creator workbench for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/oil-oil/dsh-oil-creator"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "creator",
-        "content-workflow",
-        "video"
-      ],
-      "updatedAt": "2026-08-20T00:40:08.000Z"
-    },
-    {
       "id": "e2mcc/dsh-popout-sidebar",
       "name": "dsh-popout-sidebar",
       "displayName": "dsh-popout-sidebar",
@@ -1462,6 +1445,23 @@
         "plugin"
       ],
       "updatedAt": "2026-08-20T16:51:38.000Z"
+    },
+    {
+      "id": "oil-oil/dsh-oil-creator",
+      "name": "dsh-oil-creator",
+      "displayName": "dsh-oil-creator",
+      "summary": "AI-assisted local creator workbench for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/oil-oil/dsh-oil-creator"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "creator",
+        "content-workflow",
+        "video"
+      ],
+      "updatedAt": "2026-08-20T00:40:08.000Z"
     },
     {
       "id": "cocofhu/anime-find",
