@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [snow-The/dsh-research-lab](https://github.com/snow-The/dsh-research-lab) | ⭐ 0 | ✅ | Research lab toolkit for DeepSeek Harness: AutoSci wiki, ASI-Bench eval ledger, self-building FTS5 retrieval, arXiv digest/review, writing rewrite | `tool` |
-| #2 | [zouxiaoyang/dsh-commandcode-usage](https://github.com/zouxiaoyang/dsh-commandcode-usage) | ⭐ 0 | ✅ | CommandCode usage & balance panel for DeepSeek Harness / DSH 的 CommandCode 用量与余额面板 | `ui-panel` |
-| #3 | [666emmm/dsh-file-upload](https://github.com/666emmm/dsh-file-upload) | ⭐ 0 | ✅ | dsh-file-upload fork: uploaded-file management (list/info/delete/@path) + zero-copy clipboard path reading for DeepSeek Harness | `ui-panel` |
-| #4 | [Reseezhang/ue-log-reader](https://github.com/Reseezhang/ue-log-reader) | ⭐ 0 | ✅ | DeepSeek Harness 插件：UE 日志速读卡 — 模型调用 uelog 工具扫描 Saved/Logs，流式解析+聚合去重后渲染速读卡片，一键复制缺陷单摘要 | `ui-panel` |
-| #5 | [weibaohui/dsh-continue](https://github.com/weibaohui/dsh-continue) | ⭐ 0 | ✅ | 自动续跑插件 for DeepSeek Harness — 有序规则表：按失败类型路由 继续续跑 / 换模型 / 压缩后继续 / 停止 | `ui-panel` |
-| #6 | [EternalNight996/memory-eternal](https://github.com/EternalNight996/memory-eternal) | ⭐ 1 | ✅ | 记忆核心（Memory Eternal）：自研的 DeepSeek Harness 记忆插件——对话结束自动沉淀知识卡到本地 Markdown Vault（自研去重 / 自研 CJK 检索 / 知识图谱 + 审核中心 / 回收中心），Agent 通过 memory_recall 按需召回历史上下文，零人工干预。 | `ui-panel` |
-| #7 | [lucifergzsz414/dsh-windows-native](https://github.com/lucifergzsz414/dsh-windows-native) | ⭐ 0 | ✅ | Native-Windows (non-WSL) shell/encoding/filesystem gotchas for the DeepSeek Harness system prompt | `other` |
-| #8 | [leechengwei/dsh-session-intelligence](https://github.com/leechengwei/dsh-session-intelligence) | ⭐ 0 | ✅ | DSH 会话情报：固定右侧栏、初衷与最近用户需求摘要、会话活动和只读 Git 状态。 | `ui-panel` |
-| #9 | [BoWuGit/dsh-reasoning](https://github.com/BoWuGit/dsh-reasoning) | ⭐ 0 | ✅ | Codex-style /reasoning command for DeepSeek Harness Web | `ui-panel` |
-| #10 | [grstein/dsh-locale-ptbr](https://github.com/grstein/dsh-locale-ptbr) | ⭐ 0 | ✅ | Pacote de idioma Português (Brasil) para a GUI Web do DeepSeek Harness | `ui-panel` |
-| #11 | [altuman-w/dsh-plugin-plantuml](https://github.com/altuman-w/dsh-plugin-plantuml) | ⭐ 0 | ✅ | deepseek harness plugin view plantuml | `ui-panel` |
-| #12 | [yunxiyang/dsh-web-search-litellm](https://github.com/yunxiyang/dsh-web-search-litellm) | ⭐ 0 | ✅ | Web search provider for the DeepSeek Harness ctx.web seam via the LiteLLM proxy OpenAI Responses API (DeepSeek native server-side web_search) | `other` |
-| #13 | [maiziman/cedardsh-model-probe](https://github.com/maiziman/cedardsh-model-probe) | ⭐ 0 | ✅ | CedarDSH Model Probe — Detects reasoning and image support for custom DeepSeek Harness models. | `other` |
-| #14 | [d3vmeh/dsh-model-pin](https://github.com/d3vmeh/dsh-model-pin) | ⭐ 0 | ✅ |  | `other` |
-| #15 | [nicecx/dsh-auto-approver](https://github.com/nicecx/dsh-auto-approver) | ⭐ 0 | ✅ | Configurable auto-approval for DeepSeek Harness: intercepts approval/request and answers allowed-once/rejected by policy (allow-all/allowlist/off + denyAlways), with a full audit log. | `other` |
-| #16 | [Nagi-ovo/dsh-music-tui](https://github.com/Nagi-ovo/dsh-music-tui) | ⭐ 2 | ✅ | YesPlayMusic controls and now-playing status for dsh-TUI | `other` |
-| #17 | [Yuuz12/dsh-tavily](https://github.com/Yuuz12/dsh-tavily) | ⭐ 0 | ✅ | Tavily-backed web search provider plugin for DeepSeek Harness (DSH) — multi-key balance-aware rotation with failover, manageable from the DSH web settings. | `provider` |
-| #18 | [tianhanly/dsh-verification-meme](https://github.com/tianhanly/dsh-verification-meme) | ⭐ 0 | ✅ | Every time you press a key, a security verification pops up. 每按一个harness的按键都会跳出一个安全验证 | `ui-panel` |
-| #19 | [tianhanly/dsh-genshin-redirect](https://github.com/tianhanly/dsh-genshin-redirect) | ⭐ 0 | ✅ | 完成任务自动跳转到原神 Automatically jump to Genshin Impact after completing the task | `other` |
-| #20 | [jwilson411/dsh-ssrf-guard](https://github.com/jwilson411/dsh-ssrf-guard) | ⭐ 0 | ✅ | DeepSeek Harness plugin: fail-closed URL host/scheme allowlist that runs before a request is opened | `tool` |
-| #21 | [d3vmeh/dsh-logbook](https://github.com/d3vmeh/dsh-logbook) | ⭐ 0 | ✅ |  | `other` |
-| #22 | [minatoAI/dsh-net-proxy-plugin](https://github.com/minatoAI/dsh-net-proxy-plugin) | ⭐ 0 | ✅ | DeepSeek Harness fallback network proxy plugin: detects system proxies, probes overseas connectivity (Google/GitHub), routes dsh outbound HTTP through a working local proxy | `tool` |
-| #23 | [djs326/dsh-titlebar-feed](https://github.com/djs326/dsh-titlebar-feed) | ⭐ 0 | ✅ | DSH Desktop 标题栏信息条插件：修复 Windows 无边框标题栏遮挡，提供可配置信息条（静态文本 / HTTP 接口 / JS 函数 / 系统指标），支持分页、动态切换与快捷键。npm: dsh-titlebar-feed | `ui-panel` |
-| #24 | [wingillis/dsh-plugins](https://github.com/wingillis/dsh-plugins) | ⭐ 0 | ✅ |  | `other` |
-| #25 | [xiaokaizhou/dsh-media-preview](https://github.com/xiaokaizhou/dsh-media-preview) | ⭐ 0 | ✅ | DSH 插件：在聊天记录中自动将本地音视频路径渲染为可播放的预览组件 | `ui-panel` |
-| #26 | [d3vmeh/dsh-turn-doctor](https://github.com/d3vmeh/dsh-turn-doctor) | ⭐ 0 | ✅ |  | `other` |
-| #27 | [shaneconner/dsh-claude-bridge](https://github.com/shaneconner/dsh-claude-bridge) | ⭐ 0 | ✅ | Use a Claude Pro or Max subscription as a DeepSeek Harness model provider, via the Claude Code CLI. | `other` |
-| #28 | [shaneconner/dsh-provider-login](https://github.com/shaneconner/dsh-provider-login) | ⭐ 0 | ✅ | Sign in to DeepSeek Harness model providers with a Claude Pro/Max or ChatGPT Plus/Pro subscription. | `provider` |
-| #29 | [Pappet/dsh-tool-imagegen](https://github.com/Pappet/dsh-tool-imagegen) | ⭐ 0 | ✅ | Text-to-image and image-to-image generation for DeepSeek Harness via OpenRouter's unified Image API, with capability-gated parameters | `ui-panel` |
-| #30 | [StvLi/dsh-phoenix](https://github.com/StvLi/dsh-phoenix) | ⭐ 0 | ✅ | Never-interrupt, resumable lifecycle for DeepSeek Harness (dsh): graceful restart + client auto-reconnect + cross-restart goal continuation. | `other` |
+| #1 | [onclaw-dev/dsh-workflow-designer](https://github.com/onclaw-dev/dsh-workflow-designer) | ⭐ 0 | ✅ | `dsh-workflow-designer` 是面向 DeepSeek Harness 的提示词优先工作流设计插件。它收集当前 Agent 可见的本地 Skill、原生 Tool 与 MCP Tool，提供必要的可视化编排和约束编辑能力，并导出稳定的 YAML 中间表示。后续可由大模型及对应框架把 YAML 生成 Python、`workflow.mjs` 或其他代码工作流。 | `skill` |
+| #2 | [shenhuanageshei/dsh-session-link-pro](https://github.com/shenhuanageshei/dsh-session-link-pro) | ⭐ 0 | ✅ | Session deep links + full session export (markdown/JSON) + approved cross-session messaging with pairing for DeepSeek Harness (dsh). | `ui-panel` |
+| #3 | [Yeelight/dsh-yeelight-smart-home](https://github.com/Yeelight/dsh-yeelight-smart-home) | ⭐ 0 | ✅ |  | `skill` |
+| #4 | [axdlee/dsh-yeelight-smart-home](https://github.com/axdlee/dsh-yeelight-smart-home) | ⭐ 0 | ✅ | DeepSeek Harness plugin: Yeelight smart home control via the local yeelight-home runtime (skill, tools, settings card) | `skill` |
+| #5 | [njuptlzf/dsh-ponytail](https://github.com/njuptlzf/dsh-ponytail) | ⭐ 0 | ✅ | DeepSeek Harness (DSH) 插件：常驻注入 Ponytail 懒高级工程师规范，5 个同伴技能落盘为可调用的 skill。安装：dsh plugin add github:njuptlzf/dsh-ponytail | `skill` |
+| #6 | [QuantumKuba/dsh-graphify-plugin](https://github.com/QuantumKuba/dsh-graphify-plugin) | ⭐ 0 | ✅ | Native Graphify knowledge graph plugin for DeepSeek Harness (DSH) — code intelligence, god nodes, and topological agent tools. | `tool` |
+| #7 | [kiwifruit13/dsh-jit-viewer](https://github.com/kiwifruit13/dsh-jit-viewer) | ⭐ 0 | ✅ |  | `skill` |
+| #8 | [GooDAnDReaDY/dsh-live-canvas](https://github.com/GooDAnDReaDY/dsh-live-canvas) | ⭐ 0 | ✅ | Interactive in-browser canvas for real-time preview of HTML, React components, SVGs, and diagrams with SSE hot-reload in DeepSeek Harness | `ui-panel` |
+| #9 | [MasterBenC/shangshi-dsh](https://github.com/MasterBenC/shangshi-dsh) | ⭐ 0 | ✅ | Shangshi DeepSeek Harness plugin for local Qimen business timing. | `ui-panel` |
+| #10 | [SUFE-Chaoyi/dsh-plugin-csv-report](https://github.com/SUFE-Chaoyi/dsh-plugin-csv-report) | ⭐ 0 | ✅ | 基于 DeepSeek Harness 的可复用 CSV 描述统计与可复现报告插件 | `tool` |
+| #11 | [wangxueqi00/dsh-client-ui-knowledge-cards](https://github.com/wangxueqi00/dsh-client-ui-knowledge-cards) | ⭐ 0 | ✅ | A plugin of deepseek harness（DSH）.Turn any conversation in your [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) Web GUI into clean, textured knowledge cards — concepts, flowcharts, comparisons, summaries and mind maps — generated by the agent, previewed in a tabbed gallery, and downloadable in multiple formats. | `ui-panel` |
+| #12 | [weekitmo/dsh-trace](https://github.com/weekitmo/dsh-trace) | ⭐ 0 | ✅ | A DeepSeek Harness Web plugin for inspecting redacted LLM HTTP request and response traces. | `ui-panel` |
+| #13 | [HuangLM03/dsh-plugin-session-archive](https://github.com/HuangLM03/dsh-plugin-session-archive) | ⭐ 0 | ✅ | Browse and permanently delete archived DeepSeek Harness sessions from the sidebar footer. | `ui-panel` |
+| #14 | [Choco-Zz/dsh-image-amnesia](https://github.com/Choco-Zz/dsh-image-amnesia) | ⭐ 0 | ✅ | Drop historical images before DeepSeek Harness relay requests; keep native vision on the newest image. | `other` |
+| #15 | [ningbonb/dsh-web-desktop](https://github.com/ningbonb/dsh-web-desktop) | ⭐ 0 | ✅ | Electron launcher for DeepSeek Harness Web profiles / DeepSeek Harness Web Profile 的 Electron 桌面启动器 | `other` |
+| #16 | [RaulLazaro/dsh-pwa-plugin](https://github.com/RaulLazaro/dsh-pwa-plugin) | ⭐ 0 | ✅ | PWA plugin for DeepSeek Harness — adds offline support and install-as-app capability with service worker, manifest, and official DeepSeek icons. | `other` |
+| #17 | [hrhgit/dsh-skill-manager](https://github.com/hrhgit/dsh-skill-manager) | ⭐ 0 | ✅ |  | `skill` |
+| #18 | [hrhgit/dsh-agent-manager](https://github.com/hrhgit/dsh-agent-manager) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #19 | [hrhgit/dsh-test](https://github.com/hrhgit/dsh-test) | ⭐ 0 | 🟡 |  | `other` |
+| #20 | [hrhgit/dsh-codegraph](https://github.com/hrhgit/dsh-codegraph) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #21 | [felix-lj-ct/dsh-mcp-workspace-scope](https://github.com/felix-lj-ct/dsh-mcp-workspace-scope) | ⭐ 1 | ✅ | Scopes MCP tool injection per workspace directory in the DeepSeek Harness: a session opened in a project sees only the MCP servers that project needs — removed from the model's tool list and refused at call time. Plus per-session switches in the composer to narrow or widen the session you are in, temporarily. | `ui-panel` |
+| #22 | [rrrrrredy/dsh-execution-fidelity-guard](https://github.com/rrrrrredy/dsh-execution-fidelity-guard) | ⭐ 0 | ✅ | Execution-fidelity guard bundle for DeepSeek Harness | `tool` |
+| #23 | [SUONSUN9527/deepseek-harness-flow-arrange](https://github.com/SUONSUN9527/deepseek-harness-flow-arrange) | ⭐ 2 | 🟡 | Claude-orchestrator x Codex-executor distribution of DeepSeek Harness | `tool` |
+| #24 | [nmsl1234/dsh-privacy-gate](https://github.com/nmsl1234/dsh-privacy-gate) | ⭐ 0 | ✅ | dsh-plugin | `other` |
+| #25 | [JxaMe/dsh-echo-memory](https://github.com/JxaMe/dsh-echo-memory) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #26 | [Crosery/dsh-viewer](https://github.com/Crosery/dsh-viewer) | ⭐ 1 | ✅ | Everything renders: images, video, audio, PDF, Office documents and local web pages inline in the DeepSeek Harness web UI, via a display_file tool. | `ui-panel` |
+| #27 | [BiKing567/dsh-subagent-panel](https://github.com/BiKing567/dsh-subagent-panel) | ⭐ 0 | ✅ | DSH 插件：把每个子代理渲染成主对话里可点击的卡片，点击直接进入子代理会话（与标题栏同一路径）。\| DSH plugin: render every subagent as a clickable inline card that opens the child session — same navigation the header's subagent catalog uses. | `ui-panel` |
+| #28 | [wyb587285-dot/git-ai-tracker](https://github.com/wyb587285-dot/git-ai-tracker) | ⭐ 0 | ✅ | GitHub AI repo tracker: star ratings, growth leaderboard, Markdown reports and web dashboard. | `ui-panel` |
+| #29 | [SuCriss/dsh-voice-control](https://github.com/SuCriss/dsh-voice-control) | ⭐ 0 | ✅ | Voice control for DeepSeek Harness web: speech-to-text into the composer and spoken playback of assistant replies, zero dependencies | `ui-panel` |
+| #30 | [Aliuyanfeng/dsh-soul](https://github.com/Aliuyanfeng/dsh-soul) | ⭐ 2 | ✅ | The DeepSeek Harness Personalization Settings plugin is used to configure the nickname, response style, tone, and custom commands of the Agent. | `ui-panel` |
