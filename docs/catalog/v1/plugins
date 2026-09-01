@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T04:14:19.000Z"
+      "updatedAt": "2026-09-01T14:33:17.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-01T09:03:40.000Z"
+      "updatedAt": "2026-09-01T12:18:40.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-01T04:17:07.000Z"
+      "updatedAt": "2026-09-01T13:27:46.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -84,7 +84,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-01T07:33:43.000Z"
+      "updatedAt": "2026-09-01T13:34:38.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -98,7 +98,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-01T08:45:18.000Z"
+      "updatedAt": "2026-09-01T11:55:19.000Z"
     },
     {
       "id": "huangruiteng/loopx",
@@ -109,7 +109,7 @@
         "url": "https://github.com/huangruiteng/loopx"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-01T09:04:24.000Z"
+      "updatedAt": "2026-09-01T13:48:59.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -154,7 +154,7 @@
         "url": "https://github.com/xiaobright/dsh-anchored-standard"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-28T03:10:01.000Z"
+      "updatedAt": "2026-09-01T14:04:49.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -165,7 +165,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-01T06:43:51.000Z"
+      "updatedAt": "2026-09-01T14:02:27.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -196,7 +196,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-01T04:15:24.000Z"
+      "updatedAt": "2026-09-01T14:31:04.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-01T08:41:56.000Z"
+      "updatedAt": "2026-09-01T14:15:29.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -252,7 +252,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T06:55:42.000Z"
+      "updatedAt": "2026-09-01T11:39:52.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T08:46:37.000Z"
+      "updatedAt": "2026-09-01T11:49:54.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -322,7 +322,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-01T06:13:10.000Z"
+      "updatedAt": "2026-09-01T09:32:30.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -363,7 +363,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T08:20:02.000Z"
+      "updatedAt": "2026-09-01T10:31:18.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -394,7 +394,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-01T09:14:44.000Z"
+      "updatedAt": "2026-09-01T14:31:06.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -417,7 +417,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-01T05:32:40.000Z"
+      "updatedAt": "2026-09-01T14:34:42.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -519,27 +519,6 @@
       "updatedAt": "2026-08-31T10:35:32.000Z"
     },
     {
-      "id": "vshulcz/deja-vu",
-      "name": "vshulcz/deja-vu",
-      "displayName": "deja-vu",
-      "summary": "Search your past AI coding sessions — Claude Code, Codex, Cursor and 17 more. Indexes the session history they already wrote to disk, including months from before you installed it, and recalls it in any of them. No LLM, no embeddings, one local Go binary.",
-      "repository": {
-        "url": "https://github.com/vshulcz/deja-vu"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-01T09:09:38.000Z"
-    },
-    {
-      "id": "Electricitysheep/dsh-handbook",
-      "name": "Electricitysheep/dsh-handbook",
-      "displayName": "dsh-handbook",
-      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "repository": {
-        "url": "https://github.com/Electricitysheep/dsh-handbook"
-      },
-      "updatedAt": "2026-09-01T03:28:36.000Z"
-    },
-    {
       "id": "superdesigndev/treg",
       "name": "treg-dsh",
       "displayName": "treg",
@@ -558,7 +537,28 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-01T09:11:38.000Z"
+      "updatedAt": "2026-09-01T10:03:40.000Z"
+    },
+    {
+      "id": "vshulcz/deja-vu",
+      "name": "vshulcz/deja-vu",
+      "displayName": "deja-vu",
+      "summary": "Search your past AI coding sessions — Claude Code, Codex, Cursor and 17 more. Indexes the session history they already wrote to disk, including months from before you installed it, and recalls it in any of them. No LLM, no embeddings, one local Go binary.",
+      "repository": {
+        "url": "https://github.com/vshulcz/deja-vu"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-01T14:36:08.000Z"
+    },
+    {
+      "id": "Electricitysheep/dsh-handbook",
+      "name": "Electricitysheep/dsh-handbook",
+      "displayName": "dsh-handbook",
+      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "repository": {
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      },
+      "updatedAt": "2026-09-01T03:28:36.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -703,6 +703,17 @@
       "updatedAt": "2026-08-31T01:13:10.000Z"
     },
     {
+      "id": "Lum1104/dsh-browser",
+      "name": "dsh-browser",
+      "displayName": "dsh-browser",
+      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+      "repository": {
+        "url": "https://github.com/Lum1104/dsh-browser"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-01T02:41:46.000Z"
+    },
+    {
       "id": "mnemon-dev/mnemon",
       "name": "@mnemon-dev/dsh-mnemon",
       "displayName": "mnemon",
@@ -719,17 +730,6 @@
         "dsh-plugin"
       ],
       "updatedAt": "2026-08-31T19:49:00.000Z"
-    },
-    {
-      "id": "Lum1104/dsh-browser",
-      "name": "dsh-browser",
-      "displayName": "dsh-browser",
-      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
-      "repository": {
-        "url": "https://github.com/Lum1104/dsh-browser"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-01T02:41:46.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -836,17 +836,6 @@
       "updatedAt": "2026-08-26T06:25:54.000Z"
     },
     {
-      "id": "text2future/flowix",
-      "name": "flowix",
-      "displayName": "flowix",
-      "summary": "Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding",
-      "repository": {
-        "url": "https://github.com/text2future/flowix"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T18:13:36.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-genui",
       "name": "@changfenhuang/dsh-genui",
       "displayName": "dsh-genui",
@@ -863,6 +852,17 @@
         "ui"
       ],
       "updatedAt": "2026-09-01T04:00:07.000Z"
+    },
+    {
+      "id": "text2future/flowix",
+      "name": "flowix",
+      "displayName": "flowix",
+      "summary": "Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding",
+      "repository": {
+        "url": "https://github.com/text2future/flowix"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T18:13:36.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1013,17 +1013,6 @@
       "updatedAt": "2026-09-01T01:58:51.000Z"
     },
     {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T09:40:54.000Z"
-    },
-    {
       "id": "EthanYoQ/Invoice-Downloader",
       "name": "EthanYoQ/Invoice-Downloader",
       "displayName": "Invoice-Downloader",
@@ -1035,15 +1024,15 @@
       "updatedAt": "2026-08-29T11:00:38.000Z"
     },
     {
-      "id": "hust-open-atom-club/oh-dsh",
-      "name": "@oh-dsh/desktop",
-      "displayName": "oh-dsh",
-      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
+      "id": "vlln/whale-girl",
+      "name": "whale-girl",
+      "displayName": "whale-girl",
+      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
       "repository": {
-        "url": "https://github.com/hust-open-atom-club/oh-dsh"
+        "url": "https://github.com/vlln/whale-girl"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-30T09:16:08.000Z"
+      "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1055,6 +1044,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-26T13:12:24.000Z"
+    },
+    {
+      "id": "hust-open-atom-club/oh-dsh",
+      "name": "@oh-dsh/desktop",
+      "displayName": "oh-dsh",
+      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
+      "repository": {
+        "url": "https://github.com/hust-open-atom-club/oh-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-30T09:16:08.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1087,7 +1087,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-09-01T08:40:08.000Z"
+      "updatedAt": "2026-09-01T09:49:35.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1257,25 +1257,6 @@
       "updatedAt": "2026-09-01T06:39:52.000Z"
     },
     {
-      "id": "elysia395/dsh-wallpaper-engine",
-      "name": "dsh-plugin-wallpaper-engine",
-      "displayName": "dsh-wallpaper-engine",
-      "summary": "把本机 Wallpaper Engine 的壁纸变成 DSH 网页界面的背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸提取主纹理作为静态帧；iOS 液态玻璃设置窗口（配色 / 玻璃颜色 / 透明度）、内容分级与类型过滤、自定义壁纸上传、紧凑 CD 架布局、黑胶唱片展示、隐藏 / 恢复、倍速 / 翻转与自动轮播。感谢 Jerry 维护 macOS 版。",
-      "repository": {
-        "url": "https://github.com/elysia395/dsh-wallpaper-engine"
-      },
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "wallpaper",
-        "wallpaper-engine",
-        "theme",
-        "background"
-      ],
-      "updatedAt": "2026-08-31T19:45:55.000Z"
-    },
-    {
       "id": "libukai/awesome-deepseek-harness",
       "name": "libukai/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -1303,7 +1284,26 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-09-01T04:16:09.000Z"
+      "updatedAt": "2026-09-01T13:41:55.000Z"
+    },
+    {
+      "id": "elysia395/dsh-wallpaper-engine",
+      "name": "dsh-plugin-wallpaper-engine",
+      "displayName": "dsh-wallpaper-engine",
+      "summary": "把本机 Wallpaper Engine 的壁纸变成 DSH 网页界面的背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸提取主纹理作为静态帧；iOS 液态玻璃设置窗口（配色 / 玻璃颜色 / 透明度）、内容分级与类型过滤、自定义壁纸上传、紧凑 CD 架布局、黑胶唱片展示、隐藏 / 恢复、倍速 / 翻转与自动轮播。感谢 Jerry 维护 macOS 版。",
+      "repository": {
+        "url": "https://github.com/elysia395/dsh-wallpaper-engine"
+      },
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "wallpaper",
+        "wallpaper-engine",
+        "theme",
+        "background"
+      ],
+      "updatedAt": "2026-08-31T19:45:55.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1314,7 +1314,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-01T09:05:17.000Z"
+      "updatedAt": "2026-09-01T13:01:57.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1325,26 +1325,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T06:12:57.000Z"
-    },
-    {
-      "id": "d-dev0101/open-sea-skin",
-      "name": "open-sea-skin",
-      "displayName": "open-sea-skin",
-      "summary": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
-      "repository": {
-        "url": "https://github.com/d-dev0101/open-sea-skin"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "theme",
-        "skin",
-        "webgpu",
-        "ocean"
-      ],
-      "updatedAt": "2026-08-24T13:59:05.000Z"
+      "updatedAt": "2026-09-01T10:05:42.000Z"
     },
     {
       "id": "GraySilver/dsh-evolve-modes",
@@ -1366,6 +1347,25 @@
         "acceptance-review"
       ],
       "updatedAt": "2026-08-26T13:53:10.000Z"
+    },
+    {
+      "id": "d-dev0101/open-sea-skin",
+      "name": "open-sea-skin",
+      "displayName": "open-sea-skin",
+      "summary": "WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration.",
+      "repository": {
+        "url": "https://github.com/d-dev0101/open-sea-skin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "theme",
+        "skin",
+        "webgpu",
+        "ocean"
+      ],
+      "updatedAt": "2026-09-01T13:37:06.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1407,7 +1407,7 @@
         "url": "https://github.com/leenkcool/Blue-Whale-Harness"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-01T00:09:43.000Z"
+      "updatedAt": "2026-09-01T11:28:25.000Z"
     },
     {
       "id": "omdsh-dev/dsh-data-agent",
