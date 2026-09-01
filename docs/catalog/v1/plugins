@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T14:33:17.000Z"
+      "updatedAt": "2026-09-01T15:27:02.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-01T13:27:46.000Z"
+      "updatedAt": "2026-09-01T15:28:21.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -84,7 +84,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-01T13:34:38.000Z"
+      "updatedAt": "2026-09-01T16:05:17.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -109,7 +109,7 @@
         "url": "https://github.com/huangruiteng/loopx"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-01T13:48:59.000Z"
+      "updatedAt": "2026-09-01T19:18:15.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -196,7 +196,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-01T14:31:04.000Z"
+      "updatedAt": "2026-09-01T15:10:50.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-01T14:15:29.000Z"
+      "updatedAt": "2026-09-01T17:00:26.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T11:49:54.000Z"
+      "updatedAt": "2026-09-01T17:45:41.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -322,7 +322,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-01T09:32:30.000Z"
+      "updatedAt": "2026-09-01T15:48:52.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -341,7 +341,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-08-31T05:47:00.000Z"
+      "updatedAt": "2026-09-01T15:47:58.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -363,7 +363,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T10:31:18.000Z"
+      "updatedAt": "2026-09-01T16:23:02.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -394,7 +394,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-01T14:31:06.000Z"
+      "updatedAt": "2026-09-01T19:03:09.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -417,7 +417,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-01T14:34:42.000Z"
+      "updatedAt": "2026-09-01T16:25:24.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -508,17 +508,6 @@
       "updatedAt": "2026-08-29T08:09:37.000Z"
     },
     {
-      "id": "Minglink/dsh-infinite-gen-3",
-      "name": "dsh-infinite-gen-3",
-      "displayName": "dsh-infinite-gen-3",
-      "summary": "DeepSeek 专用破甲插件「无限三代」dsh-infinite-gen-3 — armor-breaking plugin for DeepSeek，破甲版：稳定化破甲，求 Star 收藏 ⭐",
-      "repository": {
-        "url": "https://github.com/Minglink/dsh-infinite-gen-3"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T10:35:32.000Z"
-    },
-    {
       "id": "superdesigndev/treg",
       "name": "treg-dsh",
       "displayName": "treg",
@@ -540,6 +529,17 @@
       "updatedAt": "2026-09-01T10:03:40.000Z"
     },
     {
+      "id": "Minglink/dsh-infinite-gen-3",
+      "name": "dsh-infinite-gen-3",
+      "displayName": "dsh-infinite-gen-3",
+      "summary": "DeepSeek 专用破甲插件「无限三代」dsh-infinite-gen-3 — armor-breaking plugin for DeepSeek，破甲版：稳定化破甲，求 Star 收藏 ⭐",
+      "repository": {
+        "url": "https://github.com/Minglink/dsh-infinite-gen-3"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T10:35:32.000Z"
+    },
+    {
       "id": "vshulcz/deja-vu",
       "name": "vshulcz/deja-vu",
       "displayName": "deja-vu",
@@ -548,7 +548,7 @@
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T14:36:08.000Z"
+      "updatedAt": "2026-09-01T19:16:55.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -714,6 +714,17 @@
       "updatedAt": "2026-09-01T02:41:46.000Z"
     },
     {
+      "id": "EthanYoQ/AI-Novel-Writer",
+      "name": "ai-novel-writer",
+      "displayName": "AI-Novel-Writer",
+      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
+      },
+      "license": "GPL-3.0",
+      "updatedAt": "2026-08-30T08:45:54.000Z"
+    },
+    {
       "id": "mnemon-dev/mnemon",
       "name": "@mnemon-dev/dsh-mnemon",
       "displayName": "mnemon",
@@ -732,15 +743,15 @@
       "updatedAt": "2026-08-31T19:49:00.000Z"
     },
     {
-      "id": "EthanYoQ/AI-Novel-Writer",
-      "name": "ai-novel-writer",
-      "displayName": "AI-Novel-Writer",
-      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。",
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
       "repository": {
-        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
-      "license": "GPL-3.0",
-      "updatedAt": "2026-08-30T08:45:54.000Z"
+      "license": "MIT",
+      "updatedAt": "2026-09-01T02:59:52.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -752,17 +763,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-01T01:00:35.000Z"
-    },
-    {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-01T02:59:52.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -793,7 +793,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-01T02:02:45.000Z"
+      "updatedAt": "2026-09-01T15:15:58.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -851,7 +851,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-09-01T04:00:07.000Z"
+      "updatedAt": "2026-09-01T14:45:36.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -862,7 +862,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-31T18:13:36.000Z"
+      "updatedAt": "2026-09-01T16:56:31.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -934,7 +934,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-08-27T16:19:07.000Z"
+      "updatedAt": "2026-09-01T15:55:42.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -957,6 +957,17 @@
         "github-copilot"
       ],
       "updatedAt": "2026-09-01T01:27:54.000Z"
+    },
+    {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-29T11:00:38.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1010,29 +1021,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T01:58:51.000Z"
-    },
-    {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-29T11:00:38.000Z"
-    },
-    {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T09:40:54.000Z"
+      "updatedAt": "2026-09-01T18:00:20.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1044,6 +1033,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-26T13:12:24.000Z"
+    },
+    {
+      "id": "vlln/whale-girl",
+      "name": "whale-girl",
+      "displayName": "whale-girl",
+      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+      "repository": {
+        "url": "https://github.com/vlln/whale-girl"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1087,7 +1087,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-09-01T09:49:35.000Z"
+      "updatedAt": "2026-09-01T17:06:38.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1136,6 +1136,17 @@
       "updatedAt": "2026-08-24T13:42:39.000Z"
     },
     {
+      "id": "shengsheng90/DSH-taskboard",
+      "name": "@shengsheng/dsh-taskboard",
+      "displayName": "DSH-taskboard",
+      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "repository": {
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-31T07:26:26.000Z"
+    },
+    {
       "id": "ericshang98/Perfect-Web-Clone",
       "name": "perfect-web-clone",
       "displayName": "Perfect-Web-Clone",
@@ -1164,35 +1175,6 @@
       "updatedAt": "2026-08-20T12:42:53.000Z"
     },
     {
-      "id": "shengsheng90/DSH-taskboard",
-      "name": "@shengsheng/dsh-taskboard",
-      "displayName": "DSH-taskboard",
-      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "repository": {
-        "url": "https://github.com/shengsheng90/DSH-taskboard"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-31T07:26:26.000Z"
-    },
-    {
-      "id": "huiliyi37/dsh-tianshu-tui",
-      "name": "@huiliyi37/dsh-tianshu-tui",
-      "displayName": "dsh-tianshu-tui",
-      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。",
-      "repository": {
-        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "agent-harness",
-        "terminal",
-        "tui",
-        "cli"
-      ],
-      "updatedAt": "2026-08-29T20:00:46.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -1219,15 +1201,22 @@
       "updatedAt": "2026-09-01T05:54:04.000Z"
     },
     {
-      "id": "Nagi-ovo/dsh-visualize",
-      "name": "@dsh-external/dsh-visualize",
-      "displayName": "dsh-visualize",
-      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
+      "id": "huiliyi37/dsh-tianshu-tui",
+      "name": "@huiliyi37/dsh-tianshu-tui",
+      "displayName": "dsh-tianshu-tui",
+      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。",
       "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-visualize"
+        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
       },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-27T21:36:31.000Z"
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "agent-harness",
+        "terminal",
+        "tui",
+        "cli"
+      ],
+      "updatedAt": "2026-08-29T20:00:46.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1254,17 +1243,18 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-09-01T06:39:52.000Z"
+      "updatedAt": "2026-09-01T15:05:50.000Z"
     },
     {
-      "id": "libukai/awesome-deepseek-harness",
-      "name": "libukai/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "id": "Nagi-ovo/dsh-visualize",
+      "name": "@dsh-external/dsh-visualize",
+      "displayName": "dsh-visualize",
+      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
       "repository": {
-        "url": "https://github.com/libukai/awesome-deepseek-harness"
+        "url": "https://github.com/Nagi-ovo/dsh-visualize"
       },
-      "updatedAt": "2026-08-28T02:20:46.000Z"
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-08-27T21:36:31.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1284,7 +1274,17 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-09-01T13:41:55.000Z"
+      "updatedAt": "2026-09-01T18:11:32.000Z"
+    },
+    {
+      "id": "libukai/awesome-deepseek-harness",
+      "name": "libukai/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "repository": {
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      "updatedAt": "2026-08-28T02:20:46.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1303,7 +1303,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-08-31T19:45:55.000Z"
+      "updatedAt": "2026-09-01T14:42:01.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1325,7 +1325,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T10:05:42.000Z"
+      "updatedAt": "2026-09-01T17:03:21.000Z"
     },
     {
       "id": "GraySilver/dsh-evolve-modes",
@@ -1346,7 +1346,7 @@
         "plan-mode",
         "acceptance-review"
       ],
-      "updatedAt": "2026-08-26T13:53:10.000Z"
+      "updatedAt": "2026-09-01T14:48:55.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1410,17 +1410,6 @@
       "updatedAt": "2026-09-01T11:28:25.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-data-agent",
-      "name": "@yejiming/dsh-data-agent",
-      "displayName": "dsh-data-agent",
-      "summary": "Connect DSH to your database for conversational data analysis and actionable business insights.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-data-agent"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T04:03:29.000Z"
-    },
-    {
       "id": "e2mcc/dsh-popout-sidebar",
       "name": "dsh-popout-sidebar",
       "displayName": "dsh-popout-sidebar",
@@ -1438,6 +1427,17 @@
         "plugin"
       ],
       "updatedAt": "2026-08-20T16:51:38.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-data-agent",
+      "name": "@yejiming/dsh-data-agent",
+      "displayName": "dsh-data-agent",
+      "summary": "Connect DSH to your database for conversational data analysis and actionable business insights.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-data-agent"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T04:03:29.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
