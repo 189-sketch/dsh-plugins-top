@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-02T14:09:10.000Z"
+      "updatedAt": "2026-09-02T16:45:52.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -73,7 +73,18 @@
         "cordis",
         "progressive-disclosure"
       ],
-      "updatedAt": "2026-09-02T10:47:19.000Z"
+      "updatedAt": "2026-09-02T17:34:41.000Z"
+    },
+    {
+      "id": "plastic-labs/honcho",
+      "name": "plastic-labs/honcho",
+      "displayName": "honcho",
+      "summary": "Memory library for building stateful agents",
+      "repository": {
+        "url": "https://github.com/plastic-labs/honcho"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-02T18:27:55.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -84,7 +95,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-02T11:17:15.000Z"
+      "updatedAt": "2026-09-02T16:27:40.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -109,7 +120,7 @@
         "url": "https://github.com/huangruiteng/loopx"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-02T13:30:18.000Z"
+      "updatedAt": "2026-09-02T19:06:12.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -176,7 +187,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-02T13:50:42.000Z"
+      "updatedAt": "2026-09-02T15:55:40.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -220,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-02T13:12:12.000Z"
+      "updatedAt": "2026-09-02T16:54:22.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +292,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-02T14:03:41.000Z"
+      "updatedAt": "2026-09-02T16:40:33.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -341,7 +352,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-09-01T15:47:58.000Z"
+      "updatedAt": "2026-09-02T15:15:53.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -394,7 +405,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-01T19:03:09.000Z"
+      "updatedAt": "2026-09-02T19:11:33.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -417,17 +428,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-02T13:57:53.000Z"
-    },
-    {
-      "id": "Anil-matcha/awesome-dsh-plugin",
-      "name": "Anil-matcha/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
-      "repository": {
-        "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
-      },
-      "updatedAt": "2026-08-25T06:52:19.000Z"
+      "updatedAt": "2026-09-02T15:25:37.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -448,7 +449,17 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-02T11:50:49.000Z"
+      "updatedAt": "2026-09-02T15:45:32.000Z"
+    },
+    {
+      "id": "Anil-matcha/awesome-dsh-plugin",
+      "name": "Anil-matcha/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
+      "repository": {
+        "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
+      },
+      "updatedAt": "2026-08-25T06:52:19.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -492,6 +503,17 @@
       "updatedAt": "2026-08-30T12:30:36.000Z"
     },
     {
+      "id": "Minglink/dsh-infinite-gen-3",
+      "name": "dsh-infinite-gen-3",
+      "displayName": "dsh-infinite-gen-3",
+      "summary": "DeepSeek 专用破甲插件「无限三代」dsh-infinite-gen-3 — armor-breaking plugin for DeepSeek，破甲版：稳定化破甲，求 Star 收藏 ⭐",
+      "repository": {
+        "url": "https://github.com/Minglink/dsh-infinite-gen-3"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T10:35:32.000Z"
+    },
+    {
       "id": "Anionex/dsh-vision-toolkit",
       "name": "@anionex/dsh-vision-toolkit",
       "displayName": "dsh-vision-toolkit",
@@ -518,17 +540,6 @@
       "updatedAt": "2026-08-31T16:49:12.000Z"
     },
     {
-      "id": "Minglink/dsh-infinite-gen-3",
-      "name": "dsh-infinite-gen-3",
-      "displayName": "dsh-infinite-gen-3",
-      "summary": "DeepSeek 专用破甲插件「无限三代」dsh-infinite-gen-3 — armor-breaking plugin for DeepSeek，破甲版：稳定化破甲，求 Star 收藏 ⭐",
-      "repository": {
-        "url": "https://github.com/Minglink/dsh-infinite-gen-3"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T10:35:32.000Z"
-    },
-    {
       "id": "toby-bridges/api-relay-audit",
       "name": "dsh-api-relay-audit",
       "displayName": "api-relay-audit",
@@ -541,14 +552,22 @@
     },
     {
       "id": "vshulcz/deja-vu",
-      "name": "vshulcz/deja-vu",
+      "name": "dsh-deja",
       "displayName": "deja-vu",
-      "summary": "Search your past AI coding sessions — Claude Code, Codex, Cursor and 17 more. Indexes the session history they already wrote to disk, including months from before you installed it, and recalls it in any of them. No LLM, no embeddings, one local Go binary.",
+      "summary": "Search the session history of Claude Code, Codex, Cursor and 19 more coding agents — the transcripts they already wrote to disk, months from before you installed it — and recall it in any of them. No LLM, no embeddings, one local Go binary.",
       "repository": {
         "url": "https://github.com/vshulcz/deja-vu"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-02T14:11:01.000Z"
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "memory",
+        "recall",
+        "session-history"
+      ],
+      "updatedAt": "2026-09-02T19:12:23.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -862,7 +881,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-01T16:56:31.000Z"
+      "updatedAt": "2026-09-02T17:29:28.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -883,16 +902,6 @@
       "updatedAt": "2026-08-24T18:20:09.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-08-24T04:12:22.000Z"
-    },
-    {
       "id": "EthanYoQ/Invoice-Downloader",
       "name": "EthanYoQ/Invoice-Downloader",
       "displayName": "Invoice-Downloader",
@@ -902,6 +911,16 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-08-29T11:00:38.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-08-24T04:12:22.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -948,17 +967,6 @@
       "updatedAt": "2026-08-27T17:38:26.000Z"
     },
     {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-26T13:12:24.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
@@ -999,7 +1007,18 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-08-31T17:36:45.000Z"
+      "updatedAt": "2026-09-02T17:08:07.000Z"
+    },
+    {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-26T13:12:24.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1032,7 +1051,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-02T05:07:26.000Z"
+      "updatedAt": "2026-09-02T18:05:04.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -1087,7 +1106,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-09-02T10:04:25.000Z"
+      "updatedAt": "2026-09-02T17:09:07.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1118,35 +1137,6 @@
       "updatedAt": "2026-08-31T07:26:26.000Z"
     },
     {
-      "id": "ZSeven-W/dsh-ios",
-      "name": "@zseven-w/dsh-ios",
-      "displayName": "dsh-ios",
-      "summary": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-ios"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "simulator",
-        "ios-simulator",
-        "plugin",
-        "ios"
-      ],
-      "updatedAt": "2026-08-24T15:57:29.000Z"
-    },
-    {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-24T13:42:39.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -1170,7 +1160,36 @@
         "prompt-injection",
         "agent"
       ],
-      "updatedAt": "2026-09-02T10:28:02.000Z"
+      "updatedAt": "2026-09-02T15:39:20.000Z"
+    },
+    {
+      "id": "ZSeven-W/dsh-ios",
+      "name": "@zseven-w/dsh-ios",
+      "displayName": "dsh-ios",
+      "summary": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "repository": {
+        "url": "https://github.com/ZSeven-W/dsh-ios"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "simulator",
+        "ios-simulator",
+        "plugin",
+        "ios"
+      ],
+      "updatedAt": "2026-09-02T17:50:06.000Z"
+    },
+    {
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "repository": {
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-24T13:42:39.000Z"
     },
     {
       "id": "ericshang98/Perfect-Web-Clone",
@@ -1325,7 +1344,26 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-02T12:20:51.000Z"
+      "updatedAt": "2026-09-02T16:46:11.000Z"
+    },
+    {
+      "id": "e2mcc/dsh-popout-sidebar",
+      "name": "dsh-popout-sidebar",
+      "displayName": "dsh-popout-sidebar",
+      "summary": "A sidebar can pop out a separate browser tab (drag it to another monitor)",
+      "repository": {
+        "url": "https://github.com/e2mcc/dsh-popout-sidebar"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "cordis",
+        "sidebar",
+        "artifacts",
+        "plugin"
+      ],
+      "updatedAt": "2026-08-20T16:51:38.000Z"
     },
     {
       "id": "GraySilver/dsh-evolve-modes",
@@ -1347,25 +1385,6 @@
         "acceptance-review"
       ],
       "updatedAt": "2026-09-01T14:48:55.000Z"
-    },
-    {
-      "id": "e2mcc/dsh-popout-sidebar",
-      "name": "dsh-popout-sidebar",
-      "displayName": "dsh-popout-sidebar",
-      "summary": "A sidebar can pop out a separate browser tab (drag it to another monitor)",
-      "repository": {
-        "url": "https://github.com/e2mcc/dsh-popout-sidebar"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "cordis",
-        "sidebar",
-        "artifacts",
-        "plugin"
-      ],
-      "updatedAt": "2026-08-20T16:51:38.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1452,7 +1471,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-02T05:27:34.000Z"
+      "updatedAt": "2026-09-02T14:18:18.000Z"
     },
     {
       "id": "omdsh-dev/dsh-data-agent",
@@ -1543,6 +1562,17 @@
       "updatedAt": "2026-08-28T11:00:58.000Z"
     },
     {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-02T13:59:24.000Z"
+    },
+    {
       "id": "cocofhu/anime-find",
       "name": "@cocofhu/anime-find",
       "displayName": "anime-find",
@@ -1560,36 +1590,6 @@
         "bangumi"
       ],
       "updatedAt": "2026-08-31T07:47:56.000Z"
-    },
-    {
-      "id": "seriousz158/dsh-memory",
-      "name": "dsh-git-memory",
-      "displayName": "dsh-memory",
-      "summary": "DeepSeek Harness plugin hosted at seriousz158/dsh-memory.",
-      "repository": {
-        "url": "https://github.com/seriousz158/dsh-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "harness",
-        "dsh",
-        "dsh-plugin",
-        "memory",
-        "git"
-      ],
-      "updatedAt": "2026-09-01T08:18:27.000Z"
-    },
-    {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-02T13:59:24.000Z"
     }
   ],
   "page": {
