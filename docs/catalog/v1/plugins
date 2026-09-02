@@ -84,7 +84,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-02T18:27:55.000Z"
+      "updatedAt": "2026-09-02T21:56:52.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -120,7 +120,7 @@
         "url": "https://github.com/huangruiteng/loopx"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-02T19:06:12.000Z"
+      "updatedAt": "2026-09-02T22:13:48.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-02T16:54:22.000Z"
+      "updatedAt": "2026-09-02T20:09:06.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -292,7 +292,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-02T16:40:33.000Z"
+      "updatedAt": "2026-09-02T21:52:51.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -449,7 +449,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-02T15:45:32.000Z"
+      "updatedAt": "2026-09-02T21:33:08.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -554,7 +554,7 @@
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
-      "summary": "Search the session history of Claude Code, Codex, Cursor and 19 more coding agents — the transcripts they already wrote to disk, months from before you installed it — and recall it in any of them. No LLM, no embeddings, one local Go binary.",
+      "summary": "Memory for coding agents built from the session history already on disk: Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 17 more. Search months of past sessions, including everything from before you installed it, and recall them in any agent. No LLM, no embeddings, one local Go binary.",
       "repository": {
         "url": "https://github.com/vshulcz/deja-vu"
       },
@@ -567,7 +567,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-02T19:12:23.000Z"
+      "updatedAt": "2026-09-02T22:20:31.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -722,17 +722,6 @@
       "updatedAt": "2026-08-31T01:13:10.000Z"
     },
     {
-      "id": "Lum1104/dsh-browser",
-      "name": "dsh-browser",
-      "displayName": "dsh-browser",
-      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
-      "repository": {
-        "url": "https://github.com/Lum1104/dsh-browser"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-02T05:43:39.000Z"
-    },
-    {
       "id": "EthanYoQ/AI-Novel-Writer",
       "name": "ai-novel-writer",
       "displayName": "AI-Novel-Writer",
@@ -742,6 +731,17 @@
       },
       "license": "GPL-3.0",
       "updatedAt": "2026-09-02T13:28:59.000Z"
+    },
+    {
+      "id": "Lum1104/dsh-browser",
+      "name": "dsh-browser",
+      "displayName": "dsh-browser",
+      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+      "repository": {
+        "url": "https://github.com/Lum1104/dsh-browser"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-02T05:43:39.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1573,23 +1573,23 @@
       "updatedAt": "2026-09-02T13:59:24.000Z"
     },
     {
-      "id": "cocofhu/anime-find",
-      "name": "@cocofhu/anime-find",
-      "displayName": "anime-find",
-      "summary": "DeepSeek Harness 搜番插件：对话内多源搜索番剧，卡片展示 Bangumi 评分与详情，支持复制磁力。",
+      "id": "seriousz158/dsh-memory",
+      "name": "dsh-git-memory",
+      "displayName": "dsh-memory",
+      "summary": "DeepSeek Harness plugin hosted at seriousz158/dsh-memory.",
       "repository": {
-        "url": "https://github.com/cocofhu/anime-find"
+        "url": "https://github.com/seriousz158/dsh-memory"
       },
       "license": "MIT",
       "keywords": [
+        "deepseek",
+        "harness",
         "dsh",
         "dsh-plugin",
-        "deepseek-harness",
-        "anime",
-        "mikan",
-        "bangumi"
+        "memory",
+        "git"
       ],
-      "updatedAt": "2026-08-31T07:47:56.000Z"
+      "updatedAt": "2026-09-01T08:18:27.000Z"
     }
   ],
   "page": {
