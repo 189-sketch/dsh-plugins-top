@@ -84,7 +84,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-03T19:11:57.000Z"
+      "updatedAt": "2026-09-03T21:59:01.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-03T18:56:10.000Z"
+      "updatedAt": "2026-09-03T20:21:53.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-03T18:45:49.000Z"
+      "updatedAt": "2026-09-03T22:15:41.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -344,17 +344,6 @@
       "updatedAt": "2026-09-03T15:28:41.000Z"
     },
     {
-      "id": "agentrq/agentrq",
-      "name": "agentrq/agentrq",
-      "displayName": "agentrq",
-      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness.",
-      "repository": {
-        "url": "https://github.com/agentrq/agentrq"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-03T06:49:03.000Z"
-    },
-    {
       "id": "superdesigndev/treg",
       "name": "treg-dsh",
       "displayName": "treg",
@@ -373,7 +362,18 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-03T12:41:18.000Z"
+      "updatedAt": "2026-09-03T22:15:05.000Z"
+    },
+    {
+      "id": "agentrq/agentrq",
+      "name": "agentrq/agentrq",
+      "displayName": "agentrq",
+      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness.",
+      "repository": {
+        "url": "https://github.com/agentrq/agentrq"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-03T06:49:03.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -415,7 +415,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-03T18:18:31.000Z"
+      "updatedAt": "2026-09-03T20:11:28.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -748,7 +748,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-09-03T19:08:17.000Z"
+      "updatedAt": "2026-09-03T20:03:10.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -1007,7 +1007,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-03T16:42:19.000Z"
+      "updatedAt": "2026-09-03T21:06:16.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1043,28 +1043,6 @@
       "updatedAt": "2026-08-31T07:26:26.000Z"
     },
     {
-      "id": "bruc3van/awesome-dsh-plugin",
-      "name": "bruc3van/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
-      "repository": {
-        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-03T18:02:06.000Z"
-    },
-    {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T09:40:54.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -1089,6 +1067,28 @@
         "agent"
       ],
       "updatedAt": "2026-09-03T12:56:27.000Z"
+    },
+    {
+      "id": "bruc3van/awesome-dsh-plugin",
+      "name": "bruc3van/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
+      "repository": {
+        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-03T18:02:06.000Z"
+    },
+    {
+      "id": "vlln/whale-girl",
+      "name": "whale-girl",
+      "displayName": "whale-girl",
+      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+      "repository": {
+        "url": "https://github.com/vlln/whale-girl"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1464,17 +1464,6 @@
       "updatedAt": "2026-09-01T11:28:25.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-data-agent",
-      "name": "@yejiming/dsh-data-agent",
-      "displayName": "dsh-data-agent",
-      "summary": "Connect DSH to your database for conversational data analysis and actionable business insights.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-data-agent"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T04:03:29.000Z"
-    },
-    {
       "id": "SeaOf0/dsh-redteam-model",
       "name": "@dsh-external/dsh-redteam-model",
       "displayName": "dsh-redteam-model",
@@ -1493,6 +1482,17 @@
         "security"
       ],
       "updatedAt": "2026-09-03T02:14:00.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-data-agent",
+      "name": "@yejiming/dsh-data-agent",
+      "displayName": "dsh-data-agent",
+      "summary": "Connect DSH to your database for conversational data analysis and actionable business insights.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-data-agent"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T04:03:29.000Z"
     },
     {
       "id": "tinqiao-oss/engramory",
