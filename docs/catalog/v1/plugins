@@ -84,7 +84,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-03T21:59:01.000Z"
+      "updatedAt": "2026-09-03T23:39:57.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -95,7 +95,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-03T16:24:00.000Z"
+      "updatedAt": "2026-09-04T01:57:03.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-03T20:21:53.000Z"
+      "updatedAt": "2026-09-04T02:39:53.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-03T22:15:41.000Z"
+      "updatedAt": "2026-09-04T02:45:42.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -362,7 +362,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-03T22:15:05.000Z"
+      "updatedAt": "2026-09-04T02:44:52.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -373,18 +373,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-03T06:49:03.000Z"
-    },
-    {
-      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
-      "name": "cloudbase-ai-toolkit",
-      "displayName": "CloudBase-AI-Toolkit",
-      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
-      "repository": {
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-03T14:59:38.000Z"
+      "updatedAt": "2026-09-04T02:26:53.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -416,6 +405,17 @@
         "ai-office"
       ],
       "updatedAt": "2026-09-03T20:11:28.000Z"
+    },
+    {
+      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+      "name": "cloudbase-ai-toolkit",
+      "displayName": "CloudBase-AI-Toolkit",
+      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+      "repository": {
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-04T02:46:40.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -556,7 +556,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-03T16:25:02.000Z"
+      "updatedAt": "2026-09-04T00:21:52.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -678,7 +678,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-03T17:47:00.000Z"
+      "updatedAt": "2026-09-04T02:14:26.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -833,6 +833,17 @@
       "updatedAt": "2026-09-03T01:11:05.000Z"
     },
     {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
+    },
+    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -849,17 +860,6 @@
         "web-fetch"
       ],
       "updatedAt": "2026-08-26T06:25:54.000Z"
-    },
-    {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1007,7 +1007,18 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-03T21:06:16.000Z"
+      "updatedAt": "2026-09-04T02:40:48.000Z"
+    },
+    {
+      "id": "shengsheng90/DSH-taskboard",
+      "name": "@shengsheng/dsh-taskboard",
+      "displayName": "DSH-taskboard",
+      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "repository": {
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-31T07:26:26.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1030,17 +1041,6 @@
         "github-copilot"
       ],
       "updatedAt": "2026-09-03T06:33:12.000Z"
-    },
-    {
-      "id": "shengsheng90/DSH-taskboard",
-      "name": "@shengsheng/dsh-taskboard",
-      "displayName": "DSH-taskboard",
-      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "repository": {
-        "url": "https://github.com/shengsheng90/DSH-taskboard"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-31T07:26:26.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -1077,7 +1077,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-03T18:02:06.000Z"
+      "updatedAt": "2026-09-04T02:40:54.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -1121,7 +1121,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-09-03T15:55:31.000Z"
+      "updatedAt": "2026-09-04T01:23:49.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1132,7 +1132,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-03T15:28:39.000Z"
+      "updatedAt": "2026-09-04T02:47:02.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1240,6 +1240,24 @@
       "updatedAt": "2026-08-27T21:36:31.000Z"
     },
     {
+      "id": "huiliyi37/dsh-tianshu-tui",
+      "name": "@huiliyi37/dsh-tianshu-tui",
+      "displayName": "dsh-tianshu-tui",
+      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。",
+      "repository": {
+        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "agent-harness",
+        "terminal",
+        "tui",
+        "cli"
+      ],
+      "updatedAt": "2026-08-29T20:00:46.000Z"
+    },
+    {
       "id": "Han-1413141/dsh-cost-meter",
       "name": "dsh-cost-meter",
       "displayName": "dsh-cost-meter",
@@ -1265,24 +1283,6 @@
         "language"
       ],
       "updatedAt": "2026-09-03T07:53:30.000Z"
-    },
-    {
-      "id": "huiliyi37/dsh-tianshu-tui",
-      "name": "@huiliyi37/dsh-tianshu-tui",
-      "displayName": "dsh-tianshu-tui",
-      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。",
-      "repository": {
-        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "agent-harness",
-        "terminal",
-        "tui",
-        "cli"
-      ],
-      "updatedAt": "2026-08-29T20:00:46.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1323,7 +1323,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-03T13:07:28.000Z"
+      "updatedAt": "2026-09-04T01:02:28.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1334,7 +1334,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-03T12:51:07.000Z"
+      "updatedAt": "2026-09-04T02:20:03.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
@@ -1377,6 +1377,26 @@
       "updatedAt": "2026-09-01T14:48:55.000Z"
     },
     {
+      "id": "SeaOf0/dsh-redteam-model",
+      "name": "@dsh-external/dsh-redteam-model",
+      "displayName": "dsh-redteam-model",
+      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
+      "repository": {
+        "url": "https://github.com/SeaOf0/dsh-redteam-model"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-bundle",
+        "redteam",
+        "security"
+      ],
+      "updatedAt": "2026-09-03T02:14:00.000Z"
+    },
+    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1400,7 +1420,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-03T11:51:31.000Z"
+      "updatedAt": "2026-09-04T02:08:30.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1430,7 +1450,7 @@
         "url": "https://github.com/Ruler4396/dsh-launcher"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-03T15:08:31.000Z"
+      "updatedAt": "2026-09-04T02:12:49.000Z"
     },
     {
       "id": "zh667/TokenLedger",
@@ -1462,26 +1482,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-01T11:28:25.000Z"
-    },
-    {
-      "id": "SeaOf0/dsh-redteam-model",
-      "name": "@dsh-external/dsh-redteam-model",
-      "displayName": "dsh-redteam-model",
-      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
-      "repository": {
-        "url": "https://github.com/SeaOf0/dsh-redteam-model"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-bundle",
-        "redteam",
-        "security"
-      ],
-      "updatedAt": "2026-09-03T02:14:00.000Z"
     },
     {
       "id": "omdsh-dev/dsh-data-agent",
@@ -1524,6 +1524,17 @@
       "updatedAt": "2026-08-30T15:33:34.000Z"
     },
     {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-03T16:21:05.000Z"
+    },
+    {
       "id": "oil-oil/dsh-oil-creator",
       "name": "dsh-oil-creator",
       "displayName": "dsh-oil-creator",
@@ -1539,17 +1550,6 @@
         "video"
       ],
       "updatedAt": "2026-08-20T00:40:08.000Z"
-    },
-    {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-03T16:21:05.000Z"
     },
     {
       "id": "seriousz158/dsh-memory",
