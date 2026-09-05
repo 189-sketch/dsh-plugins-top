@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-04T09:35:26.000Z"
+      "updatedAt": "2026-09-05T09:19:20.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-05T05:30:22.000Z"
+      "updatedAt": "2026-09-05T11:31:38.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-05T05:42:00.000Z"
+      "updatedAt": "2026-09-05T13:20:14.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-05T07:46:28.000Z"
+      "updatedAt": "2026-09-05T11:48:05.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -322,7 +322,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-04T18:28:01.000Z"
+      "updatedAt": "2026-09-05T13:06:52.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -343,7 +343,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-05T07:38:34.000Z"
+      "updatedAt": "2026-09-05T12:25:00.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -362,7 +362,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-09-03T15:28:41.000Z"
+      "updatedAt": "2026-09-05T10:38:31.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -393,7 +393,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-04T20:11:10.000Z"
+      "updatedAt": "2026-09-05T12:36:46.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -404,7 +404,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-05T08:02:19.000Z"
+      "updatedAt": "2026-09-05T08:19:57.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -459,7 +459,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-09-04T17:51:52.000Z"
+      "updatedAt": "2026-09-05T12:17:14.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-3",
@@ -689,7 +689,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-02T13:28:59.000Z"
+      "updatedAt": "2026-09-05T10:57:14.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -719,7 +719,7 @@
         "knowledge-graph",
         "sqlite"
       ],
-      "updatedAt": "2026-09-04T17:29:28.000Z"
+      "updatedAt": "2026-09-05T10:17:58.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -759,7 +759,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-04T08:45:17.000Z"
+      "updatedAt": "2026-09-05T09:55:21.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -801,7 +801,7 @@
         "url": "https://github.com/Aisland-SJL/dsh-worktable"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-03T16:16:15.000Z"
+      "updatedAt": "2026-09-05T10:02:14.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -830,7 +830,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-09-05T01:20:05.000Z"
+      "updatedAt": "2026-09-05T08:13:46.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -914,7 +914,7 @@
       "repository": {
         "url": "https://github.com/howmp/dsh-pentest"
       },
-      "updatedAt": "2026-08-24T04:12:22.000Z"
+      "updatedAt": "2026-09-05T08:11:02.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -969,17 +969,7 @@
         "prompt-injection",
         "agent"
       ],
-      "updatedAt": "2026-09-03T12:56:27.000Z"
-    },
-    {
-      "id": "linhay/harmony-next.skills",
-      "name": "dsh-harmony-next",
-      "displayName": "harmony-next.skills",
-      "summary": "🚀 Expert guidance for HarmonyOS NEXT (API 12+) development. Covers IDE operations, performance tuning, architecture (HAP/HAR/HSP), and automation testing.",
-      "repository": {
-        "url": "https://github.com/linhay/harmony-next.skills"
-      },
-      "updatedAt": "2026-08-18T08:05:29.000Z"
+      "updatedAt": "2026-09-05T12:41:16.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -999,7 +989,17 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-05T08:05:59.000Z"
+      "updatedAt": "2026-09-05T08:56:04.000Z"
+    },
+    {
+      "id": "linhay/harmony-next.skills",
+      "name": "dsh-harmony-next",
+      "displayName": "harmony-next.skills",
+      "summary": "🚀 Expert guidance for HarmonyOS NEXT (API 12+) development. Covers IDE operations, performance tuning, architecture (HAP/HAR/HSP), and automation testing.",
+      "repository": {
+        "url": "https://github.com/linhay/harmony-next.skills"
+      },
+      "updatedAt": "2026-08-18T08:05:29.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1152,7 +1152,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-04T08:17:43.000Z"
+      "updatedAt": "2026-09-05T12:01:51.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1169,7 +1169,7 @@
         "desktop-pet",
         "agent-companion"
       ],
-      "updatedAt": "2026-09-04T12:34:22.000Z"
+      "updatedAt": "2026-09-05T12:37:56.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1218,7 +1218,7 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-09-05T03:57:48.000Z"
+      "updatedAt": "2026-09-05T11:05:16.000Z"
     },
     {
       "id": "op7418/pilot-harness",
@@ -1374,7 +1374,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-05T05:07:04.000Z"
+      "updatedAt": "2026-09-05T13:04:13.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1385,7 +1385,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-05T06:18:42.000Z"
+      "updatedAt": "2026-09-05T09:04:14.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1484,6 +1484,17 @@
       "updatedAt": "2026-09-01T13:37:06.000Z"
     },
     {
+      "id": "Ruler4396/dsh-launcher",
+      "name": "Ruler4396/dsh-launcher",
+      "displayName": "dsh-launcher",
+      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
+      "repository": {
+        "url": "https://github.com/Ruler4396/dsh-launcher"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-04T05:57:53.000Z"
+    },
+    {
       "id": "zh667/TokenLedger",
       "name": "dsh-tokenledger",
       "displayName": "TokenLedger",
@@ -1513,17 +1524,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-04T03:49:36.000Z"
-    },
-    {
-      "id": "Ruler4396/dsh-launcher",
-      "name": "Ruler4396/dsh-launcher",
-      "displayName": "dsh-launcher",
-      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
-      "repository": {
-        "url": "https://github.com/Ruler4396/dsh-launcher"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-04T05:57:53.000Z"
     },
     {
       "id": "tinqiao-oss/engramory",
@@ -1567,24 +1567,6 @@
       "updatedAt": "2026-09-01T08:18:27.000Z"
     },
     {
-      "id": "weijiafu14/pi2dsh",
-      "name": "pi2dsh",
-      "displayName": "pi2dsh",
-      "summary": "Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。",
-      "repository": {
-        "url": "https://github.com/weijiafu14/pi2dsh"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "pi-package",
-        "migration",
-        "compatibility"
-      ],
-      "updatedAt": "2026-08-30T15:33:34.000Z"
-    },
-    {
       "id": "chokwinlee/deepseek-harness-desktop",
       "name": "dsh-desktop",
       "displayName": "deepseek-harness-desktop",
@@ -1603,6 +1585,24 @@
         "windows"
       ],
       "updatedAt": "2026-09-04T18:05:55.000Z"
+    },
+    {
+      "id": "weijiafu14/pi2dsh",
+      "name": "pi2dsh",
+      "displayName": "pi2dsh",
+      "summary": "Bridge the Pi and DeepSeek Harness ecosystems: one Pi Host ABI runs unmodified Pi extensions as native DSH plugins. 打通 Pi 与 DSH 生态。",
+      "repository": {
+        "url": "https://github.com/weijiafu14/pi2dsh"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "pi-package",
+        "migration",
+        "compatibility"
+      ],
+      "updatedAt": "2026-08-30T15:33:34.000Z"
     }
   ],
   "page": {
