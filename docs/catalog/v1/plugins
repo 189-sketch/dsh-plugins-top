@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-05T04:19:21.000Z"
+      "updatedAt": "2026-09-05T17:18:45.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -176,7 +176,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-04T15:04:58.000Z"
+      "updatedAt": "2026-09-05T16:59:10.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-05T16:38:00.000Z"
+      "updatedAt": "2026-09-05T19:36:47.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-05T15:19:48.000Z"
+      "updatedAt": "2026-09-05T19:45:52.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -302,7 +302,7 @@
         "ai-agent",
         "llm"
       ],
-      "updatedAt": "2026-09-05T16:15:15.000Z"
+      "updatedAt": "2026-09-05T18:08:52.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -393,7 +393,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-05T16:28:11.000Z"
+      "updatedAt": "2026-09-05T18:53:33.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -404,7 +404,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-05T16:25:05.000Z"
+      "updatedAt": "2026-09-05T19:45:42.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -449,7 +449,7 @@
         "url": "https://github.com/Minglink/dsh-infinite-gen-3"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-05T16:27:50.000Z"
+      "updatedAt": "2026-09-05T17:52:59.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -670,17 +670,6 @@
       "updatedAt": "2026-08-24T16:55:44.000Z"
     },
     {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-04T06:43:07.000Z"
-    },
-    {
       "id": "EthanYoQ/AI-Novel-Writer",
       "name": "ai-novel-writer",
       "displayName": "AI-Novel-Writer",
@@ -690,6 +679,17 @@
       },
       "license": "GPL-3.0",
       "updatedAt": "2026-09-05T10:57:14.000Z"
+    },
+    {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-04T06:43:07.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -870,7 +870,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-03T18:07:56.000Z"
+      "updatedAt": "2026-09-05T16:45:31.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -917,6 +917,32 @@
       "updatedAt": "2026-09-05T08:11:02.000Z"
     },
     {
+      "id": "YuJunZhiXue/dsh-purge",
+      "name": "dsh-purge",
+      "displayName": "dsh-purge",
+      "summary": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
+      "repository": {
+        "url": "https://github.com/YuJunZhiXue/dsh-purge"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "破甲",
+        "llm-jailbreak",
+        "harness-jailbreak",
+        "deepseek-harness",
+        "purge",
+        "jailbreak",
+        "instructions",
+        "rules",
+        "prompt-injection",
+        "agent"
+      ],
+      "updatedAt": "2026-09-05T12:41:16.000Z"
+    },
+    {
       "id": "yjh051108/dsh-router-standard",
       "name": "dsh-router-standard",
       "displayName": "dsh-router-standard",
@@ -944,32 +970,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-09-05T15:19:41.000Z"
-    },
-    {
-      "id": "YuJunZhiXue/dsh-purge",
-      "name": "dsh-purge",
-      "displayName": "dsh-purge",
-      "summary": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
-      "repository": {
-        "url": "https://github.com/YuJunZhiXue/dsh-purge"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "破甲",
-        "llm-jailbreak",
-        "harness-jailbreak",
-        "deepseek-harness",
-        "purge",
-        "jailbreak",
-        "instructions",
-        "rules",
-        "prompt-injection",
-        "agent"
-      ],
-      "updatedAt": "2026-09-05T12:41:16.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1130,7 +1130,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-05T03:23:49.000Z"
+      "updatedAt": "2026-09-05T17:43:05.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -1267,6 +1267,26 @@
       "updatedAt": "2026-08-29T20:00:46.000Z"
     },
     {
+      "id": "SeaOf0/dsh-redteam-model",
+      "name": "@dsh-external/dsh-redteam-model",
+      "displayName": "dsh-redteam-model",
+      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
+      "repository": {
+        "url": "https://github.com/SeaOf0/dsh-redteam-model"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-bundle",
+        "redteam",
+        "security"
+      ],
+      "updatedAt": "2026-09-04T11:20:55.000Z"
+    },
+    {
       "id": "Nagi-ovo/dsh-visualize",
       "name": "@dsh-external/dsh-visualize",
       "displayName": "dsh-visualize",
@@ -1303,26 +1323,6 @@
         "language"
       ],
       "updatedAt": "2026-09-03T07:53:30.000Z"
-    },
-    {
-      "id": "SeaOf0/dsh-redteam-model",
-      "name": "@dsh-external/dsh-redteam-model",
-      "displayName": "dsh-redteam-model",
-      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
-      "repository": {
-        "url": "https://github.com/SeaOf0/dsh-redteam-model"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-bundle",
-        "redteam",
-        "security"
-      ],
-      "updatedAt": "2026-09-04T11:20:55.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1462,7 +1462,7 @@
         "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-05T16:15:21.000Z"
+      "updatedAt": "2026-09-05T17:13:59.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1484,17 +1484,6 @@
       "updatedAt": "2026-09-01T13:37:06.000Z"
     },
     {
-      "id": "Ruler4396/dsh-launcher",
-      "name": "Ruler4396/dsh-launcher",
-      "displayName": "dsh-launcher",
-      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
-      "repository": {
-        "url": "https://github.com/Ruler4396/dsh-launcher"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-04T05:57:53.000Z"
-    },
-    {
       "id": "zh667/TokenLedger",
       "name": "dsh-tokenledger",
       "displayName": "TokenLedger",
@@ -1513,6 +1502,17 @@
         "relay-attribution"
       ],
       "updatedAt": "2026-09-01T02:25:38.000Z"
+    },
+    {
+      "id": "Ruler4396/dsh-launcher",
+      "name": "Ruler4396/dsh-launcher",
+      "displayName": "dsh-launcher",
+      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
+      "repository": {
+        "url": "https://github.com/Ruler4396/dsh-launcher"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-04T05:57:53.000Z"
     },
     {
       "id": "leenkcool/Blue-Whale-Harness",
