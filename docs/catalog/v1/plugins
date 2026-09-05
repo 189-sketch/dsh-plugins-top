@@ -95,7 +95,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-04T16:36:01.000Z"
+      "updatedAt": "2026-09-05T00:30:39.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-04T17:43:32.000Z"
+      "updatedAt": "2026-09-05T02:48:03.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-04T23:45:43.000Z"
+      "updatedAt": "2026-09-05T02:46:44.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -343,7 +343,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-04T21:58:11.000Z"
+      "updatedAt": "2026-09-05T00:44:46.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -415,7 +415,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-04T16:06:10.000Z"
+      "updatedAt": "2026-09-05T00:47:24.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -748,7 +748,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-09-04T18:18:13.000Z"
+      "updatedAt": "2026-09-05T02:51:30.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -830,7 +830,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-09-03T01:11:05.000Z"
+      "updatedAt": "2026-09-05T01:20:05.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1033,7 +1033,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-04T18:03:40.000Z"
+      "updatedAt": "2026-09-05T02:44:54.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1066,7 +1066,7 @@
         "grok",
         "github-copilot"
       ],
-      "updatedAt": "2026-09-04T03:19:52.000Z"
+      "updatedAt": "2026-09-05T01:46:53.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1285,16 +1285,6 @@
       "updatedAt": "2026-09-03T07:53:30.000Z"
     },
     {
-      "id": "libukai/awesome-deepseek-harness",
-      "name": "libukai/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
-      "repository": {
-        "url": "https://github.com/libukai/awesome-deepseek-harness"
-      },
-      "updatedAt": "2026-09-03T14:40:25.000Z"
-    },
-    {
       "id": "SeaOf0/dsh-redteam-model",
       "name": "@dsh-external/dsh-redteam-model",
       "displayName": "dsh-redteam-model",
@@ -1313,6 +1303,16 @@
         "security"
       ],
       "updatedAt": "2026-09-04T11:20:55.000Z"
+    },
+    {
+      "id": "libukai/awesome-deepseek-harness",
+      "name": "libukai/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "repository": {
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      "updatedAt": "2026-09-03T14:40:25.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1343,7 +1343,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-04T13:04:30.000Z"
+      "updatedAt": "2026-09-05T01:04:55.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1565,23 +1565,6 @@
       "updatedAt": "2026-08-30T15:33:34.000Z"
     },
     {
-      "id": "oil-oil/dsh-oil-creator",
-      "name": "dsh-oil-creator",
-      "displayName": "dsh-oil-creator",
-      "summary": "AI-assisted local creator workbench for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/oil-oil/dsh-oil-creator"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "creator",
-        "content-workflow",
-        "video"
-      ],
-      "updatedAt": "2026-08-20T00:40:08.000Z"
-    },
-    {
       "id": "chokwinlee/deepseek-harness-desktop",
       "name": "dsh-desktop",
       "displayName": "deepseek-harness-desktop",
@@ -1600,6 +1583,23 @@
         "windows"
       ],
       "updatedAt": "2026-09-04T18:05:55.000Z"
+    },
+    {
+      "id": "oil-oil/dsh-oil-creator",
+      "name": "dsh-oil-creator",
+      "displayName": "dsh-oil-creator",
+      "summary": "AI-assisted local creator workbench for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/oil-oil/dsh-oil-creator"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "creator",
+        "content-workflow",
+        "video"
+      ],
+      "updatedAt": "2026-08-20T00:40:08.000Z"
     }
   ],
   "page": {

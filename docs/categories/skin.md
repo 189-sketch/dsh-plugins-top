@@ -1,15 +1,15 @@
-# skin plugins (574)
+# skin plugins (575)
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐ 1923 | ✅ | Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。 | `skin` |
+| #1 | [Small-tailqwq/dsh-deep-whale](https://github.com/Small-tailqwq/dsh-deep-whale) | ⭐ 1926 | ✅ | Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。 | `skin` |
 | #2 | [WYH66666666/DSH-Transparent-UI-Plugin](https://github.com/WYH66666666/DSH-Transparent-UI-Plugin) | ⭐ 401 | ✅ | 是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。 | `skin` |
 | #3 | [ZSeven-W/dsh-ios](https://github.com/ZSeven-W/dsh-ios) | ⭐ 275 | ✅ | DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on. | `skin` |
-| #4 | [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | ⭐ 259 | ✅ | 官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。 | `skin` |
-| #5 | [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) | ⭐ 241 | ✅ | 把本机 Wallpaper Engine 的壁纸变成 DSH 网页界面的背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸提取主纹理作为静态帧；iOS 液态玻璃设置窗口（配色 / 玻璃颜色 / 透明度）、内容分级与类型过滤、自定义壁纸上传、紧凑 CD 架布局、黑胶唱片展示、隐藏 / 恢复、倍速 / 翻转与自动轮播。感谢 Jerry 维护 macOS 版。 | `skin` |
+| #4 | [huiliyi37/dsh-tianshu-tui](https://github.com/huiliyi37/dsh-tianshu-tui) | ⭐ 260 | ✅ | 官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。 | `skin` |
+| #5 | [elysia395/dsh-wallpaper-engine](https://github.com/elysia395/dsh-wallpaper-engine) | ⭐ 242 | ✅ | 把本机 Wallpaper Engine 的壁纸变成 DSH 网页界面的背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸提取主纹理作为静态帧；iOS 液态玻璃设置窗口（配色 / 玻璃颜色 / 透明度）、内容分级与类型过滤、自定义壁纸上传、紧凑 CD 架布局、黑胶唱片展示、隐藏 / 恢复、倍速 / 翻转与自动轮播。感谢 Jerry 维护 macOS 版。 | `skin` |
 | #6 | [d-dev0101/open-sea-skin](https://github.com/d-dev0101/open-sea-skin) | ⭐ 195 | ✅ | WebGPU ocean skin for DeepSeek Harness — DSH plugin, Harness-only Chrome/Edge extension, static installer, and native integration. | `skin` |
 | #7 | [Hilbert-beinghappy/seektty](https://github.com/Hilbert-beinghappy/seektty) | ⭐ 165 | ✅ | 面向 DeepSeek Harness 的 Claude Code 风格终端界面，支持 Windows、macOS 与 Linux，兼容透明终端、VS Code 主题和自定义配色。 | `skin` |
-| #8 | [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) | ⭐ 161 | ✅ | DeepSeek Harness 滑动变阻器皮肤 | `skin` |
+| #8 | [kingOfSoySauce/dsh-liang-skin](https://github.com/kingOfSoySauce/dsh-liang-skin) | ⭐ 162 | ✅ | DeepSeek Harness 滑动变阻器皮肤 | `skin` |
 | #9 | [RevolutionLA/dsh-dream-skin](https://github.com/RevolutionLA/dsh-dream-skin) | ⭐ 141 | ✅ | DeepSeek Harness 换肤 / 壁纸 / 主题包插件 (dsh-plugin) — 8 套 Mirage 主题、每用户强调色、壁纸2.0、主题包导入导出/分享链接、收藏与随机，纯原生 token 系统实现。 | `skin` |
 | #10 | [ZSeven-W/dsh-android](https://github.com/ZSeven-W/dsh-android) | ⭐ 134 | ✅ | DeepSeek Harness plugin for Android — build, run, and interact with a live emulator or USB device stream inside a conversation, driven entirely through adb. | `skin` |
 | #11 | [kingOfSoySauce/dsh-skin-market](https://github.com/kingOfSoySauce/dsh-skin-market) | ⭐ 119 | ✅ | DeepSeek Harness skin market 皮肤市场 已收录200+DSH 皮肤 完善评分系统加人工审核，有便捷的社区收录入口；有在线页面方便在线浏览，也有插件方便管理本地皮肤 | `skin` |
@@ -56,8 +56,8 @@
 | #52 | [Elave-66/dsh-blue-sea-launcher](https://github.com/Elave-66/dsh-blue-sea-launcher) | ⭐ 11 | ✅ | Deepseek 二次元游戏/Galgame 风格启动图标。鲸鱼娘形象来源bilibili@上善无形 @ZipZipPipe，适合重度二次元使用，配合鲸鱼娘皮肤等二次元插件使用更佳！ | `skin` |
 | #53 | [wei-806206088/dsh-skin](https://github.com/wei-806206088/dsh-skin) | ⭐ 11 | ✅ | 内置极简主题、主色、文字色、区域文字色、图片 / GIF / 视频换肤、每个背景独立不透明度、可保存的命名预设。所有设置自动持久化，重启后自加载 | `skin` |
 | #54 | [caoyiwei850/dsh-client-ui-skins](https://github.com/caoyiwei850/dsh-client-ui-skins) | ⭐ 11 | ✅ | DSH Web skin plugin with built-in themes and custom image skins | `skin` |
-| #55 | [goatbroai/web-background](https://github.com/goatbroai/web-background) | ⭐ 11 | ✅ | DeepSeek Harness web background settings plugin with solid color, image, and opacity controls. | `skin` |
-| #56 | [Yuuhann1999/dsh-bloub-mood](https://github.com/Yuuhann1999/dsh-bloub-mood) | ⭐ 11 | ✅ | 动态心情图标 · DeepSeek Harness 插件 — bloub 表情随会话状态切换 favicon 与 logo，形状/颜色/文字可配置（8 shapes × 12 colors, animated SVG, MIT） | `skin` |
+| #55 | [Yuuhann1999/dsh-bloub-mood](https://github.com/Yuuhann1999/dsh-bloub-mood) | ⭐ 11 | ✅ | 动态心情图标 · DeepSeek Harness 插件 — bloub 表情随会话状态切换 favicon 与 logo，形状/颜色/文字可配置（8 shapes × 12 colors, animated SVG, MIT） | `skin` |
+| #56 | [goatbroai/web-background](https://github.com/goatbroai/web-background) | ⭐ 11 | ✅ | DeepSeek Harness web background settings plugin with solid color, image, and opacity controls. | `skin` |
 | #57 | [Angel2518975237/deepseek-harness-hello-kitty-suite](https://github.com/Angel2518975237/deepseek-harness-hello-kitty-suite) | ⭐ 10 | ✅ | 💗 一套给 DeepSeek Harness 的粉色 Hello Kitty 主题皮肤 + 任务完成/提问提醒插件（Sweetheart Workspace Expressive skin & Hello Kitty Task-Done Notifier） | `skin` |
 | #58 | [PAKIKNOWLEDGE/dsh-client-ui-skin-claude](https://github.com/PAKIKNOWLEDGE/dsh-client-ui-skin-claude) | ⭐ 10 | ✅ | Claude-style skin for DeepSeek Harness (dsh) Web GUI — warm-black canvas, Anthropic clay accent, serif UI | `skin` |
 | #59 | [zhijun-dai/Catppuccin-dsh-theme](https://github.com/zhijun-dai/Catppuccin-dsh-theme) | ⭐ 10 | ✅ | 🐱 Soothing pastel theme for DeepSeek Harness | `skin` |
@@ -94,8 +94,8 @@
 | #90 | [zhxqc/dsh-oh-my-theme](https://github.com/zhxqc/dsh-oh-my-theme) | ⭐ 6 | ✅ | DeepSeek Harness (dsh) web plugin with themes, global typography, @file mentions, project file tree, and Markdown preview. | `skin` |
 | #91 | [SuperLS-X/dsh-minecraft-theme](https://github.com/SuperLS-X/dsh-minecraft-theme) | ⭐ 6 | ✅ | Minecraft theme plugin for DeepSeek Harness: block-texture background, pixel fonts, MC-style buttons with click sounds, texture import/management, music player with local music folder support. | `skin` |
 | #92 | [Lhy723/dsh-neu-theme](https://github.com/Lhy723/dsh-neu-theme) | ⭐ 6 | ✅ | DeepSeek Harness Web 的轻拟物与磨砂玻璃主题插件，提供浅色/深色主题、环境光、材质纹理和细腻微交互。Neumorphism + glassmorphism theme plugin for DeepSeek Harness Web with warm light/dark palettes, ambient lighting, grain texture, and subtle micro-interactions. | `skin` |
-| #93 | [TianYa-DAO/dsh-wallpaper-engine](https://github.com/TianYa-DAO/dsh-wallpaper-engine) | ⭐ 6 | ✅ | deepseek-和人生是、 | `skin` |
-| #94 | [DevourerM/dsh-naiwa-theme](https://github.com/DevourerM/dsh-naiwa-theme) | ⭐ 6 | ✅ | 为deepseek harness构建的奶蛙主题，可是我觉得很神圣呀。（素材来自互联网） | `skin` |
+| #93 | [DevourerM/dsh-naiwa-theme](https://github.com/DevourerM/dsh-naiwa-theme) | ⭐ 6 | ✅ | 为deepseek harness构建的奶蛙主题，可是我觉得很神圣呀。（素材来自互联网） | `skin` |
+| #94 | [TianYa-DAO/dsh-wallpaper-engine](https://github.com/TianYa-DAO/dsh-wallpaper-engine) | ⭐ 6 | ✅ | deepseek-和人生是、 | `skin` |
 | #95 | [JohnnyTing/dsh-official-homepage-theme](https://github.com/JohnnyTing/dsh-official-homepage-theme) | ⭐ 6 | ✅ | 复刻 DeepSeek Harness 官方首页主题插件 | `skin` |
 | #96 | [anneheartrecord/dsh-desk-pet](https://github.com/anneheartrecord/dsh-desk-pet) | ⭐ 5 | ✅ | macOS desk pet for DeepSeek Harness: a real always-on-top window that clears fullscreen Spaces, six states driven by your agent, and a bundled skill that turns one photo into a whole skin. System Python, zero dependencies. | `skin` |
 | #97 | [lesliechowsh/dsh-weniger-theme](https://github.com/lesliechowsh/dsh-weniger-theme) | ⭐ 5 | ✅ | "Weniger" — less, but better: a Dieter Rams-inspired theme for the DeepSeek Harness Web GUI | `skin` |
@@ -115,9 +115,9 @@
 | #111 | [afrel1024/dsh-client-ui-aqua-unofficial](https://github.com/afrel1024/dsh-client-ui-aqua-unofficial) | ⭐ 5 | ✅ | Unofficial community fork of the Aqua glassmorphism theme for the DeepSeek Harness web UI (upstream: WYH66666666/DSH-Transparent-UI-Plugin, MIT). Adds DSH rc.7 compatibility. Not affiliated with DeepSeek. | `skin` |
 | #112 | [keman-ai/dsh-skin-pack](https://github.com/keman-ai/dsh-skin-pack) | ⭐ 5 | ✅ | A full set of skins for DeepSeek Harness — one repository, each theme installable on its own | `skin` |
 | #113 | [tiantyu/dsh-skin-toggle](https://github.com/tiantyu/dsh-skin-toggle) | ⭐ 5 | ✅ | 皮肤管理🐋切换按钮，用于 DeepSeek Harness (DSH)网页 GUI 的皮肤管理。纯客户端插件。 | `skin` |
-| #114 | [EachSheep/dsh-mario-pixel-skin](https://github.com/EachSheep/dsh-mario-pixel-skin) | ⭐ 5 | ✅ | Unofficial Mario-inspired pixel-adventure skin for DeepSeek Harness. | `skin` |
-| #115 | [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin) | ⭐ 5 | ✅ | DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。 | `skin` |
-| #116 | [Rainpomelo/deepseek-harness-liquid-glass-theme](https://github.com/Rainpomelo/deepseek-harness-liquid-glass-theme) | ⭐ 5 | ✅ | DeepSeek Harness - 液态玻璃与动态壁纸主题 (WebGL 物理透镜、动态壁纸与多层毛玻璃) #dsh-plugin | `skin` |
+| #114 | [leavestring/awesome-dsh-background-plugin](https://github.com/leavestring/awesome-dsh-background-plugin) | ⭐ 5 | ✅ | DSH Web 背景个性化插件：上传自己的图片（JPG / PNG / WEBP / GIF，浏览器端自动压缩到 1600px 以内）或一键切换极光、余烬、宣纸三种预设氛围；实时预览所见即所得，支持细调图像存在感、暗色遮罩、柔焦、适配方式与焦点位置；上传即自动保存到 DSH 设置，重启后原样恢复，浅色 / 深色主题均正常；侧栏、消息气泡、输入框保持原样不遮挡，浮层菜单不受影响；全程本地处理不上传任何服务器，关闭开关或一键恢复默认即可完全移除；内置中英文双语界面。 | `skin` |
+| #115 | [Rainpomelo/deepseek-harness-liquid-glass-theme](https://github.com/Rainpomelo/deepseek-harness-liquid-glass-theme) | ⭐ 5 | ✅ | DeepSeek Harness - 液态玻璃与动态壁纸主题 (WebGL 物理透镜、动态壁纸与多层毛玻璃) #dsh-plugin | `skin` |
+| #116 | [EachSheep/dsh-mario-pixel-skin](https://github.com/EachSheep/dsh-mario-pixel-skin) | ⭐ 5 | ✅ | Unofficial Mario-inspired pixel-adventure skin for DeepSeek Harness. | `skin` |
 | #117 | [Vim0x3c/dsh-skin-appearance](https://github.com/Vim0x3c/dsh-skin-appearance) | ⭐ 5 | ✅ | DeepSeek Harness 外观定制插件：八套内置主题 + 自定义壁纸（透明度/模糊），Host 设置持久化 \| Appearance plugin for dsh web | `skin` |
 | #118 | [kelai141/dsh-client-ui-responsive](https://github.com/kelai141/dsh-client-ui-responsive) | ⭐ 5 | ✅ | dsh Web UI 的移动响应式 AppFrame——派生自 dsh-client-ui-layout，新增 <640px 抽屉侧栏、底部 sheet 与安全区。 | `skin` |
 | #119 | [0nt-one/dsh-neo-skin](https://github.com/0nt-one/dsh-neo-skin) | ⭐ 5 | ✅ | Neo-brutalism skin for the DeepSeek Harness Web UI — hard borders, high contrast, two switchable schemes (Blue Command / Aged Newspaper), works in light and dark themes. | `skin` |
@@ -133,15 +133,15 @@
 | #129 | [thjyy/dph-endfield-theme](https://github.com/thjyy/dph-endfield-theme) | ⭐ 4 | ✅ | Unofficial Endfield-inspired theme and animated mascot for DeepSeek Harness Web | `skin` |
 | #130 | [tsdfy/dsh-skin-switcher](https://github.com/tsdfy/dsh-skin-switcher) | ⭐ 4 | ✅ | Skin switcher for DeepSeek Harness web UI: one-click theme switching with auto-discovery of community skins | `skin` |
 | #131 | [yushi-xxh/dsh-homepage-skin](https://github.com/yushi-xxh/dsh-homepage-skin) | ⭐ 4 | ✅ | 给 dsh web 换上 DeepSeek Harness 首页同款背景:深海流体、点线网格、数字鲸鱼,深浅双主题 | `skin` |
-| #132 | [swarm-apps/dsh-swarmdrop](https://github.com/swarm-apps/dsh-swarmdrop) | ⭐ 4 | ✅ | Send files from your DeepSeek Harness agent straight to your phone, and reference what your phone sent back — no account, no public IP, end-to-end encrypted. | `skin` |
-| #133 | [RexCue/dsh-wallpaper](https://github.com/RexCue/dsh-wallpaper) | ⭐ 4 | ✅ | Wallpaper skin for the DeepSeek Harness (dsh) web UI: image background with opacity, mask and blur controls. | `skin` |
-| #134 | [Ultronen/dsh-liquid-glass](https://github.com/Ultronen/dsh-liquid-glass) | ⭐ 4 | ✅ | Liquid glass for DeepSeek Harness: full-shell translucency, adjustable opacity, and custom wallpapers. | `skin` |
-| #135 | [147228/dsh-black-whale](https://github.com/147228/dsh-black-whale) | ⭐ 4 | ✅ | DeepSeek Harness 黑鲸实验室主题：官网黑鲸 × 夕小瑶 IP，真实 profile 可安装的 Web UI 插件 | `skin` |
-| #136 | [drfccv/dsh-theme-neko](https://github.com/drfccv/dsh-theme-neko) | ⭐ 4 | ✅ | A Nachoneko (甘城猫猫) themed skin for the DeepSeek Harness web GUI. | `skin` |
-| #137 | [mux9056-bot/dsh-theme](https://github.com/mux9056-bot/dsh-theme) | ⭐ 4 | ✅ | DeepSeek Harness 主题插件 · 30 款即插即用主题（零依赖 DSH 客户端插件 + 独立 CSS）/ 30-theme pack for DeepSeek Harness web UI | `skin` |
-| #138 | [Xliecc/dsh-session-theme](https://github.com/Xliecc/dsh-session-theme) | ⭐ 4 | ✅ | DSH web plugin: show every session's theme in the left sidebar on load | `skin` |
-| #139 | [ai7603/dsh-cyberpunk-theme](https://github.com/ai7603/dsh-cyberpunk-theme) | ⭐ 4 | ✅ |  | `skin` |
-| #140 | [lxxz1918/dsh-theme-customizer](https://github.com/lxxz1918/dsh-theme-customizer) | ⭐ 4 | ✅ | DeepSeek Harness（DSH）Web 界面自定义主题插件：背景/文字/框线/细节全可视化调整，可导入导出预设，持久化保存。 | `skin` |
+| #132 | [RexCue/dsh-wallpaper](https://github.com/RexCue/dsh-wallpaper) | ⭐ 4 | ✅ | Wallpaper skin for the DeepSeek Harness (dsh) web UI: image background with opacity, mask and blur controls. | `skin` |
+| #133 | [Ultronen/dsh-liquid-glass](https://github.com/Ultronen/dsh-liquid-glass) | ⭐ 4 | ✅ | Liquid glass for DeepSeek Harness: full-shell translucency, adjustable opacity, and custom wallpapers. | `skin` |
+| #134 | [swarm-apps/dsh-swarmdrop](https://github.com/swarm-apps/dsh-swarmdrop) | ⭐ 4 | ✅ | Send files from your DeepSeek Harness agent straight to your phone, and reference what your phone sent back — no account, no public IP, end-to-end encrypted. | `skin` |
+| #135 | [drfccv/dsh-theme-neko](https://github.com/drfccv/dsh-theme-neko) | ⭐ 4 | ✅ | A Nachoneko (甘城猫猫) themed skin for the DeepSeek Harness web GUI. | `skin` |
+| #136 | [mux9056-bot/dsh-theme](https://github.com/mux9056-bot/dsh-theme) | ⭐ 4 | ✅ | DeepSeek Harness 主题插件 · 30 款即插即用主题（零依赖 DSH 客户端插件 + 独立 CSS）/ 30-theme pack for DeepSeek Harness web UI | `skin` |
+| #137 | [Xliecc/dsh-session-theme](https://github.com/Xliecc/dsh-session-theme) | ⭐ 4 | ✅ | DSH web plugin: show every session's theme in the left sidebar on load | `skin` |
+| #138 | [ai7603/dsh-cyberpunk-theme](https://github.com/ai7603/dsh-cyberpunk-theme) | ⭐ 4 | ✅ |  | `skin` |
+| #139 | [lxxz1918/dsh-theme-customizer](https://github.com/lxxz1918/dsh-theme-customizer) | ⭐ 4 | ✅ | DeepSeek Harness（DSH）Web 界面自定义主题插件：背景/文字/框线/细节全可视化调整，可导入导出预设，持久化保存。 | `skin` |
+| #140 | [147228/dsh-black-whale](https://github.com/147228/dsh-black-whale) | ⭐ 4 | ✅ | DeepSeek Harness 黑鲸实验室主题：官网黑鲸 × 夕小瑶 IP，真实 profile 可安装的 Web UI 插件 | `skin` |
 | #141 | [wesky820/dsh-law](https://github.com/wesky820/dsh-law) | ⭐ 4 | ✅ | 深法：DeepSeek Harness 本地法律工作台插件，提供法律模式原生对话、案件看板、日程期限、可调分栏与多套法律主题 | `skin` |
 | #142 | [jikllji/DSH-JI-Plugins](https://github.com/jikllji/DSH-JI-Plugins) | ⭐ 4 | ✅ | Personal Jikllji-Plugins for Deepseek Harness | `skin` |
 | #143 | [EDMOK/dsh-minecraft-theme](https://github.com/EDMOK/dsh-minecraft-theme) | ⭐ 4 | ✅ | Minecraft Launcher 风格的 DeepSeek Harness WebUI 皮肤插件 | `skin` |
@@ -156,12 +156,12 @@
 | #152 | [dataizu/dsh-whale-aqua-theme](https://github.com/dataizu/dsh-whale-aqua-theme) | ⭐ 3 | ✅ | 「鲸蓝戏水」macOS theme + swimming whale aquarium background for the DeepSeek Harness Web GUI (dsh-plugin) | `skin` |
 | #153 | [CaoNing3212/dsh-plugin-image-wallpaper](https://github.com/CaoNing3212/dsh-plugin-image-wallpaper) | ⭐ 3 | ✅ | 自定义Deepseek Harness webUI主题 | `skin` |
 | #154 | [edwardyang0011/dsh-ui-skins](https://github.com/edwardyang0011/dsh-ui-skins) | ⭐ 3 | ✅ | DeepSeek Harness Skin Plugin | `skin` |
-| #155 | [OneZero-Y/dsh-tint-theme](https://github.com/OneZero-Y/dsh-tint-theme) | ⭐ 3 | ✅ | A skin picker for the DeepSeek Harness (DSH) Web GUI | `skin` |
-| #156 | [daboge-beach/dsh-skin-studio](https://github.com/daboge-beach/dsh-skin-studio) | ⭐ 3 | 🟡 | 🎨 DeepSeek Harness skin studio — built-in curated skins + a community skin gallery. 皮肤工作室：内置精选皮肤 · 用户上传皮肤中心，让每个 agent 都有专属面孔 | `skin` |
-| #157 | [MoonShadow1976/chiral-pulse](https://github.com/MoonShadow1976/chiral-pulse) | ⭐ 3 | ✅ | Death Stranding skin for DeepSeek Harness UI + live heartbeat feed that pulses on agent thinking/tool execution. Whale keeps brand blue. | `skin` |
-| #158 | [BeiZi6/dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) | ⭐ 3 | ✅ | DSH Web GUI theme studio: presets + per-mode customization (accent, background, foreground, fonts, translucent sidebar, contrast) via the official webServer.tapIndex seam | `skin` |
-| #159 | [omdsh-dev/dsh-fun-weather](https://github.com/omdsh-dev/dsh-fun-weather) | ⭐ 3 | ✅ | DSH weather tab and weather-following themes powered by Open-Meteo | `skin` |
-| #160 | [FlowerWater1019/Angelina-dsh-plugin](https://github.com/FlowerWater1019/Angelina-dsh-plugin) | ⭐ 3 | ✅ |  | `skin` |
+| #155 | [daboge-beach/dsh-skin-studio](https://github.com/daboge-beach/dsh-skin-studio) | ⭐ 3 | 🟡 | 🎨 DeepSeek Harness skin studio — built-in curated skins + a community skin gallery. 皮肤工作室：内置精选皮肤 · 用户上传皮肤中心，让每个 agent 都有专属面孔 | `skin` |
+| #156 | [OneZero-Y/dsh-tint-theme](https://github.com/OneZero-Y/dsh-tint-theme) | ⭐ 3 | ✅ | A skin picker for the DeepSeek Harness (DSH) Web GUI | `skin` |
+| #157 | [FlowerWater1019/Angelina-dsh-plugin](https://github.com/FlowerWater1019/Angelina-dsh-plugin) | ⭐ 3 | ✅ |  | `skin` |
+| #158 | [MoonShadow1976/chiral-pulse](https://github.com/MoonShadow1976/chiral-pulse) | ⭐ 3 | ✅ | Death Stranding skin for DeepSeek Harness UI + live heartbeat feed that pulses on agent thinking/tool execution. Whale keeps brand blue. | `skin` |
+| #159 | [BeiZi6/dsh-theme-plugin](https://github.com/BeiZi6/dsh-theme-plugin) | ⭐ 3 | ✅ | DSH Web GUI theme studio: presets + per-mode customization (accent, background, foreground, fonts, translucent sidebar, contrast) via the official webServer.tapIndex seam | `skin` |
+| #160 | [omdsh-dev/dsh-fun-weather](https://github.com/omdsh-dev/dsh-fun-weather) | ⭐ 3 | ✅ | DSH weather tab and weather-following themes powered by Open-Meteo | `skin` |
 | #161 | [WuWL-98/dsh-theme-paper](https://github.com/WuWL-98/dsh-theme-paper) | ⭐ 3 | ✅ | deepseek harness 开发者预览版纸质仿claude主题 | `skin` |
 | #162 | [flaricy/maid-atelier-ui-bundle](https://github.com/flaricy/maid-atelier-ui-bundle) | ⭐ 3 | ✅ | A calm Maid Atelier theme and practical file, preview, Git, and terminal side panel for DeepSeek Harness Web. | `skin` |
 | #163 | [RealHacker/dsh-theme-colorizer](https://github.com/RealHacker/dsh-theme-colorizer) | ⭐ 3 | ✅ | A Deepseek Harness plugin that gives its UI color themes | `skin` |
@@ -173,14 +173,14 @@
 | #169 | [zhang66633/dsh-pixel-ui](https://github.com/zhang66633/dsh-pixel-ui) | ⭐ 3 | ✅ | DeepSeek Harness 像素皮肤（Agent Xi 风格）：四个主题一键切换——像素·木屋 / 像素·羊皮纸 / 像素·暖阳 / 像素·终端绿，随时可切回现代默认 UI。 | `skin` |
 | #170 | [a1swg1159-pixel/dsh-arcaea-theme](https://github.com/a1swg1159-pixel/dsh-arcaea-theme) | ⭐ 3 | ✅ | An original Arcaea-inspired high-key prismatic UI theme plugin for DeepSeek Harness. | `skin` |
 | #171 | [tzy168/dsh-web-theme-packs](https://github.com/tzy168/dsh-web-theme-packs) | ⭐ 3 | ✅ | This is a dsh-pulgin for change theme by yourself. | `skin` |
-| #172 | [LilycleHeart/liuli-theme](https://github.com/LilycleHeart/liuli-theme) | ⭐ 3 | ✅ | 琉璃主题——为DeepSeek Harness打造实用美观的主题UI | `skin` |
-| #173 | [Moeblack/dsh-skins](https://github.com/Moeblack/dsh-skins) | ⭐ 3 | ✅ | DSH 换肤插件镜像 + 夕港（harbor）皮肤 \| Mirror of dsh-external/dsh-skins + harbor (夕港) dusk-harbor skin | `skin` |
-| #174 | [Anionex/dsh-eye-care](https://github.com/Anionex/dsh-eye-care) | ⭐ 3 | ✅ | Warm light, warm dark, and system-aware eye-care themes for DSH Web | `skin` |
-| #175 | [ink5897/dsh-theme-kit](https://github.com/ink5897/dsh-theme-kit) | ⭐ 3 | ✅ | A DeepSeek Harness Web GUI appearance kit: 32 preset themes, animated/static wallpapers, paper textures, per-zone text depth, and a keyboard desktop pet. | `skin` |
-| #176 | [sakka6868/dsh-skin](https://github.com/sakka6868/dsh-skin) | ⭐ 3 | ✅ | DSH skin plugin: Alphacoders popular wallpapers as the DeepSeek Harness Web GUI background — gallery, search, local image upload, light/dark mask | `skin` |
-| #177 | [omdsh-dev/dsh-cron](https://github.com/omdsh-dev/dsh-cron) | ⭐ 3 | ✅ | Scheduled tasks (cron) for DeepSeek Harness: model- and human-callable scheduling that fires followup/inject into agent sessions | `skin` |
-| #178 | [youzhoujiMrLiu/dsh-ui-wallpaper](https://github.com/youzhoujiMrLiu/dsh-ui-wallpaper) | ⭐ 3 | ✅ | Wallpaper Engine–style wallpaper for the DeepSeek Harness web GUI: custom images, GIFs, and videos as your app background｜仿 Wallpaper Engine 的壁纸插件，支持图片 / GIF / 视频自定义背景 | `skin` |
-| #179 | [STARDUSTLC666/dsh-ppt](https://github.com/STARDUSTLC666/dsh-ppt) | ⭐ 3 | ✅ | DSH 演示文稿技能 + 工具插件：一句话 / 一篇 Markdown → HTML 网页放映 + 可编辑 PPTX；5 套视觉主题、页间转场 + 要点入场动画（motion 可关）、金句/表格/演讲者备注，薄 SKILL.md + references 按需装载，零运行时依赖跨 harness。· Presentation skill & tools for DeepSeek Harness agents. 已验证兼容 DeepSeek Harness v0.1.2-alpha.5。 | `skin` |
+| #172 | [youzhoujiMrLiu/dsh-ui-wallpaper](https://github.com/youzhoujiMrLiu/dsh-ui-wallpaper) | ⭐ 3 | ✅ | Wallpaper Engine–style wallpaper for the DeepSeek Harness web GUI: custom images, GIFs, and videos as your app background｜仿 Wallpaper Engine 的壁纸插件，支持图片 / GIF / 视频自定义背景 | `skin` |
+| #173 | [STARDUSTLC666/dsh-ppt](https://github.com/STARDUSTLC666/dsh-ppt) | ⭐ 3 | ✅ | DSH 演示文稿技能 + 工具插件：一句话 / 一篇 Markdown → HTML 网页放映 + 可编辑 PPTX；5 套视觉主题、页间转场 + 要点入场动画（motion 可关）、金句/表格/演讲者备注，薄 SKILL.md + references 按需装载，零运行时依赖跨 harness。· Presentation skill & tools for DeepSeek Harness agents. 已验证兼容 DeepSeek Harness v0.1.2-alpha.5。 | `skin` |
+| #174 | [LilycleHeart/liuli-theme](https://github.com/LilycleHeart/liuli-theme) | ⭐ 3 | ✅ | 琉璃主题——为DeepSeek Harness打造实用美观的主题UI | `skin` |
+| #175 | [Moeblack/dsh-skins](https://github.com/Moeblack/dsh-skins) | ⭐ 3 | ✅ | DSH 换肤插件镜像 + 夕港（harbor）皮肤 \| Mirror of dsh-external/dsh-skins + harbor (夕港) dusk-harbor skin | `skin` |
+| #176 | [Anionex/dsh-eye-care](https://github.com/Anionex/dsh-eye-care) | ⭐ 3 | ✅ | Warm light, warm dark, and system-aware eye-care themes for DSH Web | `skin` |
+| #177 | [sakka6868/dsh-skin](https://github.com/sakka6868/dsh-skin) | ⭐ 3 | ✅ | DSH skin plugin: Alphacoders popular wallpapers as the DeepSeek Harness Web GUI background — gallery, search, local image upload, light/dark mask | `skin` |
+| #178 | [omdsh-dev/dsh-cron](https://github.com/omdsh-dev/dsh-cron) | ⭐ 3 | ✅ | Scheduled tasks (cron) for DeepSeek Harness: model- and human-callable scheduling that fires followup/inject into agent sessions | `skin` |
+| #179 | [ink5897/dsh-theme-kit](https://github.com/ink5897/dsh-theme-kit) | ⭐ 3 | ✅ | A DeepSeek Harness Web GUI appearance kit: 32 preset themes, animated/static wallpapers, paper textures, per-zone text depth, and a keyboard desktop pet. | `skin` |
 | #180 | [luoyan96/dsh-catnap-studio](https://github.com/luoyan96/dsh-catnap-studio) | ⭐ 3 | ✅ | Cat-themed DeepSeek Harness Web UI plugin with three original themes and a calm interactive companion. Not an official DeepSeek product. | `skin` |
 | #181 | [z827439974/dsh-background-plugin](https://github.com/z827439974/dsh-background-plugin) | ⭐ 3 | ✅ | Set the image as background for your dsh-webui | `skin` |
 | #182 | [lengzhanbao/dsh-taffy-theme](https://github.com/lengzhanbao/dsh-taffy-theme) | ⭐ 3 | ✅ | Taffy Live Atelier / 塔菲直播工房 — DSH Web 粉金亚克力主题：浅色花房、深色舞台、粉金对话框与塔菲立绘，可选 Agent 预设。 | `skin` |
@@ -188,8 +188,8 @@
 | #184 | [valuz-ai/dsh-valuz-genui](https://github.com/valuz-ai/dsh-valuz-genui) | ⭐ 3 | ✅ | DeepSeek Harness plugin: generate_ui — the model authors A2UI documents rendered as interactive surfaces in the chat (valuz genui) | `skin` |
 | #185 | [FAVKTOXIC/dsh-theme-liquid-glass](https://github.com/FAVKTOXIC/dsh-theme-liquid-glass) | ⭐ 3 | ✅ | Apple Liquid Glass theme for DeepSeek Harness | `skin` |
 | #186 | [mantonlove/dsh-prism-plugin](https://github.com/mantonlove/dsh-prism-plugin) | ⭐ 3 | ✅ | Prism · 棱镜 — a deeply customizable glassmorphism theme plugin for the DeepSeek Harness Web GUI | `skin` |
-| #187 | [waknow/dsh-web-icon-indicator](https://github.com/waknow/dsh-web-icon-indicator) | ⭐ 3 | ✅ | DSH browser tab favicon reflecting session state: idle / running / asking / done. · DSH 标签页 favicon 实时反映会话状态：待机 / 运行中 / 提问 / 完成 | `skin` |
-| #188 | [Pasumao/dsh-plugin-dev-kb](https://github.com/Pasumao/dsh-plugin-dev-kb) | ⭐ 3 | ✅ | DeepSeek Harness (dsh) 插件开发知识库：官方文档完整镜像 + 主题导航与检索。Plugin development knowledge base for dsh. | `skin` |
+| #187 | [Pasumao/dsh-plugin-dev-kb](https://github.com/Pasumao/dsh-plugin-dev-kb) | ⭐ 3 | ✅ | DeepSeek Harness (dsh) 插件开发知识库：官方文档完整镜像 + 主题导航与检索。Plugin development knowledge base for dsh. | `skin` |
+| #188 | [waknow/dsh-web-icon-indicator](https://github.com/waknow/dsh-web-icon-indicator) | ⭐ 3 | ✅ | DSH browser tab favicon reflecting session state: idle / running / asking / done. · DSH 标签页 favicon 实时反映会话状态：待机 / 运行中 / 提问 / 完成 | `skin` |
 | #189 | [SamuFlore/query-balance](https://github.com/SamuFlore/query-balance) | ⭐ 3 | ✅ | DSH plugin for query API balance by asking question. | `skin` |
 | #190 | [chengwill45-bot/dsh-hacker-terminal-theme](https://github.com/chengwill45-bot/dsh-hacker-terminal-theme) | ⭐ 3 | ✅ | Standalone hacker-terminal theme plugin for the DeepSeek Harness Web UI | `skin` |
 | #191 | [openma-ai/dsh-agents-plugins](https://github.com/openma-ai/dsh-agents-plugins) | ⭐ 3 | ✅ | Bridge your pi extension, codex plugin or claude code plugin to dsh (DeepSeek Harness) | `skin` |
@@ -197,9 +197,9 @@
 | #193 | [jinxlux/xiao-theme-dsh-ui-plugin](https://github.com/jinxlux/xiao-theme-dsh-ui-plugin) | ⭐ 3 | ✅ | UI plugin for deepseek harness web | `skin` |
 | #194 | [yzke/dsh-icon-theme](https://github.com/yzke/dsh-icon-theme) | ⭐ 3 | ✅ | Auto-detected, user-customizable icons for DeepSeek Harness settings and sidebar | `skin` |
 | #195 | [dshplugin-me/dsh-plugin-radar](https://github.com/dshplugin-me/dsh-plugin-radar) | ⭐ 3 | ✅ | Find DSH plugins by asking in plain language, then security-scan them before install | `skin` |
-| #196 | [ossFrankFrank/dsh-dracula-theme](https://github.com/ossFrankFrank/dsh-dracula-theme) | ⭐ 3 | ✅ | 🧛 Dracula theme for DeepSeek Harness (DSH) | `skin` |
-| #197 | [54088lp/dsh-kafka-ui](https://github.com/54088lp/dsh-kafka-ui) | ⭐ 3 | ✅ | Kafka (Honkai: Star Rail) theme skin for DeepSeek Harness web GUI | `skin` |
-| #198 | [Max-Null/dsh-node-appearance](https://github.com/Max-Null/dsh-node-appearance) | ⭐ 3 | ✅ | Conversation node appearance for DeepSeek Harness Web GUI: colorize nodes by type/tool (configurable palette) + thinking visibility toggle · 会话节点外观：按节点类型/工具名着色（可配置配色）+ 思考过程显示开关 | `skin` |
+| #196 | [54088lp/dsh-kafka-ui](https://github.com/54088lp/dsh-kafka-ui) | ⭐ 3 | ✅ | Kafka (Honkai: Star Rail) theme skin for DeepSeek Harness web GUI | `skin` |
+| #197 | [Max-Null/dsh-node-appearance](https://github.com/Max-Null/dsh-node-appearance) | ⭐ 3 | ✅ | Conversation node appearance for DeepSeek Harness Web GUI: colorize nodes by type/tool (configurable palette) + thinking visibility toggle · 会话节点外观：按节点类型/工具名着色（可配置配色）+ 思考过程显示开关 | `skin` |
+| #198 | [ossFrankFrank/dsh-dracula-theme](https://github.com/ossFrankFrank/dsh-dracula-theme) | ⭐ 3 | ✅ | 🧛 Dracula theme for DeepSeek Harness (DSH) | `skin` |
 | #199 | [Mr-Neutr0n/dsh-medseek](https://github.com/Mr-Neutr0n/dsh-medseek) | ⭐ 3 | ✅ | Clinical tools for DeepSeek Harness: handover and discharge drafts, de-identification, completeness checks, and cited lookups. Draft-only, not a medical device. | `skin` |
 | #200 | [taoser258/dsh-client-ui-skin-qingxiao](https://github.com/taoser258/dsh-client-ui-skin-qingxiao) | ⭐ 3 | ✅ | 清宵 · 弦凝清霄 —— DeepSeek Harness (DSH) Web 界面美化皮肤：以《鸣潮》角色清宵为灵感的冰蓝·青碧·月白·玄夜调色板，含可换背景画卷、剑气流光粒子、磨砂玻璃面板与新会话迎宾页。A Qingxiao (Wuthering Waves) themed client UI skin for the DSH web GUI. | `skin` |
 | #201 | [fengb3/dsh-session-icons](https://github.com/fengb3/dsh-session-icons) | ⭐ 3 | ✅ | DSH（DeepSeek Harness）Web 界面的会话标题图标插件：当模型为一次新会话生成标题时，宿主半用同一条路由发起一次辅助小请求，让模型按标题画一枚 24×24 单色 SVG 隐喻图标；浏览器半把它注入到左侧会话列表每行标题的左侧，跟随主题色。 | `skin` |
@@ -239,9 +239,9 @@
 | #235 | [wenliang9527/dsh-themes](https://github.com/wenliang9527/dsh-themes) | ⭐ 2 | ✅ |  | `skin` |
 | #236 | [alcohol-101/dsh-gif-background](https://github.com/alcohol-101/dsh-gif-background) | ⭐ 2 | ✅ | Custom background (image / GIF / animated wallpaper) plugin for the DeepSeek Harness (DSH) Web GUI - enable switch plus a local asset library, with separate display mechanisms for the official theme and skin-center skins. | `skin` |
 | #237 | [mtaech/dsh-material-you](https://github.com/mtaech/dsh-material-you) | ⭐ 2 | ✅ | Material You (M3) skin for DeepSeek Harness: HCT tonal palette + Maple Mono NF CN, clean blue & white | `skin` |
-| #238 | [chajiuqqq/dsh-claude-theme](https://github.com/chajiuqqq/dsh-claude-theme) | ⭐ 2 | ✅ | dsh的claude风格界面 | `skin` |
-| #239 | [syOPV/dsh-theme-background-center](https://github.com/syOPV/dsh-theme-background-center) | ⭐ 2 | ✅ | DeepSeek Harness Web UI 主题背景中心插件：主题/渐变图片背景/毛玻璃/流动氛围灯 | `skin` |
-| #240 | [394804078-pixel/dsh-liquid-glass](https://github.com/394804078-pixel/dsh-liquid-glass) | ⭐ 2 | ✅ | A dsh liquid glass appearance enhancement plugin that changes the styles of dialogs, settings, and buttons to make them see-through. | `skin` |
+| #238 | [394804078-pixel/dsh-liquid-glass](https://github.com/394804078-pixel/dsh-liquid-glass) | ⭐ 2 | ✅ | A dsh liquid glass appearance enhancement plugin that changes the styles of dialogs, settings, and buttons to make them see-through. | `skin` |
+| #239 | [chajiuqqq/dsh-claude-theme](https://github.com/chajiuqqq/dsh-claude-theme) | ⭐ 2 | ✅ | dsh的claude风格界面 | `skin` |
+| #240 | [syOPV/dsh-theme-background-center](https://github.com/syOPV/dsh-theme-background-center) | ⭐ 2 | ✅ | DeepSeek Harness Web UI 主题背景中心插件：主题/渐变图片背景/毛玻璃/流动氛围灯 | `skin` |
 | #241 | [i1j/dsh-krill-theme](https://github.com/i1j/dsh-krill-theme) | ⭐ 2 | ✅ | 浮游主题（Krill）——深海世界 + 浅海世界 双模式主题插件（DSH Web）：深色=深海（亮度编码信息层级），亮色=浅海（清澈度编码）；浮游生物动画背景、深潜工作态增强、水母参数入口。dsh-plugin | `skin` |
 | #242 | [lx963/dsh-webui-background](https://github.com/lx963/dsh-webui-background) | ⭐ 2 | ✅ |  | `skin` |
 | #243 | [Yugitan/dsh-skin](https://github.com/Yugitan/dsh-skin) | ⭐ 2 | ✅ | Customizable skinning plugin for DeepSeek Harness Web UI — gradient presets, image wallpapers, translucency, accent colors, persisted in user settings | `skin` |
@@ -249,12 +249,12 @@
 | #245 | [orxz/deepseek-harness-pets](https://github.com/orxz/deepseek-harness-pets) | ⭐ 2 | ✅ | 这是一个专为 DeepSeek-Harness 定制的桌宠皮肤包， DeepSeek 的标志性“大鲸鱼”等宠物养成。 | `skin` |
 | #246 | [DarkskyX15/dsh-client-ui-m3-theme](https://github.com/DarkskyX15/dsh-client-ui-m3-theme) | ⭐ 2 | ✅ | Material 3 theme plugin for DeepSeek Harness: derives the full --dsw-* color token set from one primary color, with separate light/dark palettes (per-mode chroma, fixed contrast surfaces), plus a settings panel with color picker, presets and live preview. | `skin` |
 | #247 | [dlpufan/dsh-theme-cyberpunk](https://github.com/dlpufan/dsh-theme-cyberpunk) | ⭐ 2 | ✅ | DeepSeek Harness 赛博朋克主题插件：RGB 流动霓虹、自定义背景图库、本地音乐播放器与一键启停。 | `skin` |
-| #248 | [Sim-xia/dsh-vscode-theme](https://github.com/Sim-xia/dsh-vscode-theme) | ⭐ 2 | ✅ | allow deepseek harness to use .vsix theme file designed for visual studio code | `skin` |
+| #248 | [Carpon39038/dsh-image-theme](https://github.com/Carpon39038/dsh-image-theme) | ⭐ 2 | ✅ | Warp-inspired image-to-theme plugin for DeepSeek Harness: upload a background, extract a palette, and apply a glass UI. | `skin` |
 | #249 | [djh2203/dsh-refined](https://github.com/djh2203/dsh-refined) | ⭐ 2 | ✅ | DeepSeek-Refined 的 DeepSeek Harness 移植版 为 DeepSeek Harness（DSH）前端注入 Obsidian Border 风格的 Markdown 美化与多主题配色。 | `skin` |
-| #250 | [wuzhong962-alt/dsh-matrix-theme](https://github.com/wuzhong962-alt/dsh-matrix-theme) | ⭐ 2 | ✅ |  | `skin` |
-| #251 | [kinmat-A/dsh-theme-switch](https://github.com/kinmat-A/dsh-theme-switch) | ⭐ 2 | ✅ | 一款轻量级的 DSH 主题外观切换插件：自动检测已装皮肤，一键互斥切换，全部停用时回退官方外观，即时生效、重启保留。 | `skin` |
-| #252 | [hubo980205/dsh-bgwall-plugin](https://github.com/hubo980205/dsh-bgwall-plugin) | ⭐ 2 | ✅ |  | `skin` |
-| #253 | [Carpon39038/dsh-image-theme](https://github.com/Carpon39038/dsh-image-theme) | ⭐ 2 | ✅ | Warp-inspired image-to-theme plugin for DeepSeek Harness: upload a background, extract a palette, and apply a glass UI. | `skin` |
+| #250 | [Sim-xia/dsh-vscode-theme](https://github.com/Sim-xia/dsh-vscode-theme) | ⭐ 2 | ✅ | allow deepseek harness to use .vsix theme file designed for visual studio code | `skin` |
+| #251 | [hubo980205/dsh-bgwall-plugin](https://github.com/hubo980205/dsh-bgwall-plugin) | ⭐ 2 | ✅ |  | `skin` |
+| #252 | [wuzhong962-alt/dsh-matrix-theme](https://github.com/wuzhong962-alt/dsh-matrix-theme) | ⭐ 2 | ✅ |  | `skin` |
+| #253 | [kinmat-A/dsh-theme-switch](https://github.com/kinmat-A/dsh-theme-switch) | ⭐ 2 | ✅ | 一款轻量级的 DSH 主题外观切换插件：自动检测已装皮肤，一键互斥切换，全部停用时回退官方外观，即时生效、重启保留。 | `skin` |
 | #254 | [lizhecome/deepseek-harness-flowchart](https://github.com/lizhecome/deepseek-harness-flowchart) | ⭐ 2 | ✅ | Beautiful themed SVG flowchart tool bundle for DeepSeek Harness | `skin` |
 | #255 | [zjwzjw1018-git/dsh-cyberpunk-theme](https://github.com/zjwzjw1018-git/dsh-cyberpunk-theme) | ⭐ 2 | ✅ | Cyberpunk theme for DeepSeek Harness | `skin` |
 | #256 | [Civitasv/dsh-plugin-colorscheme](https://github.com/Civitasv/dsh-plugin-colorscheme) | ⭐ 2 | ✅ | Colorscheme Plugin For DeepSeek Harness | `skin` |
@@ -279,62 +279,62 @@
 | #275 | [DongDong1997/dsh-mcskin](https://github.com/DongDong1997/dsh-mcskin) | ⭐ 2 | ✅ | Minecraft-themed skin for the DeepSeek Harness Web GUI. 6 themes (3 styles x 2 colorSchemes), MC pixel-art icons, biome sidebar gradient, top grass strip, bottom-right creeper, and chest / grass-block / sword / pickaxe replacements for the main-page controls. | `skin` |
 | #276 | [Sddft97/dsh-client-ui-skin-verdandi](https://github.com/Sddft97/dsh-client-ui-skin-verdandi) | ⭐ 2 | ✅ | Aether Gazer Verdandi-inspired skin for the DeepSeek Harness Web UI | `skin` |
 | #277 | [cnskycn/shuimo-skin](https://github.com/cnskycn/shuimo-skin) | ⭐ 2 | ✅ | ????????? for DeepSeek Harness Web: rice-paper palette + ink bamboo/mountains/plum/seal decorations + falling leaves | `skin` |
-| #278 | [frankxxxxue/dsh-photo-skins](https://github.com/frankxxxxue/dsh-photo-skins) | ⭐ 2 | ✅ | A DeepSeek Harness plugin that turns your photos into Web GUI skins — auto-extracted accent colors, all files stay local. | `skin` |
-| #279 | [hyposelen1a/dsh-columbina-theme](https://github.com/hyposelen1a/dsh-columbina-theme) | ⭐ 2 | ✅ | 原神哥伦比娅主题的 DeepSeek Harness Web 插件：背景、蒙版与明暗配色。A Genshin Impact Columbina themed plugin for DeepSeek Harness Web: background, mask, and per light/dark color schemes. | `skin` |
-| #280 | [zzyyyds88/dsh-solo-leveling](https://github.com/zzyyyds88/dsh-solo-leveling) | ⭐ 2 | ✅ | DeepSeek Harness（DSH）插件集：访问门禁（登录 + HTTPS 反代）、默认值、手机端适配、桌宠、任务套件（看板 / 统计 / Git 图谱 / 皮肤），浏览器 / 手机 / 局域网公网随时调用。 | `skin` |
-| #281 | [aaPanel/btpanel-dsh](https://github.com/aaPanel/btpanel-dsh) | ⭐ 2 | ✅ |  | `skin` |
-| #282 | [Jack-sun-learner/dsh-image-skin](https://github.com/Jack-sun-learner/dsh-image-skin) | ⭐ 2 | ✅ | DSH 图片皮肤插件：导入 PNG/JPG/WebP 自动生成主题配色，可选 Q 版宠物（程序化/AI 生图） | `skin` |
-| #283 | [Vast-Unhurried/dsh-toolkit](https://github.com/Vast-Unhurried/dsh-toolkit) | ⭐ 2 | ✅ | DeepSeek Harness 实用工具箱：便签、API 余额与费用、删除会话、第三方模型推理等级、对话节点导航条、轻拟物皮肤 | `skin` |
-| #284 | [Retr67/dsh-desk-pet-yami](https://github.com/Retr67/dsh-desk-pet-yami) | ⭐ 2 | ✅ | DSH 桌面宠物插件 — 金色暗影 Yami（To Love-Ru）皮肤版。非营利，仅供学习交流，侵权请联系下架。 | `skin` |
-| #285 | [HIT-HTML/dsh-ENHANCED](https://github.com/HIT-HTML/dsh-ENHANCED) | ⭐ 2 | ✅ | One plugin, every upgrade DeepSeek Harness lacks out of the box: multi-engine web search, skills & MCP managers, per-profile plugin toggles, session cleanup with hover-delete, one-click restart/shutdown, themes. Single tool surface, no telemetry. | `skin` |
-| #286 | [genius-alray/dsh-mermaid-render](https://github.com/genius-alray/dsh-mermaid-render) | ⭐ 2 | ✅ |  | `skin` |
-| #287 | [bblike/dsh-plugin-odette](https://github.com/bblike/dsh-plugin-odette) | ⭐ 2 | ✅ | Odette / Snezhnaya theme skin for DeepSeek Harness Web: winter backgrounds, ballet cursors, ballerina thinking spinner | `skin` |
-| #288 | [luxiu666/dsh-greet-plugin](https://github.com/luxiu666/dsh-greet-plugin) | ⭐ 2 | ✅ | the first dsh plugin demo | `skin` |
-| #289 | [XuXcode/dsh-loghud](https://github.com/XuXcode/dsh-loghud) | ⭐ 2 | ✅ | Live Spring Boot error HUD with opt-in AI diagnosis for DeepSeek Harness | `skin` |
-| #290 | [zhuifengqug/pixel-skin](https://github.com/zhuifengqug/pixel-skin) | ⭐ 2 | ✅ | dsh像素风皮肤 | `skin` |
-| #291 | [Weilv-D/wallpaper-engine-dsh](https://github.com/Weilv-D/wallpaper-engine-dsh) | ⭐ 2 | ✅ | DSH plugin bundle: live Wallpaper Engine backgrounds for the DSH web GUI - video/web wallpapers, static scene previews, rotation lists, search, resource monitor, bilingual UI | `skin` |
-| #292 | [swordordead/dsh-Veneer](https://github.com/swordordead/dsh-Veneer) | ⭐ 2 | ✅ | DIY你的小蓝鲸吧 | `skin` |
-| #293 | [T-MKT/dsh-customization-settings](https://github.com/T-MKT/dsh-customization-settings) | ⭐ 2 | ✅ | Provide generic UI customization settings for DeepSeek Harness, like wallpaper, theme color, etc.  | `skin` |
-| #294 | [YLifeOnlyOnce/dsh-calendar](https://github.com/YLifeOnlyOnce/dsh-calendar) | ⭐ 2 | ✅ | See at a glance what DeepSeek did, and when. 📅 A beautiful usage calendar for DeepSeek Harness — every project and task's execution time, 🎡 in day / 7-day / month / year views, with recurring reminders, animations, and full theme awareness.✨ | `skin` |
-| #295 | [SnoWinKK/dsh-background](https://github.com/SnoWinKK/dsh-background) | ⭐ 2 | ✅ | DSH 桌面版自定义背景图插件：文件选择器选图、调暗/调亮、/background 命令、localStorage 持久化 | `skin` |
-| #296 | [ToBeWin/DSH-Skin-Studio](https://github.com/ToBeWin/DSH-Skin-Studio) | ⭐ 2 | ✅ | 这是一个为 DeepSeek Harness 提供绚丽全局皮肤的独立插件 | `skin` |
-| #297 | [yang19997/dsh-live-backdrop](https://github.com/yang19997/dsh-live-backdrop) | ⭐ 2 | ✅ | DSH Web GUI 动态背景 + UI 主题接管插件：静态图/GIF/MP4 壁纸、三视觉方向预设、六色六形参可调。 | `skin` |
-| #298 | [LeemanCheung/dsh-whale-companion](https://github.com/LeemanCheung/dsh-whale-companion) | ⭐ 2 | ✅ | A native DSH desktop whale with growth, achievements, skins, and privacy-safe progress tracking | `skin` |
-| #299 | [YiCheng-Zzz/dsh-client-ui-skin-jarvis](https://github.com/YiCheng-Zzz/dsh-client-ui-skin-jarvis) | ⭐ 2 | ✅ | 可兼容web-ui的贾维斯皮肤 | `skin` |
-| #300 | [hatanokokosa/dsh-colorschemes](https://github.com/hatanokokosa/dsh-colorschemes) | ⭐ 2 | ✅ | A DSH ColorScheme Plugin | `skin` |
-| #301 | [QinpanWan/dsh-sky-skin](https://github.com/QinpanWan/dsh-sky-skin) | ⭐ 2 | ✅ | Sky: Children of the Light themed skin for DeepSeek Harness web UI - light children on a glowing star map, candlelight gold and starry night. 光遇·遇境主题皮肤。 | `skin` |
-| #302 | [stuarthu/dsh-update-notifier](https://github.com/stuarthu/dsh-update-notifier) | ⭐ 2 | ✅ | Hourly checks npm for newer versions of your installed dsh plugins and pops an approval bubble asking which to upgrade | `skin` |
-| #303 | [ZJUZhiyuCai/dsh-ivory](https://github.com/ZJUZhiyuCai/dsh-ivory) | ⭐ 2 | ✅ | Calm, auditable Claude-inspired theme for DeepSeek Harness — light/dark/mobile, safe Markdown preview, zero telemetry, zero runtime dependencies. | `skin` |
-| #304 | [Simon-yyy/dsh-theme-escook](https://github.com/Simon-yyy/dsh-theme-escook) | ⭐ 2 | ✅ | 为DeepSeek Harness桌面端打造的一款主题 | `skin` |
-| #305 | [Lxd-Ashe/dsh-codex-theme](https://github.com/Lxd-Ashe/dsh-codex-theme) | ⭐ 2 | ✅ | Codex 主题外观插件 for DeepSeek Harness（DSH）：把 Codex 主题配置（codex-theme-v1，80 款浅/深色主题）做成可在 DSH 中直接切换、可自定义的外观插件。 | `skin` |
-| #306 | [nineandnine-9/dsh-theme-rheostat](https://github.com/nineandnine-9/dsh-theme-rheostat) | ⭐ 2 | ✅ | Sliding-rheostat theme plugin for the DeepSeek Harness web GUI: model + reasoning-effort driven accents, composer glow, and a whale slider. | `skin` |
-| #307 | [nicecx/dsh-matrix-skin](https://github.com/nicecx/dsh-matrix-skin) | ⭐ 2 | ✅ | Night-friendly Matrix dark-green skin for the DeepSeek Harness web GUI (standalone mirror of upstream dsh-web-ui packages/skins/matrix) | `skin` |
-| #308 | [nlqh7/dsh-beautify](https://github.com/nlqh7/dsh-beautify) | ⭐ 2 | ✅ | DeepSeek Harness Dream Skin，DSH theme plugin: Dream Skin color presets with a settings-page switcher. | `skin` |
-| #309 | [Vergil-long/dsh-custom-font](https://github.com/Vergil-long/dsh-custom-font) | ⭐ 2 | ✅ | DSH自定义界面字体插件 | `skin` |
-| #310 | [AlexYin-Tongji/dsh-ui-enhancer](https://github.com/AlexYin-Tongji/dsh-ui-enhancer) | ⭐ 2 | ✅ | Unofficial DeepSeek Harness desktop UI plugin with file workspace, wallpapers, pets, and @file references | `skin` |
-| #311 | [megatronyy/dsh-skin-background](https://github.com/megatronyy/dsh-skin-background) | ⭐ 2 | ✅ | Image-background skin plugin for DeepSeek Harness (dsh): shipped + user wallpapers, custom image URLs, live dim/blur controls | `skin` |
-| #312 | [Britneycode/dsh-update-center](https://github.com/Britneycode/dsh-update-center) | ⭐ 2 | ✅ | dsh (DeepSeek Harness) 更新中心与插件市场：自托管 plugins.json 注册表（GitHub dsh-plugin 主题自动聚合 + npm 包名映射秒级安装），一键安装/更新/卸载/禁用插件与更新 dsh 本体。Update center & plugin marketplace for DeepSeek Harness. | `skin` |
-| #313 | [wuweiran-web/dsh-beauty-persist](https://github.com/wuweiran-web/dsh-beauty-persist) | ⭐ 2 | ✅ | 让 DSH 桌面端壁纸持久不丢：支持 GIF 动图 & MP4 视频壁纸，内置全屏皮肤中心（上传、预览、一键应用、删除素材），重启、换端口、清缓存都不丢失。Server-side wallpaper & theme persistence for DSH Desktop — animated GIF / MP4 video wallpapers plus a full-screen skin center (upload, preview, apply, delete). | `skin` |
-| #314 | [Gewuji/dsh-theme-cyberpunk2077-custom](https://github.com/Gewuji/dsh-theme-cyberpunk2077-custom) | ⭐ 2 | ✅ | Customized Cyberpunk 2077 / Night City theme for DeepSeek Harness Web UI | `skin` |
-| #315 | [lyq3/dsh-skin-nebula](https://github.com/lyq3/dsh-skin-nebula) | ⭐ 2 | ✅ | Anime skin pack for DeepSeek Harness Web UI: 5 AI-generated HD themes, top-right switcher, adjustable transparency · DSH 动漫皮肤包 | `skin` |
-| #316 | [shawnlone/dsh-theme-tuner](https://github.com/shawnlone/dsh-theme-tuner) | ⭐ 2 | ✅ |  | `skin` |
+| #278 | [hyposelen1a/dsh-columbina-theme](https://github.com/hyposelen1a/dsh-columbina-theme) | ⭐ 2 | ✅ | 原神哥伦比娅主题的 DeepSeek Harness Web 插件：背景、蒙版与明暗配色。A Genshin Impact Columbina themed plugin for DeepSeek Harness Web: background, mask, and per light/dark color schemes. | `skin` |
+| #279 | [frankxxxxue/dsh-photo-skins](https://github.com/frankxxxxue/dsh-photo-skins) | ⭐ 2 | ✅ | A DeepSeek Harness plugin that turns your photos into Web GUI skins — auto-extracted accent colors, all files stay local. | `skin` |
+| #280 | [winditer/dsh-prompt-optimizer](https://github.com/winditer/dsh-prompt-optimizer) | ⭐ 2 | ✅ |  | `skin` |
+| #281 | [Jack-sun-learner/dsh-image-skin](https://github.com/Jack-sun-learner/dsh-image-skin) | ⭐ 2 | ✅ | DSH 图片皮肤插件：导入 PNG/JPG/WebP 自动生成主题配色，可选 Q 版宠物（程序化/AI 生图） | `skin` |
+| #282 | [Vast-Unhurried/dsh-toolkit](https://github.com/Vast-Unhurried/dsh-toolkit) | ⭐ 2 | ✅ | DeepSeek Harness 实用工具箱：便签、API 余额与费用、删除会话、第三方模型推理等级、对话节点导航条、轻拟物皮肤 | `skin` |
+| #283 | [Retr67/dsh-desk-pet-yami](https://github.com/Retr67/dsh-desk-pet-yami) | ⭐ 2 | ✅ | DSH 桌面宠物插件 — 金色暗影 Yami（To Love-Ru）皮肤版。非营利，仅供学习交流，侵权请联系下架。 | `skin` |
+| #284 | [zzyyyds88/dsh-solo-leveling](https://github.com/zzyyyds88/dsh-solo-leveling) | ⭐ 2 | ✅ | DeepSeek Harness（DSH）插件集：访问门禁（登录 + HTTPS 反代）、默认值、手机端适配、桌宠、任务套件（看板 / 统计 / Git 图谱 / 皮肤），浏览器 / 手机 / 局域网公网随时调用。 | `skin` |
+| #285 | [aaPanel/btpanel-dsh](https://github.com/aaPanel/btpanel-dsh) | ⭐ 2 | ✅ |  | `skin` |
+| #286 | [Leoq-bit/dsh-theme-bside-olivia-lin](https://github.com/Leoq-bit/dsh-theme-bside-olivia-lin) | ⭐ 2 | ✅ |  | `skin` |
+| #287 | [HIT-HTML/dsh-ENHANCED](https://github.com/HIT-HTML/dsh-ENHANCED) | ⭐ 2 | ✅ | One plugin, every upgrade DeepSeek Harness lacks out of the box: multi-engine web search, skills & MCP managers, per-profile plugin toggles, session cleanup with hover-delete, one-click restart/shutdown, themes. Single tool surface, no telemetry. | `skin` |
+| #288 | [genius-alray/dsh-mermaid-render](https://github.com/genius-alray/dsh-mermaid-render) | ⭐ 2 | ✅ |  | `skin` |
+| #289 | [bblike/dsh-plugin-odette](https://github.com/bblike/dsh-plugin-odette) | ⭐ 2 | ✅ | Odette / Snezhnaya theme skin for DeepSeek Harness Web: winter backgrounds, ballet cursors, ballerina thinking spinner | `skin` |
+| #290 | [luxiu666/dsh-greet-plugin](https://github.com/luxiu666/dsh-greet-plugin) | ⭐ 2 | ✅ | the first dsh plugin demo | `skin` |
+| #291 | [sakthiveltofficial/dsh-shopify-plugins](https://github.com/sakthiveltofficial/dsh-shopify-plugins) | ⭐ 2 | ✅ | Shopify plugin for DeepSeek Harness: 213 model-facing shopify_* tools over the Shopify Admin REST + GraphQL APIs (products, orders, customers, inventory, fulfillments, discounts, content, webhooks, themes, billing, bulk operations) with Admin API access-token auth. | `skin` |
+| #292 | [XuXcode/dsh-loghud](https://github.com/XuXcode/dsh-loghud) | ⭐ 2 | ✅ | Live Spring Boot error HUD with opt-in AI diagnosis for DeepSeek Harness | `skin` |
+| #293 | [zhuifengqug/pixel-skin](https://github.com/zhuifengqug/pixel-skin) | ⭐ 2 | ✅ | dsh像素风皮肤 | `skin` |
+| #294 | [Weilv-D/wallpaper-engine-dsh](https://github.com/Weilv-D/wallpaper-engine-dsh) | ⭐ 2 | ✅ | DSH plugin bundle: live Wallpaper Engine backgrounds for the DSH web GUI - video/web wallpapers, static scene previews, rotation lists, search, resource monitor, bilingual UI | `skin` |
+| #295 | [swordordead/dsh-Veneer](https://github.com/swordordead/dsh-Veneer) | ⭐ 2 | ✅ | DIY你的小蓝鲸吧 | `skin` |
+| #296 | [T-MKT/dsh-customization-settings](https://github.com/T-MKT/dsh-customization-settings) | ⭐ 2 | ✅ | Provide generic UI customization settings for DeepSeek Harness, like wallpaper, theme color, etc.  | `skin` |
+| #297 | [YLifeOnlyOnce/dsh-calendar](https://github.com/YLifeOnlyOnce/dsh-calendar) | ⭐ 2 | ✅ | See at a glance what DeepSeek did, and when. 📅 A beautiful usage calendar for DeepSeek Harness — every project and task's execution time, 🎡 in day / 7-day / month / year views, with recurring reminders, animations, and full theme awareness.✨ | `skin` |
+| #298 | [SnoWinKK/dsh-background](https://github.com/SnoWinKK/dsh-background) | ⭐ 2 | ✅ | DSH 桌面版自定义背景图插件：文件选择器选图、调暗/调亮、/background 命令、localStorage 持久化 | `skin` |
+| #299 | [ToBeWin/DSH-Skin-Studio](https://github.com/ToBeWin/DSH-Skin-Studio) | ⭐ 2 | ✅ | 这是一个为 DeepSeek Harness 提供绚丽全局皮肤的独立插件 | `skin` |
+| #300 | [yang19997/dsh-live-backdrop](https://github.com/yang19997/dsh-live-backdrop) | ⭐ 2 | ✅ | DSH Web GUI 动态背景 + UI 主题接管插件：静态图/GIF/MP4 壁纸、三视觉方向预设、六色六形参可调。 | `skin` |
+| #301 | [LeemanCheung/dsh-whale-companion](https://github.com/LeemanCheung/dsh-whale-companion) | ⭐ 2 | ✅ | A native DSH desktop whale with growth, achievements, skins, and privacy-safe progress tracking | `skin` |
+| #302 | [YiCheng-Zzz/dsh-client-ui-skin-jarvis](https://github.com/YiCheng-Zzz/dsh-client-ui-skin-jarvis) | ⭐ 2 | ✅ | 可兼容web-ui的贾维斯皮肤 | `skin` |
+| #303 | [hatanokokosa/dsh-colorschemes](https://github.com/hatanokokosa/dsh-colorschemes) | ⭐ 2 | ✅ | A DSH ColorScheme Plugin | `skin` |
+| #304 | [QinpanWan/dsh-sky-skin](https://github.com/QinpanWan/dsh-sky-skin) | ⭐ 2 | ✅ | Sky: Children of the Light themed skin for DeepSeek Harness web UI - light children on a glowing star map, candlelight gold and starry night. 光遇·遇境主题皮肤。 | `skin` |
+| #305 | [stuarthu/dsh-update-notifier](https://github.com/stuarthu/dsh-update-notifier) | ⭐ 2 | ✅ | Hourly checks npm for newer versions of your installed dsh plugins and pops an approval bubble asking which to upgrade | `skin` |
+| #306 | [ZJUZhiyuCai/dsh-ivory](https://github.com/ZJUZhiyuCai/dsh-ivory) | ⭐ 2 | ✅ | Calm, auditable Claude-inspired theme for DeepSeek Harness — light/dark/mobile, safe Markdown preview, zero telemetry, zero runtime dependencies. | `skin` |
+| #307 | [Simon-yyy/dsh-theme-escook](https://github.com/Simon-yyy/dsh-theme-escook) | ⭐ 2 | ✅ | 为DeepSeek Harness桌面端打造的一款主题 | `skin` |
+| #308 | [Lxd-Ashe/dsh-codex-theme](https://github.com/Lxd-Ashe/dsh-codex-theme) | ⭐ 2 | ✅ | Codex 主题外观插件 for DeepSeek Harness（DSH）：把 Codex 主题配置（codex-theme-v1，80 款浅/深色主题）做成可在 DSH 中直接切换、可自定义的外观插件。 | `skin` |
+| #309 | [nineandnine-9/dsh-theme-rheostat](https://github.com/nineandnine-9/dsh-theme-rheostat) | ⭐ 2 | ✅ | Sliding-rheostat theme plugin for the DeepSeek Harness web GUI: model + reasoning-effort driven accents, composer glow, and a whale slider. | `skin` |
+| #310 | [nicecx/dsh-matrix-skin](https://github.com/nicecx/dsh-matrix-skin) | ⭐ 2 | ✅ | Night-friendly Matrix dark-green skin for the DeepSeek Harness web GUI (standalone mirror of upstream dsh-web-ui packages/skins/matrix) | `skin` |
+| #311 | [Liyuk/dsh-skin-chatlab](https://github.com/Liyuk/dsh-skin-chatlab) | ⭐ 2 | ✅ | Extensible chat-skin monorepo for the DeepSeek Harness Web GUI: a base registry + plug-in skin packages (Feishu-style chat bubbles), plug-and-play without touching chat logic. | `skin` |
+| #312 | [nlqh7/dsh-beautify](https://github.com/nlqh7/dsh-beautify) | ⭐ 2 | ✅ | DeepSeek Harness Dream Skin，DSH theme plugin: Dream Skin color presets with a settings-page switcher. | `skin` |
+| #313 | [Vergil-long/dsh-custom-font](https://github.com/Vergil-long/dsh-custom-font) | ⭐ 2 | ✅ | DSH自定义界面字体插件 | `skin` |
+| #314 | [Britneycode/dsh-update-center](https://github.com/Britneycode/dsh-update-center) | ⭐ 2 | ✅ | dsh (DeepSeek Harness) 更新中心与插件市场：自托管 plugins.json 注册表（GitHub dsh-plugin 主题自动聚合 + npm 包名映射秒级安装），一键安装/更新/卸载/禁用插件与更新 dsh 本体。Update center & plugin marketplace for DeepSeek Harness. | `skin` |
+| #315 | [AlexYin-Tongji/dsh-ui-enhancer](https://github.com/AlexYin-Tongji/dsh-ui-enhancer) | ⭐ 2 | ✅ | Unofficial DeepSeek Harness desktop UI plugin with file workspace, wallpapers, pets, and @file references | `skin` |
+| #316 | [megatronyy/dsh-skin-background](https://github.com/megatronyy/dsh-skin-background) | ⭐ 2 | ✅ | Image-background skin plugin for DeepSeek Harness (dsh): shipped + user wallpapers, custom image URLs, live dim/blur controls | `skin` |
 | #317 | [Smith-yue/harness-plugin](https://github.com/Smith-yue/harness-plugin) | ⭐ 2 | ✅ | harness-plugin | `skin` |
-| #318 | [Liyuk/dsh-skin-chatlab](https://github.com/Liyuk/dsh-skin-chatlab) | ⭐ 2 | ✅ | Extensible chat-skin monorepo for the DeepSeek Harness Web GUI: a base registry + plug-in skin packages (Feishu-style chat bubbles), plug-and-play without touching chat logic. | `skin` |
-| #319 | [DJCCCCCCCC/midi_operater](https://github.com/DJCCCCCCCC/midi_operater) | ⭐ 2 | ✅ |  | `skin` |
-| #320 | [ZHOUcourier/dsh-theme-whalegirl](https://github.com/ZHOUcourier/dsh-theme-whalegirl) | ⭐ 2 | ✅ | DeepSeek-鲸鱼娘 (Whale Girl) theme for the DeepSeek Harness Web UI — ported from DreamSkin ver_cb557ececaa5de3f3dbe: full --dsw-* token remap + ambient wallpaper. | `skin` |
-| #321 | [tinnyxx/dsh-xiaoxinxin-skin](https://github.com/tinnyxx/dsh-xiaoxinxin-skin) | ⭐ 2 | ✅ | DeepSeek Harness WebUI 蜡笔小新主题皮肤（基于 dsh-deep-whale maid-atelier 工程） | `skin` |
-| #322 | [EZ118/dsh-ppt-composer](https://github.com/EZ118/dsh-ppt-composer) | ⭐ 2 | ✅ | DeepSeek Harness 的 AI PPT 生成助手 Cordis 插件。载入后，直接对话即可生成幻灯片。支持AI自定义幻灯片内容、图表、多媒体、主题和切换效果等。 | `skin` |
-| #323 | [iskshadow195563/DeepSeek_Harness_Balance_Banner](https://github.com/iskshadow195563/DeepSeek_Harness_Balance_Banner) | ⭐ 2 | ✅ | 💵 DeepSeek 余额横幅(dsh 插件):页面顶部右侧(主题切换按钮左侧)同时显示 USD/CNY 余额,负值高亮,60s 自动刷新,一条命令安装 | `skin` |
-| #324 | [zengrz/dsh-matrix-theme](https://github.com/zengrz/dsh-matrix-theme) | ⭐ 2 | ✅ | The Matrix movie theme for the DeepSeek Harness (dsh) web GUI — installable dsh plugin: green-on-black palette, digital-rain backdrop, and a General-settings toggle. | `skin` |
-| #325 | [CoolTea001/dsh-cool-theme](https://github.com/CoolTea001/dsh-cool-theme) | ⭐ 2 | ✅ | A plugin for changing themes for DSH, with a number of popular default themes built in. | `skin` |
-| #326 | [Leoq-bit/dsh-theme-bside-olivia-lin](https://github.com/Leoq-bit/dsh-theme-bside-olivia-lin) | ⭐ 2 | ✅ |  | `skin` |
-| #327 | [luckzhangfengbo/dsh-web-theme](https://github.com/luckzhangfengbo/dsh-web-theme) | ⭐ 2 | ✅ | deepseek harness 背景主题插件 | `skin` |
-| #328 | [sakthiveltofficial/dsh-shopify-plugins](https://github.com/sakthiveltofficial/dsh-shopify-plugins) | ⭐ 2 | ✅ | Shopify plugin for DeepSeek Harness: 213 model-facing shopify_* tools over the Shopify Admin REST + GraphQL APIs (products, orders, customers, inventory, fulfillments, discounts, content, webhooks, themes, billing, bulk operations) with Admin API access-token auth. | `skin` |
-| #329 | [onenameneo/dsh-plugin-loom-chat](https://github.com/onenameneo/dsh-plugin-loom-chat) | ⭐ 2 | ✅ | Loom Chat is a DSH Web client plugin that turns linear ordinary sessions into a pannable, zoomable Loom-style canvas for parallel exploration. | `skin` |
-| #330 | [10086ggqq/dsh_theme_Minecraft](https://github.com/10086ggqq/dsh_theme_Minecraft) | ⭐ 2 | ✅ | 把 DeepSeek Harness 变成 Minecraft Java Edition 风格——WebGL 旋转全景主菜单、存档式会话选择、四种游戏模式对应 Agent 预设、世界内 HUD 聊天台、像素风工具卡片与审批面板、AI 思考时触发跑酷小游戏、8-bit 合成音效与自定义背景音乐、五类互动桌宠与红石粒子特效。零侵入 DSH 核心源码，经典界面一键切回。 | `skin` |
+| #318 | [wuweiran-web/dsh-beauty-persist](https://github.com/wuweiran-web/dsh-beauty-persist) | ⭐ 2 | ✅ | 让 DSH 桌面端壁纸持久不丢：支持 GIF 动图 & MP4 视频壁纸，内置全屏皮肤中心（上传、预览、一键应用、删除素材），重启、换端口、清缓存都不丢失。Server-side wallpaper & theme persistence for DSH Desktop — animated GIF / MP4 video wallpapers plus a full-screen skin center (upload, preview, apply, delete). | `skin` |
+| #319 | [Gewuji/dsh-theme-cyberpunk2077-custom](https://github.com/Gewuji/dsh-theme-cyberpunk2077-custom) | ⭐ 2 | ✅ | Customized Cyberpunk 2077 / Night City theme for DeepSeek Harness Web UI | `skin` |
+| #320 | [lyq3/dsh-skin-nebula](https://github.com/lyq3/dsh-skin-nebula) | ⭐ 2 | ✅ | Anime skin pack for DeepSeek Harness Web UI: 5 AI-generated HD themes, top-right switcher, adjustable transparency · DSH 动漫皮肤包 | `skin` |
+| #321 | [shawnlone/dsh-theme-tuner](https://github.com/shawnlone/dsh-theme-tuner) | ⭐ 2 | ✅ |  | `skin` |
+| #322 | [DJCCCCCCCC/midi_operater](https://github.com/DJCCCCCCCC/midi_operater) | ⭐ 2 | ✅ |  | `skin` |
+| #323 | [ZHOUcourier/dsh-theme-whalegirl](https://github.com/ZHOUcourier/dsh-theme-whalegirl) | ⭐ 2 | ✅ | DeepSeek-鲸鱼娘 (Whale Girl) theme for the DeepSeek Harness Web UI — ported from DreamSkin ver_cb557ececaa5de3f3dbe: full --dsw-* token remap + ambient wallpaper. | `skin` |
+| #324 | [tinnyxx/dsh-xiaoxinxin-skin](https://github.com/tinnyxx/dsh-xiaoxinxin-skin) | ⭐ 2 | ✅ | DeepSeek Harness WebUI 蜡笔小新主题皮肤（基于 dsh-deep-whale maid-atelier 工程） | `skin` |
+| #325 | [EZ118/dsh-ppt-composer](https://github.com/EZ118/dsh-ppt-composer) | ⭐ 2 | ✅ | DeepSeek Harness 的 AI PPT 生成助手 Cordis 插件。载入后，直接对话即可生成幻灯片。支持AI自定义幻灯片内容、图表、多媒体、主题和切换效果等。 | `skin` |
+| #326 | [iskshadow195563/DeepSeek_Harness_Balance_Banner](https://github.com/iskshadow195563/DeepSeek_Harness_Balance_Banner) | ⭐ 2 | ✅ | 💵 DeepSeek 余额横幅(dsh 插件):页面顶部右侧(主题切换按钮左侧)同时显示 USD/CNY 余额,负值高亮,60s 自动刷新,一条命令安装 | `skin` |
+| #327 | [zengrz/dsh-matrix-theme](https://github.com/zengrz/dsh-matrix-theme) | ⭐ 2 | ✅ | The Matrix movie theme for the DeepSeek Harness (dsh) web GUI — installable dsh plugin: green-on-black palette, digital-rain backdrop, and a General-settings toggle. | `skin` |
+| #328 | [CoolTea001/dsh-cool-theme](https://github.com/CoolTea001/dsh-cool-theme) | ⭐ 2 | ✅ | A plugin for changing themes for DSH, with a number of popular default themes built in. | `skin` |
+| #329 | [luckzhangfengbo/dsh-web-theme](https://github.com/luckzhangfengbo/dsh-web-theme) | ⭐ 2 | ✅ | deepseek harness 背景主题插件 | `skin` |
+| #330 | [onenameneo/dsh-plugin-loom-chat](https://github.com/onenameneo/dsh-plugin-loom-chat) | ⭐ 2 | ✅ | Loom Chat is a DSH Web client plugin that turns linear ordinary sessions into a pannable, zoomable Loom-style canvas for parallel exploration. | `skin` |
 | #331 | [loyalchiiina/dsh-font-enhancer](https://github.com/loyalchiiina/dsh-font-enhancer) | ⭐ 2 | ✅ | DIY 你的 DSH 界面：按区域自定义字体/字号/颜色 \| DIY your DSH UI fonts & colors | `skin` |
-| #332 | [yu-wenchao/dsh-opencode-free-models](https://github.com/yu-wenchao/dsh-opencode-free-models) | ⭐ 2 | ✅ | 无限免费额度的deepseek harnes 免费模型插件-免费api-DeepSeek Harness (DSH) 插件 — 在聊天界面里实时展示 OpenCode Zen 的最新免费模型，无需登录、无需密钥，直接在模型选择器选用即可对话。切换网络实现无限额度，无限量token自由！ | `skin` |
-| #333 | [LamplitIsles/dsh-companion](https://github.com/LamplitIsles/dsh-companion) | ⭐ 2 | ✅ | dsh as companion ai frontend in Svelte | `skin` |
+| #332 | [LamplitIsles/dsh-companion](https://github.com/LamplitIsles/dsh-companion) | ⭐ 2 | ✅ | dsh as companion ai frontend in Svelte | `skin` |
+| #333 | [yu-wenchao/dsh-opencode-free-models](https://github.com/yu-wenchao/dsh-opencode-free-models) | ⭐ 2 | ✅ | 无限免费额度的deepseek harnes 免费模型插件-免费api-DeepSeek Harness (DSH) 插件 — 在聊天界面里实时展示 OpenCode Zen 的最新免费模型，无需登录、无需密钥，直接在模型选择器选用即可对话。切换网络实现无限额度，无限量token自由！ | `skin` |
 | #334 | [HeShen-1/deepseek-whale-wallpaper](https://github.com/HeShen-1/deepseek-whale-wallpaper) | ⭐ 2 | ✅ | 🐋 Live dot-matrix whale wallpaper plugin for the DeepSeek Harness (dsh) web UI — 1,750 breathing WebGL2 particles, pointer vortices, light/dark themes · 深度求索 Harness 点阵鲸鱼动态壁纸插件 | `skin` |
 | #335 | [bruce-hmz/dsh-skin-center](https://github.com/bruce-hmz/dsh-skin-center) | ⭐ 1 | ✅ |  | `skin` |
 | #336 | [gooosie/dsh-whale-bg](https://github.com/gooosie/dsh-whale-bg) | ⭐ 1 | ✅ | Unofficial DeepSeek Harness particle-whale background plugin with cursor lighting and theme support. | `skin` |
@@ -352,16 +352,16 @@
 | #348 | [qe2592008/dsh-ui-customizer](https://github.com/qe2592008/dsh-ui-customizer) | ⭐ 1 | ✅ | DSH界面定制插件，暂时支持背景图片的自定义操作和主题定制操作，可以随便添加背景图片，并支持保存10个历史图片，主题可以保存无限个 | `skin` |
 | #349 | [futongxu9-maker/dsh-msgrail](https://github.com/futongxu9-maker/dsh-msgrail) | ⭐ 1 | ✅ | MsgRail 消息轨道：DeepSeek Harness 对话右缘消息索引插件（悬停预览/点击跳转/自动加载历史），纯插件零宿主侵入，皮肤全适配 | `skin` |
 | #350 | [Nuomi9/dsh-fgo-chaldea](https://github.com/Nuomi9/dsh-fgo-chaldea) | ⭐ 1 | ✅ | FGO Chaldea-inspired skin pack for DeepSeek Harness Web UI: 5 themes, original generated backdrops, gold trim. | `skin` |
-| #351 | [1gudao1/angelina-web-deco](https://github.com/1gudao1/angelina-web-deco) | ⭐ 1 | ✅ | Arknights Angelina themed DeepSeek Harness (DSH) web decoration plugin - 明日方舟安洁莉娜主题 DSH Web 装饰插件 | `skin` |
-| #352 | [sHen9Qi/dsh-asuka-pet](https://github.com/sHen9Qi/dsh-asuka-pet) | ⭐ 1 | ✅ |  | `skin` |
-| #353 | [dingge001/dsh-redact](https://github.com/dingge001/dsh-redact) | ⭐ 1 | ✅ | DSH / DeepSeek Harness plugin: runtime secret & PII redaction with mask, reversible vault and execution-time substitution | `skin` |
-| #354 | [xiaoyanzi191/dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) | ⭐ 1 | ✅ | Premium color palettes for DeepSeek Harness — 8 built-in + custom import (热插拔主题插件) | `skin` |
+| #351 | [sHen9Qi/dsh-asuka-pet](https://github.com/sHen9Qi/dsh-asuka-pet) | ⭐ 1 | ✅ |  | `skin` |
+| #352 | [dingge001/dsh-redact](https://github.com/dingge001/dsh-redact) | ⭐ 1 | ✅ | DSH / DeepSeek Harness plugin: runtime secret & PII redaction with mask, reversible vault and execution-time substitution | `skin` |
+| #353 | [xiaoyanzi191/dsh-premium-themes](https://github.com/xiaoyanzi191/dsh-premium-themes) | ⭐ 1 | ✅ | Premium color palettes for DeepSeek Harness — 8 built-in + custom import (热插拔主题插件) | `skin` |
+| #354 | [1gudao1/angelina-web-deco](https://github.com/1gudao1/angelina-web-deco) | ⭐ 1 | ✅ | Arknights Angelina themed DeepSeek Harness (DSH) web decoration plugin - 明日方舟安洁莉娜主题 DSH Web 装饰插件 | `skin` |
 | #355 | [JueMing2049/deepseek-skin-studio](https://github.com/JueMing2049/deepseek-skin-studio) | ⭐ 1 | ✅ | DeepSeek Harness 换肤工作室：一张图一套皮肤。三通道注入（书签/CDP/原生插件）+ 可视化工坊 + 13 套内置主题 + DSH-SKIN-SPEC 导出。非官方社区项目。 | `skin` |
 | #356 | [ReLuckyLucy/dsh_Rhine_Lab_theme](https://github.com/ReLuckyLucy/dsh_Rhine_Lab_theme) | ⭐ 1 | ✅ | Arknights Rhine Lab (莱茵生命) skin for the DeepSeek Harness Web GUI | `skin` |
-| #357 | [youyli03/dsh-palenight-theme](https://github.com/youyli03/dsh-palenight-theme) | ⭐ 1 | ✅ | A dynamic Cordis plugin that themes the dsh Harness Web UI — Palenight dark + warm-neutral light | `skin` |
-| #358 | [Ackerman0/dsh-desktop](https://github.com/Ackerman0/dsh-desktop) | ⭐ 1 | 🟡 | DeepSeek Harness桌面版 | `skin` |
-| #359 | [lgYanami/dsh-theme-yanami-sky](https://github.com/lgYanami/dsh-theme-yanami-sky) | ⭐ 1 | ✅ | DeepSeek Harness 皮肤插件:八奈见杏菜 × 天台 · 浅天蓝高级感 (Yanami Sky theme skin for DeepSeek Harness) | `skin` |
-| #360 | [YouHui1/dsh-image-skin](https://github.com/YouHui1/dsh-image-skin) | ⭐ 1 | ✅ | A DeepSeek Harness web plugin: set a background image and adapt the UI's text, background, brand and border colors to the image palette automatically.Built with DeepSeek Harness | `skin` |
+| #357 | [YouHui1/dsh-image-skin](https://github.com/YouHui1/dsh-image-skin) | ⭐ 1 | ✅ | A DeepSeek Harness web plugin: set a background image and adapt the UI's text, background, brand and border colors to the image palette automatically.Built with DeepSeek Harness | `skin` |
+| #358 | [youyli03/dsh-palenight-theme](https://github.com/youyli03/dsh-palenight-theme) | ⭐ 1 | ✅ | A dynamic Cordis plugin that themes the dsh Harness Web UI — Palenight dark + warm-neutral light | `skin` |
+| #359 | [Ackerman0/dsh-desktop](https://github.com/Ackerman0/dsh-desktop) | ⭐ 1 | 🟡 | DeepSeek Harness桌面版 | `skin` |
+| #360 | [lgYanami/dsh-theme-yanami-sky](https://github.com/lgYanami/dsh-theme-yanami-sky) | ⭐ 1 | ✅ | DeepSeek Harness 皮肤插件:八奈见杏菜 × 天台 · 浅天蓝高级感 (Yanami Sky theme skin for DeepSeek Harness) | `skin` |
 | #361 | [justintangsysu/dsh-amadeus-skin](https://github.com/justintangsysu/dsh-amadeus-skin) | ⭐ 1 | ✅ | Steins;Gate 0 / Amadeus inspired skin for DeepSeek Harness Web. | `skin` |
 | #362 | [GGbao-114/Cyberpunk-theme-for-dsh](https://github.com/GGbao-114/Cyberpunk-theme-for-dsh) | ⭐ 1 | ✅ | Cyberpunk 2077 red/neon theme for DeepSeek Harness (dsh-plugin) — fork of dsh-theme-cyberpunk2077 by Tommy00748. Embedded Ryzes/Cyberpunk fonts, INFECTING boot, Tab relic-virus switcher. | `skin` |
 | #363 | [EachSheep/dsh-valley-pixel-skin](https://github.com/EachSheep/dsh-valley-pixel-skin) | ⭐ 1 | ✅ | A cozy farm pixel skin for DeepSeek Harness Desktop and Web UI. | `skin` |
@@ -378,112 +378,112 @@
 | #374 | [breaker505/dsh-aurora-skin](https://github.com/breaker505/dsh-aurora-skin) | ⭐ 1 | ✅ | Three hand-tuned skins for DeepSeek Harness (DSH): Aurora (deep navy + electric cyan + warm coral), Paper (cool white + deep teal), and Hologram (near-black + lime-cyan). Pure --dsw-alias-* tokens, no core patches. | `skin` |
 | #375 | [zoyluoblue/deepseek-harness-avatar](https://github.com/zoyluoblue/deepseek-harness-avatar) | ⭐ 1 | ✅ | Wallpaper theming plugin for DeepSeek Harness (dsh): upload images in Settings and use one as the web UI background, with readability veil, blur, and fill controls | `skin` |
 | #376 | [YaoaY/dsh-conversation-accents](https://github.com/YaoaY/dsh-conversation-accents) | ⭐ 1 | ✅ | 为 DSH Web 的助手 Markdown、工具调用和 Think 内容提供可自定义的语义配色。Customizable semantic color accents for assistant Markdown, tool calls, and Think blocks in DSH Web. | `skin` |
-| #377 | [winditer/dsh-prompt-optimizer](https://github.com/winditer/dsh-prompt-optimizer) | ⭐ 1 | ✅ |  | `skin` |
+| #377 | [naniwet/dsh-themes](https://github.com/naniwet/dsh-themes) | ⭐ 1 | ✅ | A configurable skin for the DeepSeek Harness web UI: palette, display font and every image slot are configuration, with two bundled presets. | `skin` |
 | #378 | [SnoWinKK/dsh-web-skin](https://github.com/SnoWinKK/dsh-web-skin) | ⭐ 1 | ✅ | DSH Web 界面壁纸皮肤：任意本地路径换图、玻璃半透明、设置面板、重启自动恢复 | `skin` |
 | #379 | [linzhuoliSOC/dsh-skin-study](https://github.com/linzhuoliSOC/dsh-skin-study) | ⭐ 1 | ✅ | deepseek harness 3D 书房皮肤 | `skin` |
-| #380 | [naniwet/dsh-themes](https://github.com/naniwet/dsh-themes) | ⭐ 1 | ✅ | A configurable skin for the DeepSeek Harness web UI: palette, display font and every image slot are configuration, with two bundled presets. | `skin` |
-| #381 | [XCNXNXNX/dsh-weekly-hot](https://github.com/XCNXNXNX/dsh-weekly-hot) | ⭐ 1 | ✅ | DSH Web UI 每周热门插件榜单侧栏面板：7/30/90 天飙升榜 + 社区精选主题榜，一键安装，零运行时依赖。\| Weekly hot DSH plugin leaderboard sidebar for the DSH Web UI: 7/30/90-day trending + curated topic boards, one-click install, zero runtime deps. | `skin` |
-| #382 | [d-ouyang/dsh-plugin-ascension](https://github.com/d-ouyang/dsh-plugin-ascension) | ⭐ 1 | ✅ | 渡劫飞升：DeepSeek Harness 的仙逆·王林修炼伙伴。监控 LLM 会话状态驱动动画，随使用修炼升境，境界越高皮肤越华丽。 | `skin` |
-| #383 | [KaramachiA217/dsh-settings-ui](https://github.com/KaramachiA217/dsh-settings-ui) | ⭐ 1 | ✅ | A unified settings-page UI kit + floating-panel kit for DeepSeek Harness plugins. Exposes the ctx.settingsUi service - themed primitives, declarative forms, a settings state machine (fenced route or official settingsScope) and overlay/Panel APIs - so plugins get a polished settings surface without hand-rolling their own UI. | `skin` |
-| #384 | [JesonChou/dsh-codex-file-panel](https://github.com/JesonChou/dsh-codex-file-panel) | ⭐ 1 | ✅ | codex风格的dsh web ui右侧文件面板插件 | `skin` |
-| #385 | [TableRogue/dsh-fusion-pixel-font](https://github.com/TableRogue/dsh-fusion-pixel-font) | ⭐ 1 | ✅ | 用 Fusion Pixel 12px 像素字体替换 DeepSeek Harness GUI 界面与代码字体 | `skin` |
-| #386 | [yuqisun/dsh-theme-machine](https://github.com/yuqisun/dsh-theme-machine) | ⭐ 1 | ✅ | A Person-of-Interest surveillance-terminal theme for deepseek-harness — the machine is watching. | `skin` |
-| #387 | [juliye2025/dsh-butler-atelier](https://github.com/juliye2025/dsh-butler-atelier) | ⭐ 1 | ✅ | DeepSeek Harness Web GUI 深海男仆工坊主题皮肤 | `skin` |
-| #388 | [kc0ed/dsh-claude-theme](https://github.com/kc0ed/dsh-claude-theme) | ⭐ 1 | ✅ |  | `skin` |
-| #389 | [a903067276-rgb/dsh-simple-memory](https://github.com/a903067276-rgb/dsh-simple-memory) | ⭐ 1 | ✅ | Layered markdown memory for DeepSeek Harness (dsh): per-session index injection, one-click memory-flow button, enforced 分类-主题.md format, cross-project search | `skin` |
-| #390 | [Jayliu2025-vip/dsh-fate-twin-contract](https://github.com/Jayliu2025-vip/dsh-fate-twin-contract) | ⭐ 1 | ✅ | Unofficial Fate-inspired Archer × Rin skin for the DeepSeek Harness Web GUI — original fan art, light/dark modes, offline and reversible. | `skin` |
-| #391 | [hanyi7867069-create/dsh-moonrise](https://github.com/hanyi7867069-create/dsh-moonrise) | ⭐ 1 | ✅ | 月升 Moonrise — a warm amber-on-midnight theme for the DeepSeek Harness Web UI. | `skin` |
-| #392 | [shuigege2025-dev/cloud-smoke-widget](https://github.com/shuigege2025-dev/cloud-smoke-widget) | ⭐ 1 | ✅ | An interactive virtual-smoking fidget widget for DeepSeek Harness (DSH) — a Cordis client plugin built and open-sourced by an AI agent. 等 AI 时解压用：点燃、猛吸、弹烟灰、吐烟圈，六种主题氛围。 | `skin` |
-| #393 | [caisiyang123/dsh-theme-dodger-17](https://github.com/caisiyang123/dsh-theme-dodger-17) | ⭐ 1 | ✅ | Dodger-blue ballpark theme plugin for DeepSeek Harness — day & night palettes with baseball-stitch red accents, a nod to #17 | `skin` |
-| #394 | [ZaVang/dsh-diorama](https://github.com/ZaVang/dsh-diorama) | ⭐ 1 | ✅ |  | `skin` |
-| #395 | [zsyayo112/dsh-rick-and-morty](https://github.com/zsyayo112/dsh-rick-and-morty) | ⭐ 1 | ✅ | Rick and Morty theme + desktop pet for the dsh web GUI — three skins, six companions, agent-driven moods | `skin` |
-| #396 | [Morinissleeping/dsh-pnc-theme](https://github.com/Morinissleeping/dsh-pnc-theme) | ⭐ 1 | ✅ |  | `skin` |
-| #397 | [BPZ0726/dsh-bestui](https://github.com/BPZ0726/dsh-bestui) | ⭐ 1 | ✅ | Adaptive wallpaper and appearance studio for the DeepSeek Harness Web UI. | `skin` |
-| #398 | [sweatybear12138/dsh-collection](https://github.com/sweatybear12138/dsh-collection) | ⭐ 1 | ✅ | DeepSeek Harness 美化项目合集：皮肤插件（照片/视频壁纸+自动取色+毛玻璃）+ 快捷图标工具（图片→ico→.lnk） | `skin` |
-| #399 | [zepeng-jin/dsh-particle-whale](https://github.com/zepeng-jin/dsh-particle-whale) | ⭐ 1 | ✅ | 🐳 DeepSeek official 3D particle whale plugin for DeepSeek Harness / DSH Desktop (Three.js WebGL) | `skin` |
-| #400 | [GptsApp/dsh-stylevault](https://github.com/GptsApp/dsh-stylevault) | ⭐ 1 | ✅ | StyleVault — classic themes + Style Settings for DeepSeek Harness (30 palettes, shareable configs) | `skin` |
-| #401 | [YangAtC/dsh-theme](https://github.com/YangAtC/dsh-theme) | ⭐ 1 | ✅ | DSH (DeepSeek Harness) 主题自定义插件：背景图 + 界面透明度调节，开箱即用 | `skin` |
-| #402 | [YuanTutu/dsh-plugin-water-tracker](https://github.com/YuanTutu/dsh-plugin-water-tracker) | ⭐ 1 | ✅ | DeepSeek Harness 喝水打卡插件：水杯动画 + GitHub 风格热力图 + 深浅色主题同步 | `skin` |
-| #403 | [AIRIKE1/dsh-client-ui-tweakcn](https://github.com/AIRIKE1/dsh-client-ui-tweakcn) | ⭐ 1 | ✅ | DSH 客户端主题插件：把 tweakcn.com 导出的 index.css 映射为 DSH 语义 token（配色/圆角/阴影/字体），支持主题保存/切换/编辑 | `skin` |
-| #404 | [uckkk/dsh-skin-pack](https://github.com/uckkk/dsh-skin-pack) | ⭐ 1 | ✅ | DSH 皮肤合集：苹果风/赛博朋克/魔兽世界/极光/暗黑金/樱花/复古终端/深空 共 8 套。8 skins for DeepSeek Harness web UI. | `skin` |
-| #405 | [yolorouter/dsh-llmasking](https://github.com/yolorouter/dsh-llmasking) | ⭐ 1 | ✅ | Transport-layer data masking for deepseek-harness (dsh): the model sees placeholders, you see real values restored live in the stream. | `skin` |
-| #406 | [Jayliu2025-vip/dsh-theme-huluwa](https://github.com/Jayliu2025-vip/dsh-theme-huluwa) | ⭐ 1 | ✅ | 葫芦娃（Calabash Brothers）theme plugin for DeepSeek Harness Web UI — 七兄弟七彩配色、葫芦宝匣控制台、山中时钟、修炼中状态、蛇精/宝葫芦彩蛋 \| Huluwa theme for DSH | `skin` |
-| #407 | [1MLightyears/dsh-theme-synthwave](https://github.com/1MLightyears/dsh-theme-synthwave) | ⭐ 1 | ✅ | A synthwave style DeepSeek Harness(dsh) theme | `skin` |
-| #408 | [Jisakuna/Whale-QwQ](https://github.com/Jisakuna/Whale-QwQ) | ⭐ 1 | ✅ | A theme plugin for deepseek harness | `skin` |
-| #409 | [crwsr124/dsh-mobile-layout](https://github.com/crwsr124/dsh-mobile-layout) | ⭐ 1 | ✅ | DeepSeek Harness Web 移动端体验套件：手机端阅读布局 + 极光玻璃换肤（文字对比度自动适配）+ 文件浏览器页签 + abort 自愈。零依赖，一个插件让 dsh web 在手机上好看好用。 | `skin` |
-| #410 | [thooy/dsh-client-ui-theme-manager](https://github.com/thooy/dsh-client-ui-theme-manager) | ⭐ 1 | ✅ |  | `skin` |
-| #411 | [Cerrda/dsh-cerrda-theme](https://github.com/Cerrda/dsh-cerrda-theme) | ⭐ 1 | ✅ |  | `skin` |
-| #412 | [weijunliang23/dsh-stzb](https://github.com/weijunliang23/dsh-stzb) | ⭐ 1 | ✅ | DSH Web 率土之滨风格皮肤 | `skin` |
-| #413 | [LilycleHeart/dsh-liuli-ui-enhance](https://github.com/LilycleHeart/dsh-liuli-ui-enhance) | ⭐ 1 | ✅ | 琉璃 UI 增强 —— DSH 主题插件:M3 动态取色、壁纸磨砂材质、声纹可视化、dock shell、嵌入式浏览器 | `skin` |
-| #414 | [JerryPhoenixCKY/dsh-plugin-wallpaper](https://github.com/JerryPhoenixCKY/dsh-plugin-wallpaper) | ⭐ 1 | ✅ | DeepSeek Harness Web wallpaper plugin: upload and crop a local image as the web workspace desktop background. | `skin` |
-| #415 | [pinkear/deepseek-harness-liverpool-theme](https://github.com/pinkear/deepseek-harness-liverpool-theme) | ⭐ 1 | ✅ | Liverpool-inspired DSH theme plugin with local custom pattern backgrounds. | `skin` |
-| #416 | [uckkk/dsh-dumpling-skin](https://github.com/uckkk/dsh-dumpling-skin) | ⭐ 1 | ✅ | 饺子皮用量 | `skin` |
-| #417 | [Leyan0365/dsh-retro-mac](https://github.com/Leyan0365/dsh-retro-mac) | ⭐ 1 | ✅ | Retro Macintosh — a classic Mac OS 8/9 Platinum skin for the DeepSeek Harness Web GUI. 复古麦金塔皮肤：铂金灰界面、Chicago 字体、条纹壁纸、浮雕控件。 | `skin` |
-| #418 | [jinzhengen964-cmyk/dsh-bg-skin](https://github.com/jinzhengen964-cmyk/dsh-bg-skin) | ⭐ 1 | ✅ | DSH web 背景皮肤插件：将 DSH 界面背景替换为本地图片（半屏居中覆盖对话区域，AI 输出卡片不透明） | `skin` |
-| #419 | [uckkk/dsh-skin-type](https://github.com/uckkk/dsh-skin-type) | ⭐ 1 | ✅ | 肤质判断 | `skin` |
-| #420 | [YiCheng-Zzz/jarvis-skin-publish-dsh-client-ui-skin-jarvis-own](https://github.com/YiCheng-Zzz/jarvis-skin-publish-dsh-client-ui-skin-jarvis-own) | ⭐ 1 | ✅ | 独立的贾维斯皮肤 | `skin` |
-| #421 | [Developerprit/dsh-new-ui](https://github.com/Developerprit/dsh-new-ui) | ⭐ 1 | ✅ | He can change your DeepSeek Harness (DSH) page, but it will conflict with dsh-web-ui. | `skin` |
-| #422 | [EnernityLune/dsh-luvian-ui-wallpaper](https://github.com/EnernityLune/dsh-luvian-ui-wallpaper) | ⭐ 1 | ✅ | Luvian UI wallpaper theme plugin for DeepSeek Harness web UI. Bring-your-own-assets, stable selector contracts, official theme/slots APIs. | `skin` |
-| #423 | [uckkk/dsh-problem-skin](https://github.com/uckkk/dsh-problem-skin) | ⭐ 1 | ✅ | 问题肌护理 | `skin` |
-| #424 | [xiaoxianasd/dsh-liquid-glass-ui](https://github.com/xiaoxianasd/dsh-liquid-glass-ui) | ⭐ 1 | ✅ | 可以更改deepseek harness背景图以及更改ui为透明液态玻璃，当模型思考时可以自动跳转视频软件 | `skin` |
-| #425 | [Baizhuojielan/dsh-doro](https://github.com/Baizhuojielan/dsh-doro) | ⭐ 1 | ✅ | Doro-themed skin plugin for the DeepSeek Harness web GUI (粉丝向非商用皮肤插件) | `skin` |
-| #426 | [NOirBRight/dsh-model-switch](https://github.com/NOirBRight/dsh-model-switch) | ⭐ 1 | ✅ | Model purposes spec and tickets for DeepSeek Harness | `skin` |
-| #427 | [jindaxia2026/dsh-duobaxian](https://github.com/jindaxia2026/dsh-duobaxian) | ⭐ 1 | ✅ | 多巴仙 — DeepSeek Harness Web UI 主题：八仙×多巴胺亮色，8 套仙家变体+界面切换器+明暗双模式。仙气多巴胺，界面好心情。 | `skin` |
-| #428 | [zaimokuza-yoshiteru/dsh-theme-library](https://github.com/zaimokuza-yoshiteru/dsh-theme-library) | ⭐ 1 | ✅ | Extensible animated theme library for DeepSeek Harness | `skin` |
-| #429 | [yanglingrise/dsh-erii-boot-splash](https://github.com/yanglingrise/dsh-erii-boot-splash) | ⭐ 1 | ✅ | Erii (Sakura) themed boot splash animation for the DeepSeek Harness Web UI: falling sakura petals, a mint monster mascot, and the line "Sakura, walk slower." Auto fades out; pure client-side. | `skin` |
-| #430 | [mjn96/dsh-rhine-theme](https://github.com/mjn96/dsh-rhine-theme) | ⭐ 1 | ✅ | 明日方舟莱茵生命美术风格的deepseek harness皮肤主题 | `skin` |
-| #431 | [sarfarazstark/dsh-material-file-icons](https://github.com/sarfarazstark/dsh-material-file-icons) | ⭐ 1 | ✅ | Material Icon Theme file & folder icons for the DeepSeek Harness web GUI (dsh-better-sidebar) - 349 authentic SVGs, named folders with open variants, zero patching required | `skin` |
-| #432 | [lemoncat7/dsh-ssh](https://github.com/lemoncat7/dsh-ssh) | ⭐ 1 | ✅ | SSH sessions, SFTP, terminals, proxies and port forwarding for DeepSeek Harness | `skin` |
-| #433 | [leamonac0823/dsh-cornell-classic-theme](https://github.com/leamonac0823/dsh-cornell-classic-theme) | ⭐ 1 | ✅ | Cornell notebook workspace for DeepSeek Harness Web UI | `skin` |
-| #434 | [sunchendd/dsh-config-export](https://github.com/sunchendd/dsh-config-export) | ⭐ 1 | ✅ | DSH 配置备份插件：侧边栏一键导出/导入 ~/.dsh 配置（设置/profile/SSH/预设/皮肤/看板），支持敏感字段脱敏与恢复前安全快照 | `skin` |
-| #435 | [NonchalantLudens/dsh-skin-collection](https://github.com/NonchalantLudens/dsh-skin-collection) | ⭐ 1 | ✅ | Multi-style skin collection for DeepSeek Harness (dsh) web GUI — 9 themes with scoped decoration CSS and a sidebar skin manager | `skin` |
-| #436 | [Elave-66/dsh-blue-sea-player](https://github.com/Elave-66/dsh-blue-sea-player) | ⭐ 1 | ✅ | 蓝海之约鲸鱼娘 DSH 播放器插件：12 套皮肤 · 5 首默认音乐 · CD 旋转封面 · 收纳小球 | `skin` |
-| #437 | [emeryxu1-blip/dsh-matrix-skin](https://github.com/emeryxu1-blip/dsh-matrix-skin) | ⭐ 1 | ✅ | Black-first Matrix hacker skin for DeepSeek Harness (DSH) Web — live session-powered code rain and readable provider reasoning. | `skin` |
-| #438 | [hero-goblins/dsh-macos-skin](https://github.com/hero-goblins/dsh-macos-skin) | ⭐ 1 | ✅ |  | `skin` |
-| #439 | [EdwardHamu/dsh-glassmorphism-theme](https://github.com/EdwardHamu/dsh-glassmorphism-theme) | ⭐ 1 | ✅ | 一个DeepSeek Harness 磨砂玻璃主题 | `skin` |
-| #440 | [mumuer1024/dsh-ui-liteglass](https://github.com/mumuer1024/dsh-ui-liteglass) | ⭐ 1 | ✅ | LiteGlass — a lightweight appearance skin for DeepSeek Harness Web UI: wallpaper, glass-like transparency, and accent color. Server-side settings, multi-device, leaves native light/dark mode alone. | `skin` |
-| #441 | [Rheasilvia/dsh-pretty-extension](https://github.com/Rheasilvia/dsh-pretty-extension) | ⭐ 1 | ✅ |  | `skin` |
-| #442 | [Jimmyzwang-cloud/dsh-inkscreen-theme](https://github.com/Jimmyzwang-cloud/dsh-inkscreen-theme) | ⭐ 1 | ✅ | Ink-and-paper Apple-glass theme for DeepSeek Harness (dsh) web client, with a handwritten jimmy sidebar brand | `skin` |
-| #443 | [znnVSNOOU/dsh-skin-Tlipoca](https://github.com/znnVSNOOU/dsh-skin-Tlipoca) | ⭐ 1 | ✅ |  | `skin` |
-| #444 | [fengb3/dsh-theme-aurum](https://github.com/fengb3/dsh-theme-aurum) | ⭐ 1 | ✅ | DSH 鎏金主题插件:金粉奢华皮肤,htm 恒等映射流水,原型驱动的逐节移植 | `skin` |
-| #445 | [shuaihaoV/dsh-TheWanderingEarthII](https://github.com/shuaihaoV/dsh-TheWanderingEarthII) | ⭐ 1 | ✅ | The Wandering Earth II · 流浪地球2 — DSH Web GUI 电影风格主题：发动机点火联动、MOSS 化发送按钮、星场 HUD | `skin` |
-| #446 | [njuptlzf/dsh-dynamic-background](https://github.com/njuptlzf/dsh-dynamic-background) | ⭐ 1 | ✅ | DeepSeek Harness (DSH) 动态背景切换插件：上传 GIF/静态图与内置 12 色纯色调色板，定时丝滑交叉淡入淡出切换页面背景，聊天区自动叠加主题色保护层。安装：dsh plugin add github:njuptlzf/dsh-dynamic-background | `skin` |
-| #447 | [Slymaster/dsh-theme-lab](https://github.com/Slymaster/dsh-theme-lab) | ⭐ 1 | ✅ | Unofficial modular themes and starter kit for DeepSeek Harness. | `skin` |
-| #448 | [kira4094/dsh-system-fonts](https://github.com/kira4094/dsh-system-fonts) | ⭐ 1 | ✅ |  | `skin` |
-| #449 | [TheHeartFickle/dsh-one-dark-pro](https://github.com/TheHeartFickle/dsh-one-dark-pro) | ⭐ 1 | ✅ | DSH（DeepSeek Harness）主题插件：注册 One Dark Pro 配色，并把「外观」设置里的主题添加 One Dark Pro。 | `skin` |
-| #450 | [XiaoluoFoxington/dsh-theme-hacker-terminal](https://github.com/XiaoluoFoxington/dsh-theme-hacker-terminal) | ⭐ 1 | ✅ | Hacker-terminal skin for the dsh web GUI: pure black, high-contrast green, right-angle geometry, monospace font, full-width conversation, OLED-safe, scrollbars on Gecko/Blink/WebKit. | `skin` |
-| #451 | [6HOLLIS/DSH-Hiyuki-Frost-Sakura](https://github.com/6HOLLIS/DSH-Hiyuki-Frost-Sakura) | ⭐ 1 | ✅ | Immersive Hiyuki dual-form skin for DeepSeek Harness Web, with frost/sakura transitions, themed controls, and native DSH layout. | `skin` |
-| #452 | [yuioi666/dsh-conversation-nav-dots](https://github.com/yuioi666/dsh-conversation-nav-dots) | ⭐ 1 | ✅ | dsh-conversation-nav-dots 在 DSH Web 对话界面的右侧添加一列导航标记。每个标记对应一条用户消息。点击即可跳转，悬停可预览所有消息内容。 | `skin` |
-| #453 | [makajo/dsh-gemini-m3e-theme](https://github.com/makajo/dsh-gemini-m3e-theme) | ⭐ 1 | ✅ | Gemini-style Material 3 Expressive theme for DeepSeek Harness Web (persistent client bundle) | `skin` |
-| #454 | [domitor-syh/dsh-ui-skin-switcher](https://github.com/domitor-syh/dsh-ui-skin-switcher) | ⭐ 1 | ✅ | Model & reasoning-effort switcher plugin for DeepSeek Harness (DSH): composer seat with Off/Max effort slider. DSH 插件：模型与思考力度切换器。 | `skin` |
-| #455 | [exoticknight/dsh-theme-eink-retro](https://github.com/exoticknight/dsh-theme-eink-retro) | ⭐ 1 | ✅ | A paper-and-ink client-side theme for DeepSeek Harness with Balanced and Immersive modes. | `skin` |
-| #456 | [Jensen-Yao/dsh-model-palette](https://github.com/Jensen-Yao/dsh-model-palette) | ⭐ 1 | ✅ | Global provider-aware model command palette and optional OpenRouter media tools for DeepSeek Harness. | `skin` |
-| #457 | [v587d/dsh-custom-skin](https://github.com/v587d/dsh-custom-skin) | ⭐ 1 | ✅ | 自己的插件皮肤管理工具。 | `skin` |
-| #458 | [tiger0012/dsh-we-wallpaper-sync](https://github.com/tiger0012/dsh-we-wallpaper-sync) | ⭐ 1 | ✅ | Reusable skill: browse/search/download Wallpaper Engine (Steam 431960) workshop wallpapers and wire them into the DSH skin center, bypassing the Steam HTTP block and region-mismatch sign-in block. | `skin` |
-| #459 | [DaydreAmRing/dsh-cho-kaguya-plugin-public](https://github.com/DaydreAmRing/dsh-cho-kaguya-plugin-public) | ⭐ 1 | ✅ | DSH皮肤插件、有超时空辉夜姬概念元素 | `skin` |
-| #460 | [cherrchen/dsh-theme-studio](https://github.com/cherrchen/dsh-theme-studio) | ⭐ 1 | ✅ | 可移植的 DSH/Cordis 主题插件：内置配色浏览、预览、应用与持久化；DeepSeek Harness Desktop 预装。 / Portable DSH/Cordis theme overlay plugin with builtin palettes, preview, apply, and persistence; pre-installed in DeepSeek Harness Desktop. | `skin` |
-| #461 | [henrychenhao/dsh-skin-argentina](https://github.com/henrychenhao/dsh-skin-argentina) | ⭐ 1 | ✅ | 梅西 阿根廷皮肤 | `skin` |
-| #462 | [dingyi580/dsh-plugin-gemini-theme](https://github.com/dingyi580/dsh-plugin-gemini-theme) | ⭐ 1 | ✅ | A Gemini-styled skin for the DeepSeek Harness web client | `skin` |
-| #463 | [xmnathan/dsh-skin-galactic-opera](https://github.com/xmnathan/dsh-skin-galactic-opera) | ⭐ 1 | ✅ | Unofficial cinematic space-opera dark skin bundle for the DSH Web GUI. | `skin` |
-| #464 | [Georgehaoren/DSH-WhaleConsole](https://github.com/Georgehaoren/DSH-WhaleConsole) | ⭐ 1 | ✅ | Unofficial macOS desktop companion and WebUI skin plugin for DeepSeek Harness. 面向 DeepSeek Harness 的非官方 macOS 桌面伴侣与 WebUI 换肤插件。 | `skin` |
-| #465 | [shlouai/dsh-debate](https://github.com/shlouai/dsh-debate) | ⭐ 1 | ✅ | Stop asking your agent what it thinks. Make it hold a trial. | `skin` |
-| #466 | [iasiv5/skins](https://github.com/iasiv5/skins) | ⭐ 1 | ✅ | DeepSeek Harness Web 界面主题/皮肤管理插件，可切换多种视觉风格。 | `skin` |
-| #467 | [2DogsLee/dsh_whalebuddy](https://github.com/2DogsLee/dsh_whalebuddy) | ⭐ 1 | ✅ | whalebuddy - DeepSeek Harness desktop pet (Windows): a DSH bundle plugin + Tauri shell. A porthole whale reflects your agent live state, with autostart & skin settings. | `skin` |
-| #468 | [lengzhanbao/dsh-raiden-theme](https://github.com/lengzhanbao/dsh-raiden-theme) | ⭐ 1 | ✅ | Raiden Inazuma Atelier / 稻妻雷电工房 — DSH Web 紫金亚克力主题（独立于 Taffy） | `skin` |
-| #469 | [Zara-Siwei/dsh-float](https://github.com/Zara-Siwei/dsh-float) | ⭐ 1 | ✅ | Floating minimal-mode DeepSeek Harness (dsh) plugin: a transparent terminal TUI over dsh web in a borderless Electron window. | `skin` |
+| #380 | [XCNXNXNX/dsh-weekly-hot](https://github.com/XCNXNXNX/dsh-weekly-hot) | ⭐ 1 | ✅ | DSH Web UI 每周热门插件榜单侧栏面板：7/30/90 天飙升榜 + 社区精选主题榜，一键安装，零运行时依赖。\| Weekly hot DSH plugin leaderboard sidebar for the DSH Web UI: 7/30/90-day trending + curated topic boards, one-click install, zero runtime deps. | `skin` |
+| #381 | [d-ouyang/dsh-plugin-ascension](https://github.com/d-ouyang/dsh-plugin-ascension) | ⭐ 1 | ✅ | 渡劫飞升：DeepSeek Harness 的仙逆·王林修炼伙伴。监控 LLM 会话状态驱动动画，随使用修炼升境，境界越高皮肤越华丽。 | `skin` |
+| #382 | [KaramachiA217/dsh-settings-ui](https://github.com/KaramachiA217/dsh-settings-ui) | ⭐ 1 | ✅ | A unified settings-page UI kit + floating-panel kit for DeepSeek Harness plugins. Exposes the ctx.settingsUi service - themed primitives, declarative forms, a settings state machine (fenced route or official settingsScope) and overlay/Panel APIs - so plugins get a polished settings surface without hand-rolling their own UI. | `skin` |
+| #383 | [JesonChou/dsh-codex-file-panel](https://github.com/JesonChou/dsh-codex-file-panel) | ⭐ 1 | ✅ | codex风格的dsh web ui右侧文件面板插件 | `skin` |
+| #384 | [TableRogue/dsh-fusion-pixel-font](https://github.com/TableRogue/dsh-fusion-pixel-font) | ⭐ 1 | ✅ | 用 Fusion Pixel 12px 像素字体替换 DeepSeek Harness GUI 界面与代码字体 | `skin` |
+| #385 | [kc0ed/dsh-claude-theme](https://github.com/kc0ed/dsh-claude-theme) | ⭐ 1 | ✅ |  | `skin` |
+| #386 | [a903067276-rgb/dsh-simple-memory](https://github.com/a903067276-rgb/dsh-simple-memory) | ⭐ 1 | ✅ | Layered markdown memory for DeepSeek Harness (dsh): per-session index injection, one-click memory-flow button, enforced 分类-主题.md format, cross-project search | `skin` |
+| #387 | [yuqisun/dsh-theme-machine](https://github.com/yuqisun/dsh-theme-machine) | ⭐ 1 | ✅ | A Person-of-Interest surveillance-terminal theme for deepseek-harness — the machine is watching. | `skin` |
+| #388 | [juliye2025/dsh-butler-atelier](https://github.com/juliye2025/dsh-butler-atelier) | ⭐ 1 | ✅ | DeepSeek Harness Web GUI 深海男仆工坊主题皮肤 | `skin` |
+| #389 | [Jayliu2025-vip/dsh-fate-twin-contract](https://github.com/Jayliu2025-vip/dsh-fate-twin-contract) | ⭐ 1 | ✅ | Unofficial Fate-inspired Archer × Rin skin for the DeepSeek Harness Web GUI — original fan art, light/dark modes, offline and reversible. | `skin` |
+| #390 | [hanyi7867069-create/dsh-moonrise](https://github.com/hanyi7867069-create/dsh-moonrise) | ⭐ 1 | ✅ | 月升 Moonrise — a warm amber-on-midnight theme for the DeepSeek Harness Web UI. | `skin` |
+| #391 | [shuigege2025-dev/cloud-smoke-widget](https://github.com/shuigege2025-dev/cloud-smoke-widget) | ⭐ 1 | ✅ | An interactive virtual-smoking fidget widget for DeepSeek Harness (DSH) — a Cordis client plugin built and open-sourced by an AI agent. 等 AI 时解压用：点燃、猛吸、弹烟灰、吐烟圈，六种主题氛围。 | `skin` |
+| #392 | [caisiyang123/dsh-theme-dodger-17](https://github.com/caisiyang123/dsh-theme-dodger-17) | ⭐ 1 | ✅ | Dodger-blue ballpark theme plugin for DeepSeek Harness — day & night palettes with baseball-stitch red accents, a nod to #17 | `skin` |
+| #393 | [ZaVang/dsh-diorama](https://github.com/ZaVang/dsh-diorama) | ⭐ 1 | ✅ |  | `skin` |
+| #394 | [zsyayo112/dsh-rick-and-morty](https://github.com/zsyayo112/dsh-rick-and-morty) | ⭐ 1 | ✅ | Rick and Morty theme + desktop pet for the dsh web GUI — three skins, six companions, agent-driven moods | `skin` |
+| #395 | [Morinissleeping/dsh-pnc-theme](https://github.com/Morinissleeping/dsh-pnc-theme) | ⭐ 1 | ✅ |  | `skin` |
+| #396 | [BPZ0726/dsh-bestui](https://github.com/BPZ0726/dsh-bestui) | ⭐ 1 | ✅ | Adaptive wallpaper and appearance studio for the DeepSeek Harness Web UI. | `skin` |
+| #397 | [AIRIKE1/dsh-client-ui-tweakcn](https://github.com/AIRIKE1/dsh-client-ui-tweakcn) | ⭐ 1 | ✅ | DSH 客户端主题插件：把 tweakcn.com 导出的 index.css 映射为 DSH 语义 token（配色/圆角/阴影/字体），支持主题保存/切换/编辑 | `skin` |
+| #398 | [uckkk/dsh-skin-pack](https://github.com/uckkk/dsh-skin-pack) | ⭐ 1 | ✅ | DSH 皮肤合集：苹果风/赛博朋克/魔兽世界/极光/暗黑金/樱花/复古终端/深空 共 8 套。8 skins for DeepSeek Harness web UI. | `skin` |
+| #399 | [yolorouter/dsh-llmasking](https://github.com/yolorouter/dsh-llmasking) | ⭐ 1 | ✅ | Transport-layer data masking for deepseek-harness (dsh): the model sees placeholders, you see real values restored live in the stream. | `skin` |
+| #400 | [sweatybear12138/dsh-collection](https://github.com/sweatybear12138/dsh-collection) | ⭐ 1 | ✅ | DeepSeek Harness 美化项目合集：皮肤插件（照片/视频壁纸+自动取色+毛玻璃）+ 快捷图标工具（图片→ico→.lnk） | `skin` |
+| #401 | [zepeng-jin/dsh-particle-whale](https://github.com/zepeng-jin/dsh-particle-whale) | ⭐ 1 | ✅ | 🐳 DeepSeek official 3D particle whale plugin for DeepSeek Harness / DSH Desktop (Three.js WebGL) | `skin` |
+| #402 | [GptsApp/dsh-stylevault](https://github.com/GptsApp/dsh-stylevault) | ⭐ 1 | ✅ | StyleVault — classic themes + Style Settings for DeepSeek Harness (30 palettes, shareable configs) | `skin` |
+| #403 | [YangAtC/dsh-theme](https://github.com/YangAtC/dsh-theme) | ⭐ 1 | ✅ | DSH (DeepSeek Harness) 主题自定义插件：背景图 + 界面透明度调节，开箱即用 | `skin` |
+| #404 | [YuanTutu/dsh-plugin-water-tracker](https://github.com/YuanTutu/dsh-plugin-water-tracker) | ⭐ 1 | ✅ | DeepSeek Harness 喝水打卡插件：水杯动画 + GitHub 风格热力图 + 深浅色主题同步 | `skin` |
+| #405 | [Jayliu2025-vip/dsh-theme-huluwa](https://github.com/Jayliu2025-vip/dsh-theme-huluwa) | ⭐ 1 | ✅ | 葫芦娃（Calabash Brothers）theme plugin for DeepSeek Harness Web UI — 七兄弟七彩配色、葫芦宝匣控制台、山中时钟、修炼中状态、蛇精/宝葫芦彩蛋 \| Huluwa theme for DSH | `skin` |
+| #406 | [1MLightyears/dsh-theme-synthwave](https://github.com/1MLightyears/dsh-theme-synthwave) | ⭐ 1 | ✅ | A synthwave style DeepSeek Harness(dsh) theme | `skin` |
+| #407 | [Jisakuna/Whale-QwQ](https://github.com/Jisakuna/Whale-QwQ) | ⭐ 1 | ✅ | A theme plugin for deepseek harness | `skin` |
+| #408 | [crwsr124/dsh-mobile-layout](https://github.com/crwsr124/dsh-mobile-layout) | ⭐ 1 | ✅ | DeepSeek Harness Web 移动端体验套件：手机端阅读布局 + 极光玻璃换肤（文字对比度自动适配）+ 文件浏览器页签 + abort 自愈。零依赖，一个插件让 dsh web 在手机上好看好用。 | `skin` |
+| #409 | [thooy/dsh-client-ui-theme-manager](https://github.com/thooy/dsh-client-ui-theme-manager) | ⭐ 1 | ✅ |  | `skin` |
+| #410 | [Cerrda/dsh-cerrda-theme](https://github.com/Cerrda/dsh-cerrda-theme) | ⭐ 1 | ✅ |  | `skin` |
+| #411 | [weijunliang23/dsh-stzb](https://github.com/weijunliang23/dsh-stzb) | ⭐ 1 | ✅ | DSH Web 率土之滨风格皮肤 | `skin` |
+| #412 | [LilycleHeart/dsh-liuli-ui-enhance](https://github.com/LilycleHeart/dsh-liuli-ui-enhance) | ⭐ 1 | ✅ | 琉璃 UI 增强 —— DSH 主题插件:M3 动态取色、壁纸磨砂材质、声纹可视化、dock shell、嵌入式浏览器 | `skin` |
+| #413 | [JerryPhoenixCKY/dsh-plugin-wallpaper](https://github.com/JerryPhoenixCKY/dsh-plugin-wallpaper) | ⭐ 1 | ✅ | DeepSeek Harness Web wallpaper plugin: upload and crop a local image as the web workspace desktop background. | `skin` |
+| #414 | [leamonac0823/dsh-cornell-classic-theme](https://github.com/leamonac0823/dsh-cornell-classic-theme) | ⭐ 1 | ✅ | Cornell notebook workspace for DeepSeek Harness Web UI | `skin` |
+| #415 | [sunchendd/dsh-config-export](https://github.com/sunchendd/dsh-config-export) | ⭐ 1 | ✅ | DSH 配置备份插件：侧边栏一键导出/导入 ~/.dsh 配置（设置/profile/SSH/预设/皮肤/看板），支持敏感字段脱敏与恢复前安全快照 | `skin` |
+| #416 | [pinkear/deepseek-harness-liverpool-theme](https://github.com/pinkear/deepseek-harness-liverpool-theme) | ⭐ 1 | ✅ | Liverpool-inspired DSH theme plugin with local custom pattern backgrounds. | `skin` |
+| #417 | [hero-goblins/dsh-macos-skin](https://github.com/hero-goblins/dsh-macos-skin) | ⭐ 1 | ✅ |  | `skin` |
+| #418 | [EdwardHamu/dsh-glassmorphism-theme](https://github.com/EdwardHamu/dsh-glassmorphism-theme) | ⭐ 1 | ✅ | 一个DeepSeek Harness 磨砂玻璃主题 | `skin` |
+| #419 | [mumuer1024/dsh-ui-liteglass](https://github.com/mumuer1024/dsh-ui-liteglass) | ⭐ 1 | ✅ | LiteGlass — a lightweight appearance skin for DeepSeek Harness Web UI: wallpaper, glass-like transparency, and accent color. Server-side settings, multi-device, leaves native light/dark mode alone. | `skin` |
+| #420 | [Rheasilvia/dsh-pretty-extension](https://github.com/Rheasilvia/dsh-pretty-extension) | ⭐ 1 | ✅ |  | `skin` |
+| #421 | [uckkk/dsh-dumpling-skin](https://github.com/uckkk/dsh-dumpling-skin) | ⭐ 1 | ✅ | 饺子皮用量 | `skin` |
+| #422 | [Leyan0365/dsh-retro-mac](https://github.com/Leyan0365/dsh-retro-mac) | ⭐ 1 | ✅ | Retro Macintosh — a classic Mac OS 8/9 Platinum skin for the DeepSeek Harness Web GUI. 复古麦金塔皮肤：铂金灰界面、Chicago 字体、条纹壁纸、浮雕控件。 | `skin` |
+| #423 | [jinzhengen964-cmyk/dsh-bg-skin](https://github.com/jinzhengen964-cmyk/dsh-bg-skin) | ⭐ 1 | ✅ | DSH web 背景皮肤插件：将 DSH 界面背景替换为本地图片（半屏居中覆盖对话区域，AI 输出卡片不透明） | `skin` |
+| #424 | [uckkk/dsh-skin-type](https://github.com/uckkk/dsh-skin-type) | ⭐ 1 | ✅ | 肤质判断 | `skin` |
+| #425 | [znnVSNOOU/dsh-skin-Tlipoca](https://github.com/znnVSNOOU/dsh-skin-Tlipoca) | ⭐ 1 | ✅ |  | `skin` |
+| #426 | [YiCheng-Zzz/jarvis-skin-publish-dsh-client-ui-skin-jarvis-own](https://github.com/YiCheng-Zzz/jarvis-skin-publish-dsh-client-ui-skin-jarvis-own) | ⭐ 1 | ✅ | 独立的贾维斯皮肤 | `skin` |
+| #427 | [Developerprit/dsh-new-ui](https://github.com/Developerprit/dsh-new-ui) | ⭐ 1 | ✅ | He can change your DeepSeek Harness (DSH) page, but it will conflict with dsh-web-ui. | `skin` |
+| #428 | [EnernityLune/dsh-luvian-ui-wallpaper](https://github.com/EnernityLune/dsh-luvian-ui-wallpaper) | ⭐ 1 | ✅ | Luvian UI wallpaper theme plugin for DeepSeek Harness web UI. Bring-your-own-assets, stable selector contracts, official theme/slots APIs. | `skin` |
+| #429 | [uckkk/dsh-problem-skin](https://github.com/uckkk/dsh-problem-skin) | ⭐ 1 | ✅ | 问题肌护理 | `skin` |
+| #430 | [xiaoxianasd/dsh-liquid-glass-ui](https://github.com/xiaoxianasd/dsh-liquid-glass-ui) | ⭐ 1 | ✅ | 可以更改deepseek harness背景图以及更改ui为透明液态玻璃，当模型思考时可以自动跳转视频软件 | `skin` |
+| #431 | [Baizhuojielan/dsh-doro](https://github.com/Baizhuojielan/dsh-doro) | ⭐ 1 | ✅ | Doro-themed skin plugin for the DeepSeek Harness web GUI (粉丝向非商用皮肤插件) | `skin` |
+| #432 | [NOirBRight/dsh-model-switch](https://github.com/NOirBRight/dsh-model-switch) | ⭐ 1 | ✅ | Model purposes spec and tickets for DeepSeek Harness | `skin` |
+| #433 | [jindaxia2026/dsh-duobaxian](https://github.com/jindaxia2026/dsh-duobaxian) | ⭐ 1 | ✅ | 多巴仙 — DeepSeek Harness Web UI 主题：八仙×多巴胺亮色，8 套仙家变体+界面切换器+明暗双模式。仙气多巴胺，界面好心情。 | `skin` |
+| #434 | [zaimokuza-yoshiteru/dsh-theme-library](https://github.com/zaimokuza-yoshiteru/dsh-theme-library) | ⭐ 1 | ✅ | Extensible animated theme library for DeepSeek Harness | `skin` |
+| #435 | [yanglingrise/dsh-erii-boot-splash](https://github.com/yanglingrise/dsh-erii-boot-splash) | ⭐ 1 | ✅ | Erii (Sakura) themed boot splash animation for the DeepSeek Harness Web UI: falling sakura petals, a mint monster mascot, and the line "Sakura, walk slower." Auto fades out; pure client-side. | `skin` |
+| #436 | [mjn96/dsh-rhine-theme](https://github.com/mjn96/dsh-rhine-theme) | ⭐ 1 | ✅ | 明日方舟莱茵生命美术风格的deepseek harness皮肤主题 | `skin` |
+| #437 | [sarfarazstark/dsh-material-file-icons](https://github.com/sarfarazstark/dsh-material-file-icons) | ⭐ 1 | ✅ | Material Icon Theme file & folder icons for the DeepSeek Harness web GUI (dsh-better-sidebar) - 349 authentic SVGs, named folders with open variants, zero patching required | `skin` |
+| #438 | [lemoncat7/dsh-ssh](https://github.com/lemoncat7/dsh-ssh) | ⭐ 1 | ✅ | SSH sessions, SFTP, terminals, proxies and port forwarding for DeepSeek Harness | `skin` |
+| #439 | [NonchalantLudens/dsh-skin-collection](https://github.com/NonchalantLudens/dsh-skin-collection) | ⭐ 1 | ✅ | Multi-style skin collection for DeepSeek Harness (dsh) web GUI — 9 themes with scoped decoration CSS and a sidebar skin manager | `skin` |
+| #440 | [Elave-66/dsh-blue-sea-player](https://github.com/Elave-66/dsh-blue-sea-player) | ⭐ 1 | ✅ | 蓝海之约鲸鱼娘 DSH 播放器插件：12 套皮肤 · 5 首默认音乐 · CD 旋转封面 · 收纳小球 | `skin` |
+| #441 | [emeryxu1-blip/dsh-matrix-skin](https://github.com/emeryxu1-blip/dsh-matrix-skin) | ⭐ 1 | ✅ | Black-first Matrix hacker skin for DeepSeek Harness (DSH) Web — live session-powered code rain and readable provider reasoning. | `skin` |
+| #442 | [exoticknight/dsh-theme-eink-retro](https://github.com/exoticknight/dsh-theme-eink-retro) | ⭐ 1 | ✅ | A paper-and-ink client-side theme for DeepSeek Harness with Balanced and Immersive modes. | `skin` |
+| #443 | [Jensen-Yao/dsh-model-palette](https://github.com/Jensen-Yao/dsh-model-palette) | ⭐ 1 | ✅ | Global provider-aware model command palette and optional OpenRouter media tools for DeepSeek Harness. | `skin` |
+| #444 | [tiger0012/dsh-we-wallpaper-sync](https://github.com/tiger0012/dsh-we-wallpaper-sync) | ⭐ 1 | ✅ | Reusable skill: browse/search/download Wallpaper Engine (Steam 431960) workshop wallpapers and wire them into the DSH skin center, bypassing the Steam HTTP block and region-mismatch sign-in block. | `skin` |
+| #445 | [Jimmyzwang-cloud/dsh-inkscreen-theme](https://github.com/Jimmyzwang-cloud/dsh-inkscreen-theme) | ⭐ 1 | ✅ | Ink-and-paper Apple-glass theme for DeepSeek Harness (dsh) web client, with a handwritten jimmy sidebar brand | `skin` |
+| #446 | [cherrchen/dsh-theme-studio](https://github.com/cherrchen/dsh-theme-studio) | ⭐ 1 | ✅ | 可移植的 DSH/Cordis 主题插件：内置配色浏览、预览、应用与持久化；DeepSeek Harness Desktop 预装。 / Portable DSH/Cordis theme overlay plugin with builtin palettes, preview, apply, and persistence; pre-installed in DeepSeek Harness Desktop. | `skin` |
+| #447 | [fengb3/dsh-theme-aurum](https://github.com/fengb3/dsh-theme-aurum) | ⭐ 1 | ✅ | DSH 鎏金主题插件:金粉奢华皮肤,htm 恒等映射流水,原型驱动的逐节移植 | `skin` |
+| #448 | [shuaihaoV/dsh-TheWanderingEarthII](https://github.com/shuaihaoV/dsh-TheWanderingEarthII) | ⭐ 1 | ✅ | The Wandering Earth II · 流浪地球2 — DSH Web GUI 电影风格主题：发动机点火联动、MOSS 化发送按钮、星场 HUD | `skin` |
+| #449 | [njuptlzf/dsh-dynamic-background](https://github.com/njuptlzf/dsh-dynamic-background) | ⭐ 1 | ✅ | DeepSeek Harness (DSH) 动态背景切换插件：上传 GIF/静态图与内置 12 色纯色调色板，定时丝滑交叉淡入淡出切换页面背景，聊天区自动叠加主题色保护层。安装：dsh plugin add github:njuptlzf/dsh-dynamic-background | `skin` |
+| #450 | [Slymaster/dsh-theme-lab](https://github.com/Slymaster/dsh-theme-lab) | ⭐ 1 | ✅ | Unofficial modular themes and starter kit for DeepSeek Harness. | `skin` |
+| #451 | [lengzhanbao/dsh-raiden-theme](https://github.com/lengzhanbao/dsh-raiden-theme) | ⭐ 1 | ✅ | Raiden Inazuma Atelier / 稻妻雷电工房 — DSH Web 紫金亚克力主题（独立于 Taffy） | `skin` |
+| #452 | [kira4094/dsh-system-fonts](https://github.com/kira4094/dsh-system-fonts) | ⭐ 1 | ✅ |  | `skin` |
+| #453 | [Zara-Siwei/dsh-float](https://github.com/Zara-Siwei/dsh-float) | ⭐ 1 | ✅ | Floating minimal-mode DeepSeek Harness (dsh) plugin: a transparent terminal TUI over dsh web in a borderless Electron window. | `skin` |
+| #454 | [TheHeartFickle/dsh-one-dark-pro](https://github.com/TheHeartFickle/dsh-one-dark-pro) | ⭐ 1 | ✅ | DSH（DeepSeek Harness）主题插件：注册 One Dark Pro 配色，并把「外观」设置里的主题添加 One Dark Pro。 | `skin` |
+| #455 | [XiaoluoFoxington/dsh-theme-hacker-terminal](https://github.com/XiaoluoFoxington/dsh-theme-hacker-terminal) | ⭐ 1 | ✅ | Hacker-terminal skin for the dsh web GUI: pure black, high-contrast green, right-angle geometry, monospace font, full-width conversation, OLED-safe, scrollbars on Gecko/Blink/WebKit. | `skin` |
+| #456 | [6HOLLIS/DSH-Hiyuki-Frost-Sakura](https://github.com/6HOLLIS/DSH-Hiyuki-Frost-Sakura) | ⭐ 1 | ✅ | Immersive Hiyuki dual-form skin for DeepSeek Harness Web, with frost/sakura transitions, themed controls, and native DSH layout. | `skin` |
+| #457 | [yuioi666/dsh-conversation-nav-dots](https://github.com/yuioi666/dsh-conversation-nav-dots) | ⭐ 1 | ✅ | dsh-conversation-nav-dots 在 DSH Web 对话界面的右侧添加一列导航标记。每个标记对应一条用户消息。点击即可跳转，悬停可预览所有消息内容。 | `skin` |
+| #458 | [makajo/dsh-gemini-m3e-theme](https://github.com/makajo/dsh-gemini-m3e-theme) | ⭐ 1 | ✅ | Gemini-style Material 3 Expressive theme for DeepSeek Harness Web (persistent client bundle) | `skin` |
+| #459 | [domitor-syh/dsh-ui-skin-switcher](https://github.com/domitor-syh/dsh-ui-skin-switcher) | ⭐ 1 | ✅ | Model & reasoning-effort switcher plugin for DeepSeek Harness (DSH): composer seat with Off/Max effort slider. DSH 插件：模型与思考力度切换器。 | `skin` |
+| #460 | [v587d/dsh-custom-skin](https://github.com/v587d/dsh-custom-skin) | ⭐ 1 | ✅ | 自己的插件皮肤管理工具。 | `skin` |
+| #461 | [DaydreAmRing/dsh-cho-kaguya-plugin-public](https://github.com/DaydreAmRing/dsh-cho-kaguya-plugin-public) | ⭐ 1 | ✅ | DSH皮肤插件、有超时空辉夜姬概念元素 | `skin` |
+| #462 | [henrychenhao/dsh-skin-argentina](https://github.com/henrychenhao/dsh-skin-argentina) | ⭐ 1 | ✅ | 梅西 阿根廷皮肤 | `skin` |
+| #463 | [Georgehaoren/DSH-WhaleConsole](https://github.com/Georgehaoren/DSH-WhaleConsole) | ⭐ 1 | ✅ | Unofficial macOS desktop companion and WebUI skin plugin for DeepSeek Harness. 面向 DeepSeek Harness 的非官方 macOS 桌面伴侣与 WebUI 换肤插件。 | `skin` |
+| #464 | [shlouai/dsh-debate](https://github.com/shlouai/dsh-debate) | ⭐ 1 | ✅ | Stop asking your agent what it thinks. Make it hold a trial. | `skin` |
+| #465 | [dingyi580/dsh-plugin-gemini-theme](https://github.com/dingyi580/dsh-plugin-gemini-theme) | ⭐ 1 | ✅ | A Gemini-styled skin for the DeepSeek Harness web client | `skin` |
+| #466 | [xmnathan/dsh-skin-galactic-opera](https://github.com/xmnathan/dsh-skin-galactic-opera) | ⭐ 1 | ✅ | Unofficial cinematic space-opera dark skin bundle for the DSH Web GUI. | `skin` |
+| #467 | [iasiv5/skins](https://github.com/iasiv5/skins) | ⭐ 1 | ✅ | DeepSeek Harness Web 界面主题/皮肤管理插件，可切换多种视觉风格。 | `skin` |
+| #468 | [2DogsLee/dsh_whalebuddy](https://github.com/2DogsLee/dsh_whalebuddy) | ⭐ 1 | ✅ | whalebuddy - DeepSeek Harness desktop pet (Windows): a DSH bundle plugin + Tauri shell. A porthole whale reflects your agent live state, with autostart & skin settings. | `skin` |
+| #469 | [10086ggqq/dsh_theme_Minecraft](https://github.com/10086ggqq/dsh_theme_Minecraft) | ⭐ 1 | ✅ | 把 DeepSeek Harness 变成 Minecraft Java Edition 风格——WebGL 旋转全景主菜单、存档式会话选择、四种游戏模式对应 Agent 预设、世界内 HUD 聊天台、像素风工具卡片与审批面板、AI 思考时触发跑酷小游戏、8-bit 合成音效与自定义背景音乐、五类互动桌宠与红石粒子特效。零侵入 DSH 核心源码，经典界面一键切回。 | `skin` |
 | #470 | [victor10035445/dsh-v-theme](https://github.com/victor10035445/dsh-v-theme) | ⭐ 1 | ✅ | theme plugin for deepseek harness by victor | `skin` |
 | #471 | [Idreamxkl/dsh-conversation-flat](https://github.com/Idreamxkl/dsh-conversation-flat) | ⭐ 1 | ✅ | Document-flow conversation layout for DeepSeek Harness web GUI — full-width column, user message bars, sender label, full-width tables. 纯 CSS 的 dsh 对话区通栏布局插件 | `skin` |
-| #472 | [mengnanxyyyy/dsh-markdown-xyy](https://github.com/mengnanxyyyy/dsh-markdown-xyy) | ⭐ 1 | ✅ | dsh markdown 主题插件 | `skin` |
-| #473 | [HenryPhoebe/dsh-plugin-easyppt](https://github.com/HenryPhoebe/dsh-plugin-easyppt) | ⭐ 1 | ✅ | easyppt是一个面向 DeepSeek Harness (DSH) 的演示文稿生成 dsh-plugin（npm 包 + Cordis bundle + 内置技能）。用户输入大纲（Markdown / JSON / 自然语言）与插图，即可基于 DSH 原生 Univer 工具链生成PPTX,HTML,JSON | `skin` |
-| #474 | [l-vM2k/dsh-ayaka-theme](https://github.com/l-vM2k/dsh-ayaka-theme) | ⭐ 1 | ✅ | deepseek harness plugins dsh-ayaka-theme | `skin` |
-| #475 | [frank-fan-818/dsh-f1-skin](https://github.com/frank-fan-818/dsh-f1-skin) | ⭐ 1 | ✅ | An F1 Race Control themed skin for the DeepSeek Harness Web UI — Red Bull, Ferrari, McLaren & Mercedes team themes, broadcast-photo backdrops, and a native settings panel, in dark and light. | `skin` |
+| #472 | [HenryPhoebe/dsh-plugin-easyppt](https://github.com/HenryPhoebe/dsh-plugin-easyppt) | ⭐ 1 | ✅ | easyppt是一个面向 DeepSeek Harness (DSH) 的演示文稿生成 dsh-plugin（npm 包 + Cordis bundle + 内置技能）。用户输入大纲（Markdown / JSON / 自然语言）与插图，即可基于 DSH 原生 Univer 工具链生成PPTX,HTML,JSON | `skin` |
+| #473 | [mengnanxyyyy/dsh-markdown-xyy](https://github.com/mengnanxyyyy/dsh-markdown-xyy) | ⭐ 1 | ✅ | dsh markdown 主题插件 | `skin` |
+| #474 | [frank-fan-818/dsh-f1-skin](https://github.com/frank-fan-818/dsh-f1-skin) | ⭐ 1 | ✅ | An F1 Race Control themed skin for the DeepSeek Harness Web UI — Red Bull, Ferrari, McLaren & Mercedes team themes, broadcast-photo backdrops, and a native settings panel, in dark and light. | `skin` |
+| #475 | [l-vM2k/dsh-ayaka-theme](https://github.com/l-vM2k/dsh-ayaka-theme) | ⭐ 1 | ✅ | deepseek harness plugins dsh-ayaka-theme | `skin` |
 | #476 | [zgxaxdd/dsh-html-render](https://github.com/zgxaxdd/dsh-html-render) | ⭐ 1 | ✅ | Inline HTML + KaTeX renderer for DeepSeek Harness (DSH) chats - sandboxed iframes, theme-adaptive, height-accurate, zero network | `skin` |
 | #477 | [wolfsonliu/dsh-file-explorer-preview-code](https://github.com/wolfsonliu/dsh-file-explorer-preview-code) | ⭐ 0 | ✅ | DSH Web file-explorer preview plugin: code preview & editor for DSH Web — per-language syntax highlighting, in-place editing with autosave, and dark/light themes. Overrides dsh-file-explorer's plain-text preview. \| DSH Web 文件浏览器插件: 代码预览与编辑插件——按语言语法高亮、就地编辑自动保存、深色/浅色主题，覆盖 dsh-file-explorer 的纯文本预览。 | `skin` |
 | #478 | [qiqikuaidianpao/mypet](https://github.com/qiqikuaidianpao/mypet) | ⭐ 0 | ✅ | 🐾 Tamagotchi-style desktop pet plugin for DeepSeek Harness — living skins that blink & wag, weather + time-of-day ambience, weekly reports, fetch mini-game · 电子宠物 | `skin` |
 | #479 | [Army1900/dsh-cordis-emotion-engine](https://github.com/Army1900/dsh-cordis-emotion-engine) | ⭐ 0 | ✅ | 完整的Agent情绪机制，用于感知，处理用户情绪 | `skin` |
 | #480 | [lijma/dsh-plugin-marketplace](https://github.com/lijma/dsh-plugin-marketplace) | ⭐ 0 | ✅ | 帮助寻找DSH插件，引导安装，并持续在DeepSeek Harness内收集插件评分、FAQ、踩坑记录并分享到社区 | `skin` |
-| #481 | [mhtdm/dsh-lesson-outline](https://github.com/mhtdm/dsh-lesson-outline) | ⭐ 0 | ✅ | 教学课件大纲生成工具插件（DeepSeek Harness dsh-plugin）— 输入主题输出 markdown 课件大纲 | `skin` |
-| #482 | [ShadowBruceMeaningLau/dsh-shadowgarden-ui-suite](https://github.com/ShadowBruceMeaningLau/dsh-shadowgarden-ui-suite) | ⭐ 0 | ✅ |  | `skin` |
+| #481 | [ShadowBruceMeaningLau/dsh-shadowgarden-ui-suite](https://github.com/ShadowBruceMeaningLau/dsh-shadowgarden-ui-suite) | ⭐ 0 | ✅ |  | `skin` |
+| #482 | [mhtdm/dsh-lesson-outline](https://github.com/mhtdm/dsh-lesson-outline) | ⭐ 0 | ✅ | 教学课件大纲生成工具插件（DeepSeek Harness dsh-plugin）— 输入主题输出 markdown 课件大纲 | `skin` |
 | #483 | [STA-running/dsh-ui-tint](https://github.com/STA-running/dsh-ui-tint) | ⭐ 0 | ✅ | Lightweight UI tint plugin for DeepSeek Harness desktop (deepseek-harness-desktop): per-region colors, presets, vividness, scheme-adaptive tints | `skin` |
 | #484 | [zhangsan5213/dsh-right_sidebar](https://github.com/zhangsan5213/dsh-right_sidebar) | ⭐ 0 | ✅ |  | `skin` |
 | #485 | [literaf/dsh-slides](https://github.com/literaf/dsh-slides) | ⭐ 0 | ✅ | Slides for DeepSeek Harness: the agent writes a talk to one self-contained HTML file — presents fullscreen offline, speaker notes stay off the screen, prints to PDF. Five finished themes. | `skin` |
@@ -492,15 +492,15 @@
 | #488 | [xjg12345/DeepSeek-Harness-Bocchi-UI](https://github.com/xjg12345/DeepSeek-Harness-Bocchi-UI) | ⭐ 0 | ✅ | DeepSeek Harness · 孤独摇滚（Bocchi the Rock!）主题插件 | `skin` |
 | #489 | [ghbhiee/dsh-plugin-cli-session](https://github.com/ghbhiee/dsh-plugin-cli-session) | ⭐ 0 | ✅ | Resume-capable headless CLI session runner for DeepSeek Harness | `skin` |
 | #490 | [trees163/dsh-customizations](https://github.com/trees163/dsh-customizations) | ⭐ 0 | ✅ | DeepSeek Harness 全家桶定制——All-in-one customization suite for DeepSeek Harness: 3 agent presets (Classic / Pro Anchored / Flash Routed) with measured speedups, VS Code-style layout + 19 file API endpoints, 9-skin Beauty & Comfort UI layers, Reasonix skills & MCP bridge, official package patches. One-click install or npm. | `skin` |
-| #491 | [xxxrickymorty-dev/dsh-rick](https://github.com/xxxrickymorty-dev/dsh-rick) | ⭐ 0 | ✅ | C-137 skin for DeepSeek Harness: 28 posters, custom scenes, and overlay pets (Rick, Morty, portal gun). | `skin` |
-| #492 | [ghbhiee/dsh-plugin-workbench](https://github.com/ghbhiee/dsh-plugin-workbench) | ⭐ 0 | ✅ | File browser, preview, and web terminal panel for DeepSeek Harness — session-docked workbench plugin | `skin` |
-| #493 | [TableRogue/dsh-fusion-pixel-ui-adapt](https://github.com/TableRogue/dsh-fusion-pixel-ui-adapt) | ⭐ 0 | ✅ | 让 DeepSeek Harness GUI 适配 Fusion Pixel 像素字体的 UI 排版适配插件 | `skin` |
-| #494 | [PixelGeek325/DSH-High-Contrast-Theme](https://github.com/PixelGeek325/DSH-High-Contrast-Theme) | ⭐ 0 | ✅ | 一个为DeepSeek Harness开发的高对比度主题插件 | `skin` |
+| #491 | [TableRogue/dsh-fusion-pixel-ui-adapt](https://github.com/TableRogue/dsh-fusion-pixel-ui-adapt) | ⭐ 0 | ✅ | 让 DeepSeek Harness GUI 适配 Fusion Pixel 像素字体的 UI 排版适配插件 | `skin` |
+| #492 | [PixelGeek325/DSH-High-Contrast-Theme](https://github.com/PixelGeek325/DSH-High-Contrast-Theme) | ⭐ 0 | ✅ | 一个为DeepSeek Harness开发的高对比度主题插件 | `skin` |
+| #493 | [xxxrickymorty-dev/dsh-rick](https://github.com/xxxrickymorty-dev/dsh-rick) | ⭐ 0 | ✅ | C-137 skin for DeepSeek Harness: 28 posters, custom scenes, and overlay pets (Rick, Morty, portal gun). | `skin` |
+| #494 | [ghbhiee/dsh-plugin-workbench](https://github.com/ghbhiee/dsh-plugin-workbench) | ⭐ 0 | ✅ | File browser, preview, and web terminal panel for DeepSeek Harness — session-docked workbench plugin | `skin` |
 | #495 | [ghbhiee/dsh-plugin-mobile-shell](https://github.com/ghbhiee/dsh-plugin-mobile-shell) | ⭐ 0 | ✅ | Narrow-viewport drawer shell for the DeepSeek Harness web UI | `skin` |
 | #496 | [Zzc269/dsh-soft-glass-ui](https://github.com/Zzc269/dsh-soft-glass-ui) | ⭐ 0 | ✅ | Unofficial soft-glass visual theme plugin for DeepSeek Harness. | `skin` |
 | #497 | [keke-shy/dsh-desktop](https://github.com/keke-shy/dsh-desktop) | ⭐ 0 | ✅ | Minimal Electron desktop shell embedding the official DeepSeek Harness web profile | `skin` |
-| #498 | [xianyu-ya/dsh-imgpt](https://github.com/xianyu-ya/dsh-imgpt) | ⭐ 0 | ✅ | DSH 让任何模型都能发送图片：自动将拖入对话框的图片存储到工作路径下，并将路径自动粘贴到对话框中。DSH enables any model to send images: it automatically saves images dragged into the dialog box to the working path and pastes the path into the dialog box. | `skin` |
-| #499 | [omdsh-plugins/omdsh-sidechat](https://github.com/omdsh-plugins/omdsh-sidechat) | ⭐ 0 | ✅ | Summon a conversation of its own anywhere in the DeepSeek Harness web GUI: a side panel anchored to whatever you were looking at, asking in its own session so the conversation you are running is untouched | `skin` |
+| #498 | [omdsh-plugins/omdsh-sidechat](https://github.com/omdsh-plugins/omdsh-sidechat) | ⭐ 0 | ✅ | Summon a conversation of its own anywhere in the DeepSeek Harness web GUI: a side panel anchored to whatever you were looking at, asking in its own session so the conversation you are running is untouched | `skin` |
+| #499 | [xianyu-ya/dsh-imgpt](https://github.com/xianyu-ya/dsh-imgpt) | ⭐ 0 | ✅ | DSH 让任何模型都能发送图片：自动将拖入对话框的图片存储到工作路径下，并将路径自动粘贴到对话框中。DSH enables any model to send images: it automatically saves images dragged into the dialog box to the working path and pastes the path into the dialog box. | `skin` |
 | #500 | [shenmy-git/dsh-weather-plugin](https://github.com/shenmy-git/dsh-weather-plugin) | ⭐ 0 | ✅ | DSH plugin: weather tool + immersive weather theming + FishLogo whale pet (theme/ambient/sound/HUD) | `skin` |
 | #501 | [lonebone/dsh-vscode-shell](https://github.com/lonebone/dsh-vscode-shell) | ⭐ 0 | ✅ |  | `skin` |
 | #502 | [MIOYULIN/dsh-client-ui-mobile-mono](https://github.com/MIOYULIN/dsh-client-ui-mobile-mono) | ⭐ 0 | ✅ | Mobile adaptation plugin for DeepSeek Harness (DSH) Web UI — drawer layout, bottom-sheet settings, monochrome B/W theme. 移动端适配：抽屉布局/全屏设置/黑白主题 | `skin` |
@@ -511,68 +511,69 @@
 | #507 | [fishfromsky/dsh-march7th-skin](https://github.com/fishfromsky/dsh-march7th-skin) | ⭐ 0 | ✅ | 崩坏星穹铁道三月七主题的deepseek harness皮肤插件 | `skin` |
 | #508 | [Junhousheng-Serena/celtic-adventure-skin](https://github.com/Junhousheng-Serena/celtic-adventure-skin) | ⭐ 0 | ✅ |  | `skin` |
 | #509 | [WSYXIUBA/dsh-plugin-starmap](https://github.com/WSYXIUBA/dsh-plugin-starmap) | ⭐ 0 | ✅ | 🪐 DSH 插件星座图 — DeepSeek Harness 插件依赖关系可视化（自动扫描/分类/依赖图） | `skin` |
-| #510 | [Cinnamobot/dsh-nothing-skin](https://github.com/Cinnamobot/dsh-nothing-skin) | ⭐ 0 | ✅ | Nothing Phone style skin for DeepSeek Harness — dot-matrix background, Space Grotesk/Mono, monochrome + signal red, per-feature Settings toggles | `skin` |
-| #511 | [Ury479/dsh-wukong-zenfire](https://github.com/Ury479/dsh-wukong-zenfire) | ⭐ 0 | ✅ | Wukong Zenfire skin plugin for DeepSeek Harness (DSH) WebUI and Desktop | `skin` |
-| #512 | [Minglink/dsh-deep-whale](https://github.com/Minglink/dsh-deep-whale) | ⭐ 0 | ✅ | 适用于 DeepSeek Harness 的鲸鱼娘系列皮肤主题 | `skin` |
-| #513 | [lisongxuan/ds-hentai](https://github.com/lisongxuan/ds-hentai) | ⭐ 0 | ✅ | ExHentai-inspired UI for DeepSeek Harness. ExHentai风格DeepSeek Harness皮肤。 ds hentai / deepseek hentai | `skin` |
-| #514 | [mhdfy1988/dsh-skin-platform](https://github.com/mhdfy1988/dsh-skin-platform) | ⭐ 0 | ✅ | Independent multi-package skin platform for DeepSeek Harness | `skin` |
-| #515 | [Kickstartparty3459/dsh-ios](https://github.com/Kickstartparty3459/dsh-ios) | ⭐ 0 | ✅ | Run live iOS simulators and your real iPhone over USB inside DeepSeek Harness conversations with 22 agent tools, MJPEG previews, and SwiftUI hot reload. | `skin` |
-| #516 | [soarGuo/dsh-skin-lab](https://github.com/soarGuo/dsh-skin-lab) | ⭐ 0 | ✅ | Skin Lab for the DSH Web GUI: token browser, live try-on, theme freeze, spectrum presets with SVG backdrops, custom backdrop upload. Everything is a plugin. | `skin` |
-| #517 | [alexfengrui/dsh-client-ui-skin-real-madrid](https://github.com/alexfengrui/dsh-client-ui-skin-real-madrid) | ⭐ 0 | ✅ | Real Madrid dual-mode skin for DeepSeek Harness: Bernabeu night stadium (dark) and white-kit pinstripes (light). Unofficial fan work. | `skin` |
-| #518 | [ShineFree7/dsh-daily-log](https://github.com/ShineFree7/dsh-daily-log) | ⭐ 0 | ✅ | dsh-daily-log: daily work log plugin for DeepSeek Harness; /daily scaffolds Markdown and theme-aware HTML dashboards plus read/write/merge tools. DeepSeek Harness 每日工作日志插件：/daily 生成 Markdown 和深浅色 HTML 仪表盘，并提供日志读写合并工具。 | `skin` |
-| #519 | [rocklau/dsh-rss-reader](https://github.com/rocklau/dsh-rss-reader) | ⭐ 0 | ✅ | OpenBook RSS Reader as a DeepSeek Harness (dsh) Web UI plugin: RSS tab in the conversation view ring, sidebar go-to-RSS shortcut, ambient article awareness, discuss-into-chat, notes/highlights, sync, agent tools and chat commands. | `skin` |
-| #520 | [sqs404/dsh-client-ui-beautify](https://github.com/sqs404/dsh-client-ui-beautify) | ⭐ 0 | ✅ | DeepSeek Harness UI beautify plugin / one-click skin: settings-backed switch, aurora background, glass panels | `skin` |
-| #521 | [Yyyyyylor/dsh-asuka-school-theme](https://github.com/Yyyyyylor/dsh-asuka-school-theme) | ⭐ 0 | ✅ | Theme-Asuka — An unofficial Asuka-inspired theme plugin for DeepSeek Harness Web UI, featuring time-of-day wallpapers, adaptive palette transitions, and restrained EVA-02 visual details. | `skin` |
-| #522 | [runfali/dsh-paperclip](https://github.com/runfali/dsh-paperclip) | ⭐ 0 | ✅ | dsh 零侵入式 bundle 插件：📎 输入框上传按钮 + 待发送文件浮层（仅文件名，可移除）· read_document 多格式读取工具（txt / pdf / docx / xlsx / json / md / ini / conf，支持 offset/limit 分页）· 设置 → 通用设置一个开关。标准 Cordis bundle 插件，不改 DSH 源码，内容寻址落盘去重，深浅色主题自适应。 | `skin` |
-| #523 | [bitterSmilezzz/dsh-asr-voice](https://github.com/bitterSmilezzz/dsh-asr-voice) | ⭐ 0 | ✅ | 开口即成文 · Speak-to-prompt for DeepSeek Harness：云端 ASR 语音识别 + 提示词优化 + 填入草稿/自动发送，跨平台 macOS / Windows。 | `skin` |
-| #524 | [kiwifruit13/dsh-scientific-computing](https://github.com/kiwifruit13/dsh-scientific-computing) | ⭐ 0 | ✅ |  | `skin` |
-| #525 | [ShanHaiFish/dsh-theme-brick](https://github.com/ShanHaiFish/dsh-theme-brick) | ⭐ 0 | ✅ | DSH 主题插件（Brick/砌砖）：纯 token 覆盖层，暖石膏与火烧黏土、灰缝线条、一砖一色，零全局 CSS；Settings → General 开关可随时关闭还原。A restrained token-only theme for DeepSeek Harness web — plaster & fired-clay, one accent, no global CSS, with an on/off switch. | `skin` |
-| #526 | [Carlown/majia7-dsh-skin](https://github.com/Carlown/majia7-dsh-skin) | ⭐ 0 | ✅ |  | `skin` |
-| #527 | [lkdxzhxi/dsh-glass-ui-theme](https://github.com/lkdxzhxi/dsh-glass-ui-theme) | ⭐ 0 | ✅ | 为 DeepSeek Harness 打造的液态玻璃主题插件：磨砂玻璃、可调色调、动态壁纸，让 DSH 界面焕然一新 | `skin` |
-| #528 | [aze0695/dsh-crimson-theme](https://github.com/aze0695/dsh-crimson-theme) | ⭐ 0 | ✅ |  | `skin` |
-| #529 | [runcat-tommy/dsh-theme-manager](https://github.com/runcat-tommy/dsh-theme-manager) | ⭐ 0 | ✅ | Two-level theme manager for DeepSeek Harness Web: pick a culture/scene or a national flag first, then a concrete style. 40 built-in styles (ink wash, ukiyo-e, Suzhou garden, cyberpunk, 20 flags & more). | `skin` |
-| #530 | [geeklei/dsh-plugins](https://github.com/geeklei/dsh-plugins) | ⭐ 0 | ✅ | 一个面向 DeepSeek Harness (dsh)的插件库 | `skin` |
-| #531 | [qipenglin/dsh-theme-spectrum](https://github.com/qipenglin/dsh-theme-spectrum) | ⭐ 0 | ✅ | Light and dark theme presets for DeepSeek Harness Web | `skin` |
-| #532 | [wenyixiaoqingnian/ds-mobile-skin](https://github.com/wenyixiaoqingnian/ds-mobile-skin) | ⭐ 0 | ✅ | Mobile DeepSeek-app look for DSH Web GUI + dsh-token-viewer billing patch | `skin` |
-| #533 | [Demigod-cyber/dsh-angelina-theme](https://github.com/Demigod-cyber/dsh-angelina-theme) | ⭐ 0 | ✅ | DSH主题插件——直到大地变成一颗酸橙（Angelina 浅蓝主题） | `skin` |
-| #534 | [zzhi191/dsh-plugin-night-dog](https://github.com/zzhi191/dsh-plugin-night-dog) | ⭐ 0 | ✅ | A tan DeepSeek mascot dog named 夜官 that lives in the corner of the DSH web GUI: floats, reacts to the harness, adapts to the theme, and acts out a full repertoire (pant, stand, walk, tilt, yawn, bark, spin, whimper, lie down to sleep). Pure client plugin, installable from the DSH Community Market. | `skin` |
-| #535 | [yonglun/deepseek-harness-themes](https://github.com/yonglun/deepseek-harness-themes) | ⭐ 0 | ✅ | 74 non-invasive DeepSeek Harness themes generated from awesome-design-md | `skin` |
-| #536 | [DoshinJiu/dsh-ui-boost](https://github.com/DoshinJiu/dsh-ui-boost) | ⭐ 0 | ✅ | deepseek harness界面调色插件/RGB滑块调色 | `skin` |
-| #537 | [donoteatme/dsh-local-link](https://github.com/donoteatme/dsh-local-link) | ⭐ 0 | ✅ | Lightweight DeepSeek Harness plugin for paired LAN access: scan a QR code and continue the current DSH Web session from any phone, tablet, or computer. | `skin` |
-| #538 | [abbccdd/dsh-panel-tint](https://github.com/abbccdd/dsh-panel-tint) | ⭐ 0 | ✅ |  | `skin` |
-| #539 | [mykeura/dsh-minimalist-themes](https://github.com/mykeura/dsh-minimalist-themes) | ⭐ 0 | ✅ | 18 minimalist color themes for DeepSeek Harness. Pick one with a single click — it's just another plugin. | `skin` |
-| #540 | [123twtd/dsh-skin-manager](https://github.com/123twtd/dsh-skin-manager) | ⭐ 0 | ✅ | DeepSeek Harness (dsh) 可切换皮肤包管理器：皮肤包发现/激活/ZIP 导入，适配 0.1.x，含爱弥斯示例皮肤 | `skin` |
-| #541 | [frank6892103/dsh-WutheringWaves](https://github.com/frank6892103/dsh-WutheringWaves) | ⭐ 0 | ✅ | dsh鸣潮主题插件 | `skin` |
-| #542 | [lzxcs/dsh-tray-notify](https://github.com/lzxcs/dsh-tray-notify) | ⭐ 0 | ✅ | DSH → 托盘通知：agent 停顿 / 提问 / 计划审批 / 授权时调用 notify-sender.py 弹窗（--source dsh，托盘按蓝色主题区分于 Claude Code）。纯 node 侧插件。 | `skin` |
-| #543 | [fengb3/dsh-theme-macintosh](https://github.com/fengb3/dsh-theme-macintosh) | ⭐ 0 | ✅ | DSH 主题 · 经典麦金塔 Classic Macintosh(System 7 像素复古) | `skin` |
-| #544 | [soulYANG/dsh-baogongtou](https://github.com/soulYANG/dsh-baogongtou) | ⭐ 0 | ✅ | 包工头：DeepSeek Harness 工作 agent 皮肤。能力还是 dsh，嘴和按钮是包工头。 | `skin` |
-| #545 | [ml020/dsh-workbuddy](https://github.com/ml020/dsh-workbuddy) | ⭐ 0 | ✅ | Wordless-styled WorkBuddy hero for DSH: replaces the blank-session brand mark and workspace picker while keeping the native composer. | `skin` |
-| #546 | [lemoncat7/dsh-partner](https://github.com/lemoncat7/dsh-partner) | ⭐ 0 | ✅ | Long-lived AI companions with WeChat channel routing for DeepSeek Harness | `skin` |
-| #547 | [a1303845406/dsh-sakura-theme](https://github.com/a1303845406/dsh-sakura-theme) | ⭐ 0 | ✅ | DeepSeek Harness 的晴樱与夜樱主题插件 | `skin` |
-| #548 | [Doozqoo/dsh-pixel-office](https://github.com/Doozqoo/dsh-pixel-office) | ⭐ 0 | ✅ |  DeepSeek Harness Web GUI | `skin` |
-| #549 | [navid-kianfar/dsh-advanced-sidebar](https://github.com/navid-kianfar/dsh-advanced-sidebar) | ⭐ 0 | ✅ | Advanced sidebar operations for the DeepSeek Harness Web Client: git changes, a terminal, a file browser, a dev-server preview, background tasks, Open in, Archive and Delete. | `skin` |
-| #550 | [WJNCT55555/dsh-crt-theme](https://github.com/WJNCT55555/dsh-crt-theme) | ⭐ 0 | ✅ | Dual-palette CRT terminal theme for DeepSeek Harness Web | `skin` |
-| #551 | [Lichtspur/deepseek-style-theme](https://github.com/Lichtspur/deepseek-style-theme) | ⭐ 0 | ✅ | DeepSeek official-home style theme for the dsh web GUI: fluid particle background, glass sidebar, glass composer, frosted header, running-subagent progress panel, DSTT time-based mode, and DeepSeek brand link | `skin` |
-| #552 | [Reseezhang/vizcb-codeblock-visualizer](https://github.com/Reseezhang/vizcb-codeblock-visualizer) | ⭐ 0 | ✅ | DeepSeek Harness 可视化插件：svg/html/mermaid 代码块渲染为图表卡片（宿主端 mermaid、深色主题配色、节点文字自适应、灯箱、保存导出） | `skin` |
-| #553 | [me9rez/dsh-pwsh-style](https://github.com/me9rez/dsh-pwsh-style) | ⭐ 0 | ✅ | 修改 DSH 会话回复中 pwsh(PowerShell) 工具卡片的主题、字体与可读性增强。Restyle pwsh tool-call cards in DSH: themes, system fonts, copy & expand, workdir display. | `skin` |
-| #554 | [xby-skill/xby-fluent](https://github.com/xby-skill/xby-fluent) | ⭐ 0 | ✅ | 一个帮助AI助手高效导航ANSYS Fluent在线文档的模型上下文协议（MCP）服务器，提供智能URL导航、预映射主题路径和官方文档链接。 | `skin` |
-| #555 | [FourTow/dsh-theme-win98](https://github.com/FourTow/dsh-theme-win98) | ⭐ 0 | ✅ | Windows 98 theme plugin for DeepSeek Harness web | `skin` |
-| #556 | [YrracOwl/dsh-theme-acid-noir](https://github.com/YrracOwl/dsh-theme-acid-noir) | ⭐ 0 | ✅ | EN: Usability-first cyber-editorial themes for DSH Web. 中文：面向 DSH Web、重视可用性的赛博编辑主题。 | `skin` |
-| #557 | [ShineFree7/dsh-doc-rail](https://github.com/ShineFree7/dsh-doc-rail) | ⭐ 0 | ✅ | Right-side document rail for the DeepSeek Harness web GUI — Markdown/plain-text viewer with light & deep-navy themes, drag-resize, recent files, auto-sync. （中文：dsh web 右侧文档面板，支持浅色/深蓝主题、拖宽、最近文件、自动同步） | `skin` |
-| #558 | [xdongHo/dsh-wechat-mobile-skin](https://github.com/xdongHo/dsh-wechat-mobile-skin) | ⭐ 0 | ✅ | WeChat-style mobile skin for the DeepSeek Harness Web GUI: mobile browsers get a WeChat chat list and chat page, desktop stays untouched. | `skin` |
-| #559 | [ash-qw/dsh-theme-prts](https://github.com/ash-qw/dsh-theme-prts) | ⭐ 0 | ✅ | Unofficial personal non-commercial Arknights P.R.T.S. fan UI for DeepSeek Harness | `skin` |
-| #560 | [zhangguiping-xydt/dsh-skin-studio](https://github.com/zhangguiping-xydt/dsh-skin-studio) | ⭐ 0 | ✅ | A visual, local-first skin authoring studio for DeepSeek Harness Web. | `skin` |
-| #561 | [leogottadothebest/dsh-settings-beautify](https://github.com/leogottadothebest/dsh-settings-beautify) | ⭐ 0 | ✅ | One design language for the DSH settings surface: unified typography, cards, controls, focus and motion across every settings page, including pages contributed by other plugins. | `skin` |
-| #562 | [marcemira/dsh-theme-nier-automata](https://github.com/marcemira/dsh-theme-nier-automata) | ⭐ 0 | ✅ | NieR:Automata-inspired YoRHa theme for DeepSeek Harness web | `skin` |
-| #563 | [Alphauni-x/dsh-ds-home-bg](https://github.com/Alphauni-x/dsh-ds-home-bg) | ⭐ 0 | ✅ | Deep-navy aurora background theme for the DeepSeek Harness web UI: layered radial glows, fine grid and a drifting halftone whale, following the host Appearance setting. | `skin` |
+| #510 | [rocklau/dsh-rss-reader](https://github.com/rocklau/dsh-rss-reader) | ⭐ 0 | ✅ | OpenBook RSS Reader as a DeepSeek Harness (dsh) Web UI plugin: RSS tab in the conversation view ring, sidebar go-to-RSS shortcut, ambient article awareness, discuss-into-chat, notes/highlights, sync, agent tools and chat commands. | `skin` |
+| #511 | [kiwifruit13/dsh-scientific-computing](https://github.com/kiwifruit13/dsh-scientific-computing) | ⭐ 0 | ✅ |  | `skin` |
+| #512 | [Carlown/majia7-dsh-skin](https://github.com/Carlown/majia7-dsh-skin) | ⭐ 0 | ✅ |  | `skin` |
+| #513 | [Cinnamobot/dsh-nothing-skin](https://github.com/Cinnamobot/dsh-nothing-skin) | ⭐ 0 | ✅ | Nothing Phone style skin for DeepSeek Harness — dot-matrix background, Space Grotesk/Mono, monochrome + signal red, per-feature Settings toggles | `skin` |
+| #514 | [Ury479/dsh-wukong-zenfire](https://github.com/Ury479/dsh-wukong-zenfire) | ⭐ 0 | ✅ | Wukong Zenfire skin plugin for DeepSeek Harness (DSH) WebUI and Desktop | `skin` |
+| #515 | [Minglink/dsh-deep-whale](https://github.com/Minglink/dsh-deep-whale) | ⭐ 0 | ✅ | 适用于 DeepSeek Harness 的鲸鱼娘系列皮肤主题 | `skin` |
+| #516 | [Demigod-cyber/dsh-angelina-theme](https://github.com/Demigod-cyber/dsh-angelina-theme) | ⭐ 0 | ✅ | DSH主题插件——直到大地变成一颗酸橙（Angelina 浅蓝主题） | `skin` |
+| #517 | [lisongxuan/ds-hentai](https://github.com/lisongxuan/ds-hentai) | ⭐ 0 | ✅ | ExHentai-inspired UI for DeepSeek Harness. ExHentai风格DeepSeek Harness皮肤。 ds hentai / deepseek hentai | `skin` |
+| #518 | [mhdfy1988/dsh-skin-platform](https://github.com/mhdfy1988/dsh-skin-platform) | ⭐ 0 | ✅ | Independent multi-package skin platform for DeepSeek Harness | `skin` |
+| #519 | [abbccdd/dsh-panel-tint](https://github.com/abbccdd/dsh-panel-tint) | ⭐ 0 | ✅ |  | `skin` |
+| #520 | [mykeura/dsh-minimalist-themes](https://github.com/mykeura/dsh-minimalist-themes) | ⭐ 0 | ✅ | 18 minimalist color themes for DeepSeek Harness. Pick one with a single click — it's just another plugin. | `skin` |
+| #521 | [Kickstartparty3459/dsh-ios](https://github.com/Kickstartparty3459/dsh-ios) | ⭐ 0 | ✅ | Run live iOS simulators and your real iPhone over USB inside DeepSeek Harness conversations with 22 agent tools, MJPEG previews, and SwiftUI hot reload. | `skin` |
+| #522 | [soarGuo/dsh-skin-lab](https://github.com/soarGuo/dsh-skin-lab) | ⭐ 0 | ✅ | Skin Lab for the DSH Web GUI: token browser, live try-on, theme freeze, spectrum presets with SVG backdrops, custom backdrop upload. Everything is a plugin. | `skin` |
+| #523 | [alexfengrui/dsh-client-ui-skin-real-madrid](https://github.com/alexfengrui/dsh-client-ui-skin-real-madrid) | ⭐ 0 | ✅ | Real Madrid dual-mode skin for DeepSeek Harness: Bernabeu night stadium (dark) and white-kit pinstripes (light). Unofficial fan work. | `skin` |
+| #524 | [lzxcs/dsh-tray-notify](https://github.com/lzxcs/dsh-tray-notify) | ⭐ 0 | ✅ | DSH → 托盘通知：agent 停顿 / 提问 / 计划审批 / 授权时调用 notify-sender.py 弹窗（--source dsh，托盘按蓝色主题区分于 Claude Code）。纯 node 侧插件。 | `skin` |
+| #525 | [ShineFree7/dsh-daily-log](https://github.com/ShineFree7/dsh-daily-log) | ⭐ 0 | ✅ | dsh-daily-log: daily work log plugin for DeepSeek Harness; /daily scaffolds Markdown and theme-aware HTML dashboards plus read/write/merge tools. DeepSeek Harness 每日工作日志插件：/daily 生成 Markdown 和深浅色 HTML 仪表盘，并提供日志读写合并工具。 | `skin` |
+| #526 | [soulYANG/dsh-baogongtou](https://github.com/soulYANG/dsh-baogongtou) | ⭐ 0 | ✅ | 包工头：DeepSeek Harness 工作 agent 皮肤。能力还是 dsh，嘴和按钮是包工头。 | `skin` |
+| #527 | [sqs404/dsh-client-ui-beautify](https://github.com/sqs404/dsh-client-ui-beautify) | ⭐ 0 | ✅ | DeepSeek Harness UI beautify plugin / one-click skin: settings-backed switch, aurora background, glass panels | `skin` |
+| #528 | [Yyyyyylor/dsh-asuka-school-theme](https://github.com/Yyyyyylor/dsh-asuka-school-theme) | ⭐ 0 | ✅ | Theme-Asuka — An unofficial Asuka-inspired theme plugin for DeepSeek Harness Web UI, featuring time-of-day wallpapers, adaptive palette transitions, and restrained EVA-02 visual details. | `skin` |
+| #529 | [runfali/dsh-paperclip](https://github.com/runfali/dsh-paperclip) | ⭐ 0 | ✅ | dsh 零侵入式 bundle 插件：📎 输入框上传按钮 + 待发送文件浮层（仅文件名，可移除）· read_document 多格式读取工具（txt / pdf / docx / xlsx / json / md / ini / conf，支持 offset/limit 分页）· 设置 → 通用设置一个开关。标准 Cordis bundle 插件，不改 DSH 源码，内容寻址落盘去重，深浅色主题自适应。 | `skin` |
+| #530 | [WJNCT55555/dsh-crt-theme](https://github.com/WJNCT55555/dsh-crt-theme) | ⭐ 0 | ✅ | Dual-palette CRT terminal theme for DeepSeek Harness Web | `skin` |
+| #531 | [Lichtspur/deepseek-style-theme](https://github.com/Lichtspur/deepseek-style-theme) | ⭐ 0 | ✅ | DeepSeek official-home style theme for the dsh web GUI: fluid particle background, glass sidebar, glass composer, frosted header, running-subagent progress panel, DSTT time-based mode, and DeepSeek brand link | `skin` |
+| #532 | [navid-kianfar/dsh-advanced-sidebar](https://github.com/navid-kianfar/dsh-advanced-sidebar) | ⭐ 0 | ✅ | Advanced sidebar operations for the DeepSeek Harness Web Client: git changes, a terminal, a file browser, a dev-server preview, background tasks, Open in, Archive and Delete. | `skin` |
+| #533 | [bitterSmilezzz/dsh-asr-voice](https://github.com/bitterSmilezzz/dsh-asr-voice) | ⭐ 0 | ✅ | 开口即成文 · Speak-to-prompt for DeepSeek Harness：云端 ASR 语音识别 + 提示词优化 + 填入草稿/自动发送，跨平台 macOS / Windows。 | `skin` |
+| #534 | [ShanHaiFish/dsh-theme-brick](https://github.com/ShanHaiFish/dsh-theme-brick) | ⭐ 0 | ✅ | DSH 主题插件（Brick/砌砖）：纯 token 覆盖层，暖石膏与火烧黏土、灰缝线条、一砖一色，零全局 CSS；Settings → General 开关可随时关闭还原。A restrained token-only theme for DeepSeek Harness web — plaster & fired-clay, one accent, no global CSS, with an on/off switch. | `skin` |
+| #535 | [lkdxzhxi/dsh-glass-ui-theme](https://github.com/lkdxzhxi/dsh-glass-ui-theme) | ⭐ 0 | ✅ | 为 DeepSeek Harness 打造的液态玻璃主题插件：磨砂玻璃、可调色调、动态壁纸，让 DSH 界面焕然一新 | `skin` |
+| #536 | [aze0695/dsh-crimson-theme](https://github.com/aze0695/dsh-crimson-theme) | ⭐ 0 | ✅ |  | `skin` |
+| #537 | [runcat-tommy/dsh-theme-manager](https://github.com/runcat-tommy/dsh-theme-manager) | ⭐ 0 | ✅ | Two-level theme manager for DeepSeek Harness Web: pick a culture/scene or a national flag first, then a concrete style. 40 built-in styles (ink wash, ukiyo-e, Suzhou garden, cyberpunk, 20 flags & more). | `skin` |
+| #538 | [xdongHo/dsh-wechat-mobile-skin](https://github.com/xdongHo/dsh-wechat-mobile-skin) | ⭐ 0 | ✅ | WeChat-style mobile skin for the DeepSeek Harness Web GUI: mobile browsers get a WeChat chat list and chat page, desktop stays untouched. | `skin` |
+| #539 | [geeklei/dsh-plugins](https://github.com/geeklei/dsh-plugins) | ⭐ 0 | ✅ | 一个面向 DeepSeek Harness (dsh)的插件库 | `skin` |
+| #540 | [qipenglin/dsh-theme-spectrum](https://github.com/qipenglin/dsh-theme-spectrum) | ⭐ 0 | ✅ | Light and dark theme presets for DeepSeek Harness Web | `skin` |
+| #541 | [wenyixiaoqingnian/ds-mobile-skin](https://github.com/wenyixiaoqingnian/ds-mobile-skin) | ⭐ 0 | ✅ | Mobile DeepSeek-app look for DSH Web GUI + dsh-token-viewer billing patch | `skin` |
+| #542 | [ash-qw/dsh-theme-prts](https://github.com/ash-qw/dsh-theme-prts) | ⭐ 0 | ✅ | Unofficial personal non-commercial Arknights P.R.T.S. fan UI for DeepSeek Harness | `skin` |
+| #543 | [zzhi191/dsh-plugin-night-dog](https://github.com/zzhi191/dsh-plugin-night-dog) | ⭐ 0 | ✅ | A tan DeepSeek mascot dog named 夜官 that lives in the corner of the DSH web GUI: floats, reacts to the harness, adapts to the theme, and acts out a full repertoire (pant, stand, walk, tilt, yawn, bark, spin, whimper, lie down to sleep). Pure client plugin, installable from the DSH Community Market. | `skin` |
+| #544 | [yonglun/deepseek-harness-themes](https://github.com/yonglun/deepseek-harness-themes) | ⭐ 0 | ✅ | 74 non-invasive DeepSeek Harness themes generated from awesome-design-md | `skin` |
+| #545 | [DoshinJiu/dsh-ui-boost](https://github.com/DoshinJiu/dsh-ui-boost) | ⭐ 0 | ✅ | deepseek harness界面调色插件/RGB滑块调色 | `skin` |
+| #546 | [donoteatme/dsh-local-link](https://github.com/donoteatme/dsh-local-link) | ⭐ 0 | ✅ | Lightweight DeepSeek Harness plugin for paired LAN access: scan a QR code and continue the current DSH Web session from any phone, tablet, or computer. | `skin` |
+| #547 | [frank6892103/dsh-WutheringWaves](https://github.com/frank6892103/dsh-WutheringWaves) | ⭐ 0 | ✅ | dsh鸣潮主题插件 | `skin` |
+| #548 | [123twtd/dsh-skin-manager](https://github.com/123twtd/dsh-skin-manager) | ⭐ 0 | ✅ | DeepSeek Harness (dsh) 可切换皮肤包管理器：皮肤包发现/激活/ZIP 导入，适配 0.1.x，含爱弥斯示例皮肤 | `skin` |
+| #549 | [fengb3/dsh-theme-macintosh](https://github.com/fengb3/dsh-theme-macintosh) | ⭐ 0 | ✅ | DSH 主题 · 经典麦金塔 Classic Macintosh(System 7 像素复古) | `skin` |
+| #550 | [ml020/dsh-workbuddy](https://github.com/ml020/dsh-workbuddy) | ⭐ 0 | ✅ | Wordless-styled WorkBuddy hero for DSH: replaces the blank-session brand mark and workspace picker while keeping the native composer. | `skin` |
+| #551 | [lemoncat7/dsh-partner](https://github.com/lemoncat7/dsh-partner) | ⭐ 0 | ✅ | Long-lived AI companions with WeChat channel routing for DeepSeek Harness | `skin` |
+| #552 | [Doozqoo/dsh-pixel-office](https://github.com/Doozqoo/dsh-pixel-office) | ⭐ 0 | ✅ |  DeepSeek Harness Web GUI | `skin` |
+| #553 | [a1303845406/dsh-sakura-theme](https://github.com/a1303845406/dsh-sakura-theme) | ⭐ 0 | ✅ | DeepSeek Harness 的晴樱与夜樱主题插件 | `skin` |
+| #554 | [Reseezhang/vizcb-codeblock-visualizer](https://github.com/Reseezhang/vizcb-codeblock-visualizer) | ⭐ 0 | ✅ | DeepSeek Harness 可视化插件：svg/html/mermaid 代码块渲染为图表卡片（宿主端 mermaid、深色主题配色、节点文字自适应、灯箱、保存导出） | `skin` |
+| #555 | [me9rez/dsh-pwsh-style](https://github.com/me9rez/dsh-pwsh-style) | ⭐ 0 | ✅ | 修改 DSH 会话回复中 pwsh(PowerShell) 工具卡片的主题、字体与可读性增强。Restyle pwsh tool-call cards in DSH: themes, system fonts, copy & expand, workdir display. | `skin` |
+| #556 | [lyaoliu/dsh-reasoning-effort-slider](https://github.com/lyaoliu/dsh-reasoning-effort-slider) | ⭐ 0 | ✅ | DSH Desktop reasoning effort slider plugin - 7-level effort control with whale-mom skin | `skin` |
+| #557 | [xby-skill/xby-fluent](https://github.com/xby-skill/xby-fluent) | ⭐ 0 | ✅ | 一个帮助AI助手高效导航ANSYS Fluent在线文档的模型上下文协议（MCP）服务器，提供智能URL导航、预映射主题路径和官方文档链接。 | `skin` |
+| #558 | [FourTow/dsh-theme-win98](https://github.com/FourTow/dsh-theme-win98) | ⭐ 0 | ✅ | Windows 98 theme plugin for DeepSeek Harness web | `skin` |
+| #559 | [YrracOwl/dsh-theme-acid-noir](https://github.com/YrracOwl/dsh-theme-acid-noir) | ⭐ 0 | ✅ | EN: Usability-first cyber-editorial themes for DSH Web. 中文：面向 DSH Web、重视可用性的赛博编辑主题。 | `skin` |
+| #560 | [ShineFree7/dsh-doc-rail](https://github.com/ShineFree7/dsh-doc-rail) | ⭐ 0 | ✅ | Right-side document rail for the DeepSeek Harness web GUI — Markdown/plain-text viewer with light & deep-navy themes, drag-resize, recent files, auto-sync. （中文：dsh web 右侧文档面板，支持浅色/深蓝主题、拖宽、最近文件、自动同步） | `skin` |
+| #561 | [marcemira/dsh-theme-nier-automata](https://github.com/marcemira/dsh-theme-nier-automata) | ⭐ 0 | ✅ | NieR:Automata-inspired YoRHa theme for DeepSeek Harness web | `skin` |
+| #562 | [zhangguiping-xydt/dsh-skin-studio](https://github.com/zhangguiping-xydt/dsh-skin-studio) | ⭐ 0 | ✅ | A visual, local-first skin authoring studio for DeepSeek Harness Web. | `skin` |
+| #563 | [leogottadothebest/dsh-settings-beautify](https://github.com/leogottadothebest/dsh-settings-beautify) | ⭐ 0 | ✅ | One design language for the DSH settings surface: unified typography, cards, controls, focus and motion across every settings page, including pages contributed by other plugins. | `skin` |
 | #564 | [YrracOwl/dsh-theme-cutout-clash](https://github.com/YrracOwl/dsh-theme-cutout-clash) | ⭐ 0 | ✅ | EN: Neo-brutalist and pop-art themes with calm reading surfaces for DSH Web. 中文：面向 DSH Web、兼顾安静阅读表面的新粗野主义与波普艺术主题。 | `skin` |
-| #565 | [liuyangdongdong/dsh-session-rerun](https://github.com/liuyangdongdong/dsh-session-rerun) | ⭐ 0 | ✅ | DeepSeek Harness plugin for inspecting and replaying completed main-agent and subagent session steps | `skin` |
-| #566 | [gunduziba/dsh-pi-markdown](https://github.com/gunduziba/dsh-pi-markdown) | ⭐ 0 | ✅ | Pi TUI 终端风格 Markdown 样式插件，专为 DeepSeek Harness Web 设计 | `skin` |
-| #567 | [zhangxingong/dsh-polish](https://github.com/zhangxingong/dsh-polish) | ⭐ 0 | ✅ | 需要你做的 UI 验收（重启后逐项过一遍）  1. 书本图标右侧出现四角星按钮：细线空心、四角顶点小圆点、浅灰，与相邻按钮同尺寸，深色主题正常 2. 悬浮显示「优化并细化当前用户输入」 3. 权限下拉切 Read Only → 按钮置灰；切回恢复 4. 空输入点击 → Toast「请先输入内容再进行优化细化」 5. 有文本点击 → loading 旋转 → 全文覆盖（非追加）→ 光标在末尾可直接续写 6. 优化质量抽查：保留原意、逻辑通顺、无废话、语气一致、无解释性前后缀 7. 机器回复运行中按钮置灰；+新增/Read Only/书本图标/发送等原功能无回归 | `skin` |
-| #568 | [01Virex/dsh-deepshub](https://github.com/01Virex/dsh-deepshub) | ⭐ 0 | ✅ | Pornhub-style parody reskin for the DeepSeek Harness web UI — orange/black pill-button theme, "Deephub" wordmark, 18+ entry gate & HD badges. Pure meme, no explicit content. | `skin` |
-| #569 | [JefferyShaw/dsh-stardew-theme](https://github.com/JefferyShaw/dsh-stardew-theme) | ⭐ 0 | ✅ |  | `skin` |
-| #570 | [du-u-uck/DSH-Transparent-UI-Plugin](https://github.com/du-u-uck/DSH-Transparent-UI-Plugin) | ⭐ 0 | ✅ | DeepSeek Harness UI Aqua玻璃质感主题主题，在原作者基础上对DSH新版本进行适配 | `skin` |
-| #571 | [weibaohui/dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) | ⭐ 0 | ✅ | dsh 插件 · 设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义）、背景不透明度与背景（亮暗各一色，实时跟随主题） | `skin` |
-| #572 | [Waldsatte/dsh-theme-taojian](https://github.com/Waldsatte/dsh-theme-taojian) | ⭐ 0 | ✅ | Taojian (陶笺) — Claude-inspired DSH theme | `skin` |
-| #573 | [mrme000m/dsh-prime-orchestrator](https://github.com/mrme000m/dsh-prime-orchestrator) | ⭐ 0 | ✅ | Prime Agent orchestration for DeepSeek Harness (dsh): delegation engine, prime_agent tool, Web fleet column, settings section, and the prime-orchestrator agent preset — one installable plugin package | `skin` |
-| #574 | [Yinxe/dsh-custom-ui](https://github.com/Yinxe/dsh-custom-ui) | ⭐ 0 | ✅ | DSH 主题画廊：8 套 open-design 主题（OpenCode/Linear/Notion/Claude/NVIDIA/GitHub）全量 token 映射 + 设置页一键切换 + 偏好持久化与守护 | `skin` |
+| #565 | [Alphauni-x/dsh-ds-home-bg](https://github.com/Alphauni-x/dsh-ds-home-bg) | ⭐ 0 | ✅ | Deep-navy aurora background theme for the DeepSeek Harness web UI: layered radial glows, fine grid and a drifting halftone whale, following the host Appearance setting. | `skin` |
+| #566 | [liuyangdongdong/dsh-session-rerun](https://github.com/liuyangdongdong/dsh-session-rerun) | ⭐ 0 | ✅ | DeepSeek Harness plugin for inspecting and replaying completed main-agent and subagent session steps | `skin` |
+| #567 | [gunduziba/dsh-pi-markdown](https://github.com/gunduziba/dsh-pi-markdown) | ⭐ 0 | ✅ | Pi TUI 终端风格 Markdown 样式插件，专为 DeepSeek Harness Web 设计 | `skin` |
+| #568 | [zhangxingong/dsh-polish](https://github.com/zhangxingong/dsh-polish) | ⭐ 0 | ✅ | 需要你做的 UI 验收（重启后逐项过一遍）  1. 书本图标右侧出现四角星按钮：细线空心、四角顶点小圆点、浅灰，与相邻按钮同尺寸，深色主题正常 2. 悬浮显示「优化并细化当前用户输入」 3. 权限下拉切 Read Only → 按钮置灰；切回恢复 4. 空输入点击 → Toast「请先输入内容再进行优化细化」 5. 有文本点击 → loading 旋转 → 全文覆盖（非追加）→ 光标在末尾可直接续写 6. 优化质量抽查：保留原意、逻辑通顺、无废话、语气一致、无解释性前后缀 7. 机器回复运行中按钮置灰；+新增/Read Only/书本图标/发送等原功能无回归 | `skin` |
+| #569 | [01Virex/dsh-deepshub](https://github.com/01Virex/dsh-deepshub) | ⭐ 0 | ✅ | Pornhub-style parody reskin for the DeepSeek Harness web UI — orange/black pill-button theme, "Deephub" wordmark, 18+ entry gate & HD badges. Pure meme, no explicit content. | `skin` |
+| #570 | [Waldsatte/dsh-theme-taojian](https://github.com/Waldsatte/dsh-theme-taojian) | ⭐ 0 | ✅ | Taojian (陶笺) — Claude-inspired DSH theme | `skin` |
+| #571 | [JefferyShaw/dsh-stardew-theme](https://github.com/JefferyShaw/dsh-stardew-theme) | ⭐ 0 | ✅ |  | `skin` |
+| #572 | [du-u-uck/DSH-Transparent-UI-Plugin](https://github.com/du-u-uck/DSH-Transparent-UI-Plugin) | ⭐ 0 | ✅ | DeepSeek Harness UI Aqua玻璃质感主题主题，在原作者基础上对DSH新版本进行适配 | `skin` |
+| #573 | [weibaohui/dsh-settings-ui](https://github.com/weibaohui/dsh-settings-ui) | ⭐ 0 | ✅ | dsh 插件 · 设置界面自定义：调整原生设置窗口大小（全屏/预置/自定义）、背景不透明度与背景（亮暗各一色，实时跟随主题） | `skin` |
+| #574 | [mrme000m/dsh-prime-orchestrator](https://github.com/mrme000m/dsh-prime-orchestrator) | ⭐ 0 | ✅ | Prime Agent orchestration for DeepSeek Harness (dsh): delegation engine, prime_agent tool, Web fleet column, settings section, and the prime-orchestrator agent preset — one installable plugin package | `skin` |
+| #575 | [Yinxe/dsh-custom-ui](https://github.com/Yinxe/dsh-custom-ui) | ⭐ 0 | ✅ | DSH 主题画廊：8 套 open-design 主题（OpenCode/Linear/Notion/Claude/NVIDIA/GitHub）全量 token 映射 + 设置页一键切换 + 偏好持久化与守护 | `skin` |
