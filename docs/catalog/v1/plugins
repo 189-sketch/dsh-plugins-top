@@ -95,7 +95,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-06T12:36:12.000Z"
+      "updatedAt": "2026-09-06T14:50:37.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -176,7 +176,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-05T16:59:10.000Z"
+      "updatedAt": "2026-09-06T14:52:38.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-06T12:47:28.000Z"
+      "updatedAt": "2026-09-06T16:29:13.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-06T11:05:16.000Z"
+      "updatedAt": "2026-09-06T15:32:40.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -322,7 +322,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-06T13:10:55.000Z"
+      "updatedAt": "2026-09-06T16:37:30.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -343,7 +343,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-06T01:51:39.000Z"
+      "updatedAt": "2026-09-06T15:58:55.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -393,7 +393,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-06T12:58:26.000Z"
+      "updatedAt": "2026-09-06T16:29:34.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -438,7 +438,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-06T13:29:29.000Z"
+      "updatedAt": "2026-09-06T16:17:03.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-3",
@@ -449,7 +449,7 @@
         "url": "https://github.com/Minglink/dsh-infinite-gen-3"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-05T17:52:59.000Z"
+      "updatedAt": "2026-09-06T16:29:32.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -543,7 +543,7 @@
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
-      "summary": "Memory for coding agents built from the session history already on disk: Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 18 more. Search months of past sessions, including everything from before you installed it, and recall them in any agent. No LLM, no embeddings, one local Go binary.",
+      "summary": "One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 18 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.",
       "repository": {
         "url": "https://github.com/vshulcz/deja-vu"
       },
@@ -556,7 +556,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-06T10:39:17.000Z"
+      "updatedAt": "2026-09-06T16:38:28.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -608,7 +608,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-06T13:30:18.000Z"
+      "updatedAt": "2026-09-06T13:47:38.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -678,7 +678,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-08-31T11:17:00.000Z"
+      "updatedAt": "2026-09-06T14:15:21.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -748,7 +748,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-09-05T02:54:12.000Z"
+      "updatedAt": "2026-09-06T15:03:39.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -812,7 +812,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-04T15:03:15.000Z"
+      "updatedAt": "2026-09-06T14:17:07.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -896,27 +896,6 @@
       "updatedAt": "2026-09-03T18:32:05.000Z"
     },
     {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-29T11:00:38.000Z"
-    },
-    {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-09-05T08:11:02.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -943,6 +922,27 @@
       "updatedAt": "2026-09-06T10:46:21.000Z"
     },
     {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-29T11:00:38.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-09-05T08:11:02.000Z"
+    },
+    {
       "id": "zhoushoujianwork/easyeda-agent",
       "name": "easyeda-agent-dsh",
       "displayName": "easyeda-agent",
@@ -951,7 +951,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-05T15:19:41.000Z"
+      "updatedAt": "2026-09-06T15:17:34.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -989,7 +989,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-06T13:06:15.000Z"
+      "updatedAt": "2026-09-06T16:12:56.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1053,7 +1053,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-06T03:16:36.000Z"
+      "updatedAt": "2026-09-06T16:00:38.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1252,6 +1252,17 @@
       "updatedAt": "2026-09-04T11:20:55.000Z"
     },
     {
+      "id": "LivXue/dsh-plugin-shop",
+      "name": "dsh-plugin-shop-registry",
+      "displayName": "dsh-plugin-shop",
+      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
+      "repository": {
+        "url": "https://github.com/LivXue/dsh-plugin-shop"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-06T16:24:29.000Z"
+    },
+    {
       "id": "ericshang98/Perfect-Web-Clone",
       "name": "perfect-web-clone",
       "displayName": "Perfect-Web-Clone",
@@ -1267,17 +1278,6 @@
         "dsh-plugin"
       ],
       "updatedAt": "2026-08-22T14:39:08.000Z"
-    },
-    {
-      "id": "LivXue/dsh-plugin-shop",
-      "name": "dsh-plugin-shop-registry",
-      "displayName": "dsh-plugin-shop",
-      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
-      "repository": {
-        "url": "https://github.com/LivXue/dsh-plugin-shop"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-06T13:04:41.000Z"
     },
     {
       "id": "huiliyi37/dsh-tianshu-tui",
@@ -1296,17 +1296,6 @@
         "cli"
       ],
       "updatedAt": "2026-08-29T20:00:46.000Z"
-    },
-    {
-      "id": "Nagi-ovo/dsh-visualize",
-      "name": "@dsh-external/dsh-visualize",
-      "displayName": "dsh-visualize",
-      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-visualize"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-27T21:36:31.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1333,7 +1322,18 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-09-03T07:53:30.000Z"
+      "updatedAt": "2026-09-06T15:35:37.000Z"
+    },
+    {
+      "id": "Nagi-ovo/dsh-visualize",
+      "name": "@dsh-external/dsh-visualize",
+      "displayName": "dsh-visualize",
+      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-visualize"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-08-27T21:36:31.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1396,7 +1396,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-06T13:29:48.000Z"
+      "updatedAt": "2026-09-06T13:33:34.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1433,7 +1433,7 @@
         "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-06T10:24:38.000Z"
+      "updatedAt": "2026-09-06T15:28:16.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
@@ -1495,6 +1495,17 @@
       "updatedAt": "2026-09-01T13:37:06.000Z"
     },
     {
+      "id": "Ruler4396/dsh-launcher",
+      "name": "Ruler4396/dsh-launcher",
+      "displayName": "dsh-launcher",
+      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
+      "repository": {
+        "url": "https://github.com/Ruler4396/dsh-launcher"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-06T16:45:51.000Z"
+    },
+    {
       "id": "zh667/TokenLedger",
       "name": "dsh-tokenledger",
       "displayName": "TokenLedger",
@@ -1533,17 +1544,6 @@
         "windows"
       ],
       "updatedAt": "2026-09-04T18:05:55.000Z"
-    },
-    {
-      "id": "Ruler4396/dsh-launcher",
-      "name": "Ruler4396/dsh-launcher",
-      "displayName": "dsh-launcher",
-      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
-      "repository": {
-        "url": "https://github.com/Ruler4396/dsh-launcher"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-04T05:57:53.000Z"
     },
     {
       "id": "leenkcool/Blue-Whale-Harness",
