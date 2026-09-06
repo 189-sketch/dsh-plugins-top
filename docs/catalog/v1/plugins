@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-06T18:49:19.000Z"
+      "updatedAt": "2026-09-06T21:14:45.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-06T18:30:50.000Z"
+      "updatedAt": "2026-09-06T22:00:47.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -393,7 +393,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-06T16:29:34.000Z"
+      "updatedAt": "2026-09-06T21:38:24.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -540,6 +540,17 @@
       "updatedAt": "2026-08-29T08:09:37.000Z"
     },
     {
+      "id": "Devin-AXIS/deepseek-design",
+      "name": "Devin-AXIS/deepseek-design",
+      "displayName": "deepseek-design",
+      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/deepseek-design"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-04T10:40:28.000Z"
+    },
+    {
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
@@ -556,18 +567,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-06T17:24:43.000Z"
-    },
-    {
-      "id": "Devin-AXIS/deepseek-design",
-      "name": "Devin-AXIS/deepseek-design",
-      "displayName": "deepseek-design",
-      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/deepseek-design"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-04T10:40:28.000Z"
+      "updatedAt": "2026-09-06T21:57:32.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -1053,7 +1053,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-06T19:30:34.000Z"
+      "updatedAt": "2026-09-06T21:54:33.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1396,7 +1396,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-06T13:33:34.000Z"
+      "updatedAt": "2026-09-06T21:44:37.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
