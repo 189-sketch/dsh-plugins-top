@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [OuYangxin12/dsh-status-bar](https://github.com/OuYangxin12/dsh-status-bar) | ⭐ 0 | ✅ | Live execution status bar for the DeepSeek Harness web GUI: real-time activity + event-driven LLM achievement summaries with expandable detail reports. | `ui-panel` |
-| #2 | [Canary-Builds/dhs-connect](https://github.com/Canary-Builds/dhs-connect) | ⭐ 0 | ✅ | DSH Connect — ChatGPT model connector for DeepSeek Harness, powered by the Codex app-server. | `ui-panel` |
-| #3 | [TYEclipse/dsh-chem](https://github.com/TYEclipse/dsh-chem) | ⭐ 1 | ✅ | Deterministic chemistry math for DeepSeek Harness: formula parsing + molar mass, mass/mole/particle conversions, solution concentration and pH math — zero runtime dependencies | `tool` |
-| #4 | [Harzva/dsh-pr-guardian](https://github.com/Harzva/dsh-pr-guardian) | ⭐ 0 | ✅ | Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection. | `ui-panel` |
-| #5 | [kaerf15/dsh-plus](https://github.com/kaerf15/dsh-plus) | ⭐ 0 | ✅ | DSH+：给 DeepSeek Harness web 套原生桌面窗口的多应用容器（electron，macOS/Windows） | `other` |
-| #6 | [kaerf15/dsh-geek-ui](https://github.com/kaerf15/dsh-geek-ui) | ⭐ 0 | ✅ | DSH Geek UI — dsh web 极客增强插件集合（页头重排 / 极客侧栏 / 归档管理） | `other` |
-| #7 | [AllDurham/foreman-dsh](https://github.com/AllDurham/foreman-dsh) | ⭐ 1 | ✅ | 贵脑+贱手: cloud-orchestrator + local-worker lanes (delegate & read-only scout) for DeepSeek Harness \| 社区 Agent 预设 | `other` |
-| #8 | [pure-craft/dsh-capability-panel](https://github.com/pure-craft/dsh-capability-panel) | ⭐ 0 | ✅ | DeepSeek Harness plugin: see what your agent can actually reach — skills, MCP servers, system tools with true in-context state, and per-session / per-preset switches | `skill` |
-| #9 | [GooDAnDReaDY/dsh-goal](https://github.com/GooDAnDReaDY/dsh-goal) | ⭐ 0 | ✅ | Goal mode & autonomous execution plugin for DeepSeek Harness with sticky top banner | `ui-panel` |
-| #10 | [keeshakulbida948-tech/dsh-plugin-fun](https://github.com/keeshakulbida948-tech/dsh-plugin-fun) | ⭐ 0 | ✅ | DeepSeek Harness「阿蓝」人格插件：给 AI 注入活泼有趣、会主动发表情包的性格 | `tool` |
-| #11 | [SunshineR04/dsh-session-manager](https://github.com/SunshineR04/dsh-session-manager) | ⭐ 0 | ✅ | DeepSeek Harness (DSH) plugin: manage archived sessions - list, restore, permanently delete; Settings page + red delete item in the session context menu | `ui-panel` |
-| #12 | [keeshakulbida948-tech/dsh-plugin-sticker](https://github.com/keeshakulbida948-tech/dsh-plugin-sticker) | ⭐ 0 | ✅ | DeepSeek Harness 表情包插件：AI 按情境主动发表情包，图片内嵌对话气泡显示 | `ui-panel` |
-| #13 | [233fxr-collab/dsh-mobile-push-notify](https://github.com/233fxr-collab/dsh-mobile-push-notify) | ⭐ 0 | ✅ | dsh task/mobile completion notifications: desktop native alerts + PWA/Web Push phone pairing (zero-config) | `other` |
-| #14 | [lovstudio/dsh-video-studio](https://github.com/lovstudio/dsh-video-studio) | ⭐ 0 | ✅ | DSH video editing workbench with Remotion, GSAP and pluggable ASR | `ui-panel` |
-| #15 | [TritiumWang/dsh-universal-worldbook](https://github.com/TritiumWang/dsh-universal-worldbook) | ⭐ 0 | ✅ | 酒馆风格的通用世界书，为最新用户消息附加一次性的提示词注入，无上下文污染。SillyTavern-style worldbook for general purpose. Generating per-request injections to user message without long-lasting context contamination. | `ui-panel` |
-| #16 | [glh5835/dsh-prompt-refiner](https://github.com/glh5835/dsh-prompt-refiner) | ⭐ 0 | ✅ | DeepSeek Harness 提示词精炼插件：结构化改写 + 成本路由 + 缓存 + token 统计 | `ui-panel` |
-| #17 | [Plaaasma/dsh-subagent-claude-live](https://github.com/Plaaasma/dsh-subagent-claude-live) | ⭐ 0 | ✅ | Claude Code as a real, streaming DeepSeek Harness subagent: session-backed child, per-call model/effort choice, live model list from the CLI | `other` |
-| #18 | [ZiFan1117/dsh-atom-market](https://github.com/ZiFan1117/dsh-atom-market) | ⭐ 0 | ✅ | DeepSeek Harness 社区插件（dsh-plugin）：把 Software Atom Market 变成 Agent 可逛/可校验/可投稿的能力库。Tools: atom_search/atom_read/atom_validate/atom_draft. 默认数据源=GitHub 商店，零配置。 | `tool` |
-| #19 | [Pasumao/dsh-plugin-context-trim](https://github.com/Pasumao/dsh-plugin-context-trim) | ⭐ 0 | ✅ | 会话注入门控：按会话裁剪注入模型的 skill / tool / 提示词段落 · Per-session injection gate for DeepSeek Harness (dsh) | `skill` |
-| #20 | [Fayelin12/dsh-workspace-prompts](https://github.com/Fayelin12/dsh-workspace-prompts) | ⭐ 0 | ✅ | Per-workspace custom system prompts for DeepSeek Harness (DSH): one active prompt per workspace, captured into a session at creation time, editable from a session-header dialog. | `ui-panel` |
-| #21 | [GooDAnDReaDY/dsh-cost-meter](https://github.com/GooDAnDReaDY/dsh-cost-meter) | ⭐ 0 | ✅ | DeepSeek Harness plugin: a session cost chip in the conversation header - live token usage by bucket, peak/off-peak tariff, and a countdown to the next tariff switch. | `ui-panel` |
-| #22 | [Su2uka111/dsh-document-drop](https://github.com/Su2uka111/dsh-document-drop) | ⭐ 1 | ✅ | Document drag-and-drop plugin for DeepSeek Harness: PDF/Word/Excel/text auto-parsed with dual-track context (inline + doc_read), native WinRT OCR for scans. Zero upstream changes, hot-injectable. \| DeepSeek Harness 文档拖拽读取插件：PDF/Word/Excel/文本自动解析，双轨上下文（内联 + doc_read 按需检索），扫描件原生 WinRT OCR。零修改上游，运行时热注入。 | `ui-panel` |
-| #23 | [ApeInCodeMountain/llm-wiki-sidebar](https://github.com/ApeInCodeMountain/llm-wiki-sidebar) | ⭐ 1 | ✅ | LLM Wiki workbench for dsh-better-sidebar: browse and lint a Karpathy-style interlinked markdown wiki, open pages with the native markdown viewer, clickable [[wikilinks]] and provenance/relative .md links, and backlinks. Ships the llm-wiki agent skill. | `skill` |
-| #24 | [wuxiangru915/dsh-plugins](https://github.com/wuxiangru915/dsh-plugins) | ⭐ 0 | ✅ | DeepSeek Harness plugins by wuxiangru915: session manager, review loop, session navigator | `other` |
-| #25 | [Floatingfur/dsh-paperpanel](https://github.com/Floatingfur/dsh-paperpanel) | ⭐ 0 | ✅ | Papers and data, unified inside DSH. | `ui-panel` |
-| #26 | [flashyiyi/dsh-zcode-persona](https://github.com/flashyiyi/dsh-zcode-persona) | ⭐ 0 | ✅ | Make the model believe it is inside the Z.ai Code (Zhipu ZCode) agent environment. DSH system-prompt waterfall plugin. | `other` |
-| #27 | [ArcaneOrion/dsh-stage-panel](https://github.com/ArcaneOrion/dsh-stage-panel) | ⭐ 0 | ✅ | DSH in-session panel view: agent HTML projected into a sandboxed iframe | `ui-panel` |
-| #28 | [ArcaneOrion/dsh-model-selector-search](https://github.com/ArcaneOrion/dsh-model-selector-search) | ⭐ 0 | ✅ | DSH session model selector with search and reasoning-effort pane | `ui-panel` |
-| #29 | [ArcaneOrion/dsh-model-channel-manager](https://github.com/ArcaneOrion/dsh-model-channel-manager) | ⭐ 0 | ✅ | DSH model channel manager: roundrobin failover engine + model config panel | `ui-panel` |
-| #30 | [dusbin/dsh-chat-fold](https://github.com/dusbin/dsh-chat-fold) | ⭐ 0 | ✅ | 折叠/展开AI回复的Think、Read、Edit 等操作内容，默认只展示重要信息 | `ui-panel` |
+| #1 | [ya-b/dsh-web-open-access](https://github.com/ya-b/dsh-web-open-access) | ⭐ 0 | ✅ | Removes the login token and the local-network access restriction. | `ui-panel` |
+| #2 | [wangtie-010101/wangtie-os](https://github.com/wangtie-010101/wangtie-os) | ⭐ 0 | ✅ | 王铁 OS — 构建在 DeepSeek Harness 之上的全屏业务应用框架：知识库 RAG / SQL 查询 / 日志分析 Agent / 数据字典 / 元数据管理 / 系统测试 | `ui-panel` |
+| #3 | [Epiphany-Leon/dsh-skill-forge](https://github.com/Epiphany-Leon/dsh-skill-forge) | ⭐ 0 | ✅ | Multi-Agent collaborative skill forging system for DeepSeek Harness — distill conversational experience into verifiable, reusable Agent Skills. | `skill` |
+| #4 | [CaoQiNeng/dsh-deepseek-balance](https://github.com/CaoQiNeng/dsh-deepseek-balance) | ⭐ 0 | 🟡 | DeepSeek API account balance as a floating bottom-right badge in the DeepSeek Harness web UI (dynamic Cordis plugin) | `other` |
+| #5 | [luoxunhao/dsh-quote](https://github.com/luoxunhao/dsh-quote) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #6 | [nicklin99/dsh-find-jobs](https://github.com/nicklin99/dsh-find-jobs) | ⭐ 0 | ✅ | dsh个人求职插件 | `tool` |
+| #7 | [watersxya/dsh-novel-forge](https://github.com/watersxya/dsh-novel-forge) | ⭐ 1 | ✅ | AI 编译纯文本小说工作台 for DSH：大纲导入、道藏/大世界设定、卷与章节规划、逐章 AI 生成 3000-4000 字、九维审稿、全书质检、全本导出。AI novel writing workbench (text-only). | `skill` |
+| #8 | [345420242/dsh-commandcode-usage-inline](https://github.com/345420242/dsh-commandcode-usage-inline) | ⭐ 1 | ✅ |  | `ui-panel` |
+| #9 | [11zld22/dsh-model-info-fill](https://github.com/11zld22/dsh-model-info-fill) | ⭐ 1 | ✅ | 模型信息补全：按模型名自动补全上下文、输出上限、思考档位和图片能力 | `ui-panel` |
+| #10 | [HanphoneJan/dsh-a2a](https://github.com/HanphoneJan/dsh-a2a) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #11 | [polohot/dsh-adrian-inject-context](https://github.com/polohot/dsh-adrian-inject-context) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #12 | [Silktex/dsh-team](https://github.com/Silktex/dsh-team) | ⭐ 0 | ✅ | Durable agent teams and web dashboard plugin for DeepSeek Harness | `ui-panel` |
+| #13 | [GBDJXB/dsh-workspace-presets](https://github.com/GBDJXB/dsh-workspace-presets) | ⭐ 0 | ✅ | Per-workspace Agent preset bindings for DeepSeek Harness | `ui-panel` |
+| #14 | [Mekansm1/DSH-WebGIS](https://github.com/Mekansm1/DSH-WebGIS) | ⭐ 0 | ✅ | DeepSeek Harness (DSH) WebGIS Plugin: Map reading, map manipulation, and 3D world comprehension. | `provider` |
+| #15 | [countossbot/dsh-skill-injector](https://github.com/countossbot/dsh-skill-injector) | ⭐ 0 | ✅ | Auto-inject chosen skills into DeepSeek Harness (DSH) sessions: each prompt or once at session start, with a settings page and a composer indicator. | `skill` |
+| #16 | [zaimokuza-yoshiteru/dsh-plugin-hub](https://github.com/zaimokuza-yoshiteru/dsh-plugin-hub) | ⭐ 0 | ✅ | Extensible plugin marketplace for DeepSeek Harness: independent team catalogs, pnpm release-age policy, and a CLI for branded markets. | `other` |
+| #17 | [ZSCDumin/dsh-wellness](https://github.com/ZSCDumin/dsh-wellness) | ⭐ 0 | ✅ | dsh-wellness | `other` |
+| #18 | [mill413/dsh-session-resume](https://github.com/mill413/dsh-session-resume) | ⭐ 0 | ✅ | Continue interrupted DeepSeek Harness tasks with one click. | `other` |
+| #19 | [kristol07/dsh-version-inventory](https://github.com/kristol07/dsh-version-inventory) | ⭐ 0 | ✅ | Show the running DeepSeek Harness version and every mounted plugin's package version inside the dsh web UI. | `ui-panel` |
+| #20 | [chuxindd/dsh-context-enhancement](https://github.com/chuxindd/dsh-context-enhancement) | ⭐ 0 | ✅ | 面向 DeepSeek Harness 编程会话的持久化任务状态与上下文感知压缩。 | `ui-panel` |
+| #21 | [Saidoua/dsh-rs](https://github.com/Saidoua/dsh-rs) | ⭐ 0 | ✅ | In-process grep and glob for the DeepSeek Harness search tools, on ripgrep's library crates — a napi-rs addon, measured in the harness against the packaged ripgrep spawn | `tool` |
+| #22 | [clclyzybzjsq/dsh-btw](https://github.com/clclyzybzjsq/dsh-btw) | ⭐ 1 | ✅ | enables /btw commands in deepseek-harness (similar to /btw in claude code) | `other` |
+| #23 | [OuYangxin12/dsh-status-bar](https://github.com/OuYangxin12/dsh-status-bar) | ⭐ 0 | ✅ | Live execution status bar for the DeepSeek Harness web GUI: real-time activity + event-driven LLM achievement summaries with expandable detail reports. | `ui-panel` |
+| #24 | [alebgl77/dsh-plugin-otel-genai](https://github.com/alebgl77/dsh-plugin-otel-genai) | ⭐ 0 | ✅ | OpenTelemetry GenAI metrics for DeepSeek Harness: token usage and step latency per provider and model, exported over OTLP for Grafana and Prometheus | `other` |
+| #25 | [Canary-Builds/dhs-connect](https://github.com/Canary-Builds/dhs-connect) | ⭐ 0 | ✅ | DSH Connect — ChatGPT model connector for DeepSeek Harness, powered by the Codex app-server. | `ui-panel` |
+| #26 | [TYEclipse/dsh-chem](https://github.com/TYEclipse/dsh-chem) | ⭐ 1 | ✅ | Deterministic chemistry math for DeepSeek Harness: formula parsing + molar mass, mass/mole/particle conversions, solution concentration and pH math — zero runtime dependencies | `tool` |
+| #27 | [Harzva/dsh-pr-guardian](https://github.com/Harzva/dsh-pr-guardian) | ⭐ 0 | ✅ | Authored PR feedback inbox with shared Codex/DSH progress and read-only GitHub collection. | `ui-panel` |
+| #28 | [YEYEYEYESHIFU/dsh-split-screen](https://github.com/YEYEYEYESHIFU/dsh-split-screen) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #29 | [kaerf15/dsh-plus](https://github.com/kaerf15/dsh-plus) | ⭐ 0 | ✅ | DSH+：给 DeepSeek Harness web 套原生桌面窗口的多应用容器（electron，macOS/Windows） | `other` |
+| #30 | [kaerf15/dsh-geek-ui](https://github.com/kaerf15/dsh-geek-ui) | ⭐ 0 | ✅ | DSH Geek UI — dsh web 极客增强插件集合（页头重排 / 极客侧栏 / 归档管理） | `other` |
