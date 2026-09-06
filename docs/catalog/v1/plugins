@@ -109,7 +109,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-06T19:55:55.000Z"
+      "updatedAt": "2026-09-06T23:11:04.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-06T21:14:45.000Z"
+      "updatedAt": "2026-09-06T22:46:46.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-06T22:00:47.000Z"
+      "updatedAt": "2026-09-06T23:30:44.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -438,7 +438,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-06T16:17:03.000Z"
+      "updatedAt": "2026-09-06T23:33:50.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-3",
@@ -567,7 +567,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-06T21:57:32.000Z"
+      "updatedAt": "2026-09-06T22:37:29.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -608,7 +608,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-06T19:34:15.000Z"
+      "updatedAt": "2026-09-06T23:39:52.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -930,7 +930,7 @@
         "url": "https://github.com/EthanYoQ/Invoice-Downloader"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-08-29T11:00:38.000Z"
+      "updatedAt": "2026-09-06T23:38:34.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
