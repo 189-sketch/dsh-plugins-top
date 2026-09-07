@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T04:41:40.000Z"
+      "updatedAt": "2026-09-07T12:34:58.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-07T08:58:30.000Z"
+      "updatedAt": "2026-09-07T15:09:28.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-07T03:00:19.000Z"
+      "updatedAt": "2026-09-07T15:28:38.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -84,7 +84,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-07T08:08:29.000Z"
+      "updatedAt": "2026-09-07T15:36:35.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -165,7 +165,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-07T07:52:17.000Z"
+      "updatedAt": "2026-09-07T09:33:36.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -196,7 +196,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-07T02:46:46.000Z"
+      "updatedAt": "2026-09-07T15:17:47.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-07T08:28:42.000Z"
+      "updatedAt": "2026-09-07T14:48:34.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -241,7 +241,7 @@
       "repository": {
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
-      "updatedAt": "2026-09-07T08:30:47.000Z"
+      "updatedAt": "2026-09-07T14:15:34.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -270,7 +270,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T08:24:21.000Z"
+      "updatedAt": "2026-09-07T12:37:32.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -281,7 +281,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T04:52:48.000Z"
+      "updatedAt": "2026-09-07T12:44:51.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -343,7 +343,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-07T08:55:41.000Z"
+      "updatedAt": "2026-09-07T15:32:32.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -407,17 +407,6 @@
       "updatedAt": "2026-09-07T07:27:35.000Z"
     },
     {
-      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
-      "name": "cloudbase-ai-toolkit",
-      "displayName": "CloudBase-AI-Toolkit",
-      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
-      "repository": {
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-07T07:20:47.000Z"
-    },
-    {
       "id": "Minglink/dsh-infinite-gen-3",
       "name": "dsh-infinite-gen-3",
       "displayName": "dsh-infinite-gen-3",
@@ -427,6 +416,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-07T04:35:56.000Z"
+    },
+    {
+      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+      "name": "cloudbase-ai-toolkit",
+      "displayName": "CloudBase-AI-Toolkit",
+      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+      "repository": {
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-07T13:07:18.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -473,16 +473,6 @@
       "updatedAt": "2026-08-25T06:52:19.000Z"
     },
     {
-      "id": "mindscale-noah/MindMemOS",
-      "name": "mindscale-noah/MindMemOS",
-      "displayName": "MindMemOS",
-      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
-      "repository": {
-        "url": "https://github.com/mindscale-noah/MindMemOS"
-      },
-      "updatedAt": "2026-09-02T11:32:00.000Z"
-    },
-    {
       "id": "shaobeichen/dsh-pocket",
       "name": "dsh-pocket",
       "displayName": "dsh-pocket",
@@ -501,6 +491,16 @@
         "tunnel"
       ],
       "updatedAt": "2026-09-03T01:17:42.000Z"
+    },
+    {
+      "id": "mindscale-noah/MindMemOS",
+      "name": "mindscale-noah/MindMemOS",
+      "displayName": "MindMemOS",
+      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
+      "repository": {
+        "url": "https://github.com/mindscale-noah/MindMemOS"
+      },
+      "updatedAt": "2026-09-02T11:32:00.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -567,7 +567,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-07T08:57:11.000Z"
+      "updatedAt": "2026-09-07T14:14:20.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -588,7 +588,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-07T08:55:27.000Z"
+      "updatedAt": "2026-09-07T09:08:21.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -815,24 +815,6 @@
       "updatedAt": "2026-09-06T14:17:07.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-genui",
-      "name": "@changfenhuang/dsh-genui",
-      "displayName": "dsh-genui",
-      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-genui"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "generative-ui",
-        "plugin",
-        "ui"
-      ],
-      "updatedAt": "2026-09-06T05:33:02.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -857,6 +839,24 @@
         "agent"
       ],
       "updatedAt": "2026-09-06T10:46:21.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-genui",
+      "name": "@changfenhuang/dsh-genui",
+      "displayName": "dsh-genui",
+      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-genui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "generative-ui",
+        "plugin",
+        "ui"
+      ],
+      "updatedAt": "2026-09-07T14:01:18.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -954,6 +954,26 @@
       "updatedAt": "2026-09-06T15:17:34.000Z"
     },
     {
+      "id": "chenxiachan/thoughtdag",
+      "name": "thoughtdag",
+      "displayName": "thoughtdag",
+      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "repository": {
+        "url": "https://github.com/chenxiachan/thoughtdag"
+      },
+      "license": "MIT",
+      "keywords": [
+        "llm",
+        "dag",
+        "canvas",
+        "react-flow",
+        "ai",
+        "knowledge-graph",
+        "research-tool"
+      ],
+      "updatedAt": "2026-09-07T15:34:30.000Z"
+    },
+    {
       "id": "yjh051108/dsh-router-standard",
       "name": "dsh-router-standard",
       "displayName": "dsh-router-standard",
@@ -972,26 +992,6 @@
       "updatedAt": "2026-08-24T18:20:09.000Z"
     },
     {
-      "id": "chenxiachan/thoughtdag",
-      "name": "thoughtdag",
-      "displayName": "thoughtdag",
-      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
-      "repository": {
-        "url": "https://github.com/chenxiachan/thoughtdag"
-      },
-      "license": "MIT",
-      "keywords": [
-        "llm",
-        "dag",
-        "canvas",
-        "react-flow",
-        "ai",
-        "knowledge-graph",
-        "research-tool"
-      ],
-      "updatedAt": "2026-09-07T05:40:39.000Z"
-    },
-    {
       "id": "liangmianya/dsh-synapse",
       "name": "dsh-synapse",
       "displayName": "dsh-synapse",
@@ -1001,6 +1001,16 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-26T13:12:24.000Z"
+    },
+    {
+      "id": "linhay/harmony-next.skills",
+      "name": "dsh-harmony-next",
+      "displayName": "harmony-next.skills",
+      "summary": "🚀 Expert guidance for HarmonyOS NEXT (API 12+) development. Covers IDE operations, performance tuning, architecture (HAP/HAR/HSP), and automation testing.",
+      "repository": {
+        "url": "https://github.com/linhay/harmony-next.skills"
+      },
+      "updatedAt": "2026-08-18T08:05:29.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1046,16 +1056,6 @@
       "updatedAt": "2026-09-07T01:08:01.000Z"
     },
     {
-      "id": "linhay/harmony-next.skills",
-      "name": "dsh-harmony-next",
-      "displayName": "harmony-next.skills",
-      "summary": "🚀 Expert guidance for HarmonyOS NEXT (API 12+) development. Covers IDE operations, performance tuning, architecture (HAP/HAR/HSP), and automation testing.",
-      "repository": {
-        "url": "https://github.com/linhay/harmony-next.skills"
-      },
-      "updatedAt": "2026-08-18T08:05:29.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1089,6 +1089,17 @@
       "updatedAt": "2026-09-06T13:25:58.000Z"
     },
     {
+      "id": "shengsheng90/DSH-taskboard",
+      "name": "@shengsheng/dsh-taskboard",
+      "displayName": "DSH-taskboard",
+      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "repository": {
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-08-31T07:26:26.000Z"
+    },
+    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -1111,15 +1122,15 @@
       "updatedAt": "2026-09-07T06:32:53.000Z"
     },
     {
-      "id": "shengsheng90/DSH-taskboard",
-      "name": "@shengsheng/dsh-taskboard",
-      "displayName": "DSH-taskboard",
-      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "id": "zenstory-ai/oh-story-dsh",
+      "name": "oh-story-dsh",
+      "displayName": "oh-story-dsh",
+      "summary": "A DSH plugin for novel writing and short-drama production, powered by Oh Story and Drama Skills.",
       "repository": {
-        "url": "https://github.com/shengsheng90/DSH-taskboard"
+        "url": "https://github.com/zenstory-ai/oh-story-dsh"
       },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-08-31T07:26:26.000Z"
+      "license": "MIT",
+      "updatedAt": "2026-09-07T06:39:40.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1144,15 +1155,15 @@
       "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
-      "id": "zenstory-ai/oh-story-dsh",
-      "name": "oh-story-dsh",
-      "displayName": "oh-story-dsh",
-      "summary": "A DSH plugin for novel writing and short-drama production, powered by Oh Story and Drama Skills.",
+      "id": "LivXue/dsh-plugin-shop",
+      "name": "dsh-plugin-shop-registry",
+      "displayName": "dsh-plugin-shop",
+      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
       "repository": {
-        "url": "https://github.com/zenstory-ai/oh-story-dsh"
+        "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
-      "license": "MIT",
-      "updatedAt": "2026-09-07T06:39:40.000Z"
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-07T15:23:06.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1181,17 +1192,6 @@
         "agent-companion"
       ],
       "updatedAt": "2026-09-05T12:37:56.000Z"
-    },
-    {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-04T12:42:40.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1231,18 +1231,18 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-09-05T11:05:16.000Z"
+      "updatedAt": "2026-09-07T11:53:50.000Z"
     },
     {
-      "id": "LivXue/dsh-plugin-shop",
-      "name": "dsh-plugin-shop-registry",
-      "displayName": "dsh-plugin-shop",
-      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
       "repository": {
-        "url": "https://github.com/LivXue/dsh-plugin-shop"
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
       },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-07T08:50:02.000Z"
+      "license": "MIT",
+      "updatedAt": "2026-09-04T12:42:40.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1274,23 +1274,6 @@
       "updatedAt": "2026-08-20T12:42:53.000Z"
     },
     {
-      "id": "ericshang98/Perfect-Web-Clone",
-      "name": "perfect-web-clone",
-      "displayName": "Perfect-Web-Clone",
-      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
-      "repository": {
-        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pixel-perfect",
-        "web-clone",
-        "playwright",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-08-22T14:39:08.000Z"
-    },
-    {
       "id": "huiliyi37/dsh-tianshu-tui",
       "name": "@huiliyi37/dsh-tianshu-tui",
       "displayName": "dsh-tianshu-tui",
@@ -1307,6 +1290,23 @@
         "cli"
       ],
       "updatedAt": "2026-08-29T20:00:46.000Z"
+    },
+    {
+      "id": "ericshang98/Perfect-Web-Clone",
+      "name": "perfect-web-clone",
+      "displayName": "Perfect-Web-Clone",
+      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
+      "repository": {
+        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pixel-perfect",
+        "web-clone",
+        "playwright",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-08-22T14:39:08.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1347,16 +1347,6 @@
       "updatedAt": "2026-08-27T21:36:31.000Z"
     },
     {
-      "id": "libukai/awesome-deepseek-harness",
-      "name": "libukai/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
-      "repository": {
-        "url": "https://github.com/libukai/awesome-deepseek-harness"
-      },
-      "updatedAt": "2026-09-06T03:47:02.000Z"
-    },
-    {
       "id": "elysia395/dsh-wallpaper-engine",
       "name": "dsh-plugin-wallpaper-engine",
       "displayName": "dsh-wallpaper-engine",
@@ -1374,7 +1364,28 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-05T20:13:20.000Z"
+      "updatedAt": "2026-09-07T14:50:20.000Z"
+    },
+    {
+      "id": "libukai/awesome-deepseek-harness",
+      "name": "libukai/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "repository": {
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      "updatedAt": "2026-09-06T03:47:02.000Z"
+    },
+    {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-07T15:13:29.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1388,17 +1399,6 @@
       "updatedAt": "2026-09-02T06:12:40.000Z"
     },
     {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-06T15:28:16.000Z"
-    },
-    {
       "id": "Dominic789654/awesome-deepseek-harness",
       "name": "Dominic789654/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -1407,7 +1407,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-07T08:45:05.000Z"
+      "updatedAt": "2026-09-07T13:02:24.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1433,7 +1433,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-07T07:50:40.000Z"
+      "updatedAt": "2026-09-07T13:33:42.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1444,7 +1444,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T08:51:15.000Z"
+      "updatedAt": "2026-09-07T15:21:50.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
@@ -1523,7 +1523,7 @@
         "webgpu",
         "ocean"
       ],
-      "updatedAt": "2026-09-01T13:37:06.000Z"
+      "updatedAt": "2026-09-07T11:59:43.000Z"
     },
     {
       "id": "Ruler4396/dsh-launcher",
@@ -1568,17 +1568,6 @@
       "updatedAt": "2026-09-04T03:49:36.000Z"
     },
     {
-      "id": "tinqiao-oss/engramory",
-      "name": "dsh-engramory",
-      "displayName": "engramory",
-      "summary": "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.",
-      "repository": {
-        "url": "https://github.com/tinqiao-oss/engramory"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T11:35:00.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-data-agent",
       "name": "@yejiming/dsh-data-agent",
       "displayName": "dsh-data-agent",
@@ -1588,6 +1577,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-31T04:03:29.000Z"
+    },
+    {
+      "id": "tinqiao-oss/engramory",
+      "name": "dsh-engramory",
+      "displayName": "engramory",
+      "summary": "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.",
+      "repository": {
+        "url": "https://github.com/tinqiao-oss/engramory"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T11:35:00.000Z"
     }
   ],
   "page": {
