@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-05T16:35:08.000Z"
+      "updatedAt": "2026-09-07T01:32:58.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-05T14:58:55.000Z"
+      "updatedAt": "2026-09-07T02:45:44.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -95,7 +95,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-06T14:50:37.000Z"
+      "updatedAt": "2026-09-07T02:41:15.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -109,7 +109,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-06T23:11:04.000Z"
+      "updatedAt": "2026-09-07T00:43:42.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -120,7 +120,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-06T07:07:23.000Z"
+      "updatedAt": "2026-09-07T02:36:53.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -196,7 +196,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-05T15:22:00.000Z"
+      "updatedAt": "2026-09-07T02:46:46.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-06T22:46:46.000Z"
+      "updatedAt": "2026-09-07T01:59:56.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -322,7 +322,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-06T16:37:30.000Z"
+      "updatedAt": "2026-09-07T00:59:44.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -343,26 +343,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-06T17:33:57.000Z"
-    },
-    {
-      "id": "GanyuanRan/Aegis",
-      "name": "aegis",
-      "displayName": "Aegis",
-      "summary": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
-      "repository": {
-        "url": "https://github.com/GanyuanRan/Aegis"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "agent-skills",
-        "aegis",
-        "method-pack",
-        "dsh-plugin",
-        "deepseek-harness"
-      ],
-      "updatedAt": "2026-09-05T10:38:31.000Z"
+      "updatedAt": "2026-09-07T02:46:38.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -393,7 +374,26 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-06T21:38:24.000Z"
+      "updatedAt": "2026-09-07T00:20:46.000Z"
+    },
+    {
+      "id": "GanyuanRan/Aegis",
+      "name": "aegis",
+      "displayName": "Aegis",
+      "summary": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
+      "repository": {
+        "url": "https://github.com/GanyuanRan/Aegis"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "agent-skills",
+        "aegis",
+        "method-pack",
+        "dsh-plugin",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-09-05T10:38:31.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -404,7 +404,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-06T17:32:27.000Z"
+      "updatedAt": "2026-09-07T01:48:21.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -415,7 +415,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-06T07:07:44.000Z"
+      "updatedAt": "2026-09-07T02:47:18.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -438,7 +438,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-06T23:33:50.000Z"
+      "updatedAt": "2026-09-07T00:12:01.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-3",
@@ -577,7 +577,18 @@
       "repository": {
         "url": "https://github.com/Electricitysheep/dsh-handbook"
       },
-      "updatedAt": "2026-09-04T05:23:33.000Z"
+      "updatedAt": "2026-09-07T02:21:37.000Z"
+    },
+    {
+      "id": "EthanYoQ/AI-Novel-Writer",
+      "name": "ai-novel-writer",
+      "displayName": "AI-Novel-Writer",
+      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
+      },
+      "license": "GPL-3.0",
+      "updatedAt": "2026-09-07T01:58:55.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -598,17 +609,6 @@
         "pi-coding-agent"
       ],
       "updatedAt": "2026-08-30T18:41:47.000Z"
-    },
-    {
-      "id": "EthanYoQ/AI-Novel-Writer",
-      "name": "ai-novel-writer",
-      "displayName": "AI-Novel-Writer",
-      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
-      },
-      "license": "GPL-3.0",
-      "updatedAt": "2026-09-06T23:39:52.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -873,29 +873,6 @@
       "updatedAt": "2026-09-06T12:46:12.000Z"
     },
     {
-      "id": "liustack/modsearch",
-      "name": "@liustack/modsearch",
-      "displayName": "modsearch",
-      "summary": "🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。",
-      "repository": {
-        "url": "https://github.com/liustack/modsearch"
-      },
-      "license": "MIT",
-      "keywords": [
-        "search",
-        "web-fetch",
-        "cli",
-        "llm",
-        "agent",
-        "agent-skill",
-        "antigravity",
-        "modsearch",
-        "dsh-plugin",
-        "deepseek-harness"
-      ],
-      "updatedAt": "2026-09-03T18:32:05.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -920,6 +897,29 @@
         "agent"
       ],
       "updatedAt": "2026-09-06T10:46:21.000Z"
+    },
+    {
+      "id": "liustack/modsearch",
+      "name": "@liustack/modsearch",
+      "displayName": "modsearch",
+      "summary": "🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。",
+      "repository": {
+        "url": "https://github.com/liustack/modsearch"
+      },
+      "license": "MIT",
+      "keywords": [
+        "search",
+        "web-fetch",
+        "cli",
+        "llm",
+        "agent",
+        "agent-skill",
+        "antigravity",
+        "modsearch",
+        "dsh-plugin",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-09-03T18:32:05.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
@@ -1053,7 +1053,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-06T21:54:33.000Z"
+      "updatedAt": "2026-09-07T01:08:01.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1075,7 +1075,7 @@
         "grok",
         "github-copilot"
       ],
-      "updatedAt": "2026-09-06T01:01:40.000Z"
+      "updatedAt": "2026-09-07T02:00:17.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1241,6 +1241,17 @@
       "updatedAt": "2026-09-04T11:20:55.000Z"
     },
     {
+      "id": "LivXue/dsh-plugin-shop",
+      "name": "dsh-plugin-shop-registry",
+      "displayName": "dsh-plugin-shop",
+      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
+      "repository": {
+        "url": "https://github.com/LivXue/dsh-plugin-shop"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-07T02:41:40.000Z"
+    },
+    {
       "id": "op7418/pilot-harness",
       "name": "@deepseek-ai/dsh-root",
       "displayName": "pilot-harness",
@@ -1250,17 +1261,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-20T12:42:53.000Z"
-    },
-    {
-      "id": "LivXue/dsh-plugin-shop",
-      "name": "dsh-plugin-shop-registry",
-      "displayName": "dsh-plugin-shop",
-      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
-      "repository": {
-        "url": "https://github.com/LivXue/dsh-plugin-shop"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-06T18:29:34.000Z"
     },
     {
       "id": "ericshang98/Perfect-Web-Clone",
@@ -1385,7 +1385,18 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-06T13:05:27.000Z"
+      "updatedAt": "2026-09-07T01:03:42.000Z"
+    },
+    {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-06T15:28:16.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1396,7 +1407,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-06T21:44:37.000Z"
+      "updatedAt": "2026-09-07T02:06:47.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1422,18 +1433,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-05T03:14:51.000Z"
-    },
-    {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-06T15:28:16.000Z"
+      "updatedAt": "2026-09-07T02:47:01.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
