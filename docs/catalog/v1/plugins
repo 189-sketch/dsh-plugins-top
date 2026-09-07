@@ -84,7 +84,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-07T15:36:35.000Z"
+      "updatedAt": "2026-09-07T15:43:53.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -109,7 +109,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-07T00:43:42.000Z"
+      "updatedAt": "2026-09-07T17:08:23.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-07T14:48:34.000Z"
+      "updatedAt": "2026-09-07T18:10:58.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -241,7 +241,8 @@
       "repository": {
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
-      "updatedAt": "2026-09-07T14:15:34.000Z"
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-07T17:11:35.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -281,7 +282,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T12:44:51.000Z"
+      "updatedAt": "2026-09-07T18:45:44.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -322,7 +323,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-07T07:47:00.000Z"
+      "updatedAt": "2026-09-07T16:42:08.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -343,7 +344,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-07T15:32:32.000Z"
+      "updatedAt": "2026-09-07T19:02:12.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -374,7 +375,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-07T08:48:09.000Z"
+      "updatedAt": "2026-09-07T17:56:50.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -404,7 +405,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-07T07:27:35.000Z"
+      "updatedAt": "2026-09-07T18:58:07.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-3",
@@ -567,7 +568,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-07T14:14:20.000Z"
+      "updatedAt": "2026-09-07T19:41:32.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -882,17 +883,6 @@
       "updatedAt": "2026-09-03T18:32:05.000Z"
     },
     {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -909,6 +899,17 @@
         "web-fetch"
       ],
       "updatedAt": "2026-08-26T06:25:54.000Z"
+    },
+    {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -951,7 +952,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-06T15:17:34.000Z"
+      "updatedAt": "2026-09-07T18:00:06.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -971,7 +972,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-07T15:34:30.000Z"
+      "updatedAt": "2026-09-07T16:59:55.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1086,7 +1087,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-09-06T13:25:58.000Z"
+      "updatedAt": "2026-09-07T16:25:58.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1141,7 +1142,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T03:32:04.000Z"
+      "updatedAt": "2026-09-07T18:54:32.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -1163,18 +1164,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-07T15:23:06.000Z"
-    },
-    {
-      "id": "hust-open-atom-club/oh-dsh",
-      "name": "@oh-dsh/desktop",
-      "displayName": "oh-dsh",
-      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
-      "repository": {
-        "url": "https://github.com/hust-open-atom-club/oh-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-07T08:37:56.000Z"
+      "updatedAt": "2026-09-07T16:48:25.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1192,6 +1182,17 @@
         "agent-companion"
       ],
       "updatedAt": "2026-09-05T12:37:56.000Z"
+    },
+    {
+      "id": "hust-open-atom-club/oh-dsh",
+      "name": "@oh-dsh/desktop",
+      "displayName": "oh-dsh",
+      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
+      "repository": {
+        "url": "https://github.com/hust-open-atom-club/oh-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-07T08:37:56.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1364,7 +1365,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-07T14:50:20.000Z"
+      "updatedAt": "2026-09-07T16:08:50.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1385,7 +1386,7 @@
         "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T15:13:29.000Z"
+      "updatedAt": "2026-09-07T15:55:17.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1397,17 +1398,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-02T06:12:40.000Z"
-    },
-    {
-      "id": "Dominic789654/awesome-deepseek-harness",
-      "name": "Dominic789654/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
-      "repository": {
-        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-07T13:02:24.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1436,6 +1426,17 @@
       "updatedAt": "2026-09-07T13:33:42.000Z"
     },
     {
+      "id": "Dominic789654/awesome-deepseek-harness",
+      "name": "Dominic789654/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+      "repository": {
+        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-07T13:02:24.000Z"
+    },
+    {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
       "name": "awesome-deepseek-harness-plugins",
       "displayName": "awesome-deepseek-harness-plugins",
@@ -1444,7 +1445,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T15:21:50.000Z"
+      "updatedAt": "2026-09-07T16:34:10.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
