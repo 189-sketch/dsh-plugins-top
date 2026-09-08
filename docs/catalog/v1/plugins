@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-08T17:23:06.000Z"
+      "updatedAt": "2026-09-08T20:33:06.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -95,7 +95,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-08T19:11:20.000Z"
+      "updatedAt": "2026-09-08T21:42:42.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-08T19:08:29.000Z"
+      "updatedAt": "2026-09-08T22:19:24.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -271,7 +271,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-08T19:22:19.000Z"
+      "updatedAt": "2026-09-08T20:09:17.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -303,7 +303,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-08T18:45:52.000Z"
+      "updatedAt": "2026-09-08T22:15:56.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -344,7 +344,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-08T17:01:47.000Z"
+      "updatedAt": "2026-09-08T22:28:16.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -375,7 +375,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-08T17:33:14.000Z"
+      "updatedAt": "2026-09-08T20:13:05.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -504,6 +504,17 @@
       "updatedAt": "2026-09-02T11:32:00.000Z"
     },
     {
+      "id": "Devin-AXIS/deepseek-design",
+      "name": "Devin-AXIS/deepseek-design",
+      "displayName": "deepseek-design",
+      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/deepseek-design"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-04T10:40:28.000Z"
+    },
+    {
       "id": "Anionex/dsh-vision-toolkit",
       "name": "@anionex/dsh-vision-toolkit",
       "displayName": "dsh-vision-toolkit",
@@ -528,17 +539,6 @@
         "gui-automation"
       ],
       "updatedAt": "2026-09-08T13:46:57.000Z"
-    },
-    {
-      "id": "Devin-AXIS/deepseek-design",
-      "name": "Devin-AXIS/deepseek-design",
-      "displayName": "deepseek-design",
-      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/deepseek-design"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-04T10:40:28.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -568,7 +568,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-08T19:17:42.000Z"
+      "updatedAt": "2026-09-08T22:01:01.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -590,6 +590,17 @@
       },
       "license": "GPL-3.0",
       "updatedAt": "2026-09-08T10:30:54.000Z"
+    },
+    {
+      "id": "LiPu-jpg/Openwrite",
+      "name": "dsh-openwrite",
+      "displayName": "Openwrite",
+      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+      "repository": {
+        "url": "https://github.com/LiPu-jpg/Openwrite"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-08T21:47:00.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -682,17 +693,6 @@
       "updatedAt": "2026-09-06T14:15:21.000Z"
     },
     {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-04T06:43:07.000Z"
-    },
-    {
       "id": "Nagi-ovo/dsh-ads",
       "name": "@dsh-external/dsh-ads",
       "displayName": "dsh-ads",
@@ -732,6 +732,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-08T05:59:51.000Z"
+    },
+    {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-04T06:43:07.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -1464,7 +1475,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-08T14:39:29.000Z"
+      "updatedAt": "2026-09-08T21:49:24.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1586,17 +1597,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-04T03:49:36.000Z"
-    },
-    {
-      "id": "omdsh-dev/dsh-data-agent",
-      "name": "@yejiming/dsh-data-agent",
-      "displayName": "dsh-data-agent",
-      "summary": "Connect DSH to your database for conversational data analysis and actionable business insights.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-data-agent"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T04:03:29.000Z"
     }
   ],
   "page": {
