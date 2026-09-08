@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T12:34:58.000Z"
+      "updatedAt": "2026-09-08T01:22:24.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-07T15:09:28.000Z"
+      "updatedAt": "2026-09-08T02:54:41.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -84,7 +84,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-07T15:43:53.000Z"
+      "updatedAt": "2026-09-08T01:51:24.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -109,7 +109,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-07T17:08:23.000Z"
+      "updatedAt": "2026-09-08T02:35:34.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -120,7 +120,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-07T07:46:50.000Z"
+      "updatedAt": "2026-09-08T02:14:12.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-07T22:27:39.000Z"
+      "updatedAt": "2026-09-08T02:58:57.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -271,7 +271,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T12:37:32.000Z"
+      "updatedAt": "2026-09-08T03:00:12.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -282,7 +282,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T22:31:09.000Z"
+      "updatedAt": "2026-09-08T00:01:02.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -344,7 +344,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-07T20:11:57.000Z"
+      "updatedAt": "2026-09-08T00:44:49.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -375,7 +375,7 @@
         "whatsapp",
         "ai-office"
       ],
-      "updatedAt": "2026-09-07T17:56:50.000Z"
+      "updatedAt": "2026-09-08T00:26:51.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -397,17 +397,6 @@
       "updatedAt": "2026-09-07T07:55:32.000Z"
     },
     {
-      "id": "agentrq/agentrq",
-      "name": "agentrq/agentrq",
-      "displayName": "agentrq",
-      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
-      "repository": {
-        "url": "https://github.com/agentrq/agentrq"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-07T21:29:14.000Z"
-    },
-    {
       "id": "Minglink/dsh-infinite-gen-3",
       "name": "dsh-infinite-gen-3",
       "displayName": "dsh-infinite-gen-3",
@@ -419,6 +408,17 @@
       "updatedAt": "2026-09-07T04:35:56.000Z"
     },
     {
+      "id": "agentrq/agentrq",
+      "name": "agentrq/agentrq",
+      "displayName": "agentrq",
+      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
+      "repository": {
+        "url": "https://github.com/agentrq/agentrq"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-08T01:05:29.000Z"
+    },
+    {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
       "name": "cloudbase-ai-toolkit",
       "displayName": "CloudBase-AI-Toolkit",
@@ -427,7 +427,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T13:07:18.000Z"
+      "updatedAt": "2026-09-08T02:25:27.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -450,7 +450,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-07T05:07:22.000Z"
+      "updatedAt": "2026-09-08T02:34:23.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -530,17 +530,6 @@
       "updatedAt": "2026-09-04T17:30:32.000Z"
     },
     {
-      "id": "toby-bridges/api-relay-audit",
-      "name": "dsh-api-relay-audit",
-      "displayName": "api-relay-audit",
-      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
-      "repository": {
-        "url": "https://github.com/toby-bridges/api-relay-audit"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-29T08:09:37.000Z"
-    },
-    {
       "id": "Devin-AXIS/deepseek-design",
       "name": "Devin-AXIS/deepseek-design",
       "displayName": "deepseek-design",
@@ -552,10 +541,21 @@
       "updatedAt": "2026-09-04T10:40:28.000Z"
     },
     {
+      "id": "toby-bridges/api-relay-audit",
+      "name": "dsh-api-relay-audit",
+      "displayName": "api-relay-audit",
+      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
+      "repository": {
+        "url": "https://github.com/toby-bridges/api-relay-audit"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-29T08:09:37.000Z"
+    },
+    {
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
-      "summary": "One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 19 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.",
+      "summary": "One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.",
       "repository": {
         "url": "https://github.com/vshulcz/deja-vu"
       },
@@ -568,7 +568,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-07T22:24:49.000Z"
+      "updatedAt": "2026-09-08T02:33:49.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -952,7 +952,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-07T18:00:06.000Z"
+      "updatedAt": "2026-09-08T02:38:09.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1057,6 +1057,17 @@
       "updatedAt": "2026-09-07T01:08:01.000Z"
     },
     {
+      "id": "LivXue/dsh-plugin-shop",
+      "name": "dsh-plugin-shop-registry",
+      "displayName": "dsh-plugin-shop",
+      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
+      "repository": {
+        "url": "https://github.com/LivXue/dsh-plugin-shop"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-08T02:56:51.000Z"
+    },
+    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1142,18 +1153,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-07T18:54:32.000Z"
-    },
-    {
-      "id": "LivXue/dsh-plugin-shop",
-      "name": "dsh-plugin-shop-registry",
-      "displayName": "dsh-plugin-shop",
-      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
-      "repository": {
-        "url": "https://github.com/LivXue/dsh-plugin-shop"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-07T16:48:25.000Z"
+      "updatedAt": "2026-09-08T02:03:32.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -1165,6 +1165,26 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-31T09:40:54.000Z"
+    },
+    {
+      "id": "SeaOf0/dsh-redteam-model",
+      "name": "@dsh-external/dsh-redteam-model",
+      "displayName": "dsh-redteam-model",
+      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
+      "repository": {
+        "url": "https://github.com/SeaOf0/dsh-redteam-model"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-bundle",
+        "redteam",
+        "security"
+      ],
+      "updatedAt": "2026-09-04T11:20:55.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1193,26 +1213,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-07T08:37:56.000Z"
-    },
-    {
-      "id": "SeaOf0/dsh-redteam-model",
-      "name": "@dsh-external/dsh-redteam-model",
-      "displayName": "dsh-redteam-model",
-      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
-      "repository": {
-        "url": "https://github.com/SeaOf0/dsh-redteam-model"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-bundle",
-        "redteam",
-        "security"
-      ],
-      "updatedAt": "2026-09-04T11:20:55.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1348,6 +1348,16 @@
       "updatedAt": "2026-08-27T21:36:31.000Z"
     },
     {
+      "id": "libukai/awesome-deepseek-harness",
+      "name": "libukai/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "repository": {
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      "updatedAt": "2026-09-06T03:47:02.000Z"
+    },
+    {
       "id": "elysia395/dsh-wallpaper-engine",
       "name": "dsh-plugin-wallpaper-engine",
       "displayName": "dsh-wallpaper-engine",
@@ -1366,16 +1376,6 @@
         "background"
       ],
       "updatedAt": "2026-09-07T16:08:50.000Z"
-    },
-    {
-      "id": "libukai/awesome-deepseek-harness",
-      "name": "libukai/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
-      "repository": {
-        "url": "https://github.com/libukai/awesome-deepseek-harness"
-      },
-      "updatedAt": "2026-09-06T03:47:02.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1434,7 +1434,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-07T13:02:24.000Z"
+      "updatedAt": "2026-09-08T01:02:05.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1467,6 +1467,26 @@
       "updatedAt": "2026-08-20T16:51:38.000Z"
     },
     {
+      "id": "chokwinlee/deepseek-harness-desktop",
+      "name": "dsh-desktop",
+      "displayName": "deepseek-harness-desktop",
+      "summary": "Compact DeepSeek Harness desktop host with a native SwiftUI iPhone Remote source preview.",
+      "repository": {
+        "url": "https://github.com/chokwinlee/deepseek-harness-desktop"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "tauri",
+        "lightweight",
+        "small-bundle",
+        "desktop",
+        "macos",
+        "windows"
+      ],
+      "updatedAt": "2026-09-04T18:05:55.000Z"
+    },
+    {
       "id": "GraySilver/dsh-evolve-modes",
       "name": "@graysilver/dsh-evolve-modes",
       "displayName": "dsh-evolve-modes",
@@ -1486,26 +1506,6 @@
         "acceptance-review"
       ],
       "updatedAt": "2026-09-01T14:48:55.000Z"
-    },
-    {
-      "id": "chokwinlee/deepseek-harness-desktop",
-      "name": "dsh-desktop",
-      "displayName": "deepseek-harness-desktop",
-      "summary": "Compact DeepSeek Harness desktop host with a native SwiftUI iPhone Remote source preview.",
-      "repository": {
-        "url": "https://github.com/chokwinlee/deepseek-harness-desktop"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "tauri",
-        "lightweight",
-        "small-bundle",
-        "desktop",
-        "macos",
-        "windows"
-      ],
-      "updatedAt": "2026-09-04T18:05:55.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1569,6 +1569,17 @@
       "updatedAt": "2026-09-04T03:49:36.000Z"
     },
     {
+      "id": "tinqiao-oss/engramory",
+      "name": "dsh-engramory",
+      "displayName": "engramory",
+      "summary": "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.",
+      "repository": {
+        "url": "https://github.com/tinqiao-oss/engramory"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-08T02:33:25.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-data-agent",
       "name": "@yejiming/dsh-data-agent",
       "displayName": "dsh-data-agent",
@@ -1578,17 +1589,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-31T04:03:29.000Z"
-    },
-    {
-      "id": "tinqiao-oss/engramory",
-      "name": "dsh-engramory",
-      "displayName": "engramory",
-      "summary": "A portable memory protocol for AI agents — load it as standing rules; a curation discipline + reference spec + optional cap hook.",
-      "repository": {
-        "url": "https://github.com/tinqiao-oss/engramory"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T11:35:00.000Z"
     }
   ],
   "page": {
