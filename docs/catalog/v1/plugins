@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-10T08:39:41.000Z"
+      "updatedAt": "2026-09-11T05:17:55.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -109,7 +109,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-10T13:03:02.000Z"
+      "updatedAt": "2026-09-11T03:05:17.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -120,7 +120,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-10T11:10:52.000Z"
+      "updatedAt": "2026-09-11T07:17:06.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -185,7 +185,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-10T14:26:27.000Z"
+      "updatedAt": "2026-09-11T08:37:05.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -196,7 +196,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-10T12:16:47.000Z"
+      "updatedAt": "2026-09-11T06:08:30.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-11T02:50:08.000Z"
+      "updatedAt": "2026-09-11T08:05:21.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -271,7 +271,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-11T02:45:51.000Z"
+      "updatedAt": "2026-09-11T08:26:13.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -324,7 +324,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-11T00:33:49.000Z"
+      "updatedAt": "2026-09-11T08:24:52.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -344,7 +344,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-10T17:40:30.000Z"
+      "updatedAt": "2026-09-11T08:21:11.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-4",
@@ -417,7 +417,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-11T02:43:20.000Z"
+      "updatedAt": "2026-09-11T05:13:52.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -428,7 +428,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-10T12:34:02.000Z"
+      "updatedAt": "2026-09-11T08:01:53.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -451,7 +451,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-11T01:34:29.000Z"
+      "updatedAt": "2026-09-11T07:20:01.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -495,16 +495,6 @@
       "updatedAt": "2026-08-25T06:52:19.000Z"
     },
     {
-      "id": "mindscale-noah/MindMemOS",
-      "name": "mindscale-noah/MindMemOS",
-      "displayName": "MindMemOS",
-      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
-      "repository": {
-        "url": "https://github.com/mindscale-noah/MindMemOS"
-      },
-      "updatedAt": "2026-09-02T11:32:00.000Z"
-    },
-    {
       "id": "Devin-AXIS/deepseek-design",
       "name": "Devin-AXIS/deepseek-design",
       "displayName": "deepseek-design",
@@ -514,6 +504,16 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-09-04T10:40:28.000Z"
+    },
+    {
+      "id": "mindscale-noah/MindMemOS",
+      "name": "mindscale-noah/MindMemOS",
+      "displayName": "MindMemOS",
+      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
+      "repository": {
+        "url": "https://github.com/mindscale-noah/MindMemOS"
+      },
+      "updatedAt": "2026-09-02T11:32:00.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -569,7 +569,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-11T02:42:30.000Z"
+      "updatedAt": "2026-09-11T08:28:45.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -702,7 +702,7 @@
         "url": "https://github.com/Lum1104/dsh-browser"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-08T05:59:51.000Z"
+      "updatedAt": "2026-09-11T07:06:26.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -743,7 +743,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-10T15:09:34.000Z"
+      "updatedAt": "2026-09-11T08:28:13.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -754,7 +754,33 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-10T11:26:13.000Z"
+      "updatedAt": "2026-09-11T03:17:06.000Z"
+    },
+    {
+      "id": "YuJunZhiXue/dsh-purge",
+      "name": "dsh-purge",
+      "displayName": "dsh-purge",
+      "summary": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
+      "repository": {
+        "url": "https://github.com/YuJunZhiXue/dsh-purge"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "破甲",
+        "llm-jailbreak",
+        "harness-jailbreak",
+        "deepseek-harness",
+        "purge",
+        "jailbreak",
+        "instructions",
+        "rules",
+        "prompt-injection",
+        "agent"
+      ],
+      "updatedAt": "2026-09-10T08:26:27.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -786,32 +812,6 @@
       "updatedAt": "2026-09-06T06:28:21.000Z"
     },
     {
-      "id": "YuJunZhiXue/dsh-purge",
-      "name": "dsh-purge",
-      "displayName": "dsh-purge",
-      "summary": "DeepSeek Harness 破甲：让所有模型都能破甲，不同模型可换不同提示词；默认提示词面向国模「小码酱」。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
-      "repository": {
-        "url": "https://github.com/YuJunZhiXue/dsh-purge"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "破甲",
-        "llm-jailbreak",
-        "harness-jailbreak",
-        "deepseek-harness",
-        "purge",
-        "jailbreak",
-        "instructions",
-        "rules",
-        "prompt-injection",
-        "agent"
-      ],
-      "updatedAt": "2026-09-10T08:26:27.000Z"
-    },
-    {
       "id": "superdesigndev/superdesign-skill",
       "name": "superdesign-dsh",
       "displayName": "superdesign-skill",
@@ -840,7 +840,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-11T02:31:10.000Z"
+      "updatedAt": "2026-09-11T03:21:23.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -888,6 +888,43 @@
       "updatedAt": "2026-09-07T21:43:12.000Z"
     },
     {
+      "id": "gitroomhq/postiz-agent",
+      "name": "postiz",
+      "displayName": "postiz-agent",
+      "summary": "Postiz Agents CLI - connect it to Claude / OpenClaw / etc, to schedule social media posts 🤖",
+      "repository": {
+        "url": "https://github.com/gitroomhq/postiz-agent"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "postiz",
+        "cli",
+        "social-media",
+        "scheduling",
+        "automation",
+        "ai-agent",
+        "command-line",
+        "twitter",
+        "linkedin",
+        "facebook",
+        "instagram",
+        "tiktok",
+        "youtube",
+        "reddit"
+      ],
+      "updatedAt": "2026-09-11T05:22:24.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-09-11T03:27:19.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-genui",
       "name": "@changfenhuang/dsh-genui",
       "displayName": "dsh-genui",
@@ -903,17 +940,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-09-11T01:11:28.000Z"
-    },
-    {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-09-10T06:07:52.000Z"
+      "updatedAt": "2026-09-11T03:47:16.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -944,7 +971,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-10T05:59:33.000Z"
+      "updatedAt": "2026-09-11T03:17:18.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -976,17 +1003,6 @@
       "updatedAt": "2026-08-26T06:25:54.000Z"
     },
     {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
       "id": "EthanYoQ/Invoice-Downloader",
       "name": "EthanYoQ/Invoice-Downloader",
       "displayName": "Invoice-Downloader",
@@ -996,6 +1012,17 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-06T23:38:34.000Z"
+    },
+    {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1081,24 +1108,6 @@
       "updatedAt": "2026-08-26T13:12:24.000Z"
     },
     {
-      "id": "yjh051108/dsh-router-standard",
-      "name": "dsh-router-standard",
-      "displayName": "dsh-router-standard",
-      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
-      "repository": {
-        "url": "https://github.com/yjh051108/dsh-router-standard"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "dsh",
-        "deepseek-harness",
-        "progressive-disclosure",
-        "agent-preset"
-      ],
-      "updatedAt": "2026-08-24T18:20:09.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
@@ -1139,7 +1148,25 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-10T14:13:31.000Z"
+      "updatedAt": "2026-09-11T06:02:38.000Z"
+    },
+    {
+      "id": "yjh051108/dsh-router-standard",
+      "name": "dsh-router-standard",
+      "displayName": "dsh-router-standard",
+      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
+      "repository": {
+        "url": "https://github.com/yjh051108/dsh-router-standard"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "dsh",
+        "deepseek-harness",
+        "progressive-disclosure",
+        "agent-preset"
+      ],
+      "updatedAt": "2026-08-24T18:20:09.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -1207,6 +1234,17 @@
       "updatedAt": "2026-09-11T00:57:42.000Z"
     },
     {
+      "id": "vlln/whale-girl",
+      "name": "whale-girl",
+      "displayName": "whale-girl",
+      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+      "repository": {
+        "url": "https://github.com/vlln/whale-girl"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T09:40:54.000Z"
+    },
+    {
       "id": "dream-num/dsh-univer-office",
       "name": "dsh-univer-office",
       "displayName": "dsh-univer-office",
@@ -1225,17 +1263,6 @@
         "worktree"
       ],
       "updatedAt": "2026-09-10T13:45:51.000Z"
-    },
-    {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1263,7 +1290,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-09T06:14:25.000Z"
+      "updatedAt": "2026-09-11T06:05:09.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1333,6 +1360,17 @@
       "updatedAt": "2026-09-10T11:37:40.000Z"
     },
     {
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "repository": {
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-08T05:25:16.000Z"
+    },
+    {
       "id": "op7418/pilot-harness",
       "name": "@deepseek-ai/dsh-root",
       "displayName": "pilot-harness",
@@ -1360,17 +1398,6 @@
         "cli"
       ],
       "updatedAt": "2026-09-09T04:05:56.000Z"
-    },
-    {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
-      "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-08T05:25:16.000Z"
     },
     {
       "id": "ericshang98/Perfect-Web-Clone",
@@ -1421,6 +1448,17 @@
       "updatedAt": "2026-08-27T21:36:31.000Z"
     },
     {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-11T07:01:53.000Z"
+    },
+    {
       "id": "libukai/awesome-deepseek-harness",
       "name": "libukai/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -1454,18 +1492,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-11T02:22:25.000Z"
-    },
-    {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-11T02:32:51.000Z"
+      "updatedAt": "2026-09-11T03:00:47.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1496,7 +1523,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-11T01:05:20.000Z"
+      "updatedAt": "2026-09-11T08:32:48.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1578,26 +1605,6 @@
         "tui"
       ],
       "updatedAt": "2026-09-09T03:10:49.000Z"
-    },
-    {
-      "id": "zh667/TokenLedger",
-      "name": "dsh-tokenledger",
-      "displayName": "TokenLedger",
-      "summary": "Relay-site attributed token usage for DeepSeek Harness — zero config, no credentials",
-      "repository": {
-        "url": "https://github.com/zh667/TokenLedger"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "token-usage",
-        "billing",
-        "dsh-bundle",
-        "cordis-plugin",
-        "relay-attribution"
-      ],
-      "updatedAt": "2026-09-01T02:25:38.000Z"
     }
   ],
   "page": {
