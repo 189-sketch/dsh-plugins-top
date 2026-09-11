@@ -95,7 +95,18 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-11T18:35:25.000Z"
+      "updatedAt": "2026-09-11T20:33:45.000Z"
+    },
+    {
+      "id": "Devin-AXIS/iPolloWork",
+      "name": "@ipollo/ipollowork-workspace",
+      "displayName": "iPolloWork",
+      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/iPolloWork"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-11T10:45:48.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -110,17 +121,6 @@
         "skill"
       ],
       "updatedAt": "2026-09-11T12:32:43.000Z"
-    },
-    {
-      "id": "Devin-AXIS/iPolloWork",
-      "name": "@ipollo/ipollowork-workspace",
-      "displayName": "iPolloWork",
-      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/iPolloWork"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-11T10:45:48.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -485,16 +485,6 @@
       "updatedAt": "2026-09-08T06:53:48.000Z"
     },
     {
-      "id": "Anil-matcha/awesome-dsh-plugin",
-      "name": "Anil-matcha/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
-      "repository": {
-        "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
-      },
-      "updatedAt": "2026-08-25T06:52:19.000Z"
-    },
-    {
       "id": "Devin-AXIS/deepseek-design",
       "name": "Devin-AXIS/deepseek-design",
       "displayName": "deepseek-design",
@@ -504,6 +494,16 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-09-04T10:40:28.000Z"
+    },
+    {
+      "id": "Anil-matcha/awesome-dsh-plugin",
+      "name": "Anil-matcha/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
+      "repository": {
+        "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
+      },
+      "updatedAt": "2026-08-25T06:52:19.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -569,7 +569,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-11T17:47:25.000Z"
+      "updatedAt": "2026-09-11T21:44:41.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -739,7 +739,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-11T08:53:26.000Z"
+      "updatedAt": "2026-09-11T21:54:04.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1559,27 +1559,6 @@
       "updatedAt": "2026-08-20T16:51:38.000Z"
     },
     {
-      "id": "GraySilver/dsh-evolve-modes",
-      "name": "@graysilver/dsh-evolve-modes",
-      "displayName": "dsh-evolve-modes",
-      "summary": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
-      "repository": {
-        "url": "https://github.com/GraySilver/dsh-evolve-modes"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ai-agents",
-        "prompt-engineering",
-        "agent-review",
-        "plan-mode",
-        "acceptance-review"
-      ],
-      "updatedAt": "2026-09-01T14:48:55.000Z"
-    },
-    {
       "id": "Mars-Sea/dsh-commandcode-provider",
       "name": "@mars-sea/dsh-commandcode-provider",
       "displayName": "dsh-commandcode-provider",
@@ -1603,6 +1582,27 @@
         "provider"
       ],
       "updatedAt": "2026-09-11T07:37:48.000Z"
+    },
+    {
+      "id": "GraySilver/dsh-evolve-modes",
+      "name": "@graysilver/dsh-evolve-modes",
+      "displayName": "dsh-evolve-modes",
+      "summary": "让 Agent 的工作方式可组合、可审查、可持续改进，最终实现 Agent Self Evoling。 DeepSeek Harness Web plugin with composable task controls and isolated, human-reviewed self-evolution.",
+      "repository": {
+        "url": "https://github.com/GraySilver/dsh-evolve-modes"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ai-agents",
+        "prompt-engineering",
+        "agent-review",
+        "plan-mode",
+        "acceptance-review"
+      ],
+      "updatedAt": "2026-09-01T14:48:55.000Z"
     },
     {
       "id": "Ruler4396/dsh-launcher",
