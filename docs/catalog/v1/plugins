@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-12T15:53:49.000Z"
+      "updatedAt": "2026-09-12T19:00:55.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-12T15:59:00.000Z"
+      "updatedAt": "2026-09-12T18:41:43.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -231,7 +231,7 @@
         "url": "https://github.com/zilliztech/memsearch"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-12T07:49:41.000Z"
+      "updatedAt": "2026-09-12T18:11:37.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -303,7 +303,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-12T16:01:57.000Z"
+      "updatedAt": "2026-09-12T17:17:09.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -335,7 +335,7 @@
         "url": "https://github.com/Minglink/dsh-infinite-gen-4"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-12T11:35:14.000Z"
+      "updatedAt": "2026-09-12T18:27:25.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -355,7 +355,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-12T16:35:59.000Z"
+      "updatedAt": "2026-09-12T17:55:56.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -387,7 +387,7 @@
         "imessage",
         "ai-office"
       ],
-      "updatedAt": "2026-09-12T14:04:55.000Z"
+      "updatedAt": "2026-09-12T19:39:26.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -417,7 +417,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-12T10:54:35.000Z"
+      "updatedAt": "2026-09-12T18:31:08.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -451,7 +451,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-12T04:34:50.000Z"
+      "updatedAt": "2026-09-12T17:51:01.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -561,7 +561,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-11T23:17:29.000Z"
+      "updatedAt": "2026-09-12T19:46:21.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -1215,6 +1215,17 @@
       "updatedAt": "2026-09-12T12:29:50.000Z"
     },
     {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-11T09:09:17.000Z"
+    },
+    {
       "id": "dream-num/dsh-univer-office",
       "name": "dsh-univer-office",
       "displayName": "dsh-univer-office",
@@ -1235,17 +1246,6 @@
       "updatedAt": "2026-09-10T13:45:51.000Z"
     },
     {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-11T09:09:17.000Z"
-    },
-    {
       "id": "bruc3van/awesome-dsh-plugin",
       "name": "bruc3van/awesome-dsh-plugin",
       "displayName": "awesome-dsh-plugin",
@@ -1254,7 +1254,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-12T08:19:30.000Z"
+      "updatedAt": "2026-09-12T17:20:05.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1345,6 +1345,17 @@
       "updatedAt": "2026-09-11T12:37:45.000Z"
     },
     {
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "repository": {
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-08T05:25:16.000Z"
+    },
+    {
       "id": "ZSeven-W/dsh-ios",
       "name": "@zseven-w/dsh-ios",
       "displayName": "dsh-ios",
@@ -1361,17 +1372,6 @@
         "ios"
       ],
       "updatedAt": "2026-09-11T13:46:54.000Z"
-    },
-    {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
-      "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-08T05:25:16.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
