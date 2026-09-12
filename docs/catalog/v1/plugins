@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-11T14:39:48.000Z"
+      "updatedAt": "2026-09-12T02:23:34.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-11T15:56:14.000Z"
+      "updatedAt": "2026-09-12T02:31:14.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-11T18:30:06.000Z"
+      "updatedAt": "2026-09-12T01:09:02.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-11T17:09:37.000Z"
+      "updatedAt": "2026-09-12T00:10:10.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -174,7 +174,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-11T18:00:25.000Z"
+      "updatedAt": "2026-09-12T01:06:06.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-11T17:16:49.000Z"
+      "updatedAt": "2026-09-12T03:02:56.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -303,7 +303,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-11T15:49:06.000Z"
+      "updatedAt": "2026-09-11T23:36:33.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -324,7 +324,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-11T16:01:30.000Z"
+      "updatedAt": "2026-09-12T01:10:38.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -344,7 +344,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-11T17:50:22.000Z"
+      "updatedAt": "2026-09-12T01:07:08.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-4",
@@ -417,7 +417,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-11T05:13:52.000Z"
+      "updatedAt": "2026-09-12T02:47:16.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -451,7 +451,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-11T17:02:17.000Z"
+      "updatedAt": "2026-09-12T02:53:19.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -569,7 +569,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-11T21:44:41.000Z"
+      "updatedAt": "2026-09-12T02:04:23.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -580,7 +580,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-11T17:22:33.000Z"
+      "updatedAt": "2026-09-11T23:17:29.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -602,6 +602,17 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-11T14:45:25.000Z"
+    },
+    {
+      "id": "LivXue/dsh-plugin-shop",
+      "name": "dsh-plugin-shop-registry",
+      "displayName": "dsh-plugin-shop",
+      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
+      "repository": {
+        "url": "https://github.com/LivXue/dsh-plugin-shop"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-11T21:54:04.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -729,17 +740,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-11T07:06:26.000Z"
-    },
-    {
-      "id": "LivXue/dsh-plugin-shop",
-      "name": "dsh-plugin-shop-registry",
-      "displayName": "dsh-plugin-shop",
-      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
-      "repository": {
-        "url": "https://github.com/LivXue/dsh-plugin-shop"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-11T21:54:04.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -985,17 +985,6 @@
       "updatedAt": "2026-09-06T23:38:34.000Z"
     },
     {
-      "id": "text2future/flowix",
-      "name": "flowix",
-      "displayName": "flowix",
-      "summary": "Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding",
-      "repository": {
-        "url": "https://github.com/text2future/flowix"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-11T14:11:33.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -1012,6 +1001,17 @@
         "web-fetch"
       ],
       "updatedAt": "2026-08-26T06:25:54.000Z"
+    },
+    {
+      "id": "text2future/flowix",
+      "name": "flowix",
+      "displayName": "flowix",
+      "summary": "Notes for you, Memory for your agents. / 内置 Deepseek harness Agent / 适用 办公 & 写作 & Coding",
+      "repository": {
+        "url": "https://github.com/text2future/flowix"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-11T14:11:33.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1304,7 +1304,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-11T06:05:09.000Z"
+      "updatedAt": "2026-09-12T02:42:11.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1374,17 +1374,6 @@
       "updatedAt": "2026-09-08T05:25:16.000Z"
     },
     {
-      "id": "op7418/pilot-harness",
-      "name": "@deepseek-ai/dsh-root",
-      "displayName": "pilot-harness",
-      "summary": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
-      "repository": {
-        "url": "https://github.com/op7418/pilot-harness"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-10T20:06:01.000Z"
-    },
-    {
       "id": "huiliyi37/dsh-tianshu-tui",
       "name": "@huiliyi37/dsh-tianshu-tui",
       "displayName": "dsh-tianshu-tui",
@@ -1401,6 +1390,17 @@
         "cli"
       ],
       "updatedAt": "2026-09-09T04:05:56.000Z"
+    },
+    {
+      "id": "op7418/pilot-harness",
+      "name": "@deepseek-ai/dsh-root",
+      "displayName": "pilot-harness",
+      "summary": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+      "repository": {
+        "url": "https://github.com/op7418/pilot-harness"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-10T20:06:01.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -1462,16 +1462,6 @@
       "updatedAt": "2026-08-27T21:36:31.000Z"
     },
     {
-      "id": "libukai/awesome-deepseek-harness",
-      "name": "libukai/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
-      "repository": {
-        "url": "https://github.com/libukai/awesome-deepseek-harness"
-      },
-      "updatedAt": "2026-09-09T02:05:18.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1495,7 +1485,17 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-11T03:00:47.000Z"
+      "updatedAt": "2026-09-12T02:53:55.000Z"
+    },
+    {
+      "id": "libukai/awesome-deepseek-harness",
+      "name": "libukai/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "repository": {
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      "updatedAt": "2026-09-09T02:05:18.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1526,7 +1526,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-11T13:01:33.000Z"
+      "updatedAt": "2026-09-12T01:02:47.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1537,7 +1537,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-11T10:23:23.000Z"
+      "updatedAt": "2026-09-12T01:28:09.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
@@ -1581,7 +1581,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-11T07:37:48.000Z"
+      "updatedAt": "2026-09-12T02:56:50.000Z"
     },
     {
       "id": "GraySilver/dsh-evolve-modes",
