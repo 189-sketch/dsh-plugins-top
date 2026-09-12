@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-12T03:11:36.000Z"
+      "updatedAt": "2026-09-12T16:04:17.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-12T13:18:04.000Z"
+      "updatedAt": "2026-09-12T15:09:09.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-11T12:32:43.000Z"
+      "updatedAt": "2026-09-12T15:53:49.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-12T13:06:02.000Z"
+      "updatedAt": "2026-09-12T15:59:00.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -303,7 +303,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-11T23:36:33.000Z"
+      "updatedAt": "2026-09-12T16:01:57.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -355,7 +355,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-12T01:07:08.000Z"
+      "updatedAt": "2026-09-12T16:35:59.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -387,7 +387,7 @@
         "imessage",
         "ai-office"
       ],
-      "updatedAt": "2026-09-12T12:36:58.000Z"
+      "updatedAt": "2026-09-12T14:04:55.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -428,7 +428,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-12T11:14:30.000Z"
+      "updatedAt": "2026-09-12T14:34:53.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -783,17 +783,6 @@
       "updatedAt": "2026-09-11T11:05:50.000Z"
     },
     {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-11T03:17:06.000Z"
-    },
-    {
       "id": "Aisland-SJL/dsh-worktable",
       "name": "Aisland-SJL/dsh-worktable",
       "displayName": "dsh-worktable",
@@ -803,6 +792,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-06T06:28:21.000Z"
+    },
+    {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-12T14:37:05.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -862,7 +862,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-12T12:59:05.000Z"
+      "updatedAt": "2026-09-12T14:30:35.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -971,7 +971,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-12T07:57:16.000Z"
+      "updatedAt": "2026-09-12T15:33:38.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1011,7 +1011,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-12T09:29:17.000Z"
+      "updatedAt": "2026-09-12T16:00:13.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1075,7 +1075,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-09-12T09:52:24.000Z"
+      "updatedAt": "2026-09-12T16:23:25.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1304,7 +1304,7 @@
         "url": "https://github.com/hust-open-atom-club/oh-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-12T12:24:33.000Z"
+      "updatedAt": "2026-09-12T13:58:15.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1382,7 +1382,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-12T13:15:57.000Z"
+      "updatedAt": "2026-09-12T16:07:33.000Z"
     },
     {
       "id": "huiliyi37/dsh-tianshu-tui",
