@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-13T03:09:09.000Z"
+      "updatedAt": "2026-09-13T19:55:54.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-13T18:36:09.000Z"
+      "updatedAt": "2026-09-13T21:15:36.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -303,7 +303,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-12T22:01:18.000Z"
+      "updatedAt": "2026-09-13T21:00:49.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-4",
@@ -417,7 +417,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-13T18:29:37.000Z"
+      "updatedAt": "2026-09-13T20:43:22.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -580,7 +580,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-13T18:28:45.000Z"
+      "updatedAt": "2026-09-13T21:53:28.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -638,7 +638,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-11T21:54:04.000Z"
+      "updatedAt": "2026-09-13T18:42:50.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -1151,7 +1151,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-13T12:24:58.000Z"
+      "updatedAt": "2026-09-13T20:59:16.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1307,17 +1307,6 @@
       "updatedAt": "2026-09-12T13:58:15.000Z"
     },
     {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-09T06:39:03.000Z"
-    },
-    {
       "id": "pax-beehive/dsh-hub-cli",
       "name": "dsh-hub-cli-workspace",
       "displayName": "dsh-hub-cli",
@@ -1329,6 +1318,17 @@
       "updatedAt": "2026-09-08T05:25:16.000Z"
     },
     {
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "repository": {
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-09T06:39:03.000Z"
+    },
+    {
       "id": "flizzywine/dsh-tavern",
       "name": "dsh-profile-tavern",
       "displayName": "dsh-tavern",
@@ -1337,7 +1337,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-13T16:59:07.000Z"
+      "updatedAt": "2026-09-13T19:08:51.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1565,6 +1565,27 @@
       "updatedAt": "2026-09-12T02:56:50.000Z"
     },
     {
+      "id": "antibrow/dsh-antibrow",
+      "name": "dsh-antibrow",
+      "displayName": "dsh-antibrow",
+      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
+      "repository": {
+        "url": "https://github.com/antibrow/dsh-antibrow"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "dsh",
+        "browser",
+        "anti-detect",
+        "fingerprint",
+        "proxy",
+        "automation"
+      ],
+      "updatedAt": "2026-09-12T07:39:10.000Z"
+    },
+    {
       "id": "e2mcc/dsh-popout-sidebar",
       "name": "dsh-popout-sidebar",
       "displayName": "dsh-popout-sidebar",
@@ -1603,17 +1624,6 @@
         "acceptance-review"
       ],
       "updatedAt": "2026-09-01T14:48:55.000Z"
-    },
-    {
-      "id": "Ruler4396/dsh-launcher",
-      "name": "Ruler4396/dsh-launcher",
-      "displayName": "dsh-launcher",
-      "summary": "DeepSeek Harness（dsh）Windows 轻量启动器：双击即用，克制的原生体验 / Lightweight Windows launcher for DeepSeek Harness (dsh) — double-click to run, native & restrained",
-      "repository": {
-        "url": "https://github.com/Ruler4396/dsh-launcher"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-09T04:32:33.000Z"
     }
   ],
   "page": {
