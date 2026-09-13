@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-13T12:55:36.000Z"
+      "updatedAt": "2026-09-13T14:56:10.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -185,7 +185,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-11T15:35:13.000Z"
+      "updatedAt": "2026-09-13T15:36:26.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-13T13:49:42.000Z"
+      "updatedAt": "2026-09-13T18:36:09.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -355,7 +355,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-13T14:01:56.000Z"
+      "updatedAt": "2026-09-13T18:08:34.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -387,7 +387,7 @@
         "imessage",
         "ai-office"
       ],
-      "updatedAt": "2026-09-12T19:39:26.000Z"
+      "updatedAt": "2026-09-13T15:54:48.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -417,7 +417,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-13T07:14:05.000Z"
+      "updatedAt": "2026-09-13T18:29:37.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -448,7 +448,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-13T13:52:42.000Z"
+      "updatedAt": "2026-09-13T16:51:35.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -471,7 +471,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-13T09:29:01.000Z"
+      "updatedAt": "2026-09-13T16:26:09.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -580,7 +580,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-13T14:01:38.000Z"
+      "updatedAt": "2026-09-13T18:28:45.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -728,7 +728,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-13T04:32:41.000Z"
+      "updatedAt": "2026-09-13T14:16:16.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -739,7 +739,7 @@
         "url": "https://github.com/Lum1104/dsh-browser"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-11T07:06:26.000Z"
+      "updatedAt": "2026-09-13T14:44:57.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -751,6 +751,17 @@
       },
       "license": "BSD-3-Clause",
       "updatedAt": "2026-08-27T21:32:38.000Z"
+    },
+    {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-13T03:53:00.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -770,17 +781,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-09-09T07:51:31.000Z"
-    },
-    {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-13T03:53:00.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -885,7 +885,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-13T12:23:32.000Z"
+      "updatedAt": "2026-09-13T16:51:25.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1031,7 +1031,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-13T13:49:31.000Z"
+      "updatedAt": "2026-09-13T15:21:17.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1193,17 +1193,6 @@
       "updatedAt": "2026-08-18T08:05:29.000Z"
     },
     {
-      "id": "zenstory-ai/oh-story-dsh",
-      "name": "oh-story-dsh",
-      "displayName": "oh-story-dsh",
-      "summary": "Community plugin for DeepSeek Harness with novel, short-drama, game and video-recap workbenches. Not affiliated with DeepSeek.",
-      "repository": {
-        "url": "https://github.com/zenstory-ai/oh-story-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-13T06:12:11.000Z"
-    },
-    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -1224,6 +1213,17 @@
         "github-copilot"
       ],
       "updatedAt": "2026-09-13T06:49:00.000Z"
+    },
+    {
+      "id": "zenstory-ai/oh-story-dsh",
+      "name": "oh-story-dsh",
+      "displayName": "oh-story-dsh",
+      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches. Not affiliated with DeepSeek.",
+      "repository": {
+        "url": "https://github.com/zenstory-ai/oh-story-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-13T06:12:11.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1254,7 +1254,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-13T07:50:39.000Z"
+      "updatedAt": "2026-09-13T17:36:46.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1329,6 +1329,17 @@
       "updatedAt": "2026-09-08T05:25:16.000Z"
     },
     {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-13T16:59:07.000Z"
+    },
+    {
       "id": "Han-1413141/dsh-cost-meter",
       "name": "dsh-cost-meter",
       "displayName": "dsh-cost-meter",
@@ -1354,17 +1365,6 @@
         "language"
       ],
       "updatedAt": "2026-09-13T03:25:49.000Z"
-    },
-    {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-13T13:23:06.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1434,23 +1434,6 @@
       "updatedAt": "2026-09-11T17:25:00.000Z"
     },
     {
-      "id": "ericshang98/Perfect-Web-Clone",
-      "name": "perfect-web-clone",
-      "displayName": "Perfect-Web-Clone",
-      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
-      "repository": {
-        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pixel-perfect",
-        "web-clone",
-        "playwright",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-08-22T14:39:08.000Z"
-    },
-    {
       "id": "chokwinlee/deepseek-harness-desktop",
       "name": "dsh-desktop",
       "displayName": "deepseek-harness-desktop",
@@ -1469,6 +1452,23 @@
         "windows"
       ],
       "updatedAt": "2026-09-12T11:32:18.000Z"
+    },
+    {
+      "id": "ericshang98/Perfect-Web-Clone",
+      "name": "perfect-web-clone",
+      "displayName": "Perfect-Web-Clone",
+      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
+      "repository": {
+        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pixel-perfect",
+        "web-clone",
+        "playwright",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-08-22T14:39:08.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1537,7 +1537,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-13T14:09:25.000Z"
+      "updatedAt": "2026-09-13T14:50:11.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
