@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-14T08:33:16.000Z"
+      "updatedAt": "2026-09-14T16:15:14.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-14T09:37:54.000Z"
+      "updatedAt": "2026-09-14T14:20:26.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-14T03:23:50.000Z"
+      "updatedAt": "2026-09-14T10:45:02.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -95,7 +95,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-11T20:33:45.000Z"
+      "updatedAt": "2026-09-14T16:12:50.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -106,7 +106,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-14T09:30:13.000Z"
+      "updatedAt": "2026-09-14T11:12:40.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-13T19:55:54.000Z"
+      "updatedAt": "2026-09-14T10:55:03.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -196,7 +196,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-14T08:55:43.000Z"
+      "updatedAt": "2026-09-14T09:55:08.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-14T08:55:53.000Z"
+      "updatedAt": "2026-09-14T16:11:16.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -249,7 +249,7 @@
         "balance",
         "widget"
       ],
-      "updatedAt": "2026-08-24T17:14:19.000Z"
+      "updatedAt": "2026-09-14T13:18:30.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -295,6 +295,17 @@
       "updatedAt": "2026-09-13T05:56:03.000Z"
     },
     {
+      "id": "Minglink/dsh-infinite-gen-4",
+      "name": "dsh-infinite-gen-4",
+      "displayName": "dsh-infinite-gen-4",
+      "summary": "DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and test suite for DeepSeek    求 Star 收藏 ⭐欢迎大家提交项目的改进",
+      "repository": {
+        "url": "https://github.com/Minglink/dsh-infinite-gen-4"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-14T13:45:13.000Z"
+    },
+    {
       "id": "AdamPlatin123/dsh-plugin-radar",
       "name": "AdamPlatin123/dsh-plugin-radar",
       "displayName": "dsh-plugin-radar",
@@ -304,16 +315,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-13T22:30:56.000Z"
-    },
-    {
-      "id": "Minglink/dsh-infinite-gen-4",
-      "name": "Minglink/dsh-infinite-gen-4",
-      "displayName": "dsh-infinite-gen-4",
-      "summary": "DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and test suite for DeepSeek    求 Star 收藏 ⭐欢迎大家提交项目的改进",
-      "repository": {
-        "url": "https://github.com/Minglink/dsh-infinite-gen-4"
-      },
-      "updatedAt": "2026-09-14T09:37:41.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -334,7 +335,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-14T08:50:51.000Z"
+      "updatedAt": "2026-09-14T14:15:30.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -354,7 +355,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-14T09:16:28.000Z"
+      "updatedAt": "2026-09-14T09:44:01.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -447,7 +448,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-14T05:25:01.000Z"
+      "updatedAt": "2026-09-14T14:45:56.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -458,7 +459,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-14T08:03:17.000Z"
+      "updatedAt": "2026-09-14T12:38:05.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -481,7 +482,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-14T09:39:33.000Z"
+      "updatedAt": "2026-09-14T10:47:02.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -541,17 +542,6 @@
       "updatedAt": "2026-09-14T07:07:43.000Z"
     },
     {
-      "id": "EthanYoQ/AI-Novel-Writer",
-      "name": "ai-novel-writer",
-      "displayName": "AI-Novel-Writer",
-      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
-      },
-      "license": "GPL-3.0",
-      "updatedAt": "2026-09-14T02:09:00.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -576,6 +566,17 @@
         "agent"
       ],
       "updatedAt": "2026-09-13T11:21:25.000Z"
+    },
+    {
+      "id": "EthanYoQ/AI-Novel-Writer",
+      "name": "ai-novel-writer",
+      "displayName": "AI-Novel-Writer",
+      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版、Ollama 与 DSH 插件预览。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
+      },
+      "license": "GPL-3.0",
+      "updatedAt": "2026-09-14T15:18:08.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -605,7 +606,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-14T09:38:21.000Z"
+      "updatedAt": "2026-09-14T16:12:11.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -626,7 +627,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-14T08:54:52.000Z"
+      "updatedAt": "2026-09-14T15:46:34.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -637,7 +638,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-11T14:45:25.000Z"
+      "updatedAt": "2026-09-14T12:18:09.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -749,7 +750,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-14T06:03:18.000Z"
+      "updatedAt": "2026-09-14T13:17:56.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1030,7 +1031,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-13T15:21:17.000Z"
+      "updatedAt": "2026-09-14T14:05:50.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1063,7 +1064,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-09-14T07:42:52.000Z"
+      "updatedAt": "2026-09-14T15:26:07.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1161,7 +1162,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-14T06:28:20.000Z"
+      "updatedAt": "2026-09-14T11:28:09.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1190,26 +1191,6 @@
         "url": "https://github.com/linhay/harmony-next.skills"
       },
       "updatedAt": "2026-08-18T08:05:29.000Z"
-    },
-    {
-      "id": "dream-num/dsh-univer-office",
-      "name": "dsh-univer-office",
-      "displayName": "dsh-univer-office",
-      "summary": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
-      "repository": {
-        "url": "https://github.com/dream-num/dsh-univer-office"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "univer",
-        "spreadsheet",
-        "preview",
-        "worktree"
-      ],
-      "updatedAt": "2026-09-10T13:45:51.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1244,6 +1225,26 @@
         "google-antigravity"
       ],
       "updatedAt": "2026-09-14T06:36:51.000Z"
+    },
+    {
+      "id": "dream-num/dsh-univer-office",
+      "name": "dsh-univer-office",
+      "displayName": "dsh-univer-office",
+      "summary": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
+      "repository": {
+        "url": "https://github.com/dream-num/dsh-univer-office"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "univer",
+        "spreadsheet",
+        "preview",
+        "worktree"
+      ],
+      "updatedAt": "2026-09-14T15:37:44.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1282,7 +1283,7 @@
         "desktop-pet",
         "agent-companion"
       ],
-      "updatedAt": "2026-09-14T08:58:55.000Z"
+      "updatedAt": "2026-09-14T12:30:35.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -1294,6 +1295,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-31T09:40:54.000Z"
+    },
+    {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-14T15:24:44.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1318,17 +1330,6 @@
       "updatedAt": "2026-09-14T06:12:21.000Z"
     },
     {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-14T05:30:26.000Z"
-    },
-    {
       "id": "csyangwen/dsh-memory-evolve",
       "name": "dsh-memory-evolve",
       "displayName": "dsh-memory-evolve",
@@ -1337,7 +1338,7 @@
         "url": "https://github.com/csyangwen/dsh-memory-evolve"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-09T06:39:03.000Z"
+      "updatedAt": "2026-09-14T11:04:46.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1364,7 +1365,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-09-14T03:07:54.000Z"
+      "updatedAt": "2026-09-14T16:12:58.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1385,15 +1386,15 @@
       "updatedAt": "2026-09-14T03:01:38.000Z"
     },
     {
-      "id": "op7418/pilot-harness",
-      "name": "@deepseek-ai/dsh-root",
-      "displayName": "pilot-harness",
-      "summary": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+      "id": "Dominic789654/awesome-deepseek-harness",
+      "name": "Dominic789654/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
       "repository": {
-        "url": "https://github.com/op7418/pilot-harness"
+        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
-      "license": "MIT",
-      "updatedAt": "2026-09-10T20:06:01.000Z"
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-14T13:05:38.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1431,7 +1432,18 @@
         "tui",
         "cli"
       ],
-      "updatedAt": "2026-09-14T01:53:16.000Z"
+      "updatedAt": "2026-09-14T16:05:09.000Z"
+    },
+    {
+      "id": "op7418/pilot-harness",
+      "name": "@deepseek-ai/dsh-root",
+      "displayName": "pilot-harness",
+      "summary": "Pilot Harness — a CodePilot-inspired desktop client and plugin suite for DeepSeek Harness on macOS, Windows, and Linux.",
+      "repository": {
+        "url": "https://github.com/op7418/pilot-harness"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-10T20:06:01.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1497,17 +1509,6 @@
       "updatedAt": "2026-09-14T07:24:08.000Z"
     },
     {
-      "id": "Dominic789654/awesome-deepseek-harness",
-      "name": "Dominic789654/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
-      "repository": {
-        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-14T09:02:48.000Z"
-    },
-    {
       "id": "libukai/awesome-deepseek-harness",
       "name": "libukai/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -1551,7 +1552,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-14T07:16:43.000Z"
+      "updatedAt": "2026-09-14T15:01:54.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1562,7 +1563,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-14T07:32:57.000Z"
+      "updatedAt": "2026-09-14T15:38:06.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
