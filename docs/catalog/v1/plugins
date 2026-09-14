@@ -95,7 +95,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-14T16:12:50.000Z"
+      "updatedAt": "2026-09-14T21:29:23.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-14T10:55:03.000Z"
+      "updatedAt": "2026-09-14T19:17:54.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -185,7 +185,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-13T15:36:26.000Z"
+      "updatedAt": "2026-09-14T16:56:32.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-14T16:11:16.000Z"
+      "updatedAt": "2026-09-14T17:58:47.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -314,7 +314,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-13T22:30:56.000Z"
+      "updatedAt": "2026-09-14T21:30:55.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -459,7 +459,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-14T12:38:05.000Z"
+      "updatedAt": "2026-09-14T17:06:42.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -516,32 +516,6 @@
       "updatedAt": "2026-09-02T11:32:00.000Z"
     },
     {
-      "id": "Anionex/dsh-vision-toolkit",
-      "name": "@anionex/dsh-vision-toolkit",
-      "displayName": "dsh-vision-toolkit",
-      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "repository": {
-        "url": "https://github.com/Anionex/dsh-vision-toolkit"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "agent-vision-toolkit",
-        "agent-skills",
-        "text-only-llm",
-        "vision-language-model",
-        "vision-tools",
-        "vision-skills",
-        "computer-vision",
-        "ocr",
-        "ui-restoration",
-        "screenshot-testing",
-        "gui-automation"
-      ],
-      "updatedAt": "2026-09-14T07:07:43.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -566,6 +540,32 @@
         "agent"
       ],
       "updatedAt": "2026-09-13T11:21:25.000Z"
+    },
+    {
+      "id": "Anionex/dsh-vision-toolkit",
+      "name": "@anionex/dsh-vision-toolkit",
+      "displayName": "dsh-vision-toolkit",
+      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "repository": {
+        "url": "https://github.com/Anionex/dsh-vision-toolkit"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "agent-vision-toolkit",
+        "agent-skills",
+        "text-only-llm",
+        "vision-language-model",
+        "vision-tools",
+        "vision-skills",
+        "computer-vision",
+        "ocr",
+        "ui-restoration",
+        "screenshot-testing",
+        "gui-automation"
+      ],
+      "updatedAt": "2026-09-14T07:07:43.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -606,7 +606,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-14T16:12:11.000Z"
+      "updatedAt": "2026-09-14T21:30:52.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -627,7 +627,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-14T15:46:34.000Z"
+      "updatedAt": "2026-09-14T16:35:54.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -638,7 +638,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-14T12:18:09.000Z"
+      "updatedAt": "2026-09-14T18:53:31.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -659,6 +659,17 @@
         "pi-coding-agent"
       ],
       "updatedAt": "2026-08-30T18:41:47.000Z"
+    },
+    {
+      "id": "Lum1104/dsh-browser",
+      "name": "dsh-browser",
+      "displayName": "dsh-browser",
+      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+      "repository": {
+        "url": "https://github.com/Lum1104/dsh-browser"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-13T14:44:57.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -682,17 +693,6 @@
         "real-time-data"
       ],
       "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
-      "id": "Lum1104/dsh-browser",
-      "name": "dsh-browser",
-      "displayName": "dsh-browser",
-      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
-      "repository": {
-        "url": "https://github.com/Lum1104/dsh-browser"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-13T14:44:57.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
@@ -820,7 +820,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-09-12T11:50:49.000Z"
+      "updatedAt": "2026-09-14T19:54:52.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -885,7 +885,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-14T09:38:20.000Z"
+      "updatedAt": "2026-09-14T19:11:39.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -994,17 +994,6 @@
       "updatedAt": "2026-09-12T15:33:38.000Z"
     },
     {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-06T23:38:34.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -1021,6 +1010,17 @@
         "web-fetch"
       ],
       "updatedAt": "2026-08-26T06:25:54.000Z"
+    },
+    {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-06T23:38:34.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1162,7 +1162,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-14T11:28:09.000Z"
+      "updatedAt": "2026-09-14T21:00:56.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1244,7 +1244,7 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-09-14T15:37:44.000Z"
+      "updatedAt": "2026-09-14T16:43:18.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1255,7 +1255,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-14T09:22:16.000Z"
+      "updatedAt": "2026-09-14T19:33:47.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1305,7 +1305,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-14T15:24:44.000Z"
+      "updatedAt": "2026-09-14T17:55:21.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1368,6 +1368,17 @@
       "updatedAt": "2026-09-14T16:12:58.000Z"
     },
     {
+      "id": "Dominic789654/awesome-deepseek-harness",
+      "name": "Dominic789654/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
+      "repository": {
+        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-14T13:05:38.000Z"
+    },
+    {
       "id": "ZSeven-W/dsh-ios",
       "name": "@zseven-w/dsh-ios",
       "displayName": "dsh-ios",
@@ -1384,17 +1395,6 @@
         "ios"
       ],
       "updatedAt": "2026-09-14T03:01:38.000Z"
-    },
-    {
-      "id": "Dominic789654/awesome-deepseek-harness",
-      "name": "Dominic789654/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "A curated list of plugins, skills, MCP servers, patch/profile layers, orchestrators & UIs for DeepSeek Harness (DSH). Visualization · PPT · Coding · Agents · Loops (auto-research) and more. #dsh",
-      "repository": {
-        "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-14T13:05:38.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1432,7 +1432,7 @@
         "tui",
         "cli"
       ],
-      "updatedAt": "2026-09-14T16:05:09.000Z"
+      "updatedAt": "2026-09-14T16:17:57.000Z"
     },
     {
       "id": "op7418/pilot-harness",
@@ -1444,6 +1444,27 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-10T20:06:01.000Z"
+    },
+    {
+      "id": "antibrow/dsh-antibrow",
+      "name": "dsh-antibrow",
+      "displayName": "dsh-antibrow",
+      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
+      "repository": {
+        "url": "https://github.com/antibrow/dsh-antibrow"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "dsh",
+        "browser",
+        "anti-detect",
+        "fingerprint",
+        "proxy",
+        "automation"
+      ],
+      "updatedAt": "2026-09-12T07:39:10.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1566,27 +1587,6 @@
       "updatedAt": "2026-09-14T15:38:06.000Z"
     },
     {
-      "id": "antibrow/dsh-antibrow",
-      "name": "dsh-antibrow",
-      "displayName": "dsh-antibrow",
-      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
-      "repository": {
-        "url": "https://github.com/antibrow/dsh-antibrow"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "browser",
-        "anti-detect",
-        "fingerprint",
-        "proxy",
-        "automation"
-      ],
-      "updatedAt": "2026-09-12T07:39:10.000Z"
-    },
-    {
       "id": "e2mcc/dsh-popout-sidebar",
       "name": "dsh-popout-sidebar",
       "displayName": "dsh-popout-sidebar",
@@ -1624,7 +1624,7 @@
         "plan-mode",
         "acceptance-review"
       ],
-      "updatedAt": "2026-09-01T14:48:55.000Z"
+      "updatedAt": "2026-09-14T16:24:57.000Z"
     }
   ],
   "page": {
