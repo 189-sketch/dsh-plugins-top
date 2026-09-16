@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-16T19:27:07.000Z"
+      "updatedAt": "2026-09-16T20:43:00.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-16T17:05:43.000Z"
+      "updatedAt": "2026-09-16T21:31:27.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-16T18:55:56.000Z"
+      "updatedAt": "2026-09-16T20:35:42.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -324,7 +324,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-16T19:27:57.000Z"
+      "updatedAt": "2026-09-16T22:38:49.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -335,7 +335,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-16T17:06:52.000Z"
+      "updatedAt": "2026-09-16T21:23:54.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -606,7 +606,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-16T19:25:36.000Z"
+      "updatedAt": "2026-09-16T22:44:10.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -638,7 +638,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-14T18:53:31.000Z"
+      "updatedAt": "2026-09-16T19:31:32.000Z"
     },
     {
       "id": "Lum1104/dsh-browser",
@@ -802,7 +802,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-16T17:41:04.000Z"
+      "updatedAt": "2026-09-16T19:37:43.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1188,6 +1188,27 @@
       "updatedAt": "2026-09-16T05:49:35.000Z"
     },
     {
+      "id": "antibrow/dsh-antibrow",
+      "name": "dsh-antibrow",
+      "displayName": "dsh-antibrow",
+      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
+      "repository": {
+        "url": "https://github.com/antibrow/dsh-antibrow"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "dsh",
+        "browser",
+        "anti-detect",
+        "fingerprint",
+        "proxy",
+        "automation"
+      ],
+      "updatedAt": "2026-09-12T07:39:10.000Z"
+    },
+    {
       "id": "yjh051108/dsh-router-standard",
       "name": "dsh-router-standard",
       "displayName": "dsh-router-standard",
@@ -1215,27 +1236,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-16T08:11:07.000Z"
-    },
-    {
-      "id": "antibrow/dsh-antibrow",
-      "name": "dsh-antibrow",
-      "displayName": "dsh-antibrow",
-      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
-      "repository": {
-        "url": "https://github.com/antibrow/dsh-antibrow"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "browser",
-        "anti-detect",
-        "fingerprint",
-        "proxy",
-        "automation"
-      ],
-      "updatedAt": "2026-09-12T07:39:10.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1268,17 +1268,6 @@
       "updatedAt": "2026-09-15T14:26:17.000Z"
     },
     {
-      "id": "bruc3van/awesome-dsh-plugin",
-      "name": "bruc3van/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
-      "repository": {
-        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-16T18:23:30.000Z"
-    },
-    {
       "id": "flizzywine/dsh-tavern",
       "name": "dsh-profile-tavern",
       "displayName": "dsh-tavern",
@@ -1288,6 +1277,17 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-09-16T19:28:01.000Z"
+    },
+    {
+      "id": "bruc3van/awesome-dsh-plugin",
+      "name": "bruc3van/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
+      "repository": {
+        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-16T18:23:30.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1435,7 +1435,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-11T17:25:00.000Z"
+      "updatedAt": "2026-09-16T19:59:44.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1512,6 +1512,23 @@
       "updatedAt": "2026-09-16T06:19:24.000Z"
     },
     {
+      "id": "ericshang98/Perfect-Web-Clone",
+      "name": "perfect-web-clone",
+      "displayName": "Perfect-Web-Clone",
+      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
+      "repository": {
+        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pixel-perfect",
+        "web-clone",
+        "playwright",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-08-22T14:39:08.000Z"
+    },
+    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1537,23 +1554,6 @@
         "https"
       ],
       "updatedAt": "2026-09-16T14:27:55.000Z"
-    },
-    {
-      "id": "ericshang98/Perfect-Web-Clone",
-      "name": "perfect-web-clone",
-      "displayName": "Perfect-Web-Clone",
-      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
-      "repository": {
-        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pixel-perfect",
-        "web-clone",
-        "playwright",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-08-22T14:39:08.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1628,7 +1628,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-16T13:14:00.000Z"
+      "updatedAt": "2026-09-16T22:28:10.000Z"
     }
   ],
   "page": {
