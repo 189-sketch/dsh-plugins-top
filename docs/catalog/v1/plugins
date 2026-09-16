@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-15T08:27:46.000Z"
+      "updatedAt": "2026-09-16T08:21:06.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-15T14:54:52.000Z"
+      "updatedAt": "2026-09-16T08:20:57.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -51,7 +51,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-09T12:54:27.000Z"
+      "updatedAt": "2026-09-16T06:41:09.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-15T16:01:55.000Z"
+      "updatedAt": "2026-09-16T06:47:50.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -106,7 +106,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-16T02:23:37.000Z"
+      "updatedAt": "2026-09-16T07:41:14.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -185,7 +185,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-14T16:56:32.000Z"
+      "updatedAt": "2026-09-16T07:13:45.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -196,7 +196,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-16T03:09:50.000Z"
+      "updatedAt": "2026-09-16T08:01:15.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-16T03:15:33.000Z"
+      "updatedAt": "2026-09-16T09:08:12.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -249,7 +249,7 @@
         "balance",
         "widget"
       ],
-      "updatedAt": "2026-09-14T13:18:30.000Z"
+      "updatedAt": "2026-09-16T05:38:11.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -271,7 +271,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-16T03:09:21.000Z"
+      "updatedAt": "2026-09-16T09:00:56.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -314,7 +314,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-16T02:35:50.000Z"
+      "updatedAt": "2026-09-16T06:52:53.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -335,7 +335,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-16T03:17:35.000Z"
+      "updatedAt": "2026-09-16T08:08:22.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -355,7 +355,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-16T00:57:28.000Z"
+      "updatedAt": "2026-09-16T08:51:58.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -387,7 +387,7 @@
         "imessage",
         "ai-office"
       ],
-      "updatedAt": "2026-09-15T17:10:47.000Z"
+      "updatedAt": "2026-09-16T06:10:41.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -417,7 +417,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-09-15T16:24:13.000Z"
+      "updatedAt": "2026-09-16T04:31:41.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -448,7 +448,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-15T23:17:27.000Z"
+      "updatedAt": "2026-09-16T06:52:52.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -459,7 +459,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-15T12:49:13.000Z"
+      "updatedAt": "2026-09-16T09:08:06.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -482,7 +482,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-15T23:44:11.000Z"
+      "updatedAt": "2026-09-16T08:13:25.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -494,16 +494,6 @@
       },
       "license": "CC0-1.0",
       "updatedAt": "2026-09-08T06:53:48.000Z"
-    },
-    {
-      "id": "Anil-matcha/awesome-dsh-plugin",
-      "name": "Anil-matcha/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
-      "repository": {
-        "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
-      },
-      "updatedAt": "2026-08-25T06:52:19.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -530,6 +520,16 @@
         "agent"
       ],
       "updatedAt": "2026-09-15T16:46:27.000Z"
+    },
+    {
+      "id": "Anil-matcha/awesome-dsh-plugin",
+      "name": "Anil-matcha/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "A curated list of plugins for DeepSeek Harness (dsh) - DeepSeek Harness plugin ecosystem",
+      "repository": {
+        "url": "https://github.com/Anil-matcha/awesome-dsh-plugin"
+      },
+      "updatedAt": "2026-08-25T06:52:19.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -606,7 +606,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-15T23:31:02.000Z"
+      "updatedAt": "2026-09-16T09:03:37.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -695,6 +695,17 @@
       "updatedAt": "2026-08-24T16:55:44.000Z"
     },
     {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-16T03:35:05.000Z"
+    },
+    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -740,17 +751,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-09-13T14:16:16.000Z"
-    },
-    {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-15T03:27:58.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -802,7 +802,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-15T17:43:32.000Z"
+      "updatedAt": "2026-09-16T07:29:07.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -887,6 +887,26 @@
       "updatedAt": "2026-09-11T03:27:19.000Z"
     },
     {
+      "id": "SeaOf0/dsh-redteam-model",
+      "name": "@dsh-external/dsh-redteam-model",
+      "displayName": "dsh-redteam-model",
+      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
+      "repository": {
+        "url": "https://github.com/SeaOf0/dsh-redteam-model"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-bundle",
+        "redteam",
+        "security"
+      ],
+      "updatedAt": "2026-09-16T03:29:55.000Z"
+    },
+    {
       "id": "syncable-dev/memtrace-public",
       "name": "syncable-dev/memtrace-public",
       "displayName": "memtrace-public",
@@ -922,27 +942,7 @@
         "youtube",
         "reddit"
       ],
-      "updatedAt": "2026-09-16T02:54:57.000Z"
-    },
-    {
-      "id": "SeaOf0/dsh-redteam-model",
-      "name": "@dsh-external/dsh-redteam-model",
-      "displayName": "dsh-redteam-model",
-      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
-      "repository": {
-        "url": "https://github.com/SeaOf0/dsh-redteam-model"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-bundle",
-        "redteam",
-        "security"
-      ],
-      "updatedAt": "2026-09-16T03:29:55.000Z"
+      "updatedAt": "2026-09-16T08:36:33.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1027,6 +1027,17 @@
       "updatedAt": "2026-09-14T15:26:07.000Z"
     },
     {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-16T03:21:27.000Z"
+    },
+    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -1054,17 +1065,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-06T23:38:34.000Z"
-    },
-    {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-16T03:21:27.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1162,7 +1162,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-14T21:00:56.000Z"
+      "updatedAt": "2026-09-16T07:43:47.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1203,7 +1203,7 @@
         "github-copilot",
         "google-antigravity"
       ],
-      "updatedAt": "2026-09-14T06:36:51.000Z"
+      "updatedAt": "2026-09-16T05:49:35.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1214,7 +1214,7 @@
         "url": "https://github.com/zenstory-ai/oh-story-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-15T08:37:15.000Z"
+      "updatedAt": "2026-09-16T08:11:07.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -1244,7 +1244,7 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-09-15T14:58:00.000Z"
+      "updatedAt": "2026-09-16T09:02:15.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1266,24 +1266,18 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-15T17:45:49.000Z"
+      "updatedAt": "2026-09-16T08:57:17.000Z"
     },
     {
-      "id": "QCYTSN/dsh-dafeiyu",
-      "name": "dsh-dafeiyu",
-      "displayName": "dsh-dafeiyu",
-      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
       "repository": {
-        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
       },
       "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "desktop-pet",
-        "agent-companion"
-      ],
-      "updatedAt": "2026-09-15T15:45:07.000Z"
+      "updatedAt": "2026-09-15T05:26:18.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
@@ -1315,18 +1309,24 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-16T01:01:47.000Z"
+      "updatedAt": "2026-09-16T09:02:39.000Z"
     },
     {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "id": "QCYTSN/dsh-dafeiyu",
+      "name": "dsh-dafeiyu",
+      "displayName": "dsh-dafeiyu",
+      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
       "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-15T05:26:18.000Z"
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "desktop-pet",
+        "agent-companion"
+      ],
+      "updatedAt": "2026-09-15T15:45:07.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1337,7 +1337,7 @@
         "url": "https://github.com/shengsheng90/DSH-taskboard"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-16T03:24:33.000Z"
+      "updatedAt": "2026-09-16T03:52:32.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -1397,7 +1397,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-09-15T15:01:59.000Z"
+      "updatedAt": "2026-09-16T08:59:58.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1487,23 +1487,6 @@
       "updatedAt": "2026-09-10T20:06:01.000Z"
     },
     {
-      "id": "ericshang98/Perfect-Web-Clone",
-      "name": "perfect-web-clone",
-      "displayName": "Perfect-Web-Clone",
-      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
-      "repository": {
-        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pixel-perfect",
-        "web-clone",
-        "playwright",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-08-22T14:39:08.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1524,10 +1507,28 @@
         "cpolar",
         "frp",
         "self-hosted",
+        "reverse-proxy",
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-15T11:17:12.000Z"
+      "updatedAt": "2026-09-16T09:04:34.000Z"
+    },
+    {
+      "id": "ericshang98/Perfect-Web-Clone",
+      "name": "perfect-web-clone",
+      "displayName": "Perfect-Web-Clone",
+      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
+      "repository": {
+        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pixel-perfect",
+        "web-clone",
+        "playwright",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-08-22T14:39:08.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1562,7 +1563,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-15T09:41:44.000Z"
+      "updatedAt": "2026-09-16T06:19:24.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-visualize",
@@ -1584,7 +1585,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-15T14:06:46.000Z"
+      "updatedAt": "2026-09-16T03:37:59.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
