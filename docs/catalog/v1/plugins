@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-16T20:43:00.000Z"
+      "updatedAt": "2026-09-17T09:00:36.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-16T15:12:14.000Z"
+      "updatedAt": "2026-09-17T09:17:05.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -51,7 +51,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-16T12:41:17.000Z"
+      "updatedAt": "2026-09-17T03:25:43.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-17T02:23:16.000Z"
+      "updatedAt": "2026-09-17T06:20:53.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -106,7 +106,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-16T11:39:26.000Z"
+      "updatedAt": "2026-09-17T07:39:15.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -207,7 +207,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-17T02:40:47.000Z"
+      "updatedAt": "2026-09-17T09:11:26.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-17T02:27:44.000Z"
+      "updatedAt": "2026-09-17T08:55:09.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -292,7 +292,7 @@
         "ai-agent",
         "llm"
       ],
-      "updatedAt": "2026-09-17T02:21:54.000Z"
+      "updatedAt": "2026-09-17T06:12:31.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-4",
@@ -324,7 +324,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-17T02:36:14.000Z"
+      "updatedAt": "2026-09-17T07:59:58.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -335,7 +335,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-16T21:23:54.000Z"
+      "updatedAt": "2026-09-17T04:59:37.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -355,7 +355,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-17T02:03:58.000Z"
+      "updatedAt": "2026-09-17T09:04:53.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -440,17 +440,6 @@
       "updatedAt": "2026-09-16T16:08:58.000Z"
     },
     {
-      "id": "agentrq/agentrq",
-      "name": "agentrq/agentrq",
-      "displayName": "agentrq",
-      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
-      "repository": {
-        "url": "https://github.com/agentrq/agentrq"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-17T03:15:19.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -474,7 +463,18 @@
         "prompt-injection",
         "agent"
       ],
-      "updatedAt": "2026-09-15T16:46:27.000Z"
+      "updatedAt": "2026-09-17T09:15:04.000Z"
+    },
+    {
+      "id": "agentrq/agentrq",
+      "name": "agentrq/agentrq",
+      "displayName": "agentrq",
+      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
+      "repository": {
+        "url": "https://github.com/agentrq/agentrq"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-17T08:58:29.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -485,7 +485,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-16T09:27:07.000Z"
+      "updatedAt": "2026-09-17T07:55:43.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -519,7 +519,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-09-08T06:53:48.000Z"
+      "updatedAt": "2026-09-17T03:27:13.000Z"
     },
     {
       "id": "Anil-matcha/awesome-dsh-plugin",
@@ -606,7 +606,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-17T01:54:05.000Z"
+      "updatedAt": "2026-09-17T08:45:50.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -627,7 +627,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-17T02:35:05.000Z"
+      "updatedAt": "2026-09-17T07:30:35.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -649,7 +649,7 @@
         "url": "https://github.com/Lum1104/dsh-browser"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-13T14:44:57.000Z"
+      "updatedAt": "2026-09-17T06:19:39.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -764,6 +764,17 @@
       "updatedAt": "2026-09-06T06:28:21.000Z"
     },
     {
+      "id": "Nagi-ovo/dsh-ads",
+      "name": "@dsh-external/dsh-ads",
+      "displayName": "dsh-ads",
+      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-ads"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-08-27T21:32:38.000Z"
+    },
+    {
       "id": "adoresever/graph-memory",
       "name": "graph-memory",
       "displayName": "graph-memory",
@@ -781,17 +792,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-09-09T07:51:31.000Z"
-    },
-    {
-      "id": "Nagi-ovo/dsh-ads",
-      "name": "@dsh-external/dsh-ads",
-      "displayName": "dsh-ads",
-      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-ads"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-08-27T21:32:38.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -962,7 +962,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-17T02:07:12.000Z"
+      "updatedAt": "2026-09-17T05:33:13.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -980,7 +980,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-09-16T03:13:19.000Z"
+      "updatedAt": "2026-09-17T06:04:50.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -1038,6 +1038,17 @@
       "updatedAt": "2026-09-16T03:21:27.000Z"
     },
     {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-06T23:38:34.000Z"
+    },
+    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -1053,18 +1064,7 @@
         "web-search",
         "web-fetch"
       ],
-      "updatedAt": "2026-09-17T03:05:34.000Z"
-    },
-    {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-06T23:38:34.000Z"
+      "updatedAt": "2026-09-17T03:29:58.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1209,6 +1209,17 @@
       "updatedAt": "2026-09-12T07:39:10.000Z"
     },
     {
+      "id": "zenstory-ai/oh-story-dsh",
+      "name": "oh-story-dsh",
+      "displayName": "oh-story-dsh",
+      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
+      "repository": {
+        "url": "https://github.com/zenstory-ai/oh-story-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-16T08:11:07.000Z"
+    },
+    {
       "id": "yjh051108/dsh-router-standard",
       "name": "dsh-router-standard",
       "displayName": "dsh-router-standard",
@@ -1225,17 +1236,6 @@
         "agent-preset"
       ],
       "updatedAt": "2026-08-24T18:20:09.000Z"
-    },
-    {
-      "id": "zenstory-ai/oh-story-dsh",
-      "name": "oh-story-dsh",
-      "displayName": "oh-story-dsh",
-      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
-      "repository": {
-        "url": "https://github.com/zenstory-ai/oh-story-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-16T08:11:07.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1255,7 +1255,7 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-09-17T03:10:06.000Z"
+      "updatedAt": "2026-09-17T03:51:34.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -1276,18 +1276,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-16T19:28:01.000Z"
-    },
-    {
-      "id": "bruc3van/awesome-dsh-plugin",
-      "name": "bruc3van/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
-      "repository": {
-        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-17T00:54:41.000Z"
+      "updatedAt": "2026-09-17T09:14:43.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1301,6 +1290,17 @@
       "updatedAt": "2026-09-15T05:26:18.000Z"
     },
     {
+      "id": "bruc3van/awesome-dsh-plugin",
+      "name": "bruc3van/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
+      "repository": {
+        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-17T00:54:41.000Z"
+    },
+    {
       "id": "Dominic789654/awesome-deepseek-harness",
       "name": "Dominic789654/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -1309,7 +1309,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-17T01:03:30.000Z"
+      "updatedAt": "2026-09-17T09:01:36.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1417,7 +1417,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-16T19:59:44.000Z"
+      "updatedAt": "2026-09-17T06:25:27.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1509,24 +1509,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-17T02:07:21.000Z"
-    },
-    {
-      "id": "ericshang98/Perfect-Web-Clone",
-      "name": "perfect-web-clone",
-      "displayName": "Perfect-Web-Clone",
-      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
-      "repository": {
-        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pixel-perfect",
-        "web-clone",
-        "playwright",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-08-22T14:39:08.000Z"
+      "updatedAt": "2026-09-17T05:45:53.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1554,6 +1537,23 @@
         "https"
       ],
       "updatedAt": "2026-09-16T14:27:55.000Z"
+    },
+    {
+      "id": "ericshang98/Perfect-Web-Clone",
+      "name": "perfect-web-clone",
+      "displayName": "Perfect-Web-Clone",
+      "summary": "Pixel-perfect clones of any webpage. Paste a URL, get a measured Vite + React replica.",
+      "repository": {
+        "url": "https://github.com/ericshang98/Perfect-Web-Clone"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pixel-perfect",
+        "web-clone",
+        "playwright",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-08-22T14:39:08.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
@@ -1585,7 +1585,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-17T02:14:47.000Z"
+      "updatedAt": "2026-09-17T09:12:05.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1609,7 +1609,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-17T02:32:24.000Z"
+      "updatedAt": "2026-09-17T06:47:24.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
