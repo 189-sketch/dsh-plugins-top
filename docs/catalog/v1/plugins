@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T06:42:31.000Z"
+      "updatedAt": "2026-09-18T18:20:43.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-18T14:00:02.000Z"
+      "updatedAt": "2026-09-18T14:58:47.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-18T13:59:17.000Z"
+      "updatedAt": "2026-09-18T14:33:11.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-18T12:07:48.000Z"
+      "updatedAt": "2026-09-18T16:30:59.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-18T05:30:53.000Z"
+      "updatedAt": "2026-09-18T18:53:09.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -131,7 +131,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T14:02:05.000Z"
+      "updatedAt": "2026-09-18T15:01:25.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -174,7 +174,7 @@
         "multimodal",
         "modlens"
       ],
-      "updatedAt": "2026-09-07T22:15:50.000Z"
+      "updatedAt": "2026-09-18T17:47:08.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-18T14:00:06.000Z"
+      "updatedAt": "2026-09-18T15:27:44.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -274,6 +274,17 @@
       "updatedAt": "2026-09-15T11:26:21.000Z"
     },
     {
+      "id": "Minglink/dsh-infinite-gen-4",
+      "name": "dsh-infinite-gen-4",
+      "displayName": "dsh-infinite-gen-4",
+      "summary": "DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and test suite for DeepSeek    求 Star 收藏 ⭐欢迎大家提交项目的改进",
+      "repository": {
+        "url": "https://github.com/Minglink/dsh-infinite-gen-4"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-18T18:40:43.000Z"
+    },
+    {
       "id": "NanmiCoder/dsh-agent-teams",
       "name": "@nanmicoder/dsh-agent-teams",
       "displayName": "dsh-agent-teams",
@@ -295,17 +306,6 @@
       "updatedAt": "2026-09-17T06:12:31.000Z"
     },
     {
-      "id": "Minglink/dsh-infinite-gen-4",
-      "name": "dsh-infinite-gen-4",
-      "displayName": "dsh-infinite-gen-4",
-      "summary": "DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and test suite for DeepSeek    求 Star 收藏 ⭐欢迎大家提交项目的改进",
-      "repository": {
-        "url": "https://github.com/Minglink/dsh-infinite-gen-4"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-14T13:45:13.000Z"
-    },
-    {
       "id": "superdesigndev/treg",
       "name": "treg-dsh",
       "displayName": "treg",
@@ -324,7 +324,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-18T14:09:10.000Z"
+      "updatedAt": "2026-09-18T18:27:33.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -335,7 +335,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T11:26:12.000Z"
+      "updatedAt": "2026-09-18T16:31:51.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -402,18 +402,18 @@
         "dsh",
         "dsh-plugin",
         "dsh-plugins",
-        "破甲",
-        "llm-jailbreak",
-        "harness-jailbreak",
+        "网络安全",
+        "红队评测",
+        "llm-security",
+        "harness-security",
         "deepseek-harness",
-        "purge",
-        "jailbreak",
+        "red-team",
         "instructions",
         "rules",
-        "prompt-injection",
+        "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-09-18T10:26:26.000Z"
+      "updatedAt": "2026-09-18T16:51:42.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -474,7 +474,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-18T05:54:16.000Z"
+      "updatedAt": "2026-09-18T17:56:28.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -508,7 +508,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-18T14:10:18.000Z"
+      "updatedAt": "2026-09-18T15:59:27.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -540,7 +540,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-18T13:59:00.000Z"
+      "updatedAt": "2026-09-18T14:15:30.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -583,7 +583,7 @@
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
-      "summary": "One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 20 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.",
+      "summary": "One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.",
       "repository": {
         "url": "https://github.com/vshulcz/deja-vu"
       },
@@ -596,7 +596,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-18T13:55:39.000Z"
+      "updatedAt": "2026-09-18T15:57:00.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -607,7 +607,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-18T13:30:40.000Z"
+      "updatedAt": "2026-09-18T15:49:46.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -673,29 +673,6 @@
       "updatedAt": "2026-08-30T18:41:47.000Z"
     },
     {
-      "id": "chainbase-labs/Agentkey",
-      "name": "agentkey-skill",
-      "displayName": "Agentkey",
-      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
-      "repository": {
-        "url": "https://github.com/chainbase-labs/Agentkey"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "ai-agents",
-        "claude-code",
-        "cursor",
-        "codex",
-        "skills",
-        "agent-skills",
-        "web-search",
-        "social-media",
-        "crypto",
-        "real-time-data"
-      ],
-      "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -754,6 +731,29 @@
       "updatedAt": "2026-09-06T06:28:21.000Z"
     },
     {
+      "id": "chainbase-labs/Agentkey",
+      "name": "agentkey-skill",
+      "displayName": "Agentkey",
+      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
+      "repository": {
+        "url": "https://github.com/chainbase-labs/Agentkey"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "ai-agents",
+        "claude-code",
+        "cursor",
+        "codex",
+        "skills",
+        "agent-skills",
+        "web-search",
+        "social-media",
+        "crypto",
+        "real-time-data"
+      ],
+      "updatedAt": "2026-08-24T16:55:44.000Z"
+    },
+    {
       "id": "Nagi-ovo/dsh-ads",
       "name": "@dsh-external/dsh-ads",
       "displayName": "dsh-ads",
@@ -792,7 +792,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-17T19:47:08.000Z"
+      "updatedAt": "2026-09-18T17:08:43.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -908,26 +908,6 @@
       "updatedAt": "2026-09-18T13:42:07.000Z"
     },
     {
-      "id": "chenxiachan/thoughtdag",
-      "name": "thoughtdag",
-      "displayName": "thoughtdag",
-      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
-      "repository": {
-        "url": "https://github.com/chenxiachan/thoughtdag"
-      },
-      "license": "MIT",
-      "keywords": [
-        "llm",
-        "dag",
-        "canvas",
-        "react-flow",
-        "ai",
-        "knowledge-graph",
-        "research-tool"
-      ],
-      "updatedAt": "2026-09-17T05:33:13.000Z"
-    },
-    {
       "id": "gitroomhq/postiz-agent",
       "name": "postiz",
       "displayName": "postiz-agent",
@@ -964,6 +944,26 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-09-17T16:59:08.000Z"
+    },
+    {
+      "id": "chenxiachan/thoughtdag",
+      "name": "thoughtdag",
+      "displayName": "thoughtdag",
+      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "repository": {
+        "url": "https://github.com/chenxiachan/thoughtdag"
+      },
+      "license": "MIT",
+      "keywords": [
+        "llm",
+        "dag",
+        "canvas",
+        "react-flow",
+        "ai",
+        "knowledge-graph",
+        "research-tool"
+      ],
+      "updatedAt": "2026-09-17T05:33:13.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1065,7 +1065,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T13:50:32.000Z"
+      "updatedAt": "2026-09-18T16:58:25.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1151,7 +1151,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-18T03:48:36.000Z"
+      "updatedAt": "2026-09-18T15:40:58.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1199,6 +1199,17 @@
       "updatedAt": "2026-09-16T05:49:35.000Z"
     },
     {
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "repository": {
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-15T05:26:18.000Z"
+    },
+    {
       "id": "zenstory-ai/oh-story-dsh",
       "name": "oh-story-dsh",
       "displayName": "oh-story-dsh",
@@ -1238,18 +1249,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-18T11:39:34.000Z"
-    },
-    {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
-      "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-15T05:26:18.000Z"
+      "updatedAt": "2026-09-18T18:57:35.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1288,7 +1288,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T00:57:21.000Z"
+      "updatedAt": "2026-09-18T17:52:49.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1341,17 +1341,6 @@
       "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
-      "id": "hust-open-atom-club/oh-dsh",
-      "name": "@oh-dsh/desktop",
-      "displayName": "oh-dsh",
-      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
-      "repository": {
-        "url": "https://github.com/hust-open-atom-club/oh-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-12T13:58:15.000Z"
-    },
-    {
       "id": "csyangwen/dsh-memory-evolve",
       "name": "dsh-memory-evolve",
       "displayName": "dsh-memory-evolve",
@@ -1361,6 +1350,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-15T04:13:05.000Z"
+    },
+    {
+      "id": "hust-open-atom-club/oh-dsh",
+      "name": "@oh-dsh/desktop",
+      "displayName": "oh-dsh",
+      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
+      "repository": {
+        "url": "https://github.com/hust-open-atom-club/oh-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-12T13:58:15.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1448,24 +1448,6 @@
       "updatedAt": "2026-09-12T11:32:18.000Z"
     },
     {
-      "id": "huiliyi37/dsh-tianshu-tui",
-      "name": "@huiliyi37/dsh-tianshu-tui",
-      "displayName": "dsh-tianshu-tui",
-      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。",
-      "repository": {
-        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "agent-harness",
-        "terminal",
-        "tui",
-        "cli"
-      ],
-      "updatedAt": "2026-09-15T09:31:11.000Z"
-    },
-    {
       "id": "Mars-Sea/dsh-commandcode-provider",
       "name": "@mars-sea/dsh-commandcode-provider",
       "displayName": "dsh-commandcode-provider",
@@ -1489,6 +1471,24 @@
         "provider"
       ],
       "updatedAt": "2026-09-18T13:36:11.000Z"
+    },
+    {
+      "id": "huiliyi37/dsh-tianshu-tui",
+      "name": "@huiliyi37/dsh-tianshu-tui",
+      "displayName": "dsh-tianshu-tui",
+      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。",
+      "repository": {
+        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "agent-harness",
+        "terminal",
+        "tui",
+        "cli"
+      ],
+      "updatedAt": "2026-09-15T09:31:11.000Z"
     },
     {
       "id": "op7418/pilot-harness",
@@ -1599,7 +1599,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-18T14:04:08.000Z"
+      "updatedAt": "2026-09-18T18:58:08.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
@@ -1629,7 +1629,7 @@
         "url": "https://github.com/Ruler4396/dsh-launcher"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T13:57:08.000Z"
+      "updatedAt": "2026-09-18T16:23:56.000Z"
     }
   ],
   "page": {
