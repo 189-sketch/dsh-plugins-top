@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-18T18:53:09.000Z"
+      "updatedAt": "2026-09-18T20:32:06.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -95,7 +95,7 @@
         "cordis",
         "progressive-disclosure"
       ],
-      "updatedAt": "2026-09-04T13:51:03.000Z"
+      "updatedAt": "2026-09-18T22:07:41.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -324,7 +324,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-18T18:27:33.000Z"
+      "updatedAt": "2026-09-18T20:14:02.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -335,7 +335,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T16:31:51.000Z"
+      "updatedAt": "2026-09-18T21:45:52.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -474,7 +474,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-18T17:56:28.000Z"
+      "updatedAt": "2026-09-18T19:18:17.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -569,17 +569,6 @@
       "updatedAt": "2026-09-16T14:45:56.000Z"
     },
     {
-      "id": "toby-bridges/api-relay-audit",
-      "name": "dsh-api-relay-audit",
-      "displayName": "api-relay-audit",
-      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
-      "repository": {
-        "url": "https://github.com/toby-bridges/api-relay-audit"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-16T09:42:54.000Z"
-    },
-    {
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
@@ -596,7 +585,18 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-18T15:57:00.000Z"
+      "updatedAt": "2026-09-18T22:16:37.000Z"
+    },
+    {
+      "id": "toby-bridges/api-relay-audit",
+      "name": "dsh-api-relay-audit",
+      "displayName": "api-relay-audit",
+      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
+      "repository": {
+        "url": "https://github.com/toby-bridges/api-relay-audit"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-16T09:42:54.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -607,7 +607,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-18T15:49:46.000Z"
+      "updatedAt": "2026-09-18T21:17:40.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -792,7 +792,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T17:08:43.000Z"
+      "updatedAt": "2026-09-18T19:06:08.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1039,6 +1039,27 @@
       "updatedAt": "2026-09-06T23:38:34.000Z"
     },
     {
+      "id": "antibrow/dsh-antibrow",
+      "name": "dsh-antibrow",
+      "displayName": "dsh-antibrow",
+      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
+      "repository": {
+        "url": "https://github.com/antibrow/dsh-antibrow"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "dsh",
+        "browser",
+        "anti-detect",
+        "fingerprint",
+        "proxy",
+        "automation"
+      ],
+      "updatedAt": "2026-09-12T07:39:10.000Z"
+    },
+    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -1088,27 +1109,6 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
-      "id": "antibrow/dsh-antibrow",
-      "name": "dsh-antibrow",
-      "displayName": "dsh-antibrow",
-      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
-      "repository": {
-        "url": "https://github.com/antibrow/dsh-antibrow"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "browser",
-        "anti-detect",
-        "fingerprint",
-        "proxy",
-        "automation"
-      ],
-      "updatedAt": "2026-09-12T07:39:10.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1176,6 +1176,17 @@
       "updatedAt": "2026-09-11T18:41:51.000Z"
     },
     {
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "repository": {
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-15T05:26:18.000Z"
+    },
+    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -1197,17 +1208,6 @@
         "google-antigravity"
       ],
       "updatedAt": "2026-09-16T05:49:35.000Z"
-    },
-    {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
-      "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-15T05:26:18.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1249,7 +1249,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-18T18:57:35.000Z"
+      "updatedAt": "2026-09-18T19:27:49.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1407,7 +1407,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-18T09:17:07.000Z"
+      "updatedAt": "2026-09-18T21:49:18.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1599,7 +1599,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-18T18:58:08.000Z"
+      "updatedAt": "2026-09-18T22:15:59.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
