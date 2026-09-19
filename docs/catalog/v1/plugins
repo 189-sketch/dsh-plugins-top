@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-19T15:12:39.000Z"
+      "updatedAt": "2026-09-19T19:53:41.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -324,7 +324,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-19T16:57:00.000Z"
+      "updatedAt": "2026-09-19T19:54:22.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -336,26 +336,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-19T15:56:31.000Z"
-    },
-    {
-      "id": "bowenliang123/dsh-context",
-      "name": "dsh-context",
-      "displayName": "dsh-context",
-      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
-      "repository": {
-        "url": "https://github.com/bowenliang123/dsh-context"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "cordis",
-        "plugin",
-        "context",
-        "token",
-        "ui"
-      ],
-      "updatedAt": "2026-09-19T13:54:19.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -382,6 +362,26 @@
         "agent"
       ],
       "updatedAt": "2026-09-19T16:31:16.000Z"
+    },
+    {
+      "id": "bowenliang123/dsh-context",
+      "name": "dsh-context",
+      "displayName": "dsh-context",
+      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "repository": {
+        "url": "https://github.com/bowenliang123/dsh-context"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "cordis",
+        "plugin",
+        "context",
+        "token",
+        "ui"
+      ],
+      "updatedAt": "2026-09-19T13:54:19.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -413,7 +413,7 @@
         "imessage",
         "ai-office"
       ],
-      "updatedAt": "2026-09-19T16:58:46.000Z"
+      "updatedAt": "2026-09-19T17:27:18.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -485,7 +485,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-19T07:29:02.000Z"
+      "updatedAt": "2026-09-19T18:24:46.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -607,7 +607,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-19T16:52:56.000Z"
+      "updatedAt": "2026-09-19T17:56:44.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -792,7 +792,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-19T16:39:37.000Z"
+      "updatedAt": "2026-09-19T18:41:17.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1028,6 +1028,27 @@
       "updatedAt": "2026-09-17T14:43:49.000Z"
     },
     {
+      "id": "antibrow/dsh-antibrow",
+      "name": "dsh-antibrow",
+      "displayName": "dsh-antibrow",
+      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
+      "repository": {
+        "url": "https://github.com/antibrow/dsh-antibrow"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "dsh",
+        "browser",
+        "anti-detect",
+        "fingerprint",
+        "proxy",
+        "automation"
+      ],
+      "updatedAt": "2026-09-12T07:39:10.000Z"
+    },
+    {
       "id": "EthanYoQ/Invoice-Downloader",
       "name": "EthanYoQ/Invoice-Downloader",
       "displayName": "Invoice-Downloader",
@@ -1055,27 +1076,6 @@
         "web-fetch"
       ],
       "updatedAt": "2026-09-17T16:22:03.000Z"
-    },
-    {
-      "id": "antibrow/dsh-antibrow",
-      "name": "dsh-antibrow",
-      "displayName": "dsh-antibrow",
-      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
-      "repository": {
-        "url": "https://github.com/antibrow/dsh-antibrow"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "browser",
-        "anti-detect",
-        "fingerprint",
-        "proxy",
-        "automation"
-      ],
-      "updatedAt": "2026-09-12T07:39:10.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1130,7 +1130,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-19T16:34:19.000Z"
+      "updatedAt": "2026-09-19T17:55:18.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1288,7 +1288,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-19T00:54:47.000Z"
+      "updatedAt": "2026-09-19T17:28:20.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1407,7 +1407,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-19T14:29:29.000Z"
+      "updatedAt": "2026-09-19T19:55:09.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
