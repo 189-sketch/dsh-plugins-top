@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-19T03:58:50.000Z"
+      "updatedAt": "2026-09-19T13:43:57.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-19T04:12:32.000Z"
+      "updatedAt": "2026-09-19T13:31:09.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-19T03:35:40.000Z"
+      "updatedAt": "2026-09-19T13:37:21.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-15T14:57:14.000Z"
+      "updatedAt": "2026-09-19T12:04:24.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -131,7 +131,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T15:01:25.000Z"
+      "updatedAt": "2026-09-19T12:43:34.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -151,7 +151,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-19T04:36:30.000Z"
+      "updatedAt": "2026-09-19T13:46:43.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-19T06:42:12.000Z"
+      "updatedAt": "2026-09-19T10:47:19.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -324,7 +324,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-19T07:44:18.000Z"
+      "updatedAt": "2026-09-19T13:35:53.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -335,7 +335,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-19T07:18:46.000Z"
+      "updatedAt": "2026-09-19T11:09:55.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -355,7 +355,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-19T00:55:18.000Z"
+      "updatedAt": "2026-09-19T13:40:13.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -413,7 +413,7 @@
         "imessage",
         "ai-office"
       ],
-      "updatedAt": "2026-09-16T17:12:21.000Z"
+      "updatedAt": "2026-09-19T12:43:02.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -474,7 +474,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-19T08:36:25.000Z"
+      "updatedAt": "2026-09-19T11:48:37.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -585,7 +585,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-19T08:36:01.000Z"
+      "updatedAt": "2026-09-19T13:40:40.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -864,16 +864,6 @@
       "updatedAt": "2026-09-01T01:00:35.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-09-11T03:27:19.000Z"
-    },
-    {
       "id": "liustack/modsearch",
       "name": "@liustack/modsearch",
       "displayName": "modsearch",
@@ -895,6 +885,16 @@
         "deepseek-harness"
       ],
       "updatedAt": "2026-09-15T11:04:57.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-09-11T03:27:19.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1111,6 +1111,17 @@
       "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "repository": {
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-19T07:22:18.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
@@ -1151,18 +1162,18 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-18T15:40:58.000Z"
+      "updatedAt": "2026-09-19T13:36:31.000Z"
     },
     {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
       "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+        "url": "https://github.com/flizzywine/dsh-tavern"
       },
-      "license": "MIT",
-      "updatedAt": "2026-09-19T07:22:18.000Z"
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-19T13:17:54.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1185,17 +1196,6 @@
         "skin"
       ],
       "updatedAt": "2026-09-11T18:41:51.000Z"
-    },
-    {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-19T08:30:21.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1299,7 +1299,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-19T08:34:15.000Z"
+      "updatedAt": "2026-09-19T09:01:02.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1407,7 +1407,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-19T06:08:39.000Z"
+      "updatedAt": "2026-09-19T13:37:40.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1599,7 +1599,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-19T08:25:18.000Z"
+      "updatedAt": "2026-09-19T13:06:23.000Z"
     },
     {
       "id": "e2mcc/dsh-popout-sidebar",
