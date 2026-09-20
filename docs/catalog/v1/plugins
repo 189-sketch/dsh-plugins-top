@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-20T17:18:25.000Z"
+      "updatedAt": "2026-09-20T17:49:54.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-20T13:58:19.000Z"
+      "updatedAt": "2026-09-20T19:55:12.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -151,7 +151,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-20T17:17:52.000Z"
+      "updatedAt": "2026-09-20T17:28:49.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -413,7 +413,7 @@
         "imessage",
         "ai-office"
       ],
-      "updatedAt": "2026-09-20T17:19:24.000Z"
+      "updatedAt": "2026-09-20T17:50:06.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -474,7 +474,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-20T17:16:35.000Z"
+      "updatedAt": "2026-09-20T18:45:15.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -559,7 +559,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-20T17:06:25.000Z"
+      "updatedAt": "2026-09-20T20:13:41.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -588,17 +588,6 @@
       "updatedAt": "2026-09-16T14:45:56.000Z"
     },
     {
-      "id": "toby-bridges/api-relay-audit",
-      "name": "dsh-api-relay-audit",
-      "displayName": "api-relay-audit",
-      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
-      "repository": {
-        "url": "https://github.com/toby-bridges/api-relay-audit"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-16T09:42:54.000Z"
-    },
-    {
       "id": "LivXue/dsh-plugin-shop",
       "name": "dsh-plugin-shop-registry",
       "displayName": "dsh-plugin-shop",
@@ -608,6 +597,17 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-20T05:50:01.000Z"
+    },
+    {
+      "id": "toby-bridges/api-relay-audit",
+      "name": "dsh-api-relay-audit",
+      "displayName": "api-relay-audit",
+      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
+      "repository": {
+        "url": "https://github.com/toby-bridges/api-relay-audit"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-16T09:42:54.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -728,7 +728,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-20T17:05:53.000Z"
+      "updatedAt": "2026-09-20T18:52:32.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -792,7 +792,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-20T16:55:55.000Z"
+      "updatedAt": "2026-09-20T18:56:34.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1111,17 +1111,6 @@
       "updatedAt": "2026-09-19T07:22:18.000Z"
     },
     {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
       "id": "flizzywine/dsh-tavern",
       "name": "dsh-profile-tavern",
       "displayName": "dsh-tavern",
@@ -1131,6 +1120,17 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-09-20T16:07:22.000Z"
+    },
+    {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1288,7 +1288,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-20T00:56:28.000Z"
+      "updatedAt": "2026-09-20T17:40:14.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1380,7 +1380,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-19T19:55:09.000Z"
+      "updatedAt": "2026-09-20T19:19:46.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
