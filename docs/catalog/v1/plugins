@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-20T16:45:46.000Z"
+      "updatedAt": "2026-09-20T23:53:21.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -361,7 +361,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-20T16:14:50.000Z"
+      "updatedAt": "2026-09-20T23:32:15.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -474,7 +474,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-20T18:45:15.000Z"
+      "updatedAt": "2026-09-20T23:52:10.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -559,7 +559,7 @@
         "recall",
         "session-history"
       ],
-      "updatedAt": "2026-09-20T20:13:41.000Z"
+      "updatedAt": "2026-09-20T23:13:28.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -728,7 +728,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-20T18:52:32.000Z"
+      "updatedAt": "2026-09-20T23:41:46.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1089,17 +1089,6 @@
       "updatedAt": "2026-09-20T16:58:15.000Z"
     },
     {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-26T13:12:24.000Z"
-    },
-    {
       "id": "pax-beehive/dsh-hub-cli",
       "name": "dsh-hub-cli-workspace",
       "displayName": "dsh-hub-cli",
@@ -1120,6 +1109,17 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-09-20T16:07:22.000Z"
+    },
+    {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-26T13:12:24.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1556,17 +1556,6 @@
       "updatedAt": "2026-09-12T05:53:00.000Z"
     },
     {
-      "id": "Nagi-ovo/dsh-visualize",
-      "name": "@nagi-ovo/dsh-visualize",
-      "displayName": "dsh-visualize",
-      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-visualize"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-09-18T23:09:28.000Z"
-    },
-    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -1584,6 +1573,17 @@
         "worldline"
       ],
       "updatedAt": "2026-09-18T11:24:32.000Z"
+    },
+    {
+      "id": "Nagi-ovo/dsh-visualize",
+      "name": "@nagi-ovo/dsh-visualize",
+      "displayName": "dsh-visualize",
+      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-visualize"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-09-18T23:09:28.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
