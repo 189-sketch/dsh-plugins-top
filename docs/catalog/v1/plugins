@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-21T16:16:58.000Z"
+      "updatedAt": "2026-09-21T16:29:17.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-21T16:17:13.000Z"
+      "updatedAt": "2026-09-21T17:48:50.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-21T14:38:11.000Z"
+      "updatedAt": "2026-09-21T21:43:12.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -151,7 +151,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-21T16:03:52.000Z"
+      "updatedAt": "2026-09-21T17:07:25.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -213,7 +213,7 @@
       "id": "ccch1mneyyy/dsh-TUI",
       "name": "@deepseek-harness-tui/dsh-tui",
       "displayName": "dsh-TUI",
-      "summary": "DSH 官方公众号收录的 TUI 补位插件：Claude Code 风，鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — Claude Code style: whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
+      "summary": "DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one-click.",
       "repository": {
         "url": "https://github.com/ccch1mneyyy/dsh-TUI"
       },
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-21T14:50:29.000Z"
+      "updatedAt": "2026-09-21T21:41:52.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -274,17 +274,6 @@
       "updatedAt": "2026-09-21T15:17:32.000Z"
     },
     {
-      "id": "Minglink/dsh-infinite-gen-4",
-      "name": "dsh-infinite-gen-4",
-      "displayName": "dsh-infinite-gen-4",
-      "summary": "DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and test suite for DeepSeek    求 Star 收藏 ⭐欢迎大家提交项目的改进",
-      "repository": {
-        "url": "https://github.com/Minglink/dsh-infinite-gen-4"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-18T18:40:43.000Z"
-    },
-    {
       "id": "superdesigndev/treg",
       "name": "treg-dsh",
       "displayName": "treg",
@@ -303,28 +292,18 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-21T14:24:43.000Z"
+      "updatedAt": "2026-09-21T19:02:56.000Z"
     },
     {
-      "id": "NanmiCoder/dsh-agent-teams",
-      "name": "@nanmicoder/dsh-agent-teams",
-      "displayName": "dsh-agent-teams",
-      "summary": "AgentTeams plugin for DeepSeek Harness",
+      "id": "Minglink/dsh-infinite-gen-4",
+      "name": "dsh-infinite-gen-4",
+      "displayName": "dsh-infinite-gen-4",
+      "summary": "DeepSeek v4.1 flash 网络安全红队工具（无限四代） — jailbreak prompts and test suite for DeepSeek    求 Star 收藏 ⭐欢迎大家提交项目的改进",
       "repository": {
-        "url": "https://github.com/NanmiCoder/dsh-agent-teams"
+        "url": "https://github.com/Minglink/dsh-infinite-gen-4"
       },
       "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "agent-teams",
-        "multi-agent",
-        "subagent",
-        "ai-agent",
-        "llm"
-      ],
-      "updatedAt": "2026-09-17T06:12:31.000Z"
+      "updatedAt": "2026-09-18T18:40:43.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -350,7 +329,28 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-09-21T16:15:39.000Z"
+      "updatedAt": "2026-09-21T16:23:23.000Z"
+    },
+    {
+      "id": "NanmiCoder/dsh-agent-teams",
+      "name": "@nanmicoder/dsh-agent-teams",
+      "displayName": "dsh-agent-teams",
+      "summary": "AgentTeams plugin for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/NanmiCoder/dsh-agent-teams"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "agent-teams",
+        "multi-agent",
+        "subagent",
+        "ai-agent",
+        "llm"
+      ],
+      "updatedAt": "2026-09-17T06:12:31.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -370,7 +370,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-21T16:18:38.000Z"
+      "updatedAt": "2026-09-21T17:00:46.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -413,7 +413,7 @@
         "imessage",
         "ai-office"
       ],
-      "updatedAt": "2026-09-20T17:50:06.000Z"
+      "updatedAt": "2026-09-21T17:06:11.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -557,9 +557,22 @@
         "deepseek-harness",
         "memory",
         "recall",
-        "session-history"
+        "session-history",
+        "migration",
+        "agent-memory",
+        "ai-memory",
+        "coding-agent",
+        "claude-code",
+        "claude-code-memory",
+        "codex",
+        "cursor",
+        "gemini-cli",
+        "mcp",
+        "mcp-server",
+        "session-search",
+        "local-first"
       ],
-      "updatedAt": "2026-09-21T16:18:38.000Z"
+      "updatedAt": "2026-09-21T21:36:04.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -684,6 +697,29 @@
       "updatedAt": "2026-09-06T06:28:21.000Z"
     },
     {
+      "id": "chainbase-labs/Agentkey",
+      "name": "agentkey-skill",
+      "displayName": "Agentkey",
+      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
+      "repository": {
+        "url": "https://github.com/chainbase-labs/Agentkey"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "ai-agents",
+        "claude-code",
+        "cursor",
+        "codex",
+        "skills",
+        "agent-skills",
+        "web-search",
+        "social-media",
+        "crypto",
+        "real-time-data"
+      ],
+      "updatedAt": "2026-08-24T16:55:44.000Z"
+    },
+    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -728,30 +764,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-21T16:12:28.000Z"
-    },
-    {
-      "id": "chainbase-labs/Agentkey",
-      "name": "agentkey-skill",
-      "displayName": "Agentkey",
-      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
-      "repository": {
-        "url": "https://github.com/chainbase-labs/Agentkey"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "ai-agents",
-        "claude-code",
-        "cursor",
-        "codex",
-        "skills",
-        "agent-skills",
-        "web-search",
-        "social-media",
-        "crypto",
-        "real-time-data"
-      ],
-      "updatedAt": "2026-08-24T16:55:44.000Z"
+      "updatedAt": "2026-09-21T17:27:06.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -810,7 +823,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-21T04:21:32.000Z"
+      "updatedAt": "2026-09-21T20:29:15.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -946,6 +959,27 @@
       "updatedAt": "2026-09-21T07:56:35.000Z"
     },
     {
+      "id": "antibrow/dsh-antibrow",
+      "name": "dsh-antibrow",
+      "displayName": "dsh-antibrow",
+      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
+      "repository": {
+        "url": "https://github.com/antibrow/dsh-antibrow"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "dsh",
+        "browser",
+        "anti-detect",
+        "fingerprint",
+        "proxy",
+        "automation"
+      ],
+      "updatedAt": "2026-09-12T07:39:10.000Z"
+    },
+    {
       "id": "syncable-dev/memtrace-public",
       "name": "syncable-dev/memtrace-public",
       "displayName": "memtrace-public",
@@ -995,27 +1029,6 @@
       "updatedAt": "2026-09-21T09:05:48.000Z"
     },
     {
-      "id": "antibrow/dsh-antibrow",
-      "name": "dsh-antibrow",
-      "displayName": "dsh-antibrow",
-      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
-      "repository": {
-        "url": "https://github.com/antibrow/dsh-antibrow"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "browser",
-        "anti-detect",
-        "fingerprint",
-        "proxy",
-        "automation"
-      ],
-      "updatedAt": "2026-09-12T07:39:10.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1057,7 +1070,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-21T15:52:15.000Z"
+      "updatedAt": "2026-09-21T17:05:07.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
@@ -1108,7 +1121,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-21T16:18:54.000Z"
+      "updatedAt": "2026-09-21T16:27:47.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1131,17 +1144,6 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
-      "id": "zenstory-ai/oh-story-dsh",
-      "name": "oh-story-dsh",
-      "displayName": "oh-story-dsh",
-      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
-      "repository": {
-        "url": "https://github.com/zenstory-ai/oh-story-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-20T08:57:58.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1185,6 +1187,17 @@
         "supermemory"
       ],
       "updatedAt": "2026-09-19T13:36:31.000Z"
+    },
+    {
+      "id": "zenstory-ai/oh-story-dsh",
+      "name": "oh-story-dsh",
+      "displayName": "oh-story-dsh",
+      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
+      "repository": {
+        "url": "https://github.com/zenstory-ai/oh-story-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-20T08:57:58.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1307,7 +1320,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-21T16:00:09.000Z"
+      "updatedAt": "2026-09-21T19:39:37.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1395,7 +1408,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-09-18T12:48:58.000Z"
+      "updatedAt": "2026-09-21T16:30:58.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1594,7 +1607,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-21T14:51:06.000Z"
+      "updatedAt": "2026-09-21T20:48:48.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1644,7 +1657,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-21T16:18:42.000Z"
+      "updatedAt": "2026-09-21T16:39:55.000Z"
     }
   ],
   "page": {
