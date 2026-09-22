@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-21T17:48:50.000Z"
+      "updatedAt": "2026-09-22T00:16:54.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-21T21:43:12.000Z"
+      "updatedAt": "2026-09-21T22:51:41.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-21T21:41:52.000Z"
+      "updatedAt": "2026-09-22T00:39:43.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -292,7 +292,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-21T19:02:56.000Z"
+      "updatedAt": "2026-09-22T00:14:58.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-4",
@@ -370,7 +370,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-21T17:00:46.000Z"
+      "updatedAt": "2026-09-22T00:08:32.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -381,7 +381,18 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-21T12:58:57.000Z"
+      "updatedAt": "2026-09-22T00:17:20.000Z"
+    },
+    {
+      "id": "Devin-AXIS/deepseek-design",
+      "name": "Devin-AXIS/deepseek-design",
+      "displayName": "deepseek-design",
+      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/deepseek-design"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-04T10:40:28.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -414,17 +425,6 @@
         "ai-office"
       ],
       "updatedAt": "2026-09-21T17:06:11.000Z"
-    },
-    {
-      "id": "Devin-AXIS/deepseek-design",
-      "name": "Devin-AXIS/deepseek-design",
-      "displayName": "deepseek-design",
-      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/deepseek-design"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-04T10:40:28.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -572,7 +572,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-21T21:36:04.000Z"
+      "updatedAt": "2026-09-22T00:12:15.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -1265,24 +1265,6 @@
       "updatedAt": "2026-09-21T06:03:28.000Z"
     },
     {
-      "id": "yjh051108/dsh-router-standard",
-      "name": "dsh-router-standard",
-      "displayName": "dsh-router-standard",
-      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
-      "repository": {
-        "url": "https://github.com/yjh051108/dsh-router-standard"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "dsh",
-        "deepseek-harness",
-        "progressive-disclosure",
-        "agent-preset"
-      ],
-      "updatedAt": "2026-08-24T18:20:09.000Z"
-    },
-    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -1302,14 +1284,22 @@
       "updatedAt": "2026-09-18T11:24:32.000Z"
     },
     {
-      "id": "linhay/harmony-next.skills",
-      "name": "dsh-harmony-next",
-      "displayName": "harmony-next.skills",
-      "summary": "Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling.",
+      "id": "yjh051108/dsh-router-standard",
+      "name": "dsh-router-standard",
+      "displayName": "dsh-router-standard",
+      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
       "repository": {
-        "url": "https://github.com/linhay/harmony-next.skills"
+        "url": "https://github.com/yjh051108/dsh-router-standard"
       },
-      "updatedAt": "2026-09-20T07:21:18.000Z"
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "dsh",
+        "deepseek-harness",
+        "progressive-disclosure",
+        "agent-preset"
+      ],
+      "updatedAt": "2026-08-24T18:20:09.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1323,6 +1313,16 @@
       "updatedAt": "2026-09-21T19:39:37.000Z"
     },
     {
+      "id": "linhay/harmony-next.skills",
+      "name": "dsh-harmony-next",
+      "displayName": "harmony-next.skills",
+      "summary": "Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling.",
+      "repository": {
+        "url": "https://github.com/linhay/harmony-next.skills"
+      },
+      "updatedAt": "2026-09-20T07:21:18.000Z"
+    },
+    {
       "id": "Dominic789654/awesome-deepseek-harness",
       "name": "Dominic789654/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -1331,7 +1331,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-21T13:01:05.000Z"
+      "updatedAt": "2026-09-22T00:32:43.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1464,7 +1464,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-20T00:20:09.000Z"
+      "updatedAt": "2026-09-22T00:21:08.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1610,30 +1610,6 @@
       "updatedAt": "2026-09-21T20:48:48.000Z"
     },
     {
-      "id": "FuRongJun-1999/dsh-memory",
-      "name": "@furongjun1999/dsh-memory",
-      "displayName": "dsh-memory",
-      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
-      "repository": {
-        "url": "https://github.com/FuRongJun-1999/dsh-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "dsh",
-        "dsh-plugin",
-        "cordis",
-        "memory",
-        "agent",
-        "aeis",
-        "lingshu",
-        "multi-agent",
-        "spatiotemporal",
-        "knowledge-graph"
-      ],
-      "updatedAt": "2026-09-20T10:35:28.000Z"
-    },
-    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -1658,6 +1634,30 @@
         "pi-package"
       ],
       "updatedAt": "2026-09-21T16:39:55.000Z"
+    },
+    {
+      "id": "FuRongJun-1999/dsh-memory",
+      "name": "@furongjun1999/dsh-memory",
+      "displayName": "dsh-memory",
+      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
+      "repository": {
+        "url": "https://github.com/FuRongJun-1999/dsh-memory"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "dsh",
+        "dsh-plugin",
+        "cordis",
+        "memory",
+        "agent",
+        "aeis",
+        "lingshu",
+        "multi-agent",
+        "spatiotemporal",
+        "knowledge-graph"
+      ],
+      "updatedAt": "2026-09-20T10:35:28.000Z"
     }
   ],
   "page": {
