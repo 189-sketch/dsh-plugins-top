@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-21T15:45:11.000Z"
+      "updatedAt": "2026-09-22T04:37:59.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-22T00:16:54.000Z"
+      "updatedAt": "2026-09-22T07:23:02.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -51,7 +51,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-21T13:30:15.000Z"
+      "updatedAt": "2026-09-22T01:51:04.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-21T08:34:05.000Z"
+      "updatedAt": "2026-09-22T03:08:43.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -106,7 +106,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-21T09:28:02.000Z"
+      "updatedAt": "2026-09-22T03:56:46.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -117,7 +117,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-21T13:55:48.000Z"
+      "updatedAt": "2026-09-22T05:04:16.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -151,7 +151,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-21T17:07:25.000Z"
+      "updatedAt": "2026-09-22T07:20:56.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-22T00:39:43.000Z"
+      "updatedAt": "2026-09-22T04:50:48.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -292,7 +292,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-22T00:14:58.000Z"
+      "updatedAt": "2026-09-22T07:08:59.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-4",
@@ -303,7 +303,7 @@
         "url": "https://github.com/Minglink/dsh-infinite-gen-4"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-18T18:40:43.000Z"
+      "updatedAt": "2026-09-22T07:12:10.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -329,7 +329,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-09-21T16:23:23.000Z"
+      "updatedAt": "2026-09-22T03:21:22.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -370,7 +370,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-22T00:08:32.000Z"
+      "updatedAt": "2026-09-22T05:04:01.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -381,7 +381,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-22T00:17:20.000Z"
+      "updatedAt": "2026-09-22T07:16:00.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -422,9 +422,10 @@
         "discord",
         "whatsapp",
         "imessage",
+        "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-09-21T17:06:11.000Z"
+      "updatedAt": "2026-09-22T07:22:21.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -474,7 +475,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-21T15:33:09.000Z"
+      "updatedAt": "2026-09-22T07:20:43.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -572,7 +573,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-22T00:12:15.000Z"
+      "updatedAt": "2026-09-22T07:13:05.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -609,7 +610,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-21T05:58:51.000Z"
+      "updatedAt": "2026-09-22T05:54:56.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -666,6 +667,17 @@
       "updatedAt": "2026-09-18T01:02:59.000Z"
     },
     {
+      "id": "Aisland-SJL/dsh-worktable",
+      "name": "Aisland-SJL/dsh-worktable",
+      "displayName": "dsh-worktable",
+      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+      "repository": {
+        "url": "https://github.com/Aisland-SJL/dsh-worktable"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-06T06:28:21.000Z"
+    },
+    {
       "id": "ccch1mneyyy/working-activity",
       "name": "pi-working-activity",
       "displayName": "working-activity",
@@ -684,17 +696,6 @@
         "pi-coding-agent"
       ],
       "updatedAt": "2026-08-30T18:41:47.000Z"
-    },
-    {
-      "id": "Aisland-SJL/dsh-worktable",
-      "name": "Aisland-SJL/dsh-worktable",
-      "displayName": "dsh-worktable",
-      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "repository": {
-        "url": "https://github.com/Aisland-SJL/dsh-worktable"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-06T06:28:21.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -764,7 +765,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-21T17:27:06.000Z"
+      "updatedAt": "2026-09-22T07:15:23.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -863,7 +864,7 @@
         "redteam",
         "security"
       ],
-      "updatedAt": "2026-09-20T13:55:42.000Z"
+      "updatedAt": "2026-09-22T01:50:40.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -991,6 +992,24 @@
       "updatedAt": "2026-09-21T14:49:58.000Z"
     },
     {
+      "id": "omdsh-dev/dsh-genui",
+      "name": "@changfenhuang/dsh-genui",
+      "displayName": "dsh-genui",
+      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-genui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "generative-ui",
+        "plugin",
+        "ui"
+      ],
+      "updatedAt": "2026-09-22T02:40:02.000Z"
+    },
+    {
       "id": "chenxiachan/thoughtdag",
       "name": "thoughtdag",
       "displayName": "thoughtdag",
@@ -1011,22 +1030,15 @@
       "updatedAt": "2026-09-21T14:42:19.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-genui",
-      "name": "@changfenhuang/dsh-genui",
-      "displayName": "dsh-genui",
-      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
       "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-genui"
+        "url": "https://github.com/flizzywine/dsh-tavern"
       },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "generative-ui",
-        "plugin",
-        "ui"
-      ],
-      "updatedAt": "2026-09-21T09:05:48.000Z"
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-22T03:53:06.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1062,17 +1074,6 @@
       "updatedAt": "2026-09-20T16:33:21.000Z"
     },
     {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-21T17:05:07.000Z"
-    },
-    {
       "id": "EthanYoQ/Invoice-Downloader",
       "name": "EthanYoQ/Invoice-Downloader",
       "displayName": "Invoice-Downloader",
@@ -1092,7 +1093,7 @@
         "url": "https://github.com/pax-beehive/dsh-hub-cli"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-19T07:22:18.000Z"
+      "updatedAt": "2026-09-22T05:24:50.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1186,7 +1187,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-19T13:36:31.000Z"
+      "updatedAt": "2026-09-22T06:11:42.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1310,7 +1311,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-21T19:39:37.000Z"
+      "updatedAt": "2026-09-22T05:27:40.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
@@ -1331,7 +1332,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-22T00:32:43.000Z"
+      "updatedAt": "2026-09-22T05:03:51.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1384,6 +1385,26 @@
       "updatedAt": "2026-09-15T04:13:05.000Z"
     },
     {
+      "id": "elysia395/dsh-wallpaper-engine",
+      "name": "dsh-plugin-wallpaper-engine",
+      "displayName": "dsh-wallpaper-engine",
+      "summary": "把本机 Wallpaper Engine 的壁纸变成 DSH 网页界面的背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸提取主纹理作为静态帧；iOS 液态玻璃设置窗口（配色 / 玻璃颜色 / 透明度）、内容分级与类型过滤、自定义壁纸上传、紧凑 CD 架布局、黑胶唱片展示、隐藏 / 恢复、倍速 / 翻转与自动轮播。感谢 Jerry 维护 macOS 版。",
+      "repository": {
+        "url": "https://github.com/elysia395/dsh-wallpaper-engine"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "wallpaper",
+        "wallpaper-engine",
+        "theme",
+        "background"
+      ],
+      "updatedAt": "2026-09-21T01:50:07.000Z"
+    },
+    {
       "id": "Han-1413141/dsh-cost-meter",
       "name": "dsh-cost-meter",
       "displayName": "dsh-cost-meter",
@@ -1408,7 +1429,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-09-21T16:30:58.000Z"
+      "updatedAt": "2026-09-22T04:06:34.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1420,26 +1441,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-12T13:58:15.000Z"
-    },
-    {
-      "id": "elysia395/dsh-wallpaper-engine",
-      "name": "dsh-plugin-wallpaper-engine",
-      "displayName": "dsh-wallpaper-engine",
-      "summary": "把本机 Wallpaper Engine 的壁纸变成 DSH 网页界面的背景：Video 动态播放、Web 以 iframe 加载、Scene 壁纸提取主纹理作为静态帧；iOS 液态玻璃设置窗口（配色 / 玻璃颜色 / 透明度）、内容分级与类型过滤、自定义壁纸上传、紧凑 CD 架布局、黑胶唱片展示、隐藏 / 恢复、倍速 / 翻转与自动轮播。感谢 Jerry 维护 macOS 版。",
-      "repository": {
-        "url": "https://github.com/elysia395/dsh-wallpaper-engine"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "wallpaper",
-        "wallpaper-engine",
-        "theme",
-        "background"
-      ],
-      "updatedAt": "2026-09-21T01:50:07.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
@@ -1561,6 +1562,16 @@
       "updatedAt": "2026-09-10T20:06:01.000Z"
     },
     {
+      "id": "libukai/awesome-deepseek-harness",
+      "name": "libukai/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "repository": {
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      "updatedAt": "2026-09-12T05:53:00.000Z"
+    },
+    {
       "id": "ericshang98/Perfect-Web-Clone",
       "name": "perfect-web-clone",
       "displayName": "Perfect-Web-Clone",
@@ -1576,16 +1587,6 @@
         "dsh-plugin"
       ],
       "updatedAt": "2026-08-22T14:39:08.000Z"
-    },
-    {
-      "id": "libukai/awesome-deepseek-harness",
-      "name": "libukai/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
-      "repository": {
-        "url": "https://github.com/libukai/awesome-deepseek-harness"
-      },
-      "updatedAt": "2026-09-12T05:53:00.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-visualize",
@@ -1607,7 +1608,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-21T20:48:48.000Z"
+      "updatedAt": "2026-09-22T06:58:16.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -1633,7 +1634,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-21T16:39:55.000Z"
+      "updatedAt": "2026-09-22T07:18:06.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1657,7 +1658,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-20T10:35:28.000Z"
+      "updatedAt": "2026-09-22T07:04:15.000Z"
     }
   ],
   "page": {
