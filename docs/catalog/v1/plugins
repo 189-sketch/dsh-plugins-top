@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-23T01:28:26.000Z"
+      "updatedAt": "2026-09-23T17:32:07.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-23T16:09:21.000Z"
+      "updatedAt": "2026-09-23T17:39:57.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-23T15:15:48.000Z"
+      "updatedAt": "2026-09-23T17:47:29.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -151,7 +151,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-23T04:36:57.000Z"
+      "updatedAt": "2026-09-23T17:55:45.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-23T16:02:01.000Z"
+      "updatedAt": "2026-09-23T16:45:07.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -281,7 +281,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-23T15:58:04.000Z"
+      "updatedAt": "2026-09-23T19:28:05.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -353,6 +353,17 @@
       "updatedAt": "2026-09-17T06:12:31.000Z"
     },
     {
+      "id": "Devin-AXIS/deepseek-design",
+      "name": "Devin-AXIS/deepseek-design",
+      "displayName": "deepseek-design",
+      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/deepseek-design"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-04T10:40:28.000Z"
+    },
+    {
       "id": "bowenliang123/dsh-context",
       "name": "dsh-context",
       "displayName": "dsh-context",
@@ -373,17 +384,6 @@
       "updatedAt": "2026-09-23T09:21:28.000Z"
     },
     {
-      "id": "Devin-AXIS/deepseek-design",
-      "name": "Devin-AXIS/deepseek-design",
-      "displayName": "deepseek-design",
-      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/deepseek-design"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-04T10:40:28.000Z"
-    },
-    {
       "id": "AdamPlatin123/dsh-plugin-radar",
       "name": "AdamPlatin123/dsh-plugin-radar",
       "displayName": "dsh-plugin-radar",
@@ -392,7 +392,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T11:48:55.000Z"
+      "updatedAt": "2026-09-23T17:12:18.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -425,7 +425,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-09-23T15:57:16.000Z"
+      "updatedAt": "2026-09-23T18:10:46.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -531,7 +531,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-23T15:39:23.000Z"
+      "updatedAt": "2026-09-23T19:33:09.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -573,7 +573,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-23T15:59:47.000Z"
+      "updatedAt": "2026-09-23T18:55:42.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -698,29 +698,6 @@
       "updatedAt": "2026-08-30T18:41:47.000Z"
     },
     {
-      "id": "chainbase-labs/Agentkey",
-      "name": "agentkey-skill",
-      "displayName": "Agentkey",
-      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
-      "repository": {
-        "url": "https://github.com/chainbase-labs/Agentkey"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "ai-agents",
-        "claude-code",
-        "cursor",
-        "codex",
-        "skills",
-        "agent-skills",
-        "web-search",
-        "social-media",
-        "crypto",
-        "real-time-data"
-      ],
-      "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -766,6 +743,29 @@
         "sqlite"
       ],
       "updatedAt": "2026-09-23T05:53:46.000Z"
+    },
+    {
+      "id": "chainbase-labs/Agentkey",
+      "name": "agentkey-skill",
+      "displayName": "Agentkey",
+      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
+      "repository": {
+        "url": "https://github.com/chainbase-labs/Agentkey"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "ai-agents",
+        "claude-code",
+        "cursor",
+        "codex",
+        "skills",
+        "agent-skills",
+        "web-search",
+        "social-media",
+        "crypto",
+        "real-time-data"
+      ],
+      "updatedAt": "2026-08-24T16:55:44.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -818,24 +818,6 @@
       "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
-      "id": "mnemon-dev/mnemon",
-      "name": "@mnemon-dev/dsh-mnemon",
-      "displayName": "mnemon",
-      "summary": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime.",
-      "repository": {
-        "url": "https://github.com/mnemon-dev/mnemon"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "mnemon",
-        "agent-memory",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-09-17T15:20:41.000Z"
-    },
-    {
       "id": "SeaOf0/dsh-redteam-model",
       "name": "@dsh-external/dsh-redteam-model",
       "displayName": "dsh-redteam-model",
@@ -856,6 +838,24 @@
       "updatedAt": "2026-09-23T01:03:07.000Z"
     },
     {
+      "id": "mnemon-dev/mnemon",
+      "name": "@mnemon-dev/dsh-mnemon",
+      "displayName": "mnemon",
+      "summary": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime.",
+      "repository": {
+        "url": "https://github.com/mnemon-dev/mnemon"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "mnemon",
+        "agent-memory",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-09-17T15:20:41.000Z"
+    },
+    {
       "id": "vibeinging/dsh-desktop",
       "name": "dsh-desktop",
       "displayName": "dsh-desktop",
@@ -864,7 +864,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-22T19:48:12.000Z"
+      "updatedAt": "2026-09-23T19:44:15.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -919,7 +919,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-23T16:05:19.000Z"
+      "updatedAt": "2026-09-23T16:25:42.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -981,6 +981,17 @@
       "updatedAt": "2026-09-22T16:50:32.000Z"
     },
     {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-23T18:40:49.000Z"
+    },
+    {
       "id": "chenxiachan/thoughtdag",
       "name": "thoughtdag",
       "displayName": "thoughtdag",
@@ -1027,18 +1038,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-21T14:49:58.000Z"
-    },
-    {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-23T15:29:42.000Z"
+      "updatedAt": "2026-09-23T17:04:31.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1082,7 +1082,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-09-20T16:33:21.000Z"
+      "updatedAt": "2026-09-23T16:15:30.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
@@ -1296,7 +1296,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T08:14:50.000Z"
+      "updatedAt": "2026-09-23T18:36:39.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1565,6 +1565,16 @@
       "updatedAt": "2026-09-10T20:06:01.000Z"
     },
     {
+      "id": "libukai/awesome-deepseek-harness",
+      "name": "libukai/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "repository": {
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      "updatedAt": "2026-09-12T05:53:00.000Z"
+    },
+    {
       "id": "ericshang98/Perfect-Web-Clone",
       "name": "perfect-web-clone",
       "displayName": "Perfect-Web-Clone",
@@ -1580,16 +1590,6 @@
         "dsh-plugin"
       ],
       "updatedAt": "2026-08-22T14:39:08.000Z"
-    },
-    {
-      "id": "libukai/awesome-deepseek-harness",
-      "name": "libukai/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
-      "repository": {
-        "url": "https://github.com/libukai/awesome-deepseek-harness"
-      },
-      "updatedAt": "2026-09-12T05:53:00.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-visualize",
@@ -1626,7 +1626,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-23T15:27:34.000Z"
+      "updatedAt": "2026-09-23T19:24:04.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1637,7 +1637,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T16:07:28.000Z"
+      "updatedAt": "2026-09-23T17:08:22.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
