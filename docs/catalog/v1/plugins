@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T04:04:41.000Z"
+      "updatedAt": "2026-09-23T10:30:07.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-23T04:02:54.000Z"
+      "updatedAt": "2026-09-23T09:12:20.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -51,7 +51,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-22T08:09:19.000Z"
+      "updatedAt": "2026-09-23T05:55:52.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-23T03:59:59.000Z"
+      "updatedAt": "2026-09-23T09:21:02.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -106,7 +106,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T04:05:34.000Z"
+      "updatedAt": "2026-09-23T08:51:16.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -117,7 +117,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-22T11:53:21.000Z"
+      "updatedAt": "2026-09-23T10:42:13.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -151,7 +151,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-23T02:55:03.000Z"
+      "updatedAt": "2026-09-23T04:36:57.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-23T03:14:32.000Z"
+      "updatedAt": "2026-09-23T09:44:49.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -281,7 +281,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-23T04:07:04.000Z"
+      "updatedAt": "2026-09-23T10:24:39.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -329,7 +329,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-09-22T16:39:45.000Z"
+      "updatedAt": "2026-09-23T09:43:50.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -370,7 +370,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-22T16:11:51.000Z"
+      "updatedAt": "2026-09-23T09:21:28.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -392,7 +392,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T03:30:04.000Z"
+      "updatedAt": "2026-09-23T09:46:13.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -425,7 +425,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-09-23T03:46:05.000Z"
+      "updatedAt": "2026-09-23T10:13:18.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -475,7 +475,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-23T02:11:45.000Z"
+      "updatedAt": "2026-09-23T09:58:49.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -486,7 +486,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T03:08:52.000Z"
+      "updatedAt": "2026-09-23T10:25:55.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -509,7 +509,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-23T02:42:25.000Z"
+      "updatedAt": "2026-09-23T05:08:02.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -531,7 +531,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-22T13:09:23.000Z"
+      "updatedAt": "2026-09-23T10:19:04.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -573,7 +573,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-22T21:11:33.000Z"
+      "updatedAt": "2026-09-23T10:49:13.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -610,7 +610,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-23T02:25:44.000Z"
+      "updatedAt": "2026-09-23T08:39:54.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -742,7 +742,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-23T03:33:03.000Z"
+      "updatedAt": "2026-09-23T05:53:46.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -919,7 +919,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-22T16:46:13.000Z"
+      "updatedAt": "2026-09-23T10:33:21.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1016,7 +1016,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-21T14:42:19.000Z"
+      "updatedAt": "2026-09-23T07:23:59.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -1038,7 +1038,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-23T03:36:36.000Z"
+      "updatedAt": "2026-09-23T08:15:20.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1263,7 +1263,7 @@
         "github-copilot",
         "google-antigravity"
       ],
-      "updatedAt": "2026-09-23T01:35:33.000Z"
+      "updatedAt": "2026-09-23T07:36:20.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1275,14 +1275,17 @@
       },
       "license": "Apache-2.0",
       "keywords": [
+        "dsh",
         "dsh-plugin",
         "deepseek-harness",
+        "cordis",
+        "plugin",
         "clearai",
         "agent-preset",
         "evidence",
         "worldline"
       ],
-      "updatedAt": "2026-09-18T11:24:32.000Z"
+      "updatedAt": "2026-09-23T10:30:36.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1293,7 +1296,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T02:12:02.000Z"
+      "updatedAt": "2026-09-23T08:14:50.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1332,7 +1335,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-23T01:03:38.000Z"
+      "updatedAt": "2026-09-23T09:01:18.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1369,7 +1372,18 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-22T15:12:49.000Z"
+      "updatedAt": "2026-09-23T10:42:07.000Z"
+    },
+    {
+      "id": "vlln/whale-girl",
+      "name": "whale-girl",
+      "displayName": "whale-girl",
+      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+      "repository": {
+        "url": "https://github.com/vlln/whale-girl"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1397,17 +1411,6 @@
         "language"
       ],
       "updatedAt": "2026-09-23T03:12:15.000Z"
-    },
-    {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1465,7 +1468,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-23T03:18:55.000Z"
+      "updatedAt": "2026-09-23T08:33:39.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1623,7 +1626,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-23T04:06:49.000Z"
+      "updatedAt": "2026-09-23T10:46:56.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1634,7 +1637,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T02:09:46.000Z"
+      "updatedAt": "2026-09-23T09:59:34.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1658,7 +1661,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-22T10:03:49.000Z"
+      "updatedAt": "2026-09-23T10:37:41.000Z"
     }
   ],
   "page": {
