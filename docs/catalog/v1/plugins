@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-24T17:18:23.000Z"
+      "updatedAt": "2026-09-24T20:36:47.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-24T17:03:52.000Z"
+      "updatedAt": "2026-09-24T22:01:18.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -252,7 +252,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-24T19:50:40.000Z"
+      "updatedAt": "2026-09-24T22:48:26.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -425,7 +425,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-24T17:18:12.000Z"
+      "updatedAt": "2026-09-24T21:35:46.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -520,7 +520,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-24T16:22:57.000Z"
+      "updatedAt": "2026-09-24T21:52:23.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -573,7 +573,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-24T19:54:37.000Z"
+      "updatedAt": "2026-09-24T22:58:26.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -864,7 +864,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-24T17:54:37.000Z"
+      "updatedAt": "2026-09-24T20:03:31.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1012,24 +1012,6 @@
       "updatedAt": "2026-09-23T13:44:43.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-genui",
-      "name": "@changfenhuang/dsh-genui",
-      "displayName": "dsh-genui",
-      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-genui"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "generative-ui",
-        "plugin",
-        "ui"
-      ],
-      "updatedAt": "2026-09-24T10:52:51.000Z"
-    },
-    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -1050,6 +1032,24 @@
         "worldline"
       ],
       "updatedAt": "2026-09-23T12:00:49.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-genui",
+      "name": "@changfenhuang/dsh-genui",
+      "displayName": "dsh-genui",
+      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-genui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "generative-ui",
+        "plugin",
+        "ui"
+      ],
+      "updatedAt": "2026-09-24T10:52:51.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -1513,7 +1513,7 @@
         "plugin",
         "ios"
       ],
-      "updatedAt": "2026-09-14T03:01:38.000Z"
+      "updatedAt": "2026-09-24T21:40:18.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1588,7 +1588,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-24T19:39:28.000Z"
+      "updatedAt": "2026-09-24T19:55:15.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
