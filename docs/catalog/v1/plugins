@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T15:03:54.000Z"
+      "updatedAt": "2026-09-24T08:26:33.000Z"
     },
     {
       "id": "Tencent/WeKnora",
@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-23T23:52:33.000Z"
+      "updatedAt": "2026-09-24T08:31:45.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-24T01:51:43.000Z"
+      "updatedAt": "2026-09-24T08:29:31.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-24T02:47:28.000Z"
+      "updatedAt": "2026-09-24T05:22:46.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -106,7 +106,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T13:06:53.000Z"
+      "updatedAt": "2026-09-24T04:28:05.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -117,7 +117,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-24T02:12:26.000Z"
+      "updatedAt": "2026-09-24T07:41:40.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -151,7 +151,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-24T02:10:53.000Z"
+      "updatedAt": "2026-09-24T07:57:18.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -174,7 +174,7 @@
         "multimodal",
         "modlens"
       ],
-      "updatedAt": "2026-09-22T18:24:54.000Z"
+      "updatedAt": "2026-09-24T09:02:01.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -207,7 +207,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-23T03:11:32.000Z"
+      "updatedAt": "2026-09-24T03:58:06.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-24T03:04:41.000Z"
+      "updatedAt": "2026-09-24T06:35:24.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -270,7 +270,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-24T02:57:45.000Z"
+      "updatedAt": "2026-09-24T07:53:42.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/zilliztech/memsearch"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-22T09:47:17.000Z"
+      "updatedAt": "2026-09-24T08:08:09.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -318,7 +318,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-09-24T02:34:46.000Z"
+      "updatedAt": "2026-09-24T07:59:15.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-4",
@@ -381,18 +381,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-24T03:05:26.000Z"
-    },
-    {
-      "id": "AdamPlatin123/dsh-plugin-radar",
-      "name": "AdamPlatin123/dsh-plugin-radar",
-      "displayName": "dsh-plugin-radar",
-      "summary": "DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物",
-      "repository": {
-        "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-23T23:58:13.000Z"
+      "updatedAt": "2026-09-24T08:48:05.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -425,7 +414,18 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-09-23T18:10:46.000Z"
+      "updatedAt": "2026-09-24T08:19:48.000Z"
+    },
+    {
+      "id": "AdamPlatin123/dsh-plugin-radar",
+      "name": "AdamPlatin123/dsh-plugin-radar",
+      "displayName": "dsh-plugin-radar",
+      "summary": "DSH Plugin Radar — open-source ecosystem radar for DeepSeek Harness plugins: continuous discovery (21k+ candidates), k8s runtime validation (13k+ tests), 15-min snapshots; the catalog is a generated artifact — 开源 DSH 插件生态雷达：持续发现 2.1 万+ 候选、k8s 运行级实测 1.3 万+、15 分钟快照；插件目录为自动生成的产物",
+      "repository": {
+        "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-24T05:01:58.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -464,7 +464,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-09-23T03:30:40.000Z"
+      "updatedAt": "2026-09-24T04:27:57.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -475,7 +475,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-23T15:50:33.000Z"
+      "updatedAt": "2026-09-24T07:56:39.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -486,7 +486,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-24T02:49:47.000Z"
+      "updatedAt": "2026-09-24T08:20:45.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -509,7 +509,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-24T00:16:01.000Z"
+      "updatedAt": "2026-09-24T08:02:59.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -531,7 +531,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-24T01:07:17.000Z"
+      "updatedAt": "2026-09-24T06:09:37.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -573,7 +573,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-23T18:55:42.000Z"
+      "updatedAt": "2026-09-24T08:54:35.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -584,7 +584,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-23T08:39:54.000Z"
+      "updatedAt": "2026-09-24T08:51:05.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -653,7 +653,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-24T02:43:52.000Z"
+      "updatedAt": "2026-09-24T04:30:17.000Z"
     },
     {
       "id": "omdsh-dev/dsh-browser",
@@ -722,7 +722,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-23T05:53:46.000Z"
+      "updatedAt": "2026-09-24T08:33:04.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -908,7 +908,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-09-22T19:14:48.000Z"
+      "updatedAt": "2026-09-24T07:05:54.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -919,7 +919,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-23T16:25:42.000Z"
+      "updatedAt": "2026-09-24T08:20:03.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1009,7 +1009,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-24T02:43:30.000Z"
+      "updatedAt": "2026-09-24T08:38:37.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1039,17 +1039,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-09-23T17:04:31.000Z"
-    },
-    {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
-      "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-22T05:24:50.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1083,6 +1072,39 @@
         "cordis"
       ],
       "updatedAt": "2026-09-23T16:15:30.000Z"
+    },
+    {
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "repository": {
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-22T05:24:50.000Z"
+    },
+    {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-09-23T12:00:49.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
@@ -1136,39 +1158,6 @@
       "updatedAt": "2026-08-26T13:12:24.000Z"
     },
     {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-09-23T12:00:49.000Z"
-    },
-    {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
@@ -1212,6 +1201,17 @@
       "updatedAt": "2026-09-22T15:59:54.000Z"
     },
     {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
+    },
+    {
       "id": "zenstory-ai/oh-story-dsh",
       "name": "oh-story-dsh",
       "displayName": "oh-story-dsh",
@@ -1240,29 +1240,7 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-09-23T13:50:49.000Z"
-    },
-    {
-      "id": "d-dev0101/open-sea-skin",
-      "name": "open-sea-skin",
-      "displayName": "open-sea-skin",
-      "summary": "🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.",
-      "repository": {
-        "url": "https://github.com/d-dev0101/open-sea-skin"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "theme",
-        "skin",
-        "webgpu",
-        "ocean"
-      ],
-      "categories": [
-        "skin"
-      ],
-      "updatedAt": "2026-09-11T18:41:51.000Z"
+      "updatedAt": "2026-09-24T07:03:34.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1286,6 +1264,28 @@
         "google-antigravity"
       ],
       "updatedAt": "2026-09-23T07:36:20.000Z"
+    },
+    {
+      "id": "d-dev0101/open-sea-skin",
+      "name": "open-sea-skin",
+      "displayName": "open-sea-skin",
+      "summary": "🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.",
+      "repository": {
+        "url": "https://github.com/d-dev0101/open-sea-skin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "theme",
+        "skin",
+        "webgpu",
+        "ocean"
+      ],
+      "categories": [
+        "skin"
+      ],
+      "updatedAt": "2026-09-11T18:41:51.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1335,7 +1335,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-24T01:02:44.000Z"
+      "updatedAt": "2026-09-24T09:01:21.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1372,7 +1372,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-23T12:27:28.000Z"
+      "updatedAt": "2026-09-24T08:36:18.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1468,7 +1468,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-24T00:17:47.000Z"
+      "updatedAt": "2026-09-24T07:23:10.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1495,7 +1495,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-23T15:12:30.000Z"
+      "updatedAt": "2026-09-24T07:51:31.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1592,17 +1592,6 @@
       "updatedAt": "2026-08-22T14:39:08.000Z"
     },
     {
-      "id": "Nagi-ovo/dsh-visualize",
-      "name": "@nagi-ovo/dsh-visualize",
-      "displayName": "dsh-visualize",
-      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-visualize"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-09-18T23:09:28.000Z"
-    },
-    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -1626,7 +1615,38 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-24T02:49:35.000Z"
+      "updatedAt": "2026-09-24T08:25:33.000Z"
+    },
+    {
+      "id": "Nagi-ovo/dsh-visualize",
+      "name": "@nagi-ovo/dsh-visualize",
+      "displayName": "dsh-visualize",
+      "summary": "在 DSH 对话中生成交互式可视化｜Render model-generated interactive cards inside DSH conversations",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-visualize"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-09-18T23:09:28.000Z"
+    },
+    {
+      "id": "Miaotofu01/Study-Mate",
+      "name": "@yunmiao/studymate",
+      "displayName": "Study-Mate",
+      "summary": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
+      "repository": {
+        "url": "https://github.com/Miaotofu01/Study-Mate"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "studymate",
+        "learning",
+        "education",
+        "codex",
+        "chatgpt"
+      ],
+      "updatedAt": "2026-09-24T08:11:16.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1637,31 +1657,7 @@
         "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T20:37:17.000Z"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-memory",
-      "name": "@furongjun1999/dsh-memory",
-      "displayName": "dsh-memory",
-      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
-      "repository": {
-        "url": "https://github.com/FuRongJun-1999/dsh-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "dsh",
-        "dsh-plugin",
-        "cordis",
-        "memory",
-        "agent",
-        "aeis",
-        "lingshu",
-        "multi-agent",
-        "spatiotemporal",
-        "knowledge-graph"
-      ],
-      "updatedAt": "2026-09-24T02:54:29.000Z"
+      "updatedAt": "2026-09-24T06:04:59.000Z"
     }
   ],
   "page": {
