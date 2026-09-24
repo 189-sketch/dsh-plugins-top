@@ -21,7 +21,7 @@
         "url": "https://github.com/Tencent/WeKnora"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-23T15:11:50.000Z"
+      "updatedAt": "2026-09-23T23:52:33.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-23T17:32:07.000Z"
+      "updatedAt": "2026-09-24T01:51:43.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -62,7 +62,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-23T21:05:18.000Z"
+      "updatedAt": "2026-09-24T02:47:28.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-23T17:47:29.000Z"
+      "updatedAt": "2026-09-24T00:16:33.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -117,7 +117,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-23T11:03:31.000Z"
+      "updatedAt": "2026-09-24T02:12:26.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -151,7 +151,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-23T17:55:45.000Z"
+      "updatedAt": "2026-09-24T02:10:53.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -231,7 +231,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-23T16:45:07.000Z"
+      "updatedAt": "2026-09-24T03:04:41.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -270,7 +270,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-23T19:28:05.000Z"
+      "updatedAt": "2026-09-24T02:57:45.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -318,7 +318,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-09-23T16:01:51.000Z"
+      "updatedAt": "2026-09-24T02:34:46.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-4",
@@ -381,7 +381,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-23T09:21:28.000Z"
+      "updatedAt": "2026-09-24T03:05:26.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -392,7 +392,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T21:46:15.000Z"
+      "updatedAt": "2026-09-23T23:58:13.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -486,7 +486,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T13:02:48.000Z"
+      "updatedAt": "2026-09-24T02:49:47.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -509,7 +509,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-23T16:05:45.000Z"
+      "updatedAt": "2026-09-24T00:16:01.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -531,7 +531,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-23T22:03:00.000Z"
+      "updatedAt": "2026-09-24T01:07:17.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -653,7 +653,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T01:56:12.000Z"
+      "updatedAt": "2026-09-24T02:43:52.000Z"
     },
     {
       "id": "omdsh-dev/dsh-browser",
@@ -676,26 +676,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-06T06:28:21.000Z"
-    },
-    {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
-      ],
-      "updatedAt": "2026-08-30T18:41:47.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
@@ -743,6 +723,26 @@
         "sqlite"
       ],
       "updatedAt": "2026-09-23T05:53:46.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-08-30T18:41:47.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -981,17 +981,6 @@
       "updatedAt": "2026-09-22T16:50:32.000Z"
     },
     {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-23T18:40:49.000Z"
-    },
-    {
       "id": "chenxiachan/thoughtdag",
       "name": "thoughtdag",
       "displayName": "thoughtdag",
@@ -1012,6 +1001,17 @@
       "updatedAt": "2026-09-23T13:44:43.000Z"
     },
     {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-24T02:43:30.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-genui",
       "name": "@changfenhuang/dsh-genui",
       "displayName": "dsh-genui",
@@ -1027,7 +1027,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-09-23T16:05:27.000Z"
+      "updatedAt": "2026-09-24T02:30:22.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -1136,6 +1136,28 @@
       "updatedAt": "2026-08-26T13:12:24.000Z"
     },
     {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-09-23T12:00:49.000Z"
+    },
+    {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
       "name": "@deepseek-ai/dsh-client-ui-aqua",
       "displayName": "DSH-Transparent-UI-Plugin",
@@ -1145,17 +1167,6 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
-      "id": "zenstory-ai/oh-story-dsh",
-      "name": "oh-story-dsh",
-      "displayName": "oh-story-dsh",
-      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
-      "repository": {
-        "url": "https://github.com/zenstory-ai/oh-story-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-20T08:57:58.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1201,26 +1212,15 @@
       "updatedAt": "2026-09-22T15:59:54.000Z"
     },
     {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+      "id": "zenstory-ai/oh-story-dsh",
+      "name": "oh-story-dsh",
+      "displayName": "oh-story-dsh",
+      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
       "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
+        "url": "https://github.com/zenstory-ai/oh-story-dsh"
       },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-09-23T12:00:49.000Z"
+      "license": "MIT",
+      "updatedAt": "2026-09-20T08:57:58.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1296,7 +1296,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T18:36:39.000Z"
+      "updatedAt": "2026-09-24T00:55:59.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1335,7 +1335,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-23T13:01:07.000Z"
+      "updatedAt": "2026-09-24T01:02:44.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1468,7 +1468,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-23T08:33:39.000Z"
+      "updatedAt": "2026-09-24T00:17:47.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1626,7 +1626,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-23T22:05:36.000Z"
+      "updatedAt": "2026-09-24T02:49:35.000Z"
     },
     {
       "id": "imsai-sh/awesome-deepseek-harness-plugins",
@@ -1661,7 +1661,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-23T15:50:31.000Z"
+      "updatedAt": "2026-09-24T02:54:29.000Z"
     }
   ],
   "page": {
