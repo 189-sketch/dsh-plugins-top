@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-25T03:20:47.000Z"
+      "updatedAt": "2026-09-25T09:20:49.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -29,7 +29,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-25T02:35:40.000Z"
+      "updatedAt": "2026-09-25T09:28:43.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-25T02:24:43.000Z"
+      "updatedAt": "2026-09-25T09:07:56.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -106,7 +106,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-24T11:21:13.000Z"
+      "updatedAt": "2026-09-25T07:48:00.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -140,7 +140,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-25T02:02:49.000Z"
+      "updatedAt": "2026-09-25T09:14:59.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -217,7 +217,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-25T02:48:18.000Z"
+      "updatedAt": "2026-09-25T05:36:08.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -241,7 +241,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-24T22:01:18.000Z"
+      "updatedAt": "2026-09-25T06:36:45.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -259,7 +259,7 @@
         "balance",
         "widget"
       ],
-      "updatedAt": "2026-09-25T02:43:32.000Z"
+      "updatedAt": "2026-09-25T09:13:23.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -281,7 +281,7 @@
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-24T13:34:05.000Z"
+      "updatedAt": "2026-09-25T08:47:22.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -307,7 +307,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-09-24T18:47:50.000Z"
+      "updatedAt": "2026-09-25T06:38:49.000Z"
     },
     {
       "id": "Minglink/dsh-infinite-gen-4",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-25T00:00:23.000Z"
+      "updatedAt": "2026-09-25T05:05:07.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -464,7 +464,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-25T02:57:46.000Z"
+      "updatedAt": "2026-09-25T06:31:49.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -475,7 +475,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-24T16:37:48.000Z"
+      "updatedAt": "2026-09-25T08:05:44.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -509,7 +509,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-25T03:04:08.000Z"
+      "updatedAt": "2026-09-25T08:05:52.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -521,16 +521,6 @@
       },
       "license": "CC0-1.0",
       "updatedAt": "2026-09-21T09:54:16.000Z"
-    },
-    {
-      "id": "mindscale-noah/MindMemOS",
-      "name": "mindscale-noah/MindMemOS",
-      "displayName": "MindMemOS",
-      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
-      "repository": {
-        "url": "https://github.com/mindscale-noah/MindMemOS"
-      },
-      "updatedAt": "2026-09-22T10:22:12.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -562,7 +552,17 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-24T22:58:26.000Z"
+      "updatedAt": "2026-09-25T09:19:22.000Z"
+    },
+    {
+      "id": "mindscale-noah/MindMemOS",
+      "name": "mindscale-noah/MindMemOS",
+      "displayName": "MindMemOS",
+      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
+      "repository": {
+        "url": "https://github.com/mindscale-noah/MindMemOS"
+      },
+      "updatedAt": "2026-09-22T10:22:12.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -573,7 +573,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-24T10:29:39.000Z"
+      "updatedAt": "2026-09-25T08:42:42.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -711,7 +711,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-25T02:55:41.000Z"
+      "updatedAt": "2026-09-25T09:17:07.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -889,17 +889,6 @@
       "updatedAt": "2026-09-24T07:05:54.000Z"
     },
     {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-23T14:30:47.000Z"
-    },
-    {
       "id": "zhoushoujianwork/easyeda-agent",
       "name": "easyeda-agent-dsh",
       "displayName": "easyeda-agent",
@@ -909,6 +898,17 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-09-24T08:20:03.000Z"
+    },
+    {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-23T14:30:47.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
@@ -1000,7 +1000,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-24T18:31:27.000Z"
+      "updatedAt": "2026-09-25T08:55:01.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1038,7 +1038,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-09-25T00:58:56.000Z"
+      "updatedAt": "2026-09-25T08:19:58.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1082,7 +1082,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-24T19:20:02.000Z"
+      "updatedAt": "2026-09-25T07:22:45.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1104,7 +1104,7 @@
         "url": "https://github.com/EthanYoQ/Invoice-Downloader"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-06T23:38:34.000Z"
+      "updatedAt": "2026-09-25T09:25:39.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1115,7 +1115,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T15:24:51.000Z"
+      "updatedAt": "2026-09-25T09:23:20.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1285,7 +1285,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-24T18:38:26.000Z"
+      "updatedAt": "2026-09-25T05:02:38.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1324,7 +1324,7 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-24T09:01:21.000Z"
+      "updatedAt": "2026-09-25T09:01:24.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1364,6 +1364,17 @@
       "updatedAt": "2026-09-24T18:44:01.000Z"
     },
     {
+      "id": "vlln/whale-girl",
+      "name": "whale-girl",
+      "displayName": "whale-girl",
+      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
+      "repository": {
+        "url": "https://github.com/vlln/whale-girl"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-08-31T09:40:54.000Z"
+    },
+    {
       "id": "Han-1413141/dsh-cost-meter",
       "name": "dsh-cost-meter",
       "displayName": "dsh-cost-meter",
@@ -1388,18 +1399,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-09-24T12:54:47.000Z"
-    },
-    {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-08-31T09:40:54.000Z"
+      "updatedAt": "2026-09-25T03:52:20.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1484,7 +1484,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-24T10:12:16.000Z"
+      "updatedAt": "2026-09-25T08:47:28.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1543,6 +1543,26 @@
       "updatedAt": "2026-09-19T15:53:03.000Z"
     },
     {
+      "id": "Miaotofu01/Study-Mate",
+      "name": "@yunmiao/studymate",
+      "displayName": "Study-Mate",
+      "summary": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
+      "repository": {
+        "url": "https://github.com/Miaotofu01/Study-Mate"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "studymate",
+        "learning",
+        "education",
+        "codex",
+        "chatgpt"
+      ],
+      "updatedAt": "2026-09-24T09:57:43.000Z"
+    },
+    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -1566,7 +1586,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-25T03:21:05.000Z"
+      "updatedAt": "2026-09-25T09:27:59.000Z"
     },
     {
       "id": "op7418/pilot-harness",
@@ -1607,26 +1627,6 @@
       "updatedAt": "2026-08-22T14:39:08.000Z"
     },
     {
-      "id": "Miaotofu01/Study-Mate",
-      "name": "@yunmiao/studymate",
-      "displayName": "Study-Mate",
-      "summary": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
-      "repository": {
-        "url": "https://github.com/Miaotofu01/Study-Mate"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "studymate",
-        "learning",
-        "education",
-        "codex",
-        "chatgpt"
-      ],
-      "updatedAt": "2026-09-24T09:57:43.000Z"
-    },
-    {
       "id": "Nagi-ovo/dsh-visualize",
       "name": "@nagi-ovo/dsh-visualize",
       "displayName": "dsh-visualize",
@@ -1636,6 +1636,30 @@
       },
       "license": "BSD-3-Clause",
       "updatedAt": "2026-09-18T23:09:28.000Z"
+    },
+    {
+      "id": "toolclub/dsh-agent-team-gui",
+      "name": "dsh-agent-team-gui",
+      "displayName": "dsh-agent-team-gui",
+      "summary": "Persistent multi-model workflow teams for DeepSeek Harness — dynamic lead planning, bounded DAGs, per-agent model/tools, Run Center and Token insights.",
+      "repository": {
+        "url": "https://github.com/toolclub/dsh-agent-team-gui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "agent",
+        "multi-agent",
+        "multi-model",
+        "orchestration",
+        "token-usage",
+        "agent-team"
+      ],
+      "updatedAt": "2026-09-21T06:28:53.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1659,18 +1683,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-25T02:11:50.000Z"
-    },
-    {
-      "id": "imsai-sh/awesome-deepseek-harness-plugins",
-      "name": "awesome-deepseek-harness-plugins",
-      "displayName": "awesome-deepseek-harness-plugins",
-      "summary": "DeepSeek Harness plugin store, marketplace and hub — 11,000+ dsh plugins with search, rankings, install commands and a free public API. DeepSeek Harness 插件市场 / 插件商店：自动收集与格式校验，免费搜索 API。deepseek1024.com",
-      "repository": {
-        "url": "https://github.com/imsai-sh/awesome-deepseek-harness-plugins"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-24T20:49:07.000Z"
+      "updatedAt": "2026-09-25T06:16:43.000Z"
     }
   ],
   "page": {
