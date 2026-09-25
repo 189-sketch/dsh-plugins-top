@@ -62,7 +62,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-25T18:18:15.000Z"
+      "updatedAt": "2026-09-25T20:02:01.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -241,7 +241,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-25T09:57:35.000Z"
+      "updatedAt": "2026-09-25T22:38:01.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-25T17:18:30.000Z"
+      "updatedAt": "2026-09-25T21:40:10.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -464,7 +464,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-25T06:31:49.000Z"
+      "updatedAt": "2026-09-25T21:22:53.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -509,7 +509,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-25T18:49:54.000Z"
+      "updatedAt": "2026-09-25T19:59:22.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -552,7 +552,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-25T19:28:49.000Z"
+      "updatedAt": "2026-09-25T22:13:55.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -573,7 +573,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-25T19:45:00.000Z"
+      "updatedAt": "2026-09-25T22:19:18.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -623,17 +623,6 @@
       "updatedAt": "2026-09-07T02:21:37.000Z"
     },
     {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-24T04:30:17.000Z"
-    },
-    {
       "id": "LiPu-jpg/Openwrite",
       "name": "dsh-openwrite",
       "displayName": "Openwrite",
@@ -643,6 +632,17 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-16T19:31:32.000Z"
+    },
+    {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-24T04:30:17.000Z"
     },
     {
       "id": "omdsh-dev/dsh-browser",
@@ -711,7 +711,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-25T12:41:27.000Z"
+      "updatedAt": "2026-09-25T22:31:45.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -765,7 +765,7 @@
         "url": "https://github.com/Nagi-ovo/dsh-ads"
       },
       "license": "BSD-3-Clause",
-      "updatedAt": "2026-09-18T23:09:29.000Z"
+      "updatedAt": "2026-09-25T22:25:48.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -853,7 +853,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-25T18:01:09.000Z"
+      "updatedAt": "2026-09-25T20:04:42.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1020,7 +1020,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-25T15:58:22.000Z"
+      "updatedAt": "2026-09-25T21:59:31.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1361,7 +1361,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-25T16:48:58.000Z"
+      "updatedAt": "2026-09-25T23:02:22.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1525,26 +1525,6 @@
       "updatedAt": "2026-09-25T14:05:37.000Z"
     },
     {
-      "id": "chokwinlee/deepseek-harness-desktop",
-      "name": "dsh-desktop",
-      "displayName": "deepseek-harness-desktop",
-      "summary": "Compact DeepSeek Harness desktop host with a native SwiftUI iPhone Remote source preview.",
-      "repository": {
-        "url": "https://github.com/chokwinlee/deepseek-harness-desktop"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "tauri",
-        "lightweight",
-        "small-bundle",
-        "desktop",
-        "macos",
-        "windows"
-      ],
-      "updatedAt": "2026-09-12T11:32:18.000Z"
-    },
-    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -1568,7 +1548,27 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-25T19:27:07.000Z"
+      "updatedAt": "2026-09-25T22:52:40.000Z"
+    },
+    {
+      "id": "chokwinlee/deepseek-harness-desktop",
+      "name": "dsh-desktop",
+      "displayName": "deepseek-harness-desktop",
+      "summary": "Compact DeepSeek Harness desktop host with a native SwiftUI iPhone Remote source preview.",
+      "repository": {
+        "url": "https://github.com/chokwinlee/deepseek-harness-desktop"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "tauri",
+        "lightweight",
+        "small-bundle",
+        "desktop",
+        "macos",
+        "windows"
+      ],
+      "updatedAt": "2026-09-12T11:32:18.000Z"
     },
     {
       "id": "huiliyi37/dsh-tianshu-tui",
@@ -1635,7 +1635,7 @@
         "url": "https://github.com/Nagi-ovo/dsh-visualize"
       },
       "license": "BSD-3-Clause",
-      "updatedAt": "2026-09-18T23:09:28.000Z"
+      "updatedAt": "2026-09-25T22:25:50.000Z"
     },
     {
       "id": "toolclub/dsh-agent-team-gui",
