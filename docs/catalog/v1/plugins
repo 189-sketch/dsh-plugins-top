@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T10:42:19.000Z"
+      "updatedAt": "2026-09-26T16:50:45.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -29,7 +29,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-26T02:45:44.000Z"
+      "updatedAt": "2026-09-26T16:23:55.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-26T13:52:06.000Z"
+      "updatedAt": "2026-09-26T14:22:54.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -73,7 +73,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T13:46:37.000Z"
+      "updatedAt": "2026-09-26T17:35:26.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-26T12:02:26.000Z"
+      "updatedAt": "2026-09-26T17:05:50.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -140,7 +140,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-26T01:58:26.000Z"
+      "updatedAt": "2026-09-26T16:25:05.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -241,7 +241,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-26T14:11:01.000Z"
+      "updatedAt": "2026-09-26T19:06:11.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -259,7 +259,7 @@
         "balance",
         "widget"
       ],
-      "updatedAt": "2026-09-25T16:12:29.000Z"
+      "updatedAt": "2026-09-26T15:27:41.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -370,7 +370,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-25T15:00:26.000Z"
+      "updatedAt": "2026-09-26T18:15:56.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T11:33:06.000Z"
+      "updatedAt": "2026-09-26T18:06:07.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -453,7 +453,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-09-24T11:21:43.000Z"
+      "updatedAt": "2026-09-26T14:47:27.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -463,8 +463,8 @@
       "repository": {
         "url": "https://github.com/agentrq/agentrq"
       },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-26T05:40:18.000Z"
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-26T19:02:41.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -520,7 +520,7 @@
         "url": "https://github.com/0xsline/awesome-deepseek-harness"
       },
       "license": "CC0-1.0",
-      "updatedAt": "2026-09-21T09:54:16.000Z"
+      "updatedAt": "2026-09-26T15:39:07.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -552,7 +552,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-26T14:07:36.000Z"
+      "updatedAt": "2026-09-26T17:41:03.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -573,7 +573,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-26T13:54:47.000Z"
+      "updatedAt": "2026-09-26T16:54:56.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -711,7 +711,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-26T13:50:37.000Z"
+      "updatedAt": "2026-09-26T19:05:50.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -827,6 +827,28 @@
       "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-09-23T12:00:49.000Z"
+    },
+    {
       "id": "mnemon-dev/mnemon",
       "name": "@mnemon-dev/dsh-mnemon",
       "displayName": "mnemon",
@@ -853,29 +875,38 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-25T20:04:42.000Z"
+      "updatedAt": "2026-09-26T17:20:36.000Z"
     },
     {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+      "id": "antibrow/dsh-antibrow",
+      "name": "dsh-antibrow",
+      "displayName": "dsh-antibrow",
+      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
       "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
+        "url": "https://github.com/antibrow/dsh-antibrow"
       },
-      "license": "Apache-2.0",
+      "license": "MIT",
       "keywords": [
-        "dsh",
         "dsh-plugin",
         "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "evidence",
-        "worldline"
+        "dsh",
+        "browser",
+        "anti-detect",
+        "fingerprint",
+        "proxy",
+        "automation"
       ],
-      "updatedAt": "2026-09-23T12:00:49.000Z"
+      "updatedAt": "2026-09-12T07:39:10.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-09-22T11:17:05.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -901,37 +932,6 @@
       "updatedAt": "2026-09-24T07:05:54.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-09-22T11:17:05.000Z"
-    },
-    {
-      "id": "antibrow/dsh-antibrow",
-      "name": "dsh-antibrow",
-      "displayName": "dsh-antibrow",
-      "summary": "DeepSeek Harness plugin: give your agent a browser with a persistent identity - engine-level fingerprint spoofing, unlimited free local profiles, Android device emulation, passkeys that survive, and residential proxy egress.",
-      "repository": {
-        "url": "https://github.com/antibrow/dsh-antibrow"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "browser",
-        "anti-detect",
-        "fingerprint",
-        "proxy",
-        "automation"
-      ],
-      "updatedAt": "2026-09-12T07:39:10.000Z"
-    },
-    {
       "id": "zhoushoujianwork/easyeda-agent",
       "name": "easyeda-agent-dsh",
       "displayName": "easyeda-agent",
@@ -940,7 +940,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-25T16:36:53.000Z"
+      "updatedAt": "2026-09-26T19:05:25.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -951,7 +951,18 @@
         "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-23T14:30:47.000Z"
+      "updatedAt": "2026-09-26T14:29:42.000Z"
+    },
+    {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-26T16:58:05.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -963,17 +974,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-01T01:00:35.000Z"
-    },
-    {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于 DeepSeek Harness（DSH）的 SillyTavern 类文字游戏 Agent，支持候选项生成、对话式人物卡编辑、剧本模式与素材抽取。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-26T10:25:02.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1187,7 +1187,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-26T14:08:37.000Z"
+      "updatedAt": "2026-09-26T18:56:43.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1285,7 +1285,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T08:52:53.000Z"
+      "updatedAt": "2026-09-26T18:22:00.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1308,6 +1308,23 @@
       "updatedAt": "2026-09-26T08:29:39.000Z"
     },
     {
+      "id": "QCYTSN/dsh-dafeiyu",
+      "name": "dsh-dafeiyu",
+      "displayName": "dsh-dafeiyu",
+      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
+      "repository": {
+        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "desktop-pet",
+        "agent-companion"
+      ],
+      "updatedAt": "2026-09-16T11:26:59.000Z"
+    },
+    {
       "id": "yjh051108/dsh-router-standard",
       "name": "dsh-router-standard",
       "displayName": "dsh-router-standard",
@@ -1324,23 +1341,6 @@
         "agent-preset"
       ],
       "updatedAt": "2026-08-24T18:20:09.000Z"
-    },
-    {
-      "id": "QCYTSN/dsh-dafeiyu",
-      "name": "dsh-dafeiyu",
-      "displayName": "dsh-dafeiyu",
-      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
-      "repository": {
-        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "desktop-pet",
-        "agent-companion"
-      ],
-      "updatedAt": "2026-09-16T11:26:59.000Z"
     },
     {
       "id": "Dominic789654/awesome-deepseek-harness",
@@ -1438,6 +1438,26 @@
       "updatedAt": "2026-09-25T02:37:42.000Z"
     },
     {
+      "id": "Miaotofu01/Study-Mate",
+      "name": "@yunmiao/studymate",
+      "displayName": "Study-Mate",
+      "summary": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
+      "repository": {
+        "url": "https://github.com/Miaotofu01/Study-Mate"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "studymate",
+        "learning",
+        "education",
+        "codex",
+        "chatgpt"
+      ],
+      "updatedAt": "2026-09-25T14:05:37.000Z"
+    },
+    {
       "id": "shengsheng90/DSH-taskboard",
       "name": "@shengsheng/dsh-taskboard",
       "displayName": "DSH-taskboard",
@@ -1458,26 +1478,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-12T13:58:15.000Z"
-    },
-    {
-      "id": "Miaotofu01/Study-Mate",
-      "name": "@yunmiao/studymate",
-      "displayName": "Study-Mate",
-      "summary": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
-      "repository": {
-        "url": "https://github.com/Miaotofu01/Study-Mate"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "studymate",
-        "learning",
-        "education",
-        "codex",
-        "chatgpt"
-      ],
-      "updatedAt": "2026-09-25T14:05:37.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1548,7 +1548,25 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-26T13:52:05.000Z"
+      "updatedAt": "2026-09-26T18:55:22.000Z"
+    },
+    {
+      "id": "huiliyi37/dsh-tianshu-tui",
+      "name": "@huiliyi37/dsh-tianshu-tui",
+      "displayName": "dsh-tianshu-tui",
+      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。",
+      "repository": {
+        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "agent-harness",
+        "terminal",
+        "tui",
+        "cli"
+      ],
+      "updatedAt": "2026-09-19T15:53:03.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1569,24 +1587,6 @@
         "windows"
       ],
       "updatedAt": "2026-09-12T11:32:18.000Z"
-    },
-    {
-      "id": "huiliyi37/dsh-tianshu-tui",
-      "name": "@huiliyi37/dsh-tianshu-tui",
-      "displayName": "dsh-tianshu-tui",
-      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。",
-      "repository": {
-        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "agent-harness",
-        "terminal",
-        "tui",
-        "cli"
-      ],
-      "updatedAt": "2026-09-19T15:53:03.000Z"
     },
     {
       "id": "op7418/pilot-harness",
@@ -1683,7 +1683,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-26T13:36:50.000Z"
+      "updatedAt": "2026-09-26T16:33:45.000Z"
     }
   ],
   "page": {
