@@ -54,17 +54,6 @@
       "updatedAt": "2026-09-26T14:22:54.000Z"
     },
     {
-      "id": "plastic-labs/honcho",
-      "name": "plastic-labs/honcho",
-      "displayName": "honcho",
-      "summary": "Memory library for building stateful agents",
-      "repository": {
-        "url": "https://github.com/plastic-labs/honcho"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-25T20:02:01.000Z"
-    },
-    {
       "id": "Tencent/BrowserSkill",
       "name": "browser-skill",
       "displayName": "BrowserSkill",
@@ -74,6 +63,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-26T17:35:26.000Z"
+    },
+    {
+      "id": "plastic-labs/honcho",
+      "name": "plastic-labs/honcho",
+      "displayName": "honcho",
+      "summary": "Memory library for building stateful agents",
+      "repository": {
+        "url": "https://github.com/plastic-labs/honcho"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-25T20:02:01.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -241,7 +241,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-26T19:06:11.000Z"
+      "updatedAt": "2026-09-26T22:25:49.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T18:06:07.000Z"
+      "updatedAt": "2026-09-26T21:16:48.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -464,7 +464,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-26T19:02:41.000Z"
+      "updatedAt": "2026-09-26T22:13:40.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -552,7 +552,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-26T17:41:03.000Z"
+      "updatedAt": "2026-09-26T22:17:32.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -711,7 +711,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-26T19:05:50.000Z"
+      "updatedAt": "2026-09-26T22:12:15.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -731,7 +731,7 @@
         "spinner",
         "pi-coding-agent"
       ],
-      "updatedAt": "2026-08-30T18:41:47.000Z"
+      "updatedAt": "2026-09-26T22:11:59.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -768,25 +768,6 @@
       "updatedAt": "2026-09-25T22:25:48.000Z"
     },
     {
-      "id": "adoresever/graph-memory",
-      "name": "graph-memory",
-      "displayName": "graph-memory",
-      "summary": "Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse",
-      "repository": {
-        "url": "https://github.com/adoresever/graph-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "cordis",
-        "openclaw",
-        "agent-memory",
-        "knowledge-graph",
-        "sqlite"
-      ],
-      "updatedAt": "2026-09-09T07:51:31.000Z"
-    },
-    {
       "id": "SeaOf0/dsh-redteam-model",
       "name": "@dsh-external/dsh-redteam-model",
       "displayName": "dsh-redteam-model",
@@ -807,24 +788,23 @@
       "updatedAt": "2026-09-24T11:58:47.000Z"
     },
     {
-      "id": "superdesigndev/superdesign-skill",
-      "name": "superdesign-dsh",
-      "displayName": "superdesign-skill",
-      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+      "id": "adoresever/graph-memory",
+      "name": "graph-memory",
+      "displayName": "graph-memory",
+      "summary": "Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse",
       "repository": {
-        "url": "https://github.com/superdesigndev/superdesign-skill"
+        "url": "https://github.com/adoresever/graph-memory"
       },
       "license": "MIT",
       "keywords": [
-        "dsh-plugin",
         "deepseek-harness",
-        "design",
-        "ui-design",
-        "presentations",
-        "slide-decks",
-        "infinite-canvas"
+        "cordis",
+        "openclaw",
+        "agent-memory",
+        "knowledge-graph",
+        "sqlite"
       ],
-      "updatedAt": "2026-08-21T05:23:23.000Z"
+      "updatedAt": "2026-09-09T07:51:31.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -847,6 +827,26 @@
         "worldline"
       ],
       "updatedAt": "2026-09-23T12:00:49.000Z"
+    },
+    {
+      "id": "superdesigndev/superdesign-skill",
+      "name": "superdesign-dsh",
+      "displayName": "superdesign-skill",
+      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+      "repository": {
+        "url": "https://github.com/superdesigndev/superdesign-skill"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "design",
+        "ui-design",
+        "presentations",
+        "slide-decks",
+        "infinite-canvas"
+      ],
+      "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -875,7 +875,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T17:20:36.000Z"
+      "updatedAt": "2026-09-26T19:17:37.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
@@ -940,7 +940,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-26T19:05:25.000Z"
+      "updatedAt": "2026-09-26T22:25:00.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1187,7 +1187,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-26T18:56:43.000Z"
+      "updatedAt": "2026-09-26T21:59:34.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1305,7 +1305,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-26T08:29:39.000Z"
+      "updatedAt": "2026-09-26T20:01:51.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
