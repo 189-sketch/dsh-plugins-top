@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-25T16:01:31.000Z"
+      "updatedAt": "2026-09-26T10:42:19.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-25T14:42:05.000Z"
+      "updatedAt": "2026-09-26T13:52:06.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -73,7 +73,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T04:45:51.000Z"
+      "updatedAt": "2026-09-26T13:46:37.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-26T09:00:28.000Z"
+      "updatedAt": "2026-09-26T12:02:26.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -217,7 +217,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-26T05:06:27.000Z"
+      "updatedAt": "2026-09-26T10:14:25.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -241,7 +241,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-26T03:26:39.000Z"
+      "updatedAt": "2026-09-26T14:11:01.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T05:08:27.000Z"
+      "updatedAt": "2026-09-26T11:33:06.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -467,17 +467,6 @@
       "updatedAt": "2026-09-26T05:40:18.000Z"
     },
     {
-      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
-      "name": "cloudbase-ai-toolkit",
-      "displayName": "CloudBase-AI-Toolkit",
-      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
-      "repository": {
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-26T07:56:13.000Z"
-    },
-    {
       "id": "EthanYoQ/AI-Novel-Writer",
       "name": "ai-novel-writer",
       "displayName": "AI-Novel-Writer",
@@ -487,6 +476,17 @@
       },
       "license": "GPL-3.0",
       "updatedAt": "2026-09-26T03:43:56.000Z"
+    },
+    {
+      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+      "name": "cloudbase-ai-toolkit",
+      "displayName": "CloudBase-AI-Toolkit",
+      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+      "repository": {
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-26T07:56:13.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -509,7 +509,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-26T05:46:00.000Z"
+      "updatedAt": "2026-09-26T10:14:37.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -552,7 +552,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-26T08:54:04.000Z"
+      "updatedAt": "2026-09-26T14:07:36.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -573,7 +573,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-26T08:04:52.000Z"
+      "updatedAt": "2026-09-26T13:54:47.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -599,7 +599,7 @@
         "screenshot-testing",
         "gui-automation"
       ],
-      "updatedAt": "2026-09-16T14:45:56.000Z"
+      "updatedAt": "2026-09-26T12:25:51.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -711,7 +711,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-26T07:12:41.000Z"
+      "updatedAt": "2026-09-26T13:50:37.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -973,7 +973,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-26T06:43:35.000Z"
+      "updatedAt": "2026-09-26T10:25:02.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1020,7 +1020,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-25T21:59:31.000Z"
+      "updatedAt": "2026-09-26T10:38:50.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1187,18 +1187,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-26T06:00:15.000Z"
-    },
-    {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
+      "updatedAt": "2026-09-26T14:08:37.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1230,6 +1219,17 @@
         "worktree"
       ],
       "updatedAt": "2026-09-24T18:21:51.000Z"
+    },
+    {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1288,24 +1288,6 @@
       "updatedAt": "2026-09-26T08:52:53.000Z"
     },
     {
-      "id": "yjh051108/dsh-router-standard",
-      "name": "dsh-router-standard",
-      "displayName": "dsh-router-standard",
-      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
-      "repository": {
-        "url": "https://github.com/yjh051108/dsh-router-standard"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "dsh",
-        "deepseek-harness",
-        "progressive-disclosure",
-        "agent-preset"
-      ],
-      "updatedAt": "2026-08-24T18:20:09.000Z"
-    },
-    {
       "id": "elysia395/dsh-wallpaper-engine",
       "name": "dsh-plugin-wallpaper-engine",
       "displayName": "dsh-wallpaper-engine",
@@ -1326,14 +1308,22 @@
       "updatedAt": "2026-09-26T08:29:39.000Z"
     },
     {
-      "id": "linhay/harmony-next.skills",
-      "name": "dsh-harmony-next",
-      "displayName": "harmony-next.skills",
-      "summary": "Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling.",
+      "id": "yjh051108/dsh-router-standard",
+      "name": "dsh-router-standard",
+      "displayName": "dsh-router-standard",
+      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
       "repository": {
-        "url": "https://github.com/linhay/harmony-next.skills"
+        "url": "https://github.com/yjh051108/dsh-router-standard"
       },
-      "updatedAt": "2026-09-20T07:21:18.000Z"
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "dsh",
+        "deepseek-harness",
+        "progressive-disclosure",
+        "agent-preset"
+      ],
+      "updatedAt": "2026-08-24T18:20:09.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1361,7 +1351,17 @@
         "url": "https://github.com/Dominic789654/awesome-deepseek-harness"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-26T09:01:21.000Z"
+      "updatedAt": "2026-09-26T12:33:51.000Z"
+    },
+    {
+      "id": "linhay/harmony-next.skills",
+      "name": "dsh-harmony-next",
+      "displayName": "harmony-next.skills",
+      "summary": "Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling.",
+      "repository": {
+        "url": "https://github.com/linhay/harmony-next.skills"
+      },
+      "updatedAt": "2026-09-20T07:21:18.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1504,7 +1504,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-09-25T08:47:28.000Z"
+      "updatedAt": "2026-09-26T13:01:47.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
@@ -1548,7 +1548,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-26T09:05:29.000Z"
+      "updatedAt": "2026-09-26T13:52:05.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1683,7 +1683,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-09-26T09:09:13.000Z"
+      "updatedAt": "2026-09-26T13:36:50.000Z"
     }
   ],
   "page": {
