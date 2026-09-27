@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-27T14:50:23.000Z"
+      "updatedAt": "2026-09-27T16:14:12.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -29,7 +29,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-26T16:23:55.000Z"
+      "updatedAt": "2026-09-27T16:21:44.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -62,7 +62,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-27T14:51:50.000Z"
+      "updatedAt": "2026-09-27T15:08:35.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -106,7 +106,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-09-27T08:09:45.000Z"
+      "updatedAt": "2026-09-27T15:41:41.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-27T14:12:16.000Z"
+      "updatedAt": "2026-09-27T19:38:48.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -140,7 +140,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-27T14:30:54.000Z"
+      "updatedAt": "2026-09-27T16:27:27.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -163,7 +163,7 @@
         "multimodal",
         "modlens"
       ],
-      "updatedAt": "2026-09-24T09:02:01.000Z"
+      "updatedAt": "2026-09-27T18:20:41.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -174,7 +174,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-27T14:34:30.000Z"
+      "updatedAt": "2026-09-27T16:27:36.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -209,7 +209,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-27T15:05:50.000Z"
+      "updatedAt": "2026-09-27T19:37:43.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -230,7 +230,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-27T13:07:00.000Z"
+      "updatedAt": "2026-09-27T15:50:14.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -296,7 +296,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-09-27T11:02:40.000Z"
+      "updatedAt": "2026-09-27T16:48:00.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -339,7 +339,7 @@
         "ai-agent",
         "llm"
       ],
-      "updatedAt": "2026-09-24T19:22:29.000Z"
+      "updatedAt": "2026-09-27T16:56:55.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -370,7 +370,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-27T01:26:34.000Z"
+      "updatedAt": "2026-09-27T18:37:50.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -403,7 +403,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-09-27T02:23:11.000Z"
+      "updatedAt": "2026-09-27T17:37:11.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-27T12:11:38.000Z"
+      "updatedAt": "2026-09-27T17:45:56.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -453,7 +453,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-09-27T15:04:12.000Z"
+      "updatedAt": "2026-09-27T15:11:35.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -464,7 +464,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-27T14:49:28.000Z"
+      "updatedAt": "2026-09-27T18:26:39.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -475,7 +475,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-27T08:41:13.000Z"
+      "updatedAt": "2026-09-27T19:29:07.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -509,7 +509,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-27T15:07:07.000Z"
+      "updatedAt": "2026-09-27T16:55:25.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -552,7 +552,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-27T14:45:20.000Z"
+      "updatedAt": "2026-09-27T18:43:38.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -573,7 +573,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-27T14:20:08.000Z"
+      "updatedAt": "2026-09-27T18:17:58.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -734,6 +734,28 @@
       "updatedAt": "2026-09-26T22:11:59.000Z"
     },
     {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-09-23T12:00:49.000Z"
+    },
+    {
       "id": "chainbase-labs/Agentkey",
       "name": "agentkey-skill",
       "displayName": "Agentkey",
@@ -755,28 +777,6 @@
         "real-time-data"
       ],
       "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-09-23T12:00:49.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -875,7 +875,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T19:17:37.000Z"
+      "updatedAt": "2026-09-27T17:53:35.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
@@ -899,16 +899,6 @@
       "updatedAt": "2026-09-12T07:39:10.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-09-22T11:17:05.000Z"
-    },
-    {
       "id": "liustack/modsearch",
       "name": "@liustack/modsearch",
       "displayName": "modsearch",
@@ -930,6 +920,16 @@
         "deepseek-harness"
       ],
       "updatedAt": "2026-09-24T07:05:54.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-09-22T11:17:05.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -1115,7 +1115,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-26T06:37:27.000Z"
+      "updatedAt": "2026-09-27T15:47:02.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1207,7 +1207,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-27T15:04:05.000Z"
+      "updatedAt": "2026-09-27T17:23:05.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1305,7 +1305,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-27T03:20:36.000Z"
+      "updatedAt": "2026-09-27T18:37:11.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1445,7 +1445,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-27T01:32:46.000Z"
+      "updatedAt": "2026-09-27T15:30:51.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -1457,6 +1457,32 @@
       },
       "license": "MIT",
       "updatedAt": "2026-08-31T09:40:54.000Z"
+    },
+    {
+      "id": "ranxianglei/billion-context",
+      "name": "billion-context",
+      "displayName": "billion-context",
+      "summary": "基本稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "repository": {
+        "url": "https://github.com/ranxianglei/billion-context"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "context",
+        "compression",
+        "proxy",
+        "acp",
+        "ai",
+        "agent",
+        "claude-code",
+        "cursor",
+        "codex",
+        "aider",
+        "anthropic",
+        "openai",
+        "pi-package"
+      ],
+      "updatedAt": "2026-09-27T19:05:39.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1506,32 +1532,6 @@
         "https"
       ],
       "updatedAt": "2026-09-27T13:58:02.000Z"
-    },
-    {
-      "id": "ranxianglei/billion-context",
-      "name": "billion-context",
-      "displayName": "billion-context",
-      "summary": "基本稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-      "repository": {
-        "url": "https://github.com/ranxianglei/billion-context"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "context",
-        "compression",
-        "proxy",
-        "acp",
-        "ai",
-        "agent",
-        "claude-code",
-        "cursor",
-        "codex",
-        "aider",
-        "anthropic",
-        "openai",
-        "pi-package"
-      ],
-      "updatedAt": "2026-09-27T15:02:48.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
