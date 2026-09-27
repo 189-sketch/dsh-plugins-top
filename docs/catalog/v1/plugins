@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-27T19:38:48.000Z"
+      "updatedAt": "2026-09-27T22:54:08.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -163,7 +163,7 @@
         "multimodal",
         "modlens"
       ],
-      "updatedAt": "2026-09-27T18:20:41.000Z"
+      "updatedAt": "2026-09-27T20:45:40.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -209,7 +209,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-27T19:37:43.000Z"
+      "updatedAt": "2026-09-27T22:54:07.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -370,7 +370,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-27T18:37:50.000Z"
+      "updatedAt": "2026-09-27T21:15:37.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-27T17:45:56.000Z"
+      "updatedAt": "2026-09-27T22:40:30.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -475,7 +475,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-27T19:29:07.000Z"
+      "updatedAt": "2026-09-27T21:25:21.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -552,7 +552,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-27T18:43:38.000Z"
+      "updatedAt": "2026-09-27T21:33:55.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -667,6 +667,28 @@
       "updatedAt": "2026-09-06T06:28:21.000Z"
     },
     {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-09-23T12:00:49.000Z"
+    },
+    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -732,28 +754,6 @@
         "pi-coding-agent"
       ],
       "updatedAt": "2026-09-26T22:11:59.000Z"
-    },
-    {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI is a native DSH plugin that brings the Epistemic Loop to DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-09-23T12:00:49.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -875,7 +875,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-27T17:53:35.000Z"
+      "updatedAt": "2026-09-27T19:49:13.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
@@ -1026,7 +1026,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-27T11:37:47.000Z"
+      "updatedAt": "2026-09-27T22:26:16.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1056,6 +1056,17 @@
       "updatedAt": "2026-09-22T16:50:32.000Z"
     },
     {
+      "id": "syncable-dev/memtrace-public",
+      "name": "syncable-dev/memtrace-public",
+      "displayName": "memtrace-public",
+      "summary": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.",
+      "repository": {
+        "url": "https://github.com/syncable-dev/memtrace-public"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-27T22:09:11.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-genui",
       "name": "@changfenhuang/dsh-genui",
       "displayName": "dsh-genui",
@@ -1072,17 +1083,6 @@
         "ui"
       ],
       "updatedAt": "2026-09-27T04:09:44.000Z"
-    },
-    {
-      "id": "syncable-dev/memtrace-public",
-      "name": "syncable-dev/memtrace-public",
-      "displayName": "memtrace-public",
-      "summary": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.",
-      "repository": {
-        "url": "https://github.com/syncable-dev/memtrace-public"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-25T12:19:41.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1412,17 +1412,6 @@
       "updatedAt": "2026-09-27T05:13:10.000Z"
     },
     {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-15T04:13:05.000Z"
-    },
-    {
       "id": "Mars-Sea/dsh-commandcode-provider",
       "name": "@mars-sea/dsh-commandcode-provider",
       "displayName": "dsh-commandcode-provider",
@@ -1459,6 +1448,17 @@
       "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "repository": {
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-15T04:13:05.000Z"
+    },
+    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -1482,7 +1482,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-27T19:05:39.000Z"
+      "updatedAt": "2026-09-27T21:46:59.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
