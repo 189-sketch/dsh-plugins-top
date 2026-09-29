@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-29T06:29:38.000Z"
+      "updatedAt": "2026-09-29T16:43:03.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -29,7 +29,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-09-28T16:19:47.000Z"
+      "updatedAt": "2026-09-29T16:28:58.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-29T14:31:04.000Z"
+      "updatedAt": "2026-09-29T16:14:39.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -62,7 +62,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-29T12:28:53.000Z"
+      "updatedAt": "2026-09-29T16:25:15.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-29T14:14:41.000Z"
+      "updatedAt": "2026-09-29T20:11:16.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-29T14:44:10.000Z"
+      "updatedAt": "2026-09-29T20:05:44.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -140,7 +140,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-09-29T13:18:55.000Z"
+      "updatedAt": "2026-09-29T16:49:52.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -195,18 +195,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-29T14:42:22.000Z"
-    },
-    {
-      "id": "xiaobright/dsh-anchored-standard",
-      "name": "dsh-anchored-standard",
-      "displayName": "dsh-anchored-standard",
-      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "repository": {
-        "url": "https://github.com/xiaobright/dsh-anchored-standard"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-10T05:00:13.000Z"
+      "updatedAt": "2026-09-29T17:55:34.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -230,7 +219,18 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-29T14:41:51.000Z"
+      "updatedAt": "2026-09-29T20:02:02.000Z"
+    },
+    {
+      "id": "xiaobright/dsh-anchored-standard",
+      "name": "dsh-anchored-standard",
+      "displayName": "dsh-anchored-standard",
+      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "repository": {
+        "url": "https://github.com/xiaobright/dsh-anchored-standard"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-10T05:00:13.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -259,18 +259,7 @@
         "balance",
         "widget"
       ],
-      "updatedAt": "2026-09-29T07:34:36.000Z"
-    },
-    {
-      "id": "zilliztech/memsearch",
-      "name": "zilliztech/memsearch",
-      "displayName": "memsearch",
-      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
-      "repository": {
-        "url": "https://github.com/zilliztech/memsearch"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-24T08:08:09.000Z"
+      "updatedAt": "2026-09-29T18:03:40.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -296,7 +285,18 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-09-29T12:11:14.000Z"
+      "updatedAt": "2026-09-29T17:07:40.000Z"
+    },
+    {
+      "id": "zilliztech/memsearch",
+      "name": "zilliztech/memsearch",
+      "displayName": "memsearch",
+      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+      "repository": {
+        "url": "https://github.com/zilliztech/memsearch"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-24T08:08:09.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -370,7 +370,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-09-29T11:39:20.000Z"
+      "updatedAt": "2026-09-29T17:34:06.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-29T14:30:15.000Z"
+      "updatedAt": "2026-09-29T20:30:13.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -464,7 +464,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-29T11:07:33.000Z"
+      "updatedAt": "2026-09-29T19:37:21.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -498,7 +498,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-29T14:41:11.000Z"
+      "updatedAt": "2026-09-29T20:22:17.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -552,7 +552,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-29T10:18:35.000Z"
+      "updatedAt": "2026-09-29T20:33:03.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -602,17 +602,6 @@
       "updatedAt": "2026-09-26T12:25:51.000Z"
     },
     {
-      "id": "toby-bridges/api-relay-audit",
-      "name": "dsh-api-relay-audit",
-      "displayName": "api-relay-audit",
-      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
-      "repository": {
-        "url": "https://github.com/toby-bridges/api-relay-audit"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-09-16T09:42:54.000Z"
-    },
-    {
       "id": "PC2005-cloud/dsh-pet",
       "name": "PC2005-cloud/dsh-pet",
       "displayName": "dsh-pet",
@@ -622,6 +611,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-24T04:30:17.000Z"
+    },
+    {
+      "id": "toby-bridges/api-relay-audit",
+      "name": "dsh-api-relay-audit",
+      "displayName": "api-relay-audit",
+      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
+      "repository": {
+        "url": "https://github.com/toby-bridges/api-relay-audit"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-09-16T09:42:54.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -735,7 +735,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-29T13:23:08.000Z"
+      "updatedAt": "2026-09-29T15:19:15.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -877,7 +877,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-28T22:12:16.000Z"
+      "updatedAt": "2026-09-29T18:47:32.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
@@ -953,7 +953,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-29T10:06:07.000Z"
+      "updatedAt": "2026-09-29T19:06:40.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1028,7 +1028,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-29T14:14:51.000Z"
+      "updatedAt": "2026-09-29T20:00:56.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1128,25 +1128,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-28T23:13:58.000Z"
-    },
-    {
-      "id": "anysearch-team/anysearch-dsh",
-      "name": "@anysearch/anysearch-dsh",
-      "displayName": "anysearch-dsh",
-      "summary": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
-      "repository": {
-        "url": "https://github.com/anysearch-team/anysearch-dsh"
-      },
-      "license": "MIT",
-      "keywords": [
-        "anysearch",
-        "deepseek-harness",
-        "dsh-plugin",
-        "web-search",
-        "web-fetch"
-      ],
-      "updatedAt": "2026-09-20T09:34:50.000Z"
+      "updatedAt": "2026-09-29T18:00:43.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1167,6 +1149,24 @@
         "worktree"
       ],
       "updatedAt": "2026-09-24T18:21:51.000Z"
+    },
+    {
+      "id": "anysearch-team/anysearch-dsh",
+      "name": "@anysearch/anysearch-dsh",
+      "displayName": "anysearch-dsh",
+      "summary": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
+      "repository": {
+        "url": "https://github.com/anysearch-team/anysearch-dsh"
+      },
+      "license": "MIT",
+      "keywords": [
+        "anysearch",
+        "deepseek-harness",
+        "dsh-plugin",
+        "web-search",
+        "web-fetch"
+      ],
+      "updatedAt": "2026-09-20T09:34:50.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1223,40 +1223,6 @@
       "updatedAt": "2026-09-28T21:58:15.000Z"
     },
     {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
-      "id": "V1ki/dsh-plugin-subscriptions",
-      "name": "dsh-plugin-subscriptions",
-      "displayName": "dsh-plugin-subscriptions",
-      "summary": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
-      "repository": {
-        "url": "https://github.com/V1ki/dsh-plugin-subscriptions"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "llm",
-        "oauth",
-        "chatgpt",
-        "codex",
-        "claude",
-        "grok",
-        "github-copilot",
-        "google-antigravity"
-      ],
-      "updatedAt": "2026-09-28T06:29:18.000Z"
-    },
-    {
       "id": "zouyuxuan122/dsh-our-free-model",
       "name": "dsh-our-free-model",
       "displayName": "dsh-our-free-model",
@@ -1292,7 +1258,41 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-09-27T06:15:25.000Z"
+      "updatedAt": "2026-09-29T19:30:20.000Z"
+    },
+    {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
+    },
+    {
+      "id": "V1ki/dsh-plugin-subscriptions",
+      "name": "dsh-plugin-subscriptions",
+      "displayName": "dsh-plugin-subscriptions",
+      "summary": "Use ChatGPT (Codex), Claude, and Grok (X Premium) subscriptions as DeepSeek Harness LLM providers — OAuth login in the web UI, no API keys",
+      "repository": {
+        "url": "https://github.com/V1ki/dsh-plugin-subscriptions"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "oauth",
+        "chatgpt",
+        "codex",
+        "claude",
+        "grok",
+        "github-copilot",
+        "google-antigravity"
+      ],
+      "updatedAt": "2026-09-28T06:29:18.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -1312,7 +1312,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-09-29T11:25:57.000Z"
+      "updatedAt": "2026-09-29T14:55:13.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1335,17 +1335,6 @@
         "skin"
       ],
       "updatedAt": "2026-09-11T18:41:51.000Z"
-    },
-    {
-      "id": "bruc3van/awesome-dsh-plugin",
-      "name": "bruc3van/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
-      "repository": {
-        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-29T09:15:37.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -1371,7 +1360,18 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-29T14:43:23.000Z"
+      "updatedAt": "2026-09-29T16:42:49.000Z"
+    },
+    {
+      "id": "bruc3van/awesome-dsh-plugin",
+      "name": "bruc3van/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
+      "repository": {
+        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-29T19:41:07.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1401,24 +1401,6 @@
       "updatedAt": "2026-09-20T07:21:18.000Z"
     },
     {
-      "id": "yjh051108/dsh-router-standard",
-      "name": "dsh-router-standard",
-      "displayName": "dsh-router-standard",
-      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
-      "repository": {
-        "url": "https://github.com/yjh051108/dsh-router-standard"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "dsh",
-        "deepseek-harness",
-        "progressive-disclosure",
-        "agent-preset"
-      ],
-      "updatedAt": "2026-08-24T18:20:09.000Z"
-    },
-    {
       "id": "Mars-Sea/dsh-commandcode-provider",
       "name": "@mars-sea/dsh-commandcode-provider",
       "displayName": "dsh-commandcode-provider",
@@ -1442,6 +1424,24 @@
         "provider"
       ],
       "updatedAt": "2026-09-29T02:08:38.000Z"
+    },
+    {
+      "id": "yjh051108/dsh-router-standard",
+      "name": "dsh-router-standard",
+      "displayName": "dsh-router-standard",
+      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
+      "repository": {
+        "url": "https://github.com/yjh051108/dsh-router-standard"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "dsh",
+        "deepseek-harness",
+        "progressive-disclosure",
+        "agent-preset"
+      ],
+      "updatedAt": "2026-08-24T18:20:09.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1630,6 +1630,30 @@
       "updatedAt": "2026-09-19T15:53:03.000Z"
     },
     {
+      "id": "FuRongJun-1999/dsh-memory",
+      "name": "@furongjun1999/dsh-memory",
+      "displayName": "dsh-memory",
+      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
+      "repository": {
+        "url": "https://github.com/FuRongJun-1999/dsh-memory"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "dsh",
+        "dsh-plugin",
+        "cordis",
+        "memory",
+        "agent",
+        "aeis",
+        "lingshu",
+        "multi-agent",
+        "spatiotemporal",
+        "knowledge-graph"
+      ],
+      "updatedAt": "2026-09-29T18:26:14.000Z"
+    },
+    {
       "id": "Nagi-ovo/dsh-visualize",
       "name": "@nagi-ovo/dsh-visualize",
       "displayName": "dsh-visualize",
@@ -1663,40 +1687,6 @@
         "agent-team"
       ],
       "updatedAt": "2026-09-21T06:28:53.000Z"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-memory",
-      "name": "@furongjun1999/dsh-memory",
-      "displayName": "dsh-memory",
-      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
-      "repository": {
-        "url": "https://github.com/FuRongJun-1999/dsh-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "dsh",
-        "dsh-plugin",
-        "cordis",
-        "memory",
-        "agent",
-        "aeis",
-        "lingshu",
-        "multi-agent",
-        "spatiotemporal",
-        "knowledge-graph"
-      ],
-      "updatedAt": "2026-09-29T12:16:11.000Z"
-    },
-    {
-      "id": "libukai/awesome-deepseek-harness",
-      "name": "libukai/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
-      "repository": {
-        "url": "https://github.com/libukai/awesome-deepseek-harness"
-      },
-      "updatedAt": "2026-09-12T05:53:00.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1734,7 +1724,17 @@
         "volcengine",
         "volcano"
       ],
-      "updatedAt": "2026-09-29T07:45:00.000Z"
+      "updatedAt": "2026-09-29T18:10:11.000Z"
+    },
+    {
+      "id": "libukai/awesome-deepseek-harness",
+      "name": "libukai/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "repository": {
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      "updatedAt": "2026-09-12T05:53:00.000Z"
     }
   ],
   "page": {
