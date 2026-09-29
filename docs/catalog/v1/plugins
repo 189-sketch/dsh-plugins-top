@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-28T19:09:42.000Z"
+      "updatedAt": "2026-09-28T21:51:34.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-09-28T19:01:51.000Z"
+      "updatedAt": "2026-09-28T22:59:32.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -188,6 +188,27 @@
       "updatedAt": "2026-09-10T05:00:13.000Z"
     },
     {
+      "id": "superdesigndev/treg",
+      "name": "treg-dsh",
+      "displayName": "treg",
+      "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "repository": {
+        "url": "https://github.com/superdesigndev/treg"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "tools",
+        "api",
+        "mcp",
+        "seo",
+        "enrichment",
+        "scraping"
+      ],
+      "updatedAt": "2026-09-28T20:40:49.000Z"
+    },
+    {
       "id": "ccch1mneyyy/dsh-TUI",
       "name": "@deepseek-harness-tui/dsh-tui",
       "displayName": "dsh-TUI",
@@ -209,28 +230,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-28T19:10:14.000Z"
-    },
-    {
-      "id": "superdesigndev/treg",
-      "name": "treg-dsh",
-      "displayName": "treg",
-      "summary": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "repository": {
-        "url": "https://github.com/superdesigndev/treg"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "tools",
-        "api",
-        "mcp",
-        "seo",
-        "enrichment",
-        "scraping"
-      ],
-      "updatedAt": "2026-09-28T19:09:43.000Z"
+      "updatedAt": "2026-09-28T23:59:54.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -259,7 +259,7 @@
         "balance",
         "widget"
       ],
-      "updatedAt": "2026-09-28T18:54:54.000Z"
+      "updatedAt": "2026-09-28T19:35:51.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -403,7 +403,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-09-28T17:15:21.000Z"
+      "updatedAt": "2026-09-28T23:50:58.000Z"
     },
     {
       "id": "AdamPlatin123/dsh-plugin-radar",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-28T19:15:12.000Z"
+      "updatedAt": "2026-09-29T00:15:38.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -464,7 +464,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-28T13:36:59.000Z"
+      "updatedAt": "2026-09-28T23:02:42.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -509,7 +509,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-28T19:17:16.000Z"
+      "updatedAt": "2026-09-28T20:24:53.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -552,7 +552,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-28T12:05:36.000Z"
+      "updatedAt": "2026-09-28T21:51:12.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -624,16 +624,6 @@
       "updatedAt": "2026-09-24T04:30:17.000Z"
     },
     {
-      "id": "Electricitysheep/dsh-handbook",
-      "name": "Electricitysheep/dsh-handbook",
-      "displayName": "dsh-handbook",
-      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "repository": {
-        "url": "https://github.com/Electricitysheep/dsh-handbook"
-      },
-      "updatedAt": "2026-09-07T02:21:37.000Z"
-    },
-    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -656,6 +646,16 @@
         "worldline"
       ],
       "updatedAt": "2026-09-28T06:07:15.000Z"
+    },
+    {
+      "id": "Electricitysheep/dsh-handbook",
+      "name": "Electricitysheep/dsh-handbook",
+      "displayName": "dsh-handbook",
+      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "repository": {
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      },
+      "updatedAt": "2026-09-07T02:21:37.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -866,7 +866,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-09-24T13:44:47.000Z"
+      "updatedAt": "2026-09-28T21:04:43.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -877,7 +877,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-27T19:49:13.000Z"
+      "updatedAt": "2026-09-28T22:12:16.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
@@ -924,16 +924,6 @@
       "updatedAt": "2026-09-24T07:05:54.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-09-28T10:08:21.000Z"
-    },
-    {
       "id": "zhoushoujianwork/easyeda-agent",
       "name": "easyeda-agent-dsh",
       "displayName": "easyeda-agent",
@@ -943,6 +933,16 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-09-28T18:07:09.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-09-28T10:08:21.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1055,7 +1055,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-09-28T09:27:32.000Z"
+      "updatedAt": "2026-09-28T23:05:06.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -1128,7 +1128,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-27T15:47:02.000Z"
+      "updatedAt": "2026-09-28T23:13:58.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1220,7 +1220,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-09-28T18:26:20.000Z"
+      "updatedAt": "2026-09-28T21:58:15.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1328,7 +1328,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-28T08:18:04.000Z"
+      "updatedAt": "2026-09-28T20:48:44.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1358,24 +1358,6 @@
       "updatedAt": "2026-09-20T07:21:18.000Z"
     },
     {
-      "id": "yjh051108/dsh-router-standard",
-      "name": "dsh-router-standard",
-      "displayName": "dsh-router-standard",
-      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
-      "repository": {
-        "url": "https://github.com/yjh051108/dsh-router-standard"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "dsh",
-        "deepseek-harness",
-        "progressive-disclosure",
-        "agent-preset"
-      ],
-      "updatedAt": "2026-08-24T18:20:09.000Z"
-    },
-    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -1399,7 +1381,25 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-28T18:31:51.000Z"
+      "updatedAt": "2026-09-29T00:15:46.000Z"
+    },
+    {
+      "id": "yjh051108/dsh-router-standard",
+      "name": "dsh-router-standard",
+      "displayName": "dsh-router-standard",
+      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
+      "repository": {
+        "url": "https://github.com/yjh051108/dsh-router-standard"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "dsh",
+        "deepseek-harness",
+        "progressive-disclosure",
+        "agent-preset"
+      ],
+      "updatedAt": "2026-08-24T18:20:09.000Z"
     },
     {
       "id": "zouyuxuan122/dsh-our-free-model",
@@ -1493,17 +1493,6 @@
       "updatedAt": "2026-08-31T09:40:54.000Z"
     },
     {
-      "id": "shengsheng90/DSH-taskboard",
-      "name": "@shengsheng/dsh-taskboard",
-      "displayName": "DSH-taskboard",
-      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
-      "repository": {
-        "url": "https://github.com/shengsheng90/DSH-taskboard"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-16T09:59:57.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1529,6 +1518,17 @@
         "https"
       ],
       "updatedAt": "2026-09-27T13:58:02.000Z"
+    },
+    {
+      "id": "shengsheng90/DSH-taskboard",
+      "name": "@shengsheng/dsh-taskboard",
+      "displayName": "DSH-taskboard",
+      "summary": "Native local Taskboard plugin for DeepSeek Harness. SQLite-backed projects, Agent claim/review, and a native Web UI — no iframe, no second chat runtime.",
+      "repository": {
+        "url": "https://github.com/shengsheng90/DSH-taskboard"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-16T09:59:57.000Z"
     },
     {
       "id": "hust-open-atom-club/oh-dsh",
@@ -1578,6 +1578,38 @@
         "windows"
       ],
       "updatedAt": "2026-09-12T11:32:18.000Z"
+    },
+    {
+      "id": "Devin-AXIS/jev-dsh-decision",
+      "name": "dsh-jev-decision-model",
+      "displayName": "jev-dsh-decision",
+      "summary": "Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/jev-dsh-decision"
+      },
+      "keywords": [
+        "jev",
+        "typesafe-ai",
+        "decision-engine",
+        "agent-harness",
+        "ai-agents",
+        "plugin",
+        "ipollowork",
+        "ipollowork-plugin",
+        "deepseek-harness",
+        "deepseek-plugin",
+        "deepseek-harness-plugin",
+        "dsh",
+        "dsh-plugin",
+        "opencode",
+        "opencode-plugin",
+        "codex",
+        "codex-plugin",
+        "codex-harness-plugin",
+        "dpc-plugin",
+        "apollo-plugin"
+      ],
+      "updatedAt": "2026-09-20T04:59:32.000Z"
     },
     {
       "id": "huiliyi37/dsh-tianshu-tui",
@@ -1665,38 +1697,6 @@
         "url": "https://github.com/libukai/awesome-deepseek-harness"
       },
       "updatedAt": "2026-09-12T05:53:00.000Z"
-    },
-    {
-      "id": "Devin-AXIS/jev-dsh-decision",
-      "name": "dsh-jev-decision-model",
-      "displayName": "jev-dsh-decision",
-      "summary": "Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/jev-dsh-decision"
-      },
-      "keywords": [
-        "jev",
-        "typesafe-ai",
-        "decision-engine",
-        "agent-harness",
-        "ai-agents",
-        "plugin",
-        "ipollowork",
-        "ipollowork-plugin",
-        "deepseek-harness",
-        "deepseek-plugin",
-        "deepseek-harness-plugin",
-        "dsh",
-        "dsh-plugin",
-        "opencode",
-        "opencode-plugin",
-        "codex",
-        "codex-plugin",
-        "codex-harness-plugin",
-        "dpc-plugin",
-        "apollo-plugin"
-      ],
-      "updatedAt": "2026-09-20T04:59:32.000Z"
     },
     {
       "id": "op7418/pilot-harness",
