@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-09-29T16:14:39.000Z"
+      "updatedAt": "2026-09-30T01:05:16.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-29T20:11:16.000Z"
+      "updatedAt": "2026-09-29T21:32:53.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -195,7 +195,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-09-29T17:55:34.000Z"
+      "updatedAt": "2026-09-30T00:18:27.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -219,7 +219,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-09-29T20:02:02.000Z"
+      "updatedAt": "2026-09-30T01:03:31.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -414,7 +414,7 @@
         "url": "https://github.com/AdamPlatin123/dsh-plugin-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-29T20:30:13.000Z"
+      "updatedAt": "2026-09-30T01:00:15.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -464,7 +464,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-09-29T19:37:21.000Z"
+      "updatedAt": "2026-09-30T00:38:54.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -475,7 +475,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-09-29T07:53:37.000Z"
+      "updatedAt": "2026-09-30T01:07:01.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -498,7 +498,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-09-29T20:22:17.000Z"
+      "updatedAt": "2026-09-30T00:21:20.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -552,7 +552,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-09-29T20:33:03.000Z"
+      "updatedAt": "2026-09-29T21:41:31.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -610,7 +610,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-24T04:30:17.000Z"
+      "updatedAt": "2026-09-30T00:26:21.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -735,7 +735,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-09-29T15:19:15.000Z"
+      "updatedAt": "2026-09-30T00:14:32.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -877,7 +877,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-29T18:47:32.000Z"
+      "updatedAt": "2026-09-29T20:56:34.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
@@ -997,7 +997,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-09-29T14:04:53.000Z"
+      "updatedAt": "2026-09-30T00:33:29.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1315,28 +1315,6 @@
       "updatedAt": "2026-09-29T14:55:13.000Z"
     },
     {
-      "id": "d-dev0101/open-sea-skin",
-      "name": "open-sea-skin",
-      "displayName": "open-sea-skin",
-      "summary": "🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.",
-      "repository": {
-        "url": "https://github.com/d-dev0101/open-sea-skin"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "theme",
-        "skin",
-        "webgpu",
-        "ocean"
-      ],
-      "categories": [
-        "skin"
-      ],
-      "updatedAt": "2026-09-11T18:41:51.000Z"
-    },
-    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -1360,7 +1338,29 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-09-29T16:42:49.000Z"
+      "updatedAt": "2026-09-30T01:02:12.000Z"
+    },
+    {
+      "id": "d-dev0101/open-sea-skin",
+      "name": "open-sea-skin",
+      "displayName": "open-sea-skin",
+      "summary": "🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.",
+      "repository": {
+        "url": "https://github.com/d-dev0101/open-sea-skin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "theme",
+        "skin",
+        "webgpu",
+        "ocean"
+      ],
+      "categories": [
+        "skin"
+      ],
+      "updatedAt": "2026-09-11T18:41:51.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1371,7 +1371,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-09-29T19:41:07.000Z"
+      "updatedAt": "2026-09-30T01:02:56.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1423,7 +1423,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-09-29T02:08:38.000Z"
+      "updatedAt": "2026-09-30T00:36:30.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1471,17 +1471,6 @@
       "updatedAt": "2026-09-29T09:19:53.000Z"
     },
     {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-29T12:52:46.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1509,6 +1498,17 @@
       "updatedAt": "2026-09-29T13:46:35.000Z"
     },
     {
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "repository": {
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-29T12:52:46.000Z"
+    },
+    {
       "id": "vlln/whale-girl",
       "name": "whale-girl",
       "displayName": "whale-girl",
@@ -1529,17 +1529,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-16T09:59:57.000Z"
-    },
-    {
-      "id": "hust-open-atom-club/oh-dsh",
-      "name": "@oh-dsh/desktop",
-      "displayName": "oh-dsh",
-      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
-      "repository": {
-        "url": "https://github.com/hust-open-atom-club/oh-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-12T13:58:15.000Z"
     },
     {
       "id": "Devin-AXIS/jev-dsh-decision",
@@ -1574,6 +1563,17 @@
       "updatedAt": "2026-09-20T04:59:32.000Z"
     },
     {
+      "id": "hust-open-atom-club/oh-dsh",
+      "name": "@oh-dsh/desktop",
+      "displayName": "oh-dsh",
+      "summary": "一套 DSH runtime，Desktop、Web 与 TUI 三种开发体验。",
+      "repository": {
+        "url": "https://github.com/hust-open-atom-club/oh-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-12T13:58:15.000Z"
+    },
+    {
       "id": "ZSeven-W/dsh-ios",
       "name": "@zseven-w/dsh-ios",
       "displayName": "dsh-ios",
@@ -1590,6 +1590,17 @@
         "ios"
       ],
       "updatedAt": "2026-09-24T21:40:18.000Z"
+    },
+    {
+      "id": "theBigGavin/marketingdashboard",
+      "name": "my-app",
+      "displayName": "marketingdashboard",
+      "summary": "面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single screen: CN/HK/US indices, commodities, treasury yields, sector hotspots, capital flows, 7×24 news, industry-chain watchlists and AI token usage trends.",
+      "repository": {
+        "url": "https://github.com/theBigGavin/marketingdashboard"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-28T20:11:15.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
@@ -1687,44 +1698,6 @@
         "agent-team"
       ],
       "updatedAt": "2026-09-21T06:28:53.000Z"
-    },
-    {
-      "id": "DDDMUC/dsh-free-search",
-      "name": "dsh-free-search",
-      "displayName": "dsh-free-search",
-      "summary": "Free web search provider for DeepSeek Harness - DuckDuckGo backend, no API key needed",
-      "repository": {
-        "url": "https://github.com/DDDMUC/dsh-free-search"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "web-search",
-        "duckduckgo",
-        "bing",
-        "tavily",
-        "exa",
-        "keenable",
-        "firecrawl",
-        "parallel",
-        "perplexity",
-        "serpbase",
-        "search",
-        "free",
-        "baidu",
-        "kimi",
-        "moonshot",
-        "aliyun",
-        "youcom",
-        "multi-search",
-        "auto-routing",
-        "doubao",
-        "volcengine",
-        "volcano"
-      ],
-      "updatedAt": "2026-09-29T18:10:11.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
