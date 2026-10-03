@@ -208,7 +208,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-03T17:46:43.000Z"
+      "updatedAt": "2026-10-03T19:22:04.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -392,7 +392,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-03T10:17:31.000Z"
+      "updatedAt": "2026-10-03T19:16:46.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -477,7 +477,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-03T15:01:48.000Z"
+      "updatedAt": "2026-10-03T19:36:21.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -557,7 +557,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-03T14:19:32.000Z"
+      "updatedAt": "2026-10-03T19:49:04.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -621,7 +621,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-03T17:15:30.000Z"
+      "updatedAt": "2026-10-03T18:59:42.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -786,7 +786,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-10-03T17:29:54.000Z"
+      "updatedAt": "2026-10-03T20:23:57.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -871,7 +871,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-03T13:57:26.000Z"
+      "updatedAt": "2026-10-03T19:13:41.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -939,7 +939,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-03T17:30:07.000Z"
+      "updatedAt": "2026-10-03T19:19:22.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1057,7 +1057,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-03T17:25:47.000Z"
+      "updatedAt": "2026-10-03T20:36:35.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1112,7 +1112,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-03T17:46:16.000Z"
+      "updatedAt": "2026-10-03T20:40:35.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1194,7 +1194,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-03T17:47:51.000Z"
+      "updatedAt": "2026-10-03T19:01:38.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -1319,7 +1319,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-03T12:48:37.000Z"
+      "updatedAt": "2026-10-03T20:04:28.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1341,7 +1341,7 @@
         "url": "https://github.com/zenstory-ai/oh-story-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-03T17:40:03.000Z"
+      "updatedAt": "2026-10-03T18:31:04.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1425,7 +1425,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-03T16:57:56.000Z"
+      "updatedAt": "2026-10-03T18:11:50.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1554,7 +1554,7 @@
         "url": "https://github.com/vlln/whale-girl"
       },
       "license": "MIT",
-      "updatedAt": "2026-08-31T09:40:54.000Z"
+      "updatedAt": "2026-10-03T18:16:43.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
@@ -1667,7 +1667,7 @@
         "volcengine",
         "volcano"
       ],
-      "updatedAt": "2026-10-03T14:22:03.000Z"
+      "updatedAt": "2026-10-03T20:18:25.000Z"
     },
     {
       "id": "chokwinlee/deepseek-harness-desktop",
