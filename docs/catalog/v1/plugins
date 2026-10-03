@@ -184,7 +184,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-02T20:02:26.000Z"
+      "updatedAt": "2026-10-03T01:02:46.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -219,7 +219,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-02T21:49:17.000Z"
+      "updatedAt": "2026-10-03T00:53:06.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -565,7 +565,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-02T21:49:57.000Z"
+      "updatedAt": "2026-10-02T23:19:47.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -589,7 +589,7 @@
         "evidence",
         "worldline"
       ],
-      "updatedAt": "2026-10-02T21:52:45.000Z"
+      "updatedAt": "2026-10-02T23:02:41.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -621,7 +621,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-02T16:12:50.000Z"
+      "updatedAt": "2026-10-03T00:56:34.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -693,17 +693,6 @@
       "updatedAt": "2026-10-01T07:58:07.000Z"
     },
     {
-      "id": "Aisland-SJL/dsh-worktable",
-      "name": "Aisland-SJL/dsh-worktable",
-      "displayName": "dsh-worktable",
-      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "repository": {
-        "url": "https://github.com/Aisland-SJL/dsh-worktable"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-02T04:59:38.000Z"
-    },
-    {
       "id": "zouyuxuan122/dsh-our-free-model",
       "name": "dsh-our-free-model",
       "displayName": "dsh-our-free-model",
@@ -719,6 +708,17 @@
         "llm-provider"
       ],
       "updatedAt": "2026-10-02T17:50:41.000Z"
+    },
+    {
+      "id": "Aisland-SJL/dsh-worktable",
+      "name": "Aisland-SJL/dsh-worktable",
+      "displayName": "dsh-worktable",
+      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+      "repository": {
+        "url": "https://github.com/Aisland-SJL/dsh-worktable"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-02T04:59:38.000Z"
     },
     {
       "id": "antibrow/dsh-antibrow",
@@ -1092,7 +1092,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-02T18:11:00.000Z"
+      "updatedAt": "2026-10-02T22:28:32.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1141,7 +1141,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-02T16:34:03.000Z"
+      "updatedAt": "2026-10-02T22:58:16.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1629,7 +1629,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-02T08:25:47.000Z"
+      "updatedAt": "2026-10-03T00:14:49.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
