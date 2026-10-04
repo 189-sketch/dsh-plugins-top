@@ -106,7 +106,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-03T11:56:10.000Z"
+      "updatedAt": "2026-10-04T00:04:53.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -120,7 +120,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-03T17:51:12.000Z"
+      "updatedAt": "2026-10-04T00:23:12.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -184,7 +184,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-03T16:22:48.000Z"
+      "updatedAt": "2026-10-04T00:29:02.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -208,7 +208,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-03T19:22:04.000Z"
+      "updatedAt": "2026-10-04T00:24:15.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -477,7 +477,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-03T19:36:21.000Z"
+      "updatedAt": "2026-10-03T23:12:00.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -512,7 +512,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-03T16:35:32.000Z"
+      "updatedAt": "2026-10-03T22:36:08.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -535,29 +535,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-03T08:27:53.000Z"
-    },
-    {
-      "id": "ysr666/dsh-vision-router",
-      "name": "dsh-vision-router",
-      "displayName": "dsh-vision-router",
-      "summary": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-      "repository": {
-        "url": "https://github.com/ysr666/dsh-vision-router"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "vision",
-        "vision-tools",
-        "multimodal",
-        "openrouter",
-        "image",
-        "ocr",
-        "screenshot",
-        "plugin"
-      ],
-      "updatedAt": "2026-10-03T19:49:04.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -590,6 +567,29 @@
         "local-first"
       ],
       "updatedAt": "2026-10-03T15:27:20.000Z"
+    },
+    {
+      "id": "ysr666/dsh-vision-router",
+      "name": "dsh-vision-router",
+      "displayName": "dsh-vision-router",
+      "summary": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+      "repository": {
+        "url": "https://github.com/ysr666/dsh-vision-router"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "vision",
+        "vision-tools",
+        "multimodal",
+        "openrouter",
+        "image",
+        "ocr",
+        "screenshot",
+        "plugin"
+      ],
+      "updatedAt": "2026-10-03T19:49:04.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -786,7 +786,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-10-03T20:23:57.000Z"
+      "updatedAt": "2026-10-04T00:00:37.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -1112,7 +1112,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-03T20:40:35.000Z"
+      "updatedAt": "2026-10-03T21:35:05.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1554,7 +1554,7 @@
         "url": "https://github.com/vlln/whale-girl"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-03T18:16:43.000Z"
+      "updatedAt": "2026-10-04T00:25:10.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
