@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-04T09:31:09.000Z"
+      "updatedAt": "2026-10-04T23:44:05.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -161,7 +161,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-04T01:28:45.000Z"
+      "updatedAt": "2026-10-04T23:23:40.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -208,7 +208,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-04T20:16:10.000Z"
+      "updatedAt": "2026-10-04T23:50:42.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -359,7 +359,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-04T09:09:49.000Z"
+      "updatedAt": "2026-10-04T23:14:46.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -420,7 +420,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-04T20:55:35.000Z"
+      "updatedAt": "2026-10-04T21:17:59.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -481,7 +481,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-04T20:35:26.000Z"
+      "updatedAt": "2026-10-05T00:14:50.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -544,7 +544,18 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-04T20:58:25.000Z"
+      "updatedAt": "2026-10-05T00:32:55.000Z"
+    },
+    {
+      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+      "name": "cloudbase-ai-toolkit",
+      "displayName": "CloudBase-AI-Toolkit",
+      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+      "repository": {
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-04T08:40:08.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -577,17 +588,6 @@
         "local-first"
       ],
       "updatedAt": "2026-10-04T21:06:09.000Z"
-    },
-    {
-      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
-      "name": "cloudbase-ai-toolkit",
-      "displayName": "CloudBase-AI-Toolkit",
-      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
-      "repository": {
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-04T08:40:08.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -790,7 +790,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-10-04T15:45:32.000Z"
+      "updatedAt": "2026-10-05T00:25:04.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -1142,7 +1142,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-04T18:41:18.000Z"
+      "updatedAt": "2026-10-05T00:00:52.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1615,7 +1615,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-04T13:22:11.000Z"
+      "updatedAt": "2026-10-05T00:15:46.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1675,6 +1675,26 @@
       "updatedAt": "2026-09-24T21:40:18.000Z"
     },
     {
+      "id": "chokwinlee/deepseek-harness-desktop",
+      "name": "dsh-desktop",
+      "displayName": "deepseek-harness-desktop",
+      "summary": "Compact DeepSeek Harness desktop host with a native SwiftUI iPhone Remote source preview.",
+      "repository": {
+        "url": "https://github.com/chokwinlee/deepseek-harness-desktop"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "tauri",
+        "lightweight",
+        "small-bundle",
+        "desktop",
+        "macos",
+        "windows"
+      ],
+      "updatedAt": "2026-10-01T18:12:51.000Z"
+    },
+    {
       "id": "corrinehu/dsh-workbuddy-connect",
       "name": "dsh-workbuddy-connect",
       "displayName": "dsh-workbuddy-connect",
@@ -1702,26 +1722,6 @@
       },
       "license": "BSD-3-Clause",
       "updatedAt": "2026-09-29T13:34:34.000Z"
-    },
-    {
-      "id": "chokwinlee/deepseek-harness-desktop",
-      "name": "dsh-desktop",
-      "displayName": "deepseek-harness-desktop",
-      "summary": "Compact DeepSeek Harness desktop host with a native SwiftUI iPhone Remote source preview.",
-      "repository": {
-        "url": "https://github.com/chokwinlee/deepseek-harness-desktop"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "tauri",
-        "lightweight",
-        "small-bundle",
-        "desktop",
-        "macos",
-        "windows"
-      ],
-      "updatedAt": "2026-10-01T18:12:51.000Z"
     },
     {
       "id": "libukai/awesome-deepseek-harness",
