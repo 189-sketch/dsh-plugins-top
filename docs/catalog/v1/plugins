@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-07T13:34:52.000Z"
+      "updatedAt": "2026-10-08T00:08:18.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-07T19:28:20.000Z"
+      "updatedAt": "2026-10-07T21:59:28.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -161,7 +161,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-07T17:45:43.000Z"
+      "updatedAt": "2026-10-07T23:35:23.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -203,7 +203,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-07T19:24:01.000Z"
+      "updatedAt": "2026-10-07T22:24:06.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -437,7 +437,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-07T15:41:01.000Z"
+      "updatedAt": "2026-10-08T00:04:32.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -482,25 +482,6 @@
       "updatedAt": "2026-10-05T16:08:25.000Z"
     },
     {
-      "id": "GanyuanRan/Aegis",
-      "name": "aegis",
-      "displayName": "Aegis",
-      "summary": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
-      "repository": {
-        "url": "https://github.com/GanyuanRan/Aegis"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "agent-skills",
-        "aegis",
-        "method-pack",
-        "dsh-plugin",
-        "deepseek-harness"
-      ],
-      "updatedAt": "2026-10-03T03:37:56.000Z"
-    },
-    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -522,7 +503,26 @@
         "evidence",
         "worldline"
       ],
-      "updatedAt": "2026-10-07T16:07:18.000Z"
+      "updatedAt": "2026-10-07T20:25:12.000Z"
+    },
+    {
+      "id": "GanyuanRan/Aegis",
+      "name": "aegis",
+      "displayName": "Aegis",
+      "summary": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
+      "repository": {
+        "url": "https://github.com/GanyuanRan/Aegis"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "agent-skills",
+        "aegis",
+        "method-pack",
+        "dsh-plugin",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-10-03T03:37:56.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -700,7 +700,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-07T19:37:08.000Z"
+      "updatedAt": "2026-10-07T20:59:46.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -938,26 +938,6 @@
       "updatedAt": "2026-10-01T00:45:49.000Z"
     },
     {
-      "id": "superdesigndev/superdesign-skill",
-      "name": "superdesign-dsh",
-      "displayName": "superdesign-skill",
-      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
-      "repository": {
-        "url": "https://github.com/superdesigndev/superdesign-skill"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "design",
-        "ui-design",
-        "presentations",
-        "slide-decks",
-        "infinite-canvas"
-      ],
-      "updatedAt": "2026-08-21T05:23:23.000Z"
-    },
-    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -982,6 +962,26 @@
         "pi-package"
       ],
       "updatedAt": "2026-10-07T17:53:49.000Z"
+    },
+    {
+      "id": "superdesigndev/superdesign-skill",
+      "name": "superdesign-dsh",
+      "displayName": "superdesign-skill",
+      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+      "repository": {
+        "url": "https://github.com/superdesigndev/superdesign-skill"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "design",
+        "ui-design",
+        "presentations",
+        "slide-decks",
+        "infinite-canvas"
+      ],
+      "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1033,7 +1033,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-07T16:23:57.000Z"
+      "updatedAt": "2026-10-08T00:09:17.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1054,7 +1054,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-07T19:26:35.000Z"
+      "updatedAt": "2026-10-07T21:26:23.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1142,7 +1142,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-07T17:31:38.000Z"
+      "updatedAt": "2026-10-07T23:12:05.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1434,7 +1434,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-07T01:22:48.000Z"
+      "updatedAt": "2026-10-07T20:16:00.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1593,7 +1593,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-07T19:42:27.000Z"
+      "updatedAt": "2026-10-07T23:02:05.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
