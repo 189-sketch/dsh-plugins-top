@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-09T00:06:41.000Z"
+      "updatedAt": "2026-10-09T08:20:44.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -40,7 +40,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-08T08:46:37.000Z"
+      "updatedAt": "2026-10-09T07:34:22.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-09T00:15:33.000Z"
+      "updatedAt": "2026-10-09T02:53:41.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -161,7 +161,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-08T23:59:09.000Z"
+      "updatedAt": "2026-10-09T08:00:33.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -178,7 +178,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-08T14:51:43.000Z"
+      "updatedAt": "2026-10-09T08:05:36.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-09T00:07:51.000Z"
+      "updatedAt": "2026-10-09T07:46:34.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -254,7 +254,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-08T14:46:33.000Z"
+      "updatedAt": "2026-10-09T02:29:34.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -280,7 +280,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-10-08T17:32:45.000Z"
+      "updatedAt": "2026-10-09T02:16:27.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -345,7 +345,7 @@
         "ai-agent",
         "llm"
       ],
-      "updatedAt": "2026-10-05T04:51:46.000Z"
+      "updatedAt": "2026-10-09T06:08:36.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -365,7 +365,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-08T17:42:25.000Z"
+      "updatedAt": "2026-10-09T07:06:50.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -446,7 +446,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-08T16:41:31.000Z"
+      "updatedAt": "2026-10-09T08:32:16.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -481,7 +481,7 @@
         "evidence",
         "worldline"
       ],
-      "updatedAt": "2026-10-08T16:38:16.000Z"
+      "updatedAt": "2026-10-09T08:06:07.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -492,7 +492,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-08T22:13:19.000Z"
+      "updatedAt": "2026-10-09T08:25:45.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -511,7 +511,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-10-08T07:40:48.000Z"
+      "updatedAt": "2026-10-09T01:31:32.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -522,7 +522,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-08T15:00:19.000Z"
+      "updatedAt": "2026-10-09T02:30:30.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -576,7 +576,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-08T14:52:35.000Z"
+      "updatedAt": "2026-10-09T03:39:13.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -599,7 +599,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-08T17:36:23.000Z"
+      "updatedAt": "2026-10-09T01:20:55.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -610,7 +610,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-08T12:45:01.000Z"
+      "updatedAt": "2026-10-09T08:21:23.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -621,7 +621,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-08T18:20:59.000Z"
+      "updatedAt": "2026-10-09T08:09:04.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -668,7 +668,7 @@
         "url": "https://github.com/toby-bridges/api-relay-audit"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-08T17:06:00.000Z"
+      "updatedAt": "2026-10-09T06:44:00.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -698,7 +698,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-08T12:18:32.000Z"
+      "updatedAt": "2026-10-09T05:46:23.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -709,7 +709,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-08T19:05:01.000Z"
+      "updatedAt": "2026-10-09T06:39:28.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -720,7 +720,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-07T20:59:46.000Z"
+      "updatedAt": "2026-10-09T05:26:59.000Z"
     },
     {
       "id": "omdsh-dev/dsh-browser",
@@ -732,17 +732,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-01T07:58:07.000Z"
-    },
-    {
-      "id": "Aisland-SJL/dsh-worktable",
-      "name": "Aisland-SJL/dsh-worktable",
-      "displayName": "dsh-worktable",
-      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "repository": {
-        "url": "https://github.com/Aisland-SJL/dsh-worktable"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-03T05:03:23.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -763,7 +752,18 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-10-09T00:06:32.000Z"
+      "updatedAt": "2026-10-09T01:43:55.000Z"
+    },
+    {
+      "id": "Aisland-SJL/dsh-worktable",
+      "name": "Aisland-SJL/dsh-worktable",
+      "displayName": "dsh-worktable",
+      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+      "repository": {
+        "url": "https://github.com/Aisland-SJL/dsh-worktable"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-03T05:03:23.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
@@ -810,7 +810,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-10-09T00:14:37.000Z"
+      "updatedAt": "2026-10-09T05:08:22.000Z"
     },
     {
       "id": "myYangyunfan/dsh_desktop",
@@ -847,7 +847,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-08T23:57:10.000Z"
+      "updatedAt": "2026-10-09T08:33:12.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1004,6 +1004,16 @@
       "updatedAt": "2026-10-04T08:29:26.000Z"
     },
     {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-10-09T07:44:55.000Z"
+    },
+    {
       "id": "zhoushoujianwork/easyeda-agent",
       "name": "easyeda-agent-dsh",
       "displayName": "easyeda-agent",
@@ -1013,27 +1023,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-10-08T14:17:31.000Z"
-    },
-    {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-10-08T08:11:35.000Z"
-    },
-    {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-08T21:25:08.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1067,6 +1056,17 @@
         "cordis"
       ],
       "updatedAt": "2026-10-08T05:16:03.000Z"
+    },
+    {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-09T06:26:00.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1139,7 +1139,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-08T23:25:10.000Z"
+      "updatedAt": "2026-10-09T06:16:21.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1177,7 +1177,7 @@
         "youtube",
         "reddit"
       ],
-      "updatedAt": "2026-10-08T15:44:33.000Z"
+      "updatedAt": "2026-10-09T03:10:14.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
@@ -1233,6 +1233,17 @@
       "updatedAt": "2026-10-08T02:39:17.000Z"
     },
     {
+      "id": "zenstory-ai/oh-story-dsh",
+      "name": "oh-story-dsh",
+      "displayName": "oh-story-dsh",
+      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
+      "repository": {
+        "url": "https://github.com/zenstory-ai/oh-story-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-09T02:36:39.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
@@ -1274,17 +1285,6 @@
         "supermemory"
       ],
       "updatedAt": "2026-10-08T23:21:34.000Z"
-    },
-    {
-      "id": "zenstory-ai/oh-story-dsh",
-      "name": "oh-story-dsh",
-      "displayName": "oh-story-dsh",
-      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
-      "repository": {
-        "url": "https://github.com/zenstory-ai/oh-story-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-08T12:24:42.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1347,7 +1347,7 @@
         "github-copilot",
         "google-antigravity"
       ],
-      "updatedAt": "2026-10-08T23:47:14.000Z"
+      "updatedAt": "2026-10-09T00:25:31.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1413,7 +1413,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-08T20:12:51.000Z"
+      "updatedAt": "2026-10-09T01:27:47.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1462,7 +1462,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-10-08T13:34:29.000Z"
+      "updatedAt": "2026-10-09T07:16:11.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
@@ -1487,7 +1487,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-08T07:28:25.000Z"
+      "updatedAt": "2026-10-09T00:19:53.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1511,6 +1511,17 @@
       "updatedAt": "2026-09-20T07:21:18.000Z"
     },
     {
+      "id": "theBigGavin/marketingdashboard",
+      "name": "my-app",
+      "displayName": "marketingdashboard",
+      "summary": "面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single screen: CN/HK/US indices, commodities, treasury yields, sector hotspots, capital flows, 7×24 news, industry-chain watchlists and AI token usage trends.",
+      "repository": {
+        "url": "https://github.com/theBigGavin/marketingdashboard"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-28T20:11:15.000Z"
+    },
+    {
       "id": "FuRongJun-1999/dsh-memory",
       "name": "@furongjun1999/dsh-memory",
       "displayName": "dsh-memory",
@@ -1532,18 +1543,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-09T00:14:34.000Z"
-    },
-    {
-      "id": "theBigGavin/marketingdashboard",
-      "name": "my-app",
-      "displayName": "marketingdashboard",
-      "summary": "面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single screen: CN/HK/US indices, commodities, treasury yields, sector hotspots, capital flows, 7×24 news, industry-chain watchlists and AI token usage trends.",
-      "repository": {
-        "url": "https://github.com/theBigGavin/marketingdashboard"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-28T20:11:15.000Z"
+      "updatedAt": "2026-10-09T08:34:01.000Z"
     },
     {
       "id": "vlln/whale-girl",
@@ -1704,6 +1704,16 @@
       "updatedAt": "2026-10-01T18:12:51.000Z"
     },
     {
+      "id": "libukai/awesome-deepseek-harness",
+      "name": "libukai/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
+      "repository": {
+        "url": "https://github.com/libukai/awesome-deepseek-harness"
+      },
+      "updatedAt": "2026-09-12T05:53:00.000Z"
+    },
+    {
       "id": "huiliyi37/dsh-tianshu-tui",
       "name": "@huiliyi37/dsh-tianshu-tui",
       "displayName": "dsh-tianshu-tui",
@@ -1720,16 +1730,6 @@
         "cli"
       ],
       "updatedAt": "2026-09-30T11:13:01.000Z"
-    },
-    {
-      "id": "libukai/awesome-deepseek-harness",
-      "name": "libukai/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness 终极指南：快速入门、资源推荐、精选插件与实用工具 ｜The Ultimate Guide to DeepSeek Harness: QuickStart, Resources, Plugins&Toolkit",
-      "repository": {
-        "url": "https://github.com/libukai/awesome-deepseek-harness"
-      },
-      "updatedAt": "2026-09-12T05:53:00.000Z"
     }
   ],
   "page": {
