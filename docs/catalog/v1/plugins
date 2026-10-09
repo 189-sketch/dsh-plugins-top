@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-09T16:46:05.000Z"
+      "updatedAt": "2026-10-09T21:51:26.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-09T16:22:10.000Z"
+      "updatedAt": "2026-10-09T18:02:06.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -178,7 +178,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-09T14:03:40.000Z"
+      "updatedAt": "2026-10-09T19:36:39.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-09T16:50:02.000Z"
+      "updatedAt": "2026-10-09T22:01:44.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -280,7 +280,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-09T16:40:36.000Z"
+      "updatedAt": "2026-10-09T17:35:11.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -365,7 +365,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-09T16:51:22.000Z"
+      "updatedAt": "2026-10-09T18:20:45.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -492,7 +492,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-09T16:53:09.000Z"
+      "updatedAt": "2026-10-09T21:44:33.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -525,6 +525,17 @@
       "updatedAt": "2026-10-09T02:30:30.000Z"
     },
     {
+      "id": "0xsline/awesome-deepseek-harness",
+      "name": "0xsline/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "repository": {
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      "license": "CC0-1.0",
+      "updatedAt": "2026-09-30T11:34:37.000Z"
+    },
+    {
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
@@ -554,18 +565,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-09T16:39:28.000Z"
-    },
-    {
-      "id": "0xsline/awesome-deepseek-harness",
-      "name": "0xsline/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "repository": {
-        "url": "https://github.com/0xsline/awesome-deepseek-harness"
-      },
-      "license": "CC0-1.0",
-      "updatedAt": "2026-09-30T11:34:37.000Z"
+      "updatedAt": "2026-10-09T21:24:02.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -599,7 +599,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-09T15:24:59.000Z"
+      "updatedAt": "2026-10-09T17:42:09.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -709,7 +709,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-09T06:39:28.000Z"
+      "updatedAt": "2026-10-09T17:02:59.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -766,6 +766,32 @@
       "updatedAt": "2026-10-03T05:03:23.000Z"
     },
     {
+      "id": "ranxianglei/billion-context",
+      "name": "billion-context",
+      "displayName": "billion-context",
+      "summary": "稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "repository": {
+        "url": "https://github.com/ranxianglei/billion-context"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "context",
+        "compression",
+        "proxy",
+        "acp",
+        "ai",
+        "agent",
+        "claude-code",
+        "cursor",
+        "codex",
+        "aider",
+        "anthropic",
+        "openai",
+        "pi-package"
+      ],
+      "updatedAt": "2026-10-09T18:29:41.000Z"
+    },
+    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -811,32 +837,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-10-09T11:27:59.000Z"
-    },
-    {
-      "id": "ranxianglei/billion-context",
-      "name": "billion-context",
-      "displayName": "billion-context",
-      "summary": "稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-      "repository": {
-        "url": "https://github.com/ranxianglei/billion-context"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "context",
-        "compression",
-        "proxy",
-        "acp",
-        "ai",
-        "agent",
-        "claude-code",
-        "cursor",
-        "codex",
-        "aider",
-        "anthropic",
-        "openai",
-        "pi-package"
-      ],
-      "updatedAt": "2026-10-09T16:51:05.000Z"
     },
     {
       "id": "myYangyunfan/dsh_desktop",
@@ -1025,6 +1025,37 @@
       "updatedAt": "2026-10-09T11:19:50.000Z"
     },
     {
+      "id": "chenxiachan/thoughtdag",
+      "name": "thoughtdag",
+      "displayName": "thoughtdag",
+      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "repository": {
+        "url": "https://github.com/chenxiachan/thoughtdag"
+      },
+      "license": "MIT",
+      "keywords": [
+        "llm",
+        "dag",
+        "canvas",
+        "react-flow",
+        "ai",
+        "knowledge-graph",
+        "research-tool"
+      ],
+      "updatedAt": "2026-10-07T19:43:52.000Z"
+    },
+    {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-09T21:05:17.000Z"
+    },
+    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1056,37 +1087,6 @@
         "cordis"
       ],
       "updatedAt": "2026-10-09T09:04:58.000Z"
-    },
-    {
-      "id": "chenxiachan/thoughtdag",
-      "name": "thoughtdag",
-      "displayName": "thoughtdag",
-      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
-      "repository": {
-        "url": "https://github.com/chenxiachan/thoughtdag"
-      },
-      "license": "MIT",
-      "keywords": [
-        "llm",
-        "dag",
-        "canvas",
-        "react-flow",
-        "ai",
-        "knowledge-graph",
-        "research-tool"
-      ],
-      "updatedAt": "2026-10-07T19:43:52.000Z"
-    },
-    {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-09T11:36:17.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1139,7 +1139,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-09T13:44:31.000Z"
+      "updatedAt": "2026-10-09T18:33:53.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1367,17 +1367,6 @@
       "updatedAt": "2026-10-09T12:46:15.000Z"
     },
     {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1402,7 +1391,18 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-10-09T13:47:04.000Z"
+      "updatedAt": "2026-10-09T18:36:24.000Z"
+    },
+    {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1413,7 +1413,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-09T16:29:18.000Z"
+      "updatedAt": "2026-10-09T19:49:20.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1532,7 +1532,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-09T16:52:32.000Z"
+      "updatedAt": "2026-10-09T22:15:25.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
@@ -1684,6 +1684,26 @@
       "updatedAt": "2026-09-29T13:34:34.000Z"
     },
     {
+      "id": "liguobao/ds-harness-remote",
+      "name": "ds-harness-remote",
+      "displayName": "ds-harness-remote",
+      "summary": "一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)",
+      "repository": {
+        "url": "https://github.com/liguobao/ds-harness-remote"
+      },
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "codex",
+        "remote-development",
+        "end-to-end-encryption",
+        "webrtc"
+      ],
+      "updatedAt": "2026-10-09T16:33:57.000Z"
+    },
+    {
       "id": "chokwinlee/deepseek-harness-desktop",
       "name": "dsh-desktop",
       "displayName": "deepseek-harness-desktop",
@@ -1712,24 +1732,6 @@
         "url": "https://github.com/libukai/awesome-deepseek-harness"
       },
       "updatedAt": "2026-09-12T05:53:00.000Z"
-    },
-    {
-      "id": "huiliyi37/dsh-tianshu-tui",
-      "name": "@huiliyi37/dsh-tianshu-tui",
-      "displayName": "dsh-tianshu-tui",
-      "summary": "官方 DeepSeek Harness 的交互式终端 UI 插件：自研 ANSI 极简交互渲染、流式 Markdown/工具卡、16+ 主题、slash 命令与选择器、输入历史与本地偏好持久化、LSP 诊断、memory记忆，很丝滑的开发体验。",
-      "repository": {
-        "url": "https://github.com/huiliyi37/dsh-tianshu-tui"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "agent-harness",
-        "terminal",
-        "tui",
-        "cli"
-      ],
-      "updatedAt": "2026-09-30T11:13:01.000Z"
     }
   ],
   "page": {
