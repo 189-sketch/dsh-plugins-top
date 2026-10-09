@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-08T19:24:02.000Z"
+      "updatedAt": "2026-10-09T00:06:41.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-08T00:16:49.000Z"
+      "updatedAt": "2026-10-09T00:15:33.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -73,7 +73,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-08T18:58:43.000Z"
+      "updatedAt": "2026-10-08T21:09:53.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -161,7 +161,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-08T16:26:22.000Z"
+      "updatedAt": "2026-10-08T23:59:09.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-08T19:40:21.000Z"
+      "updatedAt": "2026-10-09T00:07:51.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -460,17 +460,6 @@
       "updatedAt": "2026-10-08T09:24:13.000Z"
     },
     {
-      "id": "EthanYoQ/AI-Novel-Writer",
-      "name": "ai-novel-writer",
-      "displayName": "AI-Novel-Writer",
-      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
-      },
-      "license": "GPL-3.0",
-      "updatedAt": "2026-10-08T13:04:45.000Z"
-    },
-    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -493,6 +482,17 @@
         "worldline"
       ],
       "updatedAt": "2026-10-08T16:38:16.000Z"
+    },
+    {
+      "id": "EthanYoQ/AI-Novel-Writer",
+      "name": "ai-novel-writer",
+      "displayName": "AI-Novel-Writer",
+      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
+      },
+      "license": "GPL-3.0",
+      "updatedAt": "2026-10-08T22:13:19.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -554,7 +554,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-08T17:13:52.000Z"
+      "updatedAt": "2026-10-08T22:49:35.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -763,7 +763,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-10-08T13:35:15.000Z"
+      "updatedAt": "2026-10-09T00:06:32.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
@@ -810,7 +810,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-10-08T17:11:20.000Z"
+      "updatedAt": "2026-10-09T00:14:37.000Z"
     },
     {
       "id": "myYangyunfan/dsh_desktop",
@@ -847,7 +847,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-08T19:37:15.000Z"
+      "updatedAt": "2026-10-08T23:57:10.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1033,7 +1033,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-08T19:21:25.000Z"
+      "updatedAt": "2026-10-08T21:25:08.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1139,7 +1139,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-08T19:09:34.000Z"
+      "updatedAt": "2026-10-08T23:25:10.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1273,7 +1273,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-08T16:26:50.000Z"
+      "updatedAt": "2026-10-08T23:21:34.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1347,7 +1347,7 @@
         "github-copilot",
         "google-antigravity"
       ],
-      "updatedAt": "2026-10-08T10:20:23.000Z"
+      "updatedAt": "2026-10-08T23:47:14.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1413,7 +1413,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-08T10:44:36.000Z"
+      "updatedAt": "2026-10-08T20:12:51.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1532,7 +1532,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-08T19:35:13.000Z"
+      "updatedAt": "2026-10-09T00:14:34.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
