@@ -222,7 +222,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-10-09T16:22:27.000Z"
+      "updatedAt": "2026-10-10T19:39:17.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-10T16:45:42.000Z"
+      "updatedAt": "2026-10-10T21:09:31.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -446,7 +446,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-10T07:58:19.000Z"
+      "updatedAt": "2026-10-10T19:09:34.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -528,7 +528,7 @@
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
-      "summary": "Memory for Claude Code, Codex, Cursor and 35 more coding agents, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.",
+      "summary": "Memory for Claude Code, Codex, Cursor and 38 more coding agents, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.",
       "repository": {
         "url": "https://github.com/vshulcz/deja-vu"
       },
@@ -554,7 +554,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-10T16:12:05.000Z"
+      "updatedAt": "2026-10-10T18:22:55.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -566,17 +566,6 @@
       },
       "license": "CC0-1.0",
       "updatedAt": "2026-10-10T03:01:56.000Z"
-    },
-    {
-      "id": "agentrq/agentrq",
-      "name": "agentrq/agentrq",
-      "displayName": "agentrq",
-      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
-      "repository": {
-        "url": "https://github.com/agentrq/agentrq"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-10T07:22:42.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -602,6 +591,17 @@
       "updatedAt": "2026-10-10T08:08:30.000Z"
     },
     {
+      "id": "agentrq/agentrq",
+      "name": "agentrq/agentrq",
+      "displayName": "agentrq",
+      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
+      "repository": {
+        "url": "https://github.com/agentrq/agentrq"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-10T21:14:20.000Z"
+    },
+    {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
       "name": "cloudbase-ai-toolkit",
       "displayName": "CloudBase-AI-Toolkit",
@@ -621,7 +621,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-10T07:32:33.000Z"
+      "updatedAt": "2026-10-10T19:16:37.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -651,7 +651,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-10T12:17:23.000Z"
+      "updatedAt": "2026-10-10T21:01:10.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -730,7 +730,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-10-10T15:36:02.000Z"
+      "updatedAt": "2026-10-10T19:16:02.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -758,7 +758,7 @@
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
-      "summary": "稳定可用 A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "summary": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "repository": {
         "url": "https://github.com/ranxianglei/billion-context"
       },
@@ -778,7 +778,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-10T16:44:47.000Z"
+      "updatedAt": "2026-10-10T18:22:06.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -847,7 +847,7 @@
         "url": "https://github.com/myYangyunfan/dsh_desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-10T12:29:57.000Z"
+      "updatedAt": "2026-10-10T18:24:11.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1053,7 +1053,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-10T02:42:04.000Z"
+      "updatedAt": "2026-10-10T20:12:36.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1139,7 +1139,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-10T17:00:04.000Z"
+      "updatedAt": "2026-10-10T21:13:04.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1413,7 +1413,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-10T01:35:27.000Z"
+      "updatedAt": "2026-10-10T18:50:24.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1435,7 +1435,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-10-10T13:38:50.000Z"
+      "updatedAt": "2026-10-10T17:54:47.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1516,42 +1516,7 @@
         "workbuddy",
         "model-provider"
       ],
-      "updatedAt": "2026-10-08T06:55:05.000Z"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-memory",
-      "name": "@furongjun1999/dsh-memory",
-      "displayName": "dsh-memory",
-      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
-      "repository": {
-        "url": "https://github.com/FuRongJun-1999/dsh-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "dsh",
-        "dsh-plugin",
-        "cordis",
-        "memory",
-        "agent",
-        "aeis",
-        "lingshu",
-        "multi-agent",
-        "spatiotemporal",
-        "knowledge-graph"
-      ],
-      "updatedAt": "2026-10-10T16:45:16.000Z"
-    },
-    {
-      "id": "theBigGavin/marketingdashboard",
-      "name": "my-app",
-      "displayName": "marketingdashboard",
-      "summary": "面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single screen: CN/HK/US indices, commodities, treasury yields, sector hotspots, capital flows, 7×24 news, industry-chain watchlists and AI token usage trends.",
-      "repository": {
-        "url": "https://github.com/theBigGavin/marketingdashboard"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-28T20:11:15.000Z"
+      "updatedAt": "2026-10-10T18:04:09.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1592,6 +1557,41 @@
         "zhihu"
       ],
       "updatedAt": "2026-10-10T12:43:55.000Z"
+    },
+    {
+      "id": "FuRongJun-1999/dsh-memory",
+      "name": "@furongjun1999/dsh-memory",
+      "displayName": "dsh-memory",
+      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
+      "repository": {
+        "url": "https://github.com/FuRongJun-1999/dsh-memory"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "dsh",
+        "dsh-plugin",
+        "cordis",
+        "memory",
+        "agent",
+        "aeis",
+        "lingshu",
+        "multi-agent",
+        "spatiotemporal",
+        "knowledge-graph"
+      ],
+      "updatedAt": "2026-10-10T17:20:28.000Z"
+    },
+    {
+      "id": "theBigGavin/marketingdashboard",
+      "name": "my-app",
+      "displayName": "marketingdashboard",
+      "summary": "面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single screen: CN/HK/US indices, commodities, treasury yields, sector hotspots, capital flows, 7×24 news, industry-chain watchlists and AI token usage trends.",
+      "repository": {
+        "url": "https://github.com/theBigGavin/marketingdashboard"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-28T20:11:15.000Z"
     },
     {
       "id": "linhay/harmony-next.skills",
