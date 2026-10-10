@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-10T11:50:26.000Z"
+      "updatedAt": "2026-10-10T16:54:42.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -29,7 +29,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-10T08:30:40.000Z"
+      "updatedAt": "2026-10-10T16:45:42.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -51,7 +51,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-10T03:07:41.000Z"
+      "updatedAt": "2026-10-10T15:40:56.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -62,7 +62,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-10T11:40:33.000Z"
+      "updatedAt": "2026-10-10T14:41:48.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -123,7 +123,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-10T08:42:06.000Z"
+      "updatedAt": "2026-10-10T14:50:18.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -157,7 +157,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-10T08:40:43.000Z"
+      "updatedAt": "2026-10-10T16:53:08.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -178,7 +178,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-10T10:21:12.000Z"
+      "updatedAt": "2026-10-10T14:05:33.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -197,30 +197,6 @@
         "widget"
       ],
       "updatedAt": "2026-10-07T15:24:21.000Z"
-    },
-    {
-      "id": "ccch1mneyyy/dsh-TUI",
-      "name": "@deepseek-harness-tui/dsh-tui",
-      "displayName": "dsh-TUI",
-      "summary": "DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/dsh-TUI"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-tui",
-        "deepseek",
-        "deepseek-harness",
-        "cordis",
-        "tui",
-        "terminal",
-        "cli",
-        "ink",
-        "agent",
-        "coding-agent"
-      ],
-      "updatedAt": "2026-10-10T11:37:00.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -247,6 +223,30 @@
         "agent"
       ],
       "updatedAt": "2026-10-09T16:22:27.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/dsh-TUI",
+      "name": "@deepseek-harness-tui/dsh-tui",
+      "displayName": "dsh-TUI",
+      "summary": "DSH's officially top-recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方首推的 TUI 插件，高性能低占用，可爱像素鲸鱼，流畅鼠标交互，npm 一键安装",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/dsh-TUI"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-tui",
+        "deepseek",
+        "deepseek-harness",
+        "cordis",
+        "tui",
+        "terminal",
+        "cli",
+        "ink",
+        "agent",
+        "coding-agent"
+      ],
+      "updatedAt": "2026-10-10T16:45:42.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -365,7 +365,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-10T11:28:26.000Z"
+      "updatedAt": "2026-10-10T12:22:21.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -492,7 +492,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-10T08:04:22.000Z"
+      "updatedAt": "2026-10-10T16:57:30.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -511,7 +511,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-10-09T09:59:59.000Z"
+      "updatedAt": "2026-10-10T16:51:34.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -554,7 +554,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-10T11:52:00.000Z"
+      "updatedAt": "2026-10-10T16:12:05.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -651,7 +651,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-09T05:46:23.000Z"
+      "updatedAt": "2026-10-10T12:17:23.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -691,16 +691,6 @@
       "updatedAt": "2026-10-10T04:14:53.000Z"
     },
     {
-      "id": "Electricitysheep/dsh-handbook",
-      "name": "Electricitysheep/dsh-handbook",
-      "displayName": "dsh-handbook",
-      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "repository": {
-        "url": "https://github.com/Electricitysheep/dsh-handbook"
-      },
-      "updatedAt": "2026-10-04T01:28:20.000Z"
-    },
-    {
       "id": "flizzywine/dsh-tavern",
       "name": "dsh-profile-tavern",
       "displayName": "dsh-tavern",
@@ -709,18 +699,17 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-10T11:37:42.000Z"
+      "updatedAt": "2026-10-10T13:42:29.000Z"
     },
     {
-      "id": "LiPu-jpg/Openwrite",
-      "name": "dsh-openwrite",
-      "displayName": "Openwrite",
-      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+      "id": "Electricitysheep/dsh-handbook",
+      "name": "Electricitysheep/dsh-handbook",
+      "displayName": "dsh-handbook",
+      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "repository": {
-        "url": "https://github.com/LiPu-jpg/Openwrite"
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
       },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-10T11:40:07.000Z"
+      "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -741,7 +730,18 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-10-10T05:21:01.000Z"
+      "updatedAt": "2026-10-10T15:36:02.000Z"
+    },
+    {
+      "id": "LiPu-jpg/Openwrite",
+      "name": "dsh-openwrite",
+      "displayName": "Openwrite",
+      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+      "repository": {
+        "url": "https://github.com/LiPu-jpg/Openwrite"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-10T14:36:59.000Z"
     },
     {
       "id": "omdsh-dev/dsh-browser",
@@ -778,7 +778,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-10T11:46:08.000Z"
+      "updatedAt": "2026-10-10T16:44:47.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -847,7 +847,7 @@
         "url": "https://github.com/myYangyunfan/dsh_desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-10T11:53:54.000Z"
+      "updatedAt": "2026-10-10T12:29:57.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -986,6 +986,17 @@
       "updatedAt": "2026-10-04T08:29:26.000Z"
     },
     {
+      "id": "zhoushoujianwork/easyeda-agent",
+      "name": "easyeda-agent-dsh",
+      "displayName": "easyeda-agent",
+      "summary": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
+      "repository": {
+        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-08T14:17:31.000Z"
+    },
+    {
       "id": "mnemon-dev/mnemon",
       "name": "@mnemon-dev/dsh-mnemon",
       "displayName": "mnemon",
@@ -1002,17 +1013,6 @@
         "dsh-plugin"
       ],
       "updatedAt": "2026-10-08T12:52:07.000Z"
-    },
-    {
-      "id": "zhoushoujianwork/easyeda-agent",
-      "name": "easyeda-agent-dsh",
-      "displayName": "easyeda-agent",
-      "summary": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
-      "repository": {
-        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-08T14:17:31.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1115,7 +1115,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-08T08:44:03.000Z"
+      "updatedAt": "2026-10-10T15:38:34.000Z"
     },
     {
       "id": "Ikalus1988/MisakaNet",
@@ -1139,7 +1139,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-10T10:14:05.000Z"
+      "updatedAt": "2026-10-10T17:00:04.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1230,7 +1230,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-09T10:09:37.000Z"
+      "updatedAt": "2026-10-10T14:22:51.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1284,7 +1284,7 @@
         "url": "https://github.com/zenstory-ai/oh-story-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-09T02:36:39.000Z"
+      "updatedAt": "2026-10-10T12:22:31.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1324,7 +1324,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-10T01:18:17.000Z"
+      "updatedAt": "2026-10-10T16:15:37.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1435,7 +1435,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-09-11T18:41:51.000Z"
+      "updatedAt": "2026-10-10T13:38:50.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1487,7 +1487,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-09T00:19:53.000Z"
+      "updatedAt": "2026-10-10T14:31:16.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1519,17 +1519,6 @@
       "updatedAt": "2026-10-08T06:55:05.000Z"
     },
     {
-      "id": "theBigGavin/marketingdashboard",
-      "name": "my-app",
-      "displayName": "marketingdashboard",
-      "summary": "面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single screen: CN/HK/US indices, commodities, treasury yields, sector hotspots, capital flows, 7×24 news, industry-chain watchlists and AI token usage trends.",
-      "repository": {
-        "url": "https://github.com/theBigGavin/marketingdashboard"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-28T20:11:15.000Z"
-    },
-    {
       "id": "FuRongJun-1999/dsh-memory",
       "name": "@furongjun1999/dsh-memory",
       "displayName": "dsh-memory",
@@ -1551,17 +1540,18 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-10T11:32:53.000Z"
+      "updatedAt": "2026-10-10T16:45:16.000Z"
     },
     {
-      "id": "linhay/harmony-next.skills",
-      "name": "dsh-harmony-next",
-      "displayName": "harmony-next.skills",
-      "summary": "Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling.",
+      "id": "theBigGavin/marketingdashboard",
+      "name": "my-app",
+      "displayName": "marketingdashboard",
+      "summary": "面向金融与产业研究的一屏式实时行情大屏：A股/港股/美股指数、大宗商品、美债收益率、板块热点、主力资金流、7×24 快讯、产业链自选股、AI 大模型 Token 追踪。A real-time market research cockpit on a single screen: CN/HK/US indices, commodities, treasury yields, sector hotspots, capital flows, 7×24 news, industry-chain watchlists and AI token usage trends.",
       "repository": {
-        "url": "https://github.com/linhay/harmony-next.skills"
+        "url": "https://github.com/theBigGavin/marketingdashboard"
       },
-      "updatedAt": "2026-09-20T07:21:18.000Z"
+      "license": "MIT",
+      "updatedAt": "2026-09-28T20:11:15.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1601,7 +1591,17 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-10T07:47:34.000Z"
+      "updatedAt": "2026-10-10T12:43:55.000Z"
+    },
+    {
+      "id": "linhay/harmony-next.skills",
+      "name": "dsh-harmony-next",
+      "displayName": "harmony-next.skills",
+      "summary": "Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling.",
+      "repository": {
+        "url": "https://github.com/linhay/harmony-next.skills"
+      },
+      "updatedAt": "2026-09-20T07:21:18.000Z"
     },
     {
       "id": "vlln/whale-girl",
