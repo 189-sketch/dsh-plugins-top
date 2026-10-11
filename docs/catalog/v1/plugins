@@ -98,17 +98,6 @@
       "updatedAt": "2026-09-18T23:10:58.000Z"
     },
     {
-      "id": "Devin-AXIS/iPolloWork",
-      "name": "@ipollo/ipollowork-workspace",
-      "displayName": "iPolloWork",
-      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/iPolloWork"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-10T11:17:33.000Z"
-    },
-    {
       "id": "Ebony-Vinyl/dsh-our-free-model",
       "name": "dsh-our-free-model",
       "displayName": "dsh-our-free-model",
@@ -124,6 +113,17 @@
         "llm-provider"
       ],
       "updatedAt": "2026-10-10T14:50:18.000Z"
+    },
+    {
+      "id": "Devin-AXIS/iPolloWork",
+      "name": "@ipollo/ipollowork-workspace",
+      "displayName": "iPolloWork",
+      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/iPolloWork"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-10T11:17:33.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-10T21:09:31.000Z"
+      "updatedAt": "2026-10-10T23:57:56.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -365,7 +365,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-10T12:22:21.000Z"
+      "updatedAt": "2026-10-10T23:53:42.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -599,7 +599,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-10T21:14:20.000Z"
+      "updatedAt": "2026-10-10T21:44:20.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -621,7 +621,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-10T19:16:37.000Z"
+      "updatedAt": "2026-10-10T22:06:38.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -651,7 +651,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-10T21:01:10.000Z"
+      "updatedAt": "2026-10-10T21:26:31.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -680,17 +680,6 @@
       "updatedAt": "2026-10-08T02:38:31.000Z"
     },
     {
-      "id": "toby-bridges/api-relay-audit",
-      "name": "dsh-api-relay-audit",
-      "displayName": "api-relay-audit",
-      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
-      "repository": {
-        "url": "https://github.com/toby-bridges/api-relay-audit"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-10T04:14:53.000Z"
-    },
-    {
       "id": "flizzywine/dsh-tavern",
       "name": "dsh-profile-tavern",
       "displayName": "dsh-tavern",
@@ -700,6 +689,17 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-10-10T13:42:29.000Z"
+    },
+    {
+      "id": "toby-bridges/api-relay-audit",
+      "name": "dsh-api-relay-audit",
+      "displayName": "api-relay-audit",
+      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
+      "repository": {
+        "url": "https://github.com/toby-bridges/api-relay-audit"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-10T04:14:53.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -778,7 +778,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-10T18:22:06.000Z"
+      "updatedAt": "2026-10-11T00:48:23.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -1139,7 +1139,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-10T21:13:04.000Z"
+      "updatedAt": "2026-10-10T22:01:21.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1230,7 +1230,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-10T14:22:51.000Z"
+      "updatedAt": "2026-10-10T21:24:14.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1580,7 +1580,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-10T17:20:28.000Z"
+      "updatedAt": "2026-10-11T00:32:41.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
