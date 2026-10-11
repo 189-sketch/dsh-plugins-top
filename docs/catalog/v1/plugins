@@ -29,7 +29,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-11T14:02:40.000Z"
+      "updatedAt": "2026-10-11T16:57:03.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -41,17 +41,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-10-10T07:55:31.000Z"
-    },
-    {
-      "id": "zhu1090093659/dsh-web",
-      "name": "dsh-web",
-      "displayName": "dsh-web",
-      "summary": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
-      "repository": {
-        "url": "https://github.com/zhu1090093659/dsh-web"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-10T15:40:56.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -69,6 +58,17 @@
         "llm-provider"
       ],
       "updatedAt": "2026-10-11T15:01:10.000Z"
+    },
+    {
+      "id": "zhu1090093659/dsh-web",
+      "name": "dsh-web",
+      "displayName": "dsh-web",
+      "summary": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+      "repository": {
+        "url": "https://github.com/zhu1090093659/dsh-web"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-10T15:40:56.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -137,7 +137,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-11T10:55:11.000Z"
+      "updatedAt": "2026-10-11T19:56:32.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -157,7 +157,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-11T14:33:38.000Z"
+      "updatedAt": "2026-10-11T16:41:49.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-11T16:16:08.000Z"
+      "updatedAt": "2026-10-11T21:17:59.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -280,7 +280,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-11T16:06:40.000Z"
+      "updatedAt": "2026-10-11T18:00:53.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -365,7 +365,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-11T15:44:52.000Z"
+      "updatedAt": "2026-10-11T18:44:01.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -398,7 +398,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-11T02:31:10.000Z"
+      "updatedAt": "2026-10-11T17:51:17.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -468,7 +468,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-11T16:10:20.000Z"
+      "updatedAt": "2026-10-11T21:24:51.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -488,6 +488,17 @@
         "deepseek-harness"
       ],
       "updatedAt": "2026-10-11T08:27:42.000Z"
+    },
+    {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-10T10:40:37.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -512,17 +523,6 @@
         "worldline"
       ],
       "updatedAt": "2026-10-10T11:04:48.000Z"
-    },
-    {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-10T10:40:37.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -599,7 +599,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-11T06:33:54.000Z"
+      "updatedAt": "2026-10-11T21:32:15.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -630,7 +630,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-11T09:27:22.000Z"
+      "updatedAt": "2026-10-11T19:27:46.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -663,6 +663,32 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-10-11T16:08:17.000Z"
+    },
+    {
+      "id": "ranxianglei/billion-context",
+      "name": "billion-context",
+      "displayName": "billion-context",
+      "summary": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "repository": {
+        "url": "https://github.com/ranxianglei/billion-context"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "context",
+        "compression",
+        "proxy",
+        "acp",
+        "ai",
+        "agent",
+        "claude-code",
+        "cursor",
+        "codex",
+        "aider",
+        "anthropic",
+        "openai",
+        "pi-package"
+      ],
+      "updatedAt": "2026-10-11T19:41:50.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -700,32 +726,6 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-10-10T04:14:53.000Z"
-    },
-    {
-      "id": "ranxianglei/billion-context",
-      "name": "billion-context",
-      "displayName": "billion-context",
-      "summary": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-      "repository": {
-        "url": "https://github.com/ranxianglei/billion-context"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "context",
-        "compression",
-        "proxy",
-        "acp",
-        "ai",
-        "agent",
-        "claude-code",
-        "cursor",
-        "codex",
-        "aider",
-        "anthropic",
-        "openai",
-        "pi-package"
-      ],
-      "updatedAt": "2026-10-11T16:15:12.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -767,7 +767,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-10T14:36:59.000Z"
+      "updatedAt": "2026-10-11T19:52:40.000Z"
     },
     {
       "id": "omdsh-dev/dsh-browser",
@@ -994,7 +994,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-11T14:04:41.000Z"
+      "updatedAt": "2026-10-11T16:21:16.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1053,7 +1053,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-10T20:12:36.000Z"
+      "updatedAt": "2026-10-11T20:27:11.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1139,7 +1139,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-11T15:14:41.000Z"
+      "updatedAt": "2026-10-11T19:45:27.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1339,15 +1339,22 @@
       "updatedAt": "2026-10-09T00:25:31.000Z"
     },
     {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "id": "corrinehu/dsh-workbuddy-connect",
+      "name": "dsh-workbuddy-connect",
+      "displayName": "dsh-workbuddy-connect",
+      "summary": "将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.",
       "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+        "url": "https://github.com/corrinehu/dsh-workbuddy-connect"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-06T05:24:15.000Z"
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "deepseek",
+        "workbuddy",
+        "model-provider"
+      ],
+      "updatedAt": "2026-10-11T09:41:36.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1394,22 +1401,15 @@
       "updatedAt": "2026-10-10T05:47:31.000Z"
     },
     {
-      "id": "corrinehu/dsh-workbuddy-connect",
-      "name": "dsh-workbuddy-connect",
-      "displayName": "dsh-workbuddy-connect",
-      "summary": "将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.",
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
       "repository": {
-        "url": "https://github.com/corrinehu/dsh-workbuddy-connect"
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
       },
       "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "deepseek",
-        "workbuddy",
-        "model-provider"
-      ],
-      "updatedAt": "2026-10-11T09:41:36.000Z"
+      "updatedAt": "2026-10-06T05:24:15.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1431,7 +1431,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-11T06:14:13.000Z"
+      "updatedAt": "2026-10-11T19:10:28.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1458,7 +1458,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-10-11T15:41:46.000Z"
+      "updatedAt": "2026-10-11T16:48:59.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1480,7 +1480,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-10-10T17:54:47.000Z"
+      "updatedAt": "2026-10-11T17:17:28.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1540,7 +1540,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-11T16:15:11.000Z"
+      "updatedAt": "2026-10-11T17:30:40.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1580,7 +1580,26 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-11T16:02:18.000Z"
+      "updatedAt": "2026-10-11T20:48:09.000Z"
+    },
+    {
+      "id": "T-Auto/dsh-ops",
+      "name": "dsh-ops",
+      "displayName": "dsh-ops",
+      "summary": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "repository": {
+        "url": "https://github.com/T-Auto/dsh-ops"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "mcp",
+        "fastctx",
+        "repository-tools"
+      ],
+      "updatedAt": "2026-10-11T14:59:27.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
@@ -1631,25 +1650,6 @@
         "agent-preset"
       ],
       "updatedAt": "2026-08-24T18:20:09.000Z"
-    },
-    {
-      "id": "T-Auto/dsh-ops",
-      "name": "dsh-ops",
-      "displayName": "dsh-ops",
-      "summary": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-      "repository": {
-        "url": "https://github.com/T-Auto/dsh-ops"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "mcp",
-        "fastctx",
-        "repository-tools"
-      ],
-      "updatedAt": "2026-10-11T14:59:27.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1709,7 +1709,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-11T14:53:20.000Z"
+      "updatedAt": "2026-10-11T18:11:44.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-visualize",
