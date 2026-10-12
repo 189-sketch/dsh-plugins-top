@@ -60,17 +60,6 @@
       "updatedAt": "2026-10-11T15:01:10.000Z"
     },
     {
-      "id": "zhu1090093659/dsh-web",
-      "name": "dsh-web",
-      "displayName": "dsh-web",
-      "summary": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
-      "repository": {
-        "url": "https://github.com/zhu1090093659/dsh-web"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-10T15:40:56.000Z"
-    },
-    {
       "id": "Tencent/BrowserSkill",
       "name": "browser-skill",
       "displayName": "BrowserSkill",
@@ -80,6 +69,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-10T14:41:48.000Z"
+    },
+    {
+      "id": "zhu1090093659/dsh-web",
+      "name": "dsh-web",
+      "displayName": "dsh-web",
+      "summary": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+      "repository": {
+        "url": "https://github.com/zhu1090093659/dsh-web"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-10T15:40:56.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -178,7 +178,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-11T15:33:00.000Z"
+      "updatedAt": "2026-10-11T23:32:24.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-11T21:17:59.000Z"
+      "updatedAt": "2026-10-12T00:59:25.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -365,7 +365,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-11T18:44:01.000Z"
+      "updatedAt": "2026-10-12T00:41:39.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -468,7 +468,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-11T21:24:51.000Z"
+      "updatedAt": "2026-10-12T01:03:59.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -498,31 +498,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-10T10:40:37.000Z"
-    },
-    {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "ontology",
-        "epistemic-loop",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-10-10T11:04:48.000Z"
+      "updatedAt": "2026-10-12T00:53:53.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -554,7 +530,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-11T10:03:47.000Z"
+      "updatedAt": "2026-10-11T22:02:13.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -566,6 +542,30 @@
       },
       "license": "CC0-1.0",
       "updatedAt": "2026-10-10T03:01:56.000Z"
+    },
+    {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "ontology",
+        "epistemic-loop",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-10-10T11:04:48.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -599,7 +599,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-11T21:32:15.000Z"
+      "updatedAt": "2026-10-12T00:25:07.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -654,17 +654,6 @@
       "updatedAt": "2026-10-09T11:38:28.000Z"
     },
     {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-11T16:08:17.000Z"
-    },
-    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -689,6 +678,17 @@
         "pi-package"
       ],
       "updatedAt": "2026-10-11T19:41:50.000Z"
+    },
+    {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-11T16:08:17.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -728,16 +728,6 @@
       "updatedAt": "2026-10-10T04:14:53.000Z"
     },
     {
-      "id": "Electricitysheep/dsh-handbook",
-      "name": "Electricitysheep/dsh-handbook",
-      "displayName": "dsh-handbook",
-      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "repository": {
-        "url": "https://github.com/Electricitysheep/dsh-handbook"
-      },
-      "updatedAt": "2026-10-04T01:28:20.000Z"
-    },
-    {
       "id": "Miaotofu01/Study-Mate",
       "name": "@yunmiao/studymate",
       "displayName": "Study-Mate",
@@ -757,6 +747,16 @@
         "chatgpt"
       ],
       "updatedAt": "2026-10-11T07:13:36.000Z"
+    },
+    {
+      "id": "Electricitysheep/dsh-handbook",
+      "name": "Electricitysheep/dsh-handbook",
+      "displayName": "dsh-handbook",
+      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "repository": {
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      },
+      "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -1139,7 +1139,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-11T19:45:27.000Z"
+      "updatedAt": "2026-10-12T00:47:57.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1494,6 +1494,25 @@
       "updatedAt": "2026-09-29T12:52:46.000Z"
     },
     {
+      "id": "T-Auto/dsh-ops",
+      "name": "dsh-ops",
+      "displayName": "dsh-ops",
+      "summary": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "repository": {
+        "url": "https://github.com/T-Auto/dsh-ops"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "mcp",
+        "fastctx",
+        "repository-tools"
+      ],
+      "updatedAt": "2026-10-11T14:59:27.000Z"
+    },
+    {
       "id": "Mars-Sea/dsh-commandcode-provider",
       "name": "@mars-sea/dsh-commandcode-provider",
       "displayName": "dsh-commandcode-provider",
@@ -1517,30 +1536,6 @@
         "provider"
       ],
       "updatedAt": "2026-10-11T02:12:53.000Z"
-    },
-    {
-      "id": "FuRongJun-1999/dsh-memory",
-      "name": "@furongjun1999/dsh-memory",
-      "displayName": "dsh-memory",
-      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
-      "repository": {
-        "url": "https://github.com/FuRongJun-1999/dsh-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "dsh",
-        "dsh-plugin",
-        "cordis",
-        "memory",
-        "agent",
-        "aeis",
-        "lingshu",
-        "multi-agent",
-        "spatiotemporal",
-        "knowledge-graph"
-      ],
-      "updatedAt": "2026-10-11T17:30:40.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1583,23 +1578,28 @@
       "updatedAt": "2026-10-11T20:48:09.000Z"
     },
     {
-      "id": "T-Auto/dsh-ops",
-      "name": "dsh-ops",
-      "displayName": "dsh-ops",
-      "summary": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "id": "FuRongJun-1999/dsh-memory",
+      "name": "@furongjun1999/dsh-memory",
+      "displayName": "dsh-memory",
+      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
       "repository": {
-        "url": "https://github.com/T-Auto/dsh-ops"
+        "url": "https://github.com/FuRongJun-1999/dsh-memory"
       },
-      "license": "NOASSERTION",
+      "license": "MIT",
       "keywords": [
+        "deepseek",
         "dsh",
         "dsh-plugin",
-        "deepseek-harness",
-        "mcp",
-        "fastctx",
-        "repository-tools"
+        "cordis",
+        "memory",
+        "agent",
+        "aeis",
+        "lingshu",
+        "multi-agent",
+        "spatiotemporal",
+        "knowledge-graph"
       ],
-      "updatedAt": "2026-10-11T14:59:27.000Z"
+      "updatedAt": "2026-10-12T00:42:15.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
@@ -1709,7 +1709,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-11T18:11:44.000Z"
+      "updatedAt": "2026-10-12T00:22:23.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-visualize",
