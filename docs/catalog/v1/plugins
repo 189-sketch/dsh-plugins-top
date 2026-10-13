@@ -32,17 +32,6 @@
       "updatedAt": "2026-10-12T19:14:06.000Z"
     },
     {
-      "id": "MemTensor/MemOS",
-      "name": "MemTensor/MemOS",
-      "displayName": "MemOS",
-      "summary": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
-      "repository": {
-        "url": "https://github.com/MemTensor/MemOS"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-10T07:55:31.000Z"
-    },
-    {
       "id": "Ebony-Vinyl/dsh-our-free-model",
       "name": "dsh-our-free-model",
       "displayName": "dsh-our-free-model",
@@ -58,6 +47,17 @@
         "llm-provider"
       ],
       "updatedAt": "2026-10-12T06:35:01.000Z"
+    },
+    {
+      "id": "MemTensor/MemOS",
+      "name": "MemTensor/MemOS",
+      "displayName": "MemOS",
+      "summary": "Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.",
+      "repository": {
+        "url": "https://github.com/MemTensor/MemOS"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-10T07:55:31.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -178,7 +178,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-12T16:08:05.000Z"
+      "updatedAt": "2026-10-13T01:57:21.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-12T19:41:35.000Z"
+      "updatedAt": "2026-10-13T01:56:31.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -488,7 +488,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-12T19:45:43.000Z"
+      "updatedAt": "2026-10-12T20:52:10.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -507,7 +507,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-10-12T14:54:04.000Z"
+      "updatedAt": "2026-10-13T01:29:09.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -626,7 +626,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-12T17:45:19.000Z"
+      "updatedAt": "2026-10-13T01:40:48.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -652,31 +652,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-12T19:06:45.000Z"
-    },
-    {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "ontology",
-        "epistemic-loop",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-10-12T05:40:01.000Z"
+      "updatedAt": "2026-10-13T01:55:17.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -709,6 +685,30 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-10-12T18:42:57.000Z"
+    },
+    {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "ontology",
+        "epistemic-loop",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-10-12T05:40:01.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -870,6 +870,25 @@
       "updatedAt": "2026-10-11T10:52:13.000Z"
     },
     {
+      "id": "T-Auto/dsh-ops",
+      "name": "dsh-ops",
+      "displayName": "dsh-ops",
+      "summary": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
+      "repository": {
+        "url": "https://github.com/T-Auto/dsh-ops"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "mcp",
+        "fastctx",
+        "repository-tools"
+      ],
+      "updatedAt": "2026-10-12T15:18:25.000Z"
+    },
+    {
       "id": "SeaOf0/dsh-redteam-model",
       "name": "@dsh-external/dsh-redteam-model",
       "displayName": "dsh-redteam-model",
@@ -888,25 +907,6 @@
         "security"
       ],
       "updatedAt": "2026-10-08T13:22:25.000Z"
-    },
-    {
-      "id": "T-Auto/dsh-ops",
-      "name": "dsh-ops",
-      "displayName": "dsh-ops",
-      "summary": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时",
-      "repository": {
-        "url": "https://github.com/T-Auto/dsh-ops"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "mcp",
-        "fastctx",
-        "repository-tools"
-      ],
-      "updatedAt": "2026-10-12T15:18:25.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -940,29 +940,6 @@
       "updatedAt": "2026-09-29T13:34:29.000Z"
     },
     {
-      "id": "chainbase-labs/Agentkey",
-      "name": "agentkey-skill",
-      "displayName": "Agentkey",
-      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
-      "repository": {
-        "url": "https://github.com/chainbase-labs/Agentkey"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "ai-agents",
-        "claude-code",
-        "cursor",
-        "codex",
-        "skills",
-        "agent-skills",
-        "web-search",
-        "social-media",
-        "crypto",
-        "real-time-data"
-      ],
-      "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
       "id": "liustack/modsearch",
       "name": "@liustack/modsearch",
       "displayName": "modsearch",
@@ -984,6 +961,29 @@
         "deepseek-harness"
       ],
       "updatedAt": "2026-10-04T08:29:26.000Z"
+    },
+    {
+      "id": "chainbase-labs/Agentkey",
+      "name": "agentkey-skill",
+      "displayName": "Agentkey",
+      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
+      "repository": {
+        "url": "https://github.com/chainbase-labs/Agentkey"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "ai-agents",
+        "claude-code",
+        "cursor",
+        "codex",
+        "skills",
+        "agent-skills",
+        "web-search",
+        "social-media",
+        "crypto",
+        "real-time-data"
+      ],
+      "updatedAt": "2026-08-24T16:55:44.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -1092,7 +1092,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-11T20:27:11.000Z"
+      "updatedAt": "2026-10-12T23:07:02.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1128,24 +1128,6 @@
       "updatedAt": "2026-10-11T07:36:58.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-genui",
-      "name": "@changfenhuang/dsh-genui",
-      "displayName": "dsh-genui",
-      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-genui"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "generative-ui",
-        "plugin",
-        "ui"
-      ],
-      "updatedAt": "2026-10-12T16:46:33.000Z"
-    },
-    {
       "id": "corrinehu/dsh-workbuddy-connect",
       "name": "dsh-workbuddy-connect",
       "displayName": "dsh-workbuddy-connect",
@@ -1162,6 +1144,24 @@
         "model-provider"
       ],
       "updatedAt": "2026-10-12T09:15:38.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-genui",
+      "name": "@changfenhuang/dsh-genui",
+      "displayName": "dsh-genui",
+      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-genui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "generative-ui",
+        "plugin",
+        "ui"
+      ],
+      "updatedAt": "2026-10-12T16:46:33.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1196,7 +1196,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-12T16:05:18.000Z"
+      "updatedAt": "2026-10-13T00:52:21.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1440,17 +1440,6 @@
       "updatedAt": "2026-10-10T05:47:31.000Z"
     },
     {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
-      "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-06T05:24:15.000Z"
-    },
-    {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
       "name": "@deepseek-ai/dsh-client-ui-aqua",
       "displayName": "DSH-Transparent-UI-Plugin",
@@ -1470,7 +1459,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-12T01:30:54.000Z"
+      "updatedAt": "2026-10-13T01:30:32.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1498,6 +1487,17 @@
         "language"
       ],
       "updatedAt": "2026-10-12T13:41:23.000Z"
+    },
+    {
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "repository": {
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-06T05:24:15.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1619,7 +1619,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-12T19:29:23.000Z"
+      "updatedAt": "2026-10-13T01:22:56.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
@@ -1729,7 +1729,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-12T17:29:55.000Z"
+      "updatedAt": "2026-10-13T01:48:32.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-visualize",
