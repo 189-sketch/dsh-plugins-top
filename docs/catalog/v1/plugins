@@ -90,7 +90,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-13T17:29:25.000Z"
+      "updatedAt": "2026-10-13T22:07:27.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -157,7 +157,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-12T02:50:06.000Z"
+      "updatedAt": "2026-10-13T21:18:34.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-13T15:59:23.000Z"
+      "updatedAt": "2026-10-13T22:03:39.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-13T17:07:21.000Z"
+      "updatedAt": "2026-10-13T20:45:10.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -371,7 +371,7 @@
       "id": "bowenliang123/dsh-context",
       "name": "dsh-context",
       "displayName": "dsh-context",
-      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板及浏览器和侧边栏与 Context 命令，透视上下文组成、演进、压缩、剪枝等事件与动作。",
+      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。",
       "repository": {
         "url": "https://github.com/bowenliang123/dsh-context"
       },
@@ -385,7 +385,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-13T16:11:59.000Z"
+      "updatedAt": "2026-10-13T18:54:33.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -488,7 +488,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-13T17:21:20.000Z"
+      "updatedAt": "2026-10-13T22:14:46.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -538,7 +538,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-13T16:33:36.000Z"
+      "updatedAt": "2026-10-13T22:26:10.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -570,7 +570,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-13T15:55:39.000Z"
+      "updatedAt": "2026-10-13T22:22:01.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -607,7 +607,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-13T17:29:08.000Z"
+      "updatedAt": "2026-10-13T19:03:04.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -618,7 +618,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-13T08:26:18.000Z"
+      "updatedAt": "2026-10-13T19:43:10.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -655,30 +655,6 @@
       "updatedAt": "2026-10-13T15:11:50.000Z"
     },
     {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "ontology",
-        "epistemic-loop",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-10-12T05:40:01.000Z"
-    },
-    {
       "id": "flizzywine/dsh-tavern",
       "name": "dsh-profile-tavern",
       "displayName": "dsh-tavern",
@@ -688,16 +664,6 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-10-12T18:42:57.000Z"
-    },
-    {
-      "id": "mindscale-noah/MindMemOS",
-      "name": "mindscale-noah/MindMemOS",
-      "displayName": "MindMemOS",
-      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
-      "repository": {
-        "url": "https://github.com/mindscale-noah/MindMemOS"
-      },
-      "updatedAt": "2026-10-09T11:38:28.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -719,6 +685,16 @@
         "chatgpt"
       ],
       "updatedAt": "2026-10-13T07:05:16.000Z"
+    },
+    {
+      "id": "mindscale-noah/MindMemOS",
+      "name": "mindscale-noah/MindMemOS",
+      "displayName": "MindMemOS",
+      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
+      "repository": {
+        "url": "https://github.com/mindscale-noah/MindMemOS"
+      },
+      "updatedAt": "2026-10-09T11:38:28.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -787,6 +763,30 @@
       "updatedAt": "2026-10-13T11:32:24.000Z"
     },
     {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "ontology",
+        "epistemic-loop",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-10-12T05:40:01.000Z"
+    },
+    {
       "id": "LiPu-jpg/Openwrite",
       "name": "dsh-openwrite",
       "displayName": "Openwrite",
@@ -795,7 +795,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-12T19:33:48.000Z"
+      "updatedAt": "2026-10-13T18:30:03.000Z"
     },
     {
       "id": "omdsh-dev/dsh-browser",
@@ -807,28 +807,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-01T07:58:07.000Z"
-    },
-    {
-      "id": "LivXue/dsh-plugin-shop",
-      "name": "dsh-plugin-shop-registry",
-      "displayName": "dsh-plugin-shop",
-      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
-      "repository": {
-        "url": "https://github.com/LivXue/dsh-plugin-shop"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-13T15:14:12.000Z"
-    },
-    {
-      "id": "Aisland-SJL/dsh-worktable",
-      "name": "Aisland-SJL/dsh-worktable",
-      "displayName": "dsh-worktable",
-      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "repository": {
-        "url": "https://github.com/Aisland-SJL/dsh-worktable"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-03T05:03:23.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -849,6 +827,17 @@
       "updatedAt": "2026-10-13T16:15:09.000Z"
     },
     {
+      "id": "Aisland-SJL/dsh-worktable",
+      "name": "Aisland-SJL/dsh-worktable",
+      "displayName": "dsh-worktable",
+      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+      "repository": {
+        "url": "https://github.com/Aisland-SJL/dsh-worktable"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-03T05:03:23.000Z"
+    },
+    {
       "id": "myYangyunfan/dsh_desktop",
       "name": "myYangyunfan/dsh_desktop",
       "displayName": "dsh_desktop",
@@ -858,6 +847,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-11T10:52:13.000Z"
+    },
+    {
+      "id": "LivXue/dsh-plugin-shop",
+      "name": "dsh-plugin-shop-registry",
+      "displayName": "dsh-plugin-shop",
+      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
+      "repository": {
+        "url": "https://github.com/LivXue/dsh-plugin-shop"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-13T15:14:12.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -878,53 +878,6 @@
         "security"
       ],
       "updatedAt": "2026-10-08T13:22:25.000Z"
-    },
-    {
-      "id": "sandbaseai/sandbase-harness",
-      "name": "managed-agents",
-      "displayName": "sandbase-harness",
-      "summary": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
-      "repository": {
-        "url": "https://github.com/sandbaseai/sandbase-harness"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "ai-agents",
-        "ai-agent-runtime",
-        "agent-runtime",
-        "managed-agents",
-        "claude-managed-agents",
-        "anthropic",
-        "mcp",
-        "mcp-tools",
-        "mcp-server",
-        "model-context-protocol",
-        "docker-mcp",
-        "cline",
-        "cursor",
-        "deepseek-harness",
-        "dsh-plugin",
-        "local-first",
-        "local-ai-agents",
-        "sandboxed-execution",
-        "agent-memory",
-        "credential-vaults",
-        "audit-log",
-        "session-replay",
-        "agent-console",
-        "skills",
-        "openai-compatible",
-        "ollama",
-        "vercel-ai-sdk",
-        "server-sent-events",
-        "agent-observability",
-        "agent-tools",
-        "ai-sandbox",
-        "developer-tools",
-        "typescript",
-        "sqlite"
-      ],
-      "updatedAt": "2026-10-12T04:02:31.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1032,7 +985,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-13T17:15:39.000Z"
+      "updatedAt": "2026-10-13T18:31:08.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1052,6 +1005,53 @@
         "sqlite"
       ],
       "updatedAt": "2026-10-01T00:45:49.000Z"
+    },
+    {
+      "id": "sandbaseai/sandbase-harness",
+      "name": "managed-agents",
+      "displayName": "sandbase-harness",
+      "summary": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
+      "repository": {
+        "url": "https://github.com/sandbaseai/sandbase-harness"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "ai-agents",
+        "ai-agent-runtime",
+        "agent-runtime",
+        "managed-agents",
+        "claude-managed-agents",
+        "anthropic",
+        "mcp",
+        "mcp-tools",
+        "mcp-server",
+        "model-context-protocol",
+        "docker-mcp",
+        "cline",
+        "cursor",
+        "deepseek-harness",
+        "dsh-plugin",
+        "local-first",
+        "local-ai-agents",
+        "sandboxed-execution",
+        "agent-memory",
+        "credential-vaults",
+        "audit-log",
+        "session-replay",
+        "agent-console",
+        "skills",
+        "openai-compatible",
+        "ollama",
+        "vercel-ai-sdk",
+        "server-sent-events",
+        "agent-observability",
+        "agent-tools",
+        "ai-sandbox",
+        "developer-tools",
+        "typescript",
+        "sqlite"
+      ],
+      "updatedAt": "2026-10-12T04:02:31.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1185,7 +1185,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-13T16:53:04.000Z"
+      "updatedAt": "2026-10-13T19:31:48.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1228,7 +1228,27 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-13T15:33:32.000Z"
+      "updatedAt": "2026-10-13T17:59:48.000Z"
+    },
+    {
+      "id": "dream-num/dsh-univer-office",
+      "name": "dsh-univer-office",
+      "displayName": "dsh-univer-office",
+      "summary": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
+      "repository": {
+        "url": "https://github.com/dream-num/dsh-univer-office"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "univer",
+        "spreadsheet",
+        "preview",
+        "worktree"
+      ],
+      "updatedAt": "2026-10-08T08:36:16.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1251,26 +1271,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-05T11:19:39.000Z"
-    },
-    {
-      "id": "dream-num/dsh-univer-office",
-      "name": "dsh-univer-office",
-      "displayName": "dsh-univer-office",
-      "summary": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
-      "repository": {
-        "url": "https://github.com/dream-num/dsh-univer-office"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "univer",
-        "spreadsheet",
-        "preview",
-        "worktree"
-      ],
-      "updatedAt": "2026-10-08T08:36:16.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1322,17 +1322,6 @@
       "updatedAt": "2026-10-10T12:22:31.000Z"
     },
     {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-12T23:07:02.000Z"
-    },
-    {
       "id": "syncable-dev/memtrace-public",
       "name": "syncable-dev/memtrace-public",
       "displayName": "memtrace-public",
@@ -1341,7 +1330,18 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-13T08:34:42.000Z"
+      "updatedAt": "2026-10-13T21:09:55.000Z"
+    },
+    {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-13T21:23:35.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1394,17 +1394,6 @@
         "google-antigravity"
       ],
       "updatedAt": "2026-10-09T00:25:31.000Z"
-    },
-    {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
-      "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-06T05:24:15.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1470,7 +1459,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-13T01:30:32.000Z"
+      "updatedAt": "2026-10-13T20:33:08.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1498,6 +1487,17 @@
         "language"
       ],
       "updatedAt": "2026-10-13T02:26:18.000Z"
+    },
+    {
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
+      "repository": {
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-06T05:24:15.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1619,7 +1619,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-13T16:57:36.000Z"
+      "updatedAt": "2026-10-13T18:13:50.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
