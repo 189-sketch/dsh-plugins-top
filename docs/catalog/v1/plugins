@@ -90,7 +90,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-14T20:04:04.000Z"
+      "updatedAt": "2026-10-14T21:39:21.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-14T19:47:49.000Z"
+      "updatedAt": "2026-10-14T22:54:38.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-14T20:08:28.000Z"
+      "updatedAt": "2026-10-14T22:00:21.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -557,7 +557,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-14T19:16:59.000Z"
+      "updatedAt": "2026-10-14T21:12:05.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -583,7 +583,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-14T18:26:45.000Z"
+      "updatedAt": "2026-10-14T22:30:23.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -615,7 +615,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-14T19:34:16.000Z"
+      "updatedAt": "2026-10-14T22:41:55.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -716,6 +716,30 @@
       "updatedAt": "2026-10-09T11:38:28.000Z"
     },
     {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "ontology",
+        "epistemic-loop",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-10-14T06:25:25.000Z"
+    },
+    {
       "id": "Anionex/dsh-vision-toolkit",
       "name": "@anionex/dsh-vision-toolkit",
       "displayName": "dsh-vision-toolkit",
@@ -751,30 +775,6 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-10-14T09:19:40.000Z"
-    },
-    {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "ontology",
-        "epistemic-loop",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-10-14T06:25:25.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -1248,7 +1248,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-14T17:29:49.000Z"
+      "updatedAt": "2026-10-14T22:00:13.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1341,7 +1341,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-14T18:06:45.000Z"
+      "updatedAt": "2026-10-14T20:16:30.000Z"
     },
     {
       "id": "text2future/flowix",
