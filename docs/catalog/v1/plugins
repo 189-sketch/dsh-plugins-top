@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-15T04:02:15.000Z"
+      "updatedAt": "2026-10-15T16:25:54.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -29,7 +29,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-15T13:48:45.000Z"
+      "updatedAt": "2026-10-15T17:31:25.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-15T14:21:44.000Z"
+      "updatedAt": "2026-10-15T14:51:02.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -90,7 +90,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-15T14:41:00.000Z"
+      "updatedAt": "2026-10-15T18:53:25.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -143,7 +143,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-15T14:41:57.000Z"
+      "updatedAt": "2026-10-15T15:54:14.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-15T14:46:20.000Z"
+      "updatedAt": "2026-10-15T19:51:08.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -269,7 +269,7 @@
         "multimodal",
         "modlens"
       ],
-      "updatedAt": "2026-10-04T07:39:35.000Z"
+      "updatedAt": "2026-10-15T19:22:02.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -280,7 +280,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-15T13:58:12.000Z"
+      "updatedAt": "2026-10-15T17:06:52.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -322,7 +322,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-10-15T14:17:59.000Z"
+      "updatedAt": "2026-10-15T16:26:51.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -496,7 +496,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-15T14:33:40.000Z"
+      "updatedAt": "2026-10-15T18:08:15.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -519,6 +519,32 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-10-08T09:24:13.000Z"
+    },
+    {
+      "id": "ranxianglei/billion-context",
+      "name": "billion-context",
+      "displayName": "billion-context",
+      "summary": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "repository": {
+        "url": "https://github.com/ranxianglei/billion-context"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "context",
+        "compression",
+        "proxy",
+        "acp",
+        "ai",
+        "agent",
+        "claude-code",
+        "cursor",
+        "codex",
+        "aider",
+        "anthropic",
+        "openai",
+        "pi-package"
+      ],
+      "updatedAt": "2026-10-15T19:49:09.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -560,32 +586,6 @@
       "updatedAt": "2026-10-15T08:22:52.000Z"
     },
     {
-      "id": "ranxianglei/billion-context",
-      "name": "billion-context",
-      "displayName": "billion-context",
-      "summary": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-      "repository": {
-        "url": "https://github.com/ranxianglei/billion-context"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "context",
-        "compression",
-        "proxy",
-        "acp",
-        "ai",
-        "agent",
-        "claude-code",
-        "cursor",
-        "codex",
-        "aider",
-        "anthropic",
-        "openai",
-        "pi-package"
-      ],
-      "updatedAt": "2026-10-15T14:48:49.000Z"
-    },
-    {
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
@@ -615,7 +615,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-15T13:09:09.000Z"
+      "updatedAt": "2026-10-15T18:33:09.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -637,7 +637,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-15T06:30:25.000Z"
+      "updatedAt": "2026-10-15T19:23:51.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -682,7 +682,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-15T14:38:42.000Z"
+      "updatedAt": "2026-10-15T18:56:15.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -703,7 +703,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-10-14T04:56:30.000Z"
+      "updatedAt": "2026-10-15T19:50:36.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -781,17 +781,6 @@
       "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-browser",
-      "name": "dsh-browser",
-      "displayName": "dsh-browser",
-      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-browser"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-01T07:58:07.000Z"
-    },
-    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -814,6 +803,17 @@
         "worldline"
       ],
       "updatedAt": "2026-10-14T06:25:25.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-browser",
+      "name": "dsh-browser",
+      "displayName": "dsh-browser",
+      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-browser"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-01T07:58:07.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -920,7 +920,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-10-04T08:29:26.000Z"
+      "updatedAt": "2026-10-15T18:43:32.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -931,7 +931,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-15T08:57:35.000Z"
+      "updatedAt": "2026-10-15T19:19:05.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1089,7 +1089,7 @@
         "knowledge-graph",
         "research-tool"
       ],
-      "updatedAt": "2026-10-14T10:44:57.000Z"
+      "updatedAt": "2026-10-15T15:44:58.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1150,7 +1150,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-15T03:18:44.000Z"
+      "updatedAt": "2026-10-15T16:31:54.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1259,7 +1259,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-15T14:40:12.000Z"
+      "updatedAt": "2026-10-15T17:25:14.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1333,17 +1333,6 @@
       "updatedAt": "2026-10-15T03:04:44.000Z"
     },
     {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-14T20:16:30.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -1360,6 +1349,17 @@
         "web-fetch"
       ],
       "updatedAt": "2026-10-10T08:54:47.000Z"
+    },
+    {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-15T17:50:41.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1477,7 +1477,7 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-15T07:59:55.000Z"
+      "updatedAt": "2026-10-15T16:23:57.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1504,7 +1504,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-10-15T14:03:35.000Z"
+      "updatedAt": "2026-10-15T16:57:03.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1515,7 +1515,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-15T07:13:09.000Z"
+      "updatedAt": "2026-10-15T18:36:22.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1583,7 +1583,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-15T13:10:40.000Z"
+      "updatedAt": "2026-10-15T19:29:02.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
@@ -1700,7 +1700,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-15T10:13:56.000Z"
+      "updatedAt": "2026-10-15T17:18:51.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
