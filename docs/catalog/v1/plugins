@@ -90,7 +90,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-15T18:53:25.000Z"
+      "updatedAt": "2026-10-15T21:34:03.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-15T12:46:31.000Z"
+      "updatedAt": "2026-10-15T22:57:32.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-15T19:51:08.000Z"
+      "updatedAt": "2026-10-15T20:48:59.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -496,7 +496,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-15T18:08:15.000Z"
+      "updatedAt": "2026-10-15T20:56:12.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -544,7 +544,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-15T19:49:09.000Z"
+      "updatedAt": "2026-10-15T21:47:25.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -615,7 +615,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-15T18:33:09.000Z"
+      "updatedAt": "2026-10-15T22:54:06.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -703,7 +703,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-10-15T19:50:36.000Z"
+      "updatedAt": "2026-10-15T21:07:18.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -1259,7 +1259,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-15T17:25:14.000Z"
+      "updatedAt": "2026-10-15T21:42:01.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1359,7 +1359,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-15T17:50:41.000Z"
+      "updatedAt": "2026-10-15T19:57:25.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1540,28 +1540,6 @@
       "updatedAt": "2026-09-29T12:52:46.000Z"
     },
     {
-      "id": "d-dev0101/open-sea-skin",
-      "name": "open-sea-skin",
-      "displayName": "open-sea-skin",
-      "summary": "🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.",
-      "repository": {
-        "url": "https://github.com/d-dev0101/open-sea-skin"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "theme",
-        "skin",
-        "webgpu",
-        "ocean"
-      ],
-      "categories": [
-        "skin"
-      ],
-      "updatedAt": "2026-10-11T17:17:28.000Z"
-    },
-    {
       "id": "FuRongJun-1999/dsh-memory",
       "name": "@furongjun1999/dsh-memory",
       "displayName": "dsh-memory",
@@ -1583,7 +1561,29 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-15T19:29:02.000Z"
+      "updatedAt": "2026-10-15T20:49:56.000Z"
+    },
+    {
+      "id": "d-dev0101/open-sea-skin",
+      "name": "open-sea-skin",
+      "displayName": "open-sea-skin",
+      "summary": "🌊 DeepSeek Harness 海洋皮肤与动态主题 | Real-time ocean theme with adjustable waves, sunset & glass opacity. DSH plugin + Chrome/Edge extension; keeps your new-tab homepage.",
+      "repository": {
+        "url": "https://github.com/d-dev0101/open-sea-skin"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "theme",
+        "skin",
+        "webgpu",
+        "ocean"
+      ],
+      "categories": [
+        "skin"
+      ],
+      "updatedAt": "2026-10-11T17:17:28.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
