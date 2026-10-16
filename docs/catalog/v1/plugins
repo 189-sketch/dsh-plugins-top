@@ -10,7 +10,24 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-16T12:30:09.000Z"
+      "updatedAt": "2026-10-16T17:01:22.000Z"
+    },
+    {
+      "id": "Ebony-Vinyl/dsh-our-free-model",
+      "name": "dsh-our-free-model",
+      "displayName": "dsh-our-free-model",
+      "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
+      "repository": {
+        "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm-provider"
+      ],
+      "updatedAt": "2026-10-16T19:04:33.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -29,24 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-16T05:53:15.000Z"
-    },
-    {
-      "id": "Ebony-Vinyl/dsh-our-free-model",
-      "name": "dsh-our-free-model",
-      "displayName": "dsh-our-free-model",
-      "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "repository": {
-        "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "free-model",
-        "llm-provider"
-      ],
-      "updatedAt": "2026-10-16T08:10:33.000Z"
+      "updatedAt": "2026-10-16T17:50:49.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -90,7 +90,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-15T21:34:03.000Z"
+      "updatedAt": "2026-10-16T19:21:59.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -143,7 +143,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-16T06:06:02.000Z"
+      "updatedAt": "2026-10-16T17:12:26.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-16T14:39:19.000Z"
+      "updatedAt": "2026-10-16T19:25:34.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-16T14:18:57.000Z"
+      "updatedAt": "2026-10-16T19:20:40.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-16T14:37:51.000Z"
+      "updatedAt": "2026-10-16T19:04:10.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -361,7 +361,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-16T11:07:37.000Z"
+      "updatedAt": "2026-10-16T17:31:24.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -381,7 +381,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-16T14:33:24.000Z"
+      "updatedAt": "2026-10-16T18:49:38.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -458,6 +458,17 @@
       "updatedAt": "2026-10-12T14:42:54.000Z"
     },
     {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-16T02:10:26.000Z"
+    },
+    {
       "id": "kenryu42/cc-safety-net",
       "name": "cc-safety-net",
       "displayName": "cc-safety-net",
@@ -483,18 +494,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-16T14:29:28.000Z"
-    },
-    {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-16T02:10:26.000Z"
+      "updatedAt": "2026-10-16T16:44:41.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -505,7 +505,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-16T01:46:06.000Z"
+      "updatedAt": "2026-10-16T17:49:06.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -531,7 +531,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-16T14:34:52.000Z"
+      "updatedAt": "2026-10-16T18:45:27.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -613,7 +613,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-16T13:59:33.000Z"
+      "updatedAt": "2026-10-16T17:46:36.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -658,7 +658,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-16T12:57:18.000Z"
+      "updatedAt": "2026-10-16T17:07:04.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -669,7 +669,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-16T14:33:36.000Z"
+      "updatedAt": "2026-10-16T16:07:17.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -698,7 +698,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-16T08:55:46.000Z"
+      "updatedAt": "2026-10-16T15:57:07.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -720,16 +720,6 @@
         "chatgpt"
       ],
       "updatedAt": "2026-10-15T21:07:18.000Z"
-    },
-    {
-      "id": "mindscale-noah/MindMemOS",
-      "name": "mindscale-noah/MindMemOS",
-      "displayName": "MindMemOS",
-      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
-      "repository": {
-        "url": "https://github.com/mindscale-noah/MindMemOS"
-      },
-      "updatedAt": "2026-10-16T08:51:01.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -754,6 +744,16 @@
         "worldline"
       ],
       "updatedAt": "2026-10-14T06:25:25.000Z"
+    },
+    {
+      "id": "mindscale-noah/MindMemOS",
+      "name": "mindscale-noah/MindMemOS",
+      "displayName": "MindMemOS",
+      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
+      "repository": {
+        "url": "https://github.com/mindscale-noah/MindMemOS"
+      },
+      "updatedAt": "2026-10-16T08:51:01.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -856,17 +856,6 @@
       "updatedAt": "2026-10-03T05:03:23.000Z"
     },
     {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-11T10:52:13.000Z"
-    },
-    {
       "id": "liustack/modsearch",
       "name": "@liustack/modsearch",
       "displayName": "modsearch",
@@ -888,6 +877,17 @@
         "deepseek-harness"
       ],
       "updatedAt": "2026-10-15T18:43:32.000Z"
+    },
+    {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-11T10:52:13.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -929,7 +929,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-16T10:27:23.000Z"
+      "updatedAt": "2026-10-16T16:59:45.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1005,6 +1005,26 @@
       "updatedAt": "2026-10-01T00:45:49.000Z"
     },
     {
+      "id": "chenxiachan/thoughtdag",
+      "name": "thoughtdag",
+      "displayName": "thoughtdag",
+      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "repository": {
+        "url": "https://github.com/chenxiachan/thoughtdag"
+      },
+      "license": "MIT",
+      "keywords": [
+        "llm",
+        "dag",
+        "canvas",
+        "react-flow",
+        "ai",
+        "knowledge-graph",
+        "research-tool"
+      ],
+      "updatedAt": "2026-10-15T15:44:58.000Z"
+    },
+    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -1050,26 +1070,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-10-12T04:02:31.000Z"
-    },
-    {
-      "id": "chenxiachan/thoughtdag",
-      "name": "thoughtdag",
-      "displayName": "thoughtdag",
-      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
-      "repository": {
-        "url": "https://github.com/chenxiachan/thoughtdag"
-      },
-      "license": "MIT",
-      "keywords": [
-        "llm",
-        "dag",
-        "canvas",
-        "react-flow",
-        "ai",
-        "knowledge-graph",
-        "research-tool"
-      ],
-      "updatedAt": "2026-10-15T15:44:58.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1225,17 +1225,6 @@
       "updatedAt": "2026-10-12T08:33:07.000Z"
     },
     {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-05T11:19:39.000Z"
-    },
-    {
       "id": "zenstory-ai/oh-story-dsh",
       "name": "oh-story-dsh",
       "displayName": "oh-story-dsh",
@@ -1245,6 +1234,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-16T08:29:47.000Z"
+    },
+    {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-05T11:19:39.000Z"
     },
     {
       "id": "Ikalus1988/MisakaNet",
@@ -1268,7 +1268,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-16T14:39:33.000Z"
+      "updatedAt": "2026-10-16T18:22:15.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1357,7 +1357,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-15T19:57:25.000Z"
+      "updatedAt": "2026-10-16T17:36:08.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1421,6 +1421,17 @@
       "updatedAt": "2026-10-14T02:07:53.000Z"
     },
     {
+      "id": "beiyege-01/dsh-voice-ai-girlfriend",
+      "name": "beiyege-01/dsh-voice-ai-girlfriend",
+      "displayName": "dsh-voice-ai-girlfriend",
+      "summary": "语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。",
+      "repository": {
+        "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-13T16:36:44.000Z"
+    },
+    {
       "id": "QCYTSN/dsh-dafeiyu",
       "name": "dsh-dafeiyu",
       "displayName": "dsh-dafeiyu",
@@ -1436,17 +1447,6 @@
         "agent-companion"
       ],
       "updatedAt": "2026-10-10T05:47:31.000Z"
-    },
-    {
-      "id": "beiyege-01/dsh-voice-ai-girlfriend",
-      "name": "beiyege-01/dsh-voice-ai-girlfriend",
-      "displayName": "dsh-voice-ai-girlfriend",
-      "summary": "语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。",
-      "repository": {
-        "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-13T16:36:44.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1524,7 +1524,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-16T01:27:25.000Z"
+      "updatedAt": "2026-10-16T18:21:15.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1559,7 +1559,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-16T13:30:36.000Z"
+      "updatedAt": "2026-10-16T18:37:45.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1617,7 +1617,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-16T09:08:54.000Z"
+      "updatedAt": "2026-10-16T17:26:34.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1681,6 +1681,25 @@
       "updatedAt": "2026-08-24T18:20:09.000Z"
     },
     {
+      "id": "sixtysevenlf/dsh-blender-plugin",
+      "name": "@dsh-external/dsh-blender-plugin",
+      "displayName": "dsh-blender-plugin",
+      "summary": "DSH x Blender direct realtime plugin v2.0 — an AI drives Blender over a direct TCP channel (no MCP): 16 tools, 28 families / 186 ops (viewport frames, click-to-pick, render profiling, headless offload) + a right-sidebar panel (live only) with click-to-context & @-mentions. Addon: DSH Blender Bridge. skill: sixtysevenlf/dsh-skill-blender-modeling",
+      "repository": {
+        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
+      },
+      "license": "BSD-3-Clause",
+      "keywords": [
+        "dsh",
+        "blender",
+        "ai-agent",
+        "tooling",
+        "bpy",
+        "cycles"
+      ],
+      "updatedAt": "2026-10-16T16:22:55.000Z"
+    },
+    {
       "id": "liguobao/ds-harness-remote",
       "name": "ds-harness-remote",
       "displayName": "ds-harness-remote",
@@ -1698,7 +1717,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-16T14:22:27.000Z"
+      "updatedAt": "2026-10-16T18:21:02.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
@@ -1710,25 +1729,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-10-13T07:32:18.000Z"
-    },
-    {
-      "id": "sixtysevenlf/dsh-blender-plugin",
-      "name": "@dsh-external/dsh-blender-plugin",
-      "displayName": "dsh-blender-plugin",
-      "summary": "DSH x Blender direct realtime plugin v2.0 — an AI drives Blender over a direct TCP channel (no MCP): 16 tools, 28 families / 186 ops (viewport frames, click-to-pick, render profiling, headless offload) + a right-sidebar panel (live only) with click-to-context & @-mentions. Addon: DSH Blender Bridge. skill: sixtysevenlf/dsh-skill-blender-modeling",
-      "repository": {
-        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
-      },
-      "license": "BSD-3-Clause",
-      "keywords": [
-        "dsh",
-        "blender",
-        "ai-agent",
-        "tooling",
-        "bpy",
-        "cycles"
-      ],
-      "updatedAt": "2026-10-16T10:00:33.000Z"
     },
     {
       "id": "ZSeven-W/dsh-ios",
