@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T03:15:18.000Z"
+      "updatedAt": "2026-10-17T15:56:20.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-17T12:18:12.000Z"
+      "updatedAt": "2026-10-17T16:49:24.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -79,7 +79,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-17T12:58:59.000Z"
+      "updatedAt": "2026-10-17T16:57:52.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -90,7 +90,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-16T21:20:09.000Z"
+      "updatedAt": "2026-10-17T15:14:45.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-17T13:35:31.000Z"
+      "updatedAt": "2026-10-17T16:48:15.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-17T13:21:47.000Z"
+      "updatedAt": "2026-10-17T16:50:24.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -280,7 +280,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T06:23:53.000Z"
+      "updatedAt": "2026-10-17T16:15:27.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -322,18 +322,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-10-16T09:52:07.000Z"
-    },
-    {
-      "id": "zilliztech/memsearch",
-      "name": "zilliztech/memsearch",
-      "displayName": "memsearch",
-      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
-      "repository": {
-        "url": "https://github.com/zilliztech/memsearch"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-09T11:51:36.000Z"
+      "updatedAt": "2026-10-17T15:27:19.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -350,7 +339,18 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-17T13:26:45.000Z"
+      "updatedAt": "2026-10-17T14:43:21.000Z"
+    },
+    {
+      "id": "zilliztech/memsearch",
+      "name": "zilliztech/memsearch",
+      "displayName": "memsearch",
+      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+      "repository": {
+        "url": "https://github.com/zilliztech/memsearch"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-09T11:51:36.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -469,6 +469,32 @@
       "updatedAt": "2026-10-17T05:06:20.000Z"
     },
     {
+      "id": "ranxianglei/billion-context",
+      "name": "billion-context",
+      "displayName": "billion-context",
+      "summary": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "repository": {
+        "url": "https://github.com/ranxianglei/billion-context"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "context",
+        "compression",
+        "proxy",
+        "acp",
+        "ai",
+        "agent",
+        "claude-code",
+        "cursor",
+        "codex",
+        "aider",
+        "anthropic",
+        "openai",
+        "pi-package"
+      ],
+      "updatedAt": "2026-10-17T16:58:36.000Z"
+    },
+    {
       "id": "kenryu42/cc-safety-net",
       "name": "cc-safety-net",
       "displayName": "cc-safety-net",
@@ -494,33 +520,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-17T05:01:37.000Z"
-    },
-    {
-      "id": "ranxianglei/billion-context",
-      "name": "billion-context",
-      "displayName": "billion-context",
-      "summary": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
-      "repository": {
-        "url": "https://github.com/ranxianglei/billion-context"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "context",
-        "compression",
-        "proxy",
-        "acp",
-        "ai",
-        "agent",
-        "claude-code",
-        "cursor",
-        "codex",
-        "aider",
-        "anthropic",
-        "openai",
-        "pi-package"
-      ],
-      "updatedAt": "2026-10-17T13:16:05.000Z"
+      "updatedAt": "2026-10-17T16:16:54.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -531,7 +531,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-17T13:26:13.000Z"
+      "updatedAt": "2026-10-17T16:51:40.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -613,7 +613,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-17T10:36:06.000Z"
+      "updatedAt": "2026-10-17T16:22:12.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -627,6 +627,24 @@
       "updatedAt": "2026-10-16T12:16:30.000Z"
     },
     {
+      "id": "corrinehu/dsh-workbuddy-connect",
+      "name": "dsh-workbuddy-connect",
+      "displayName": "dsh-workbuddy-connect",
+      "summary": "将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.",
+      "repository": {
+        "url": "https://github.com/corrinehu/dsh-workbuddy-connect"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "deepseek",
+        "workbuddy",
+        "model-provider"
+      ],
+      "updatedAt": "2026-10-17T12:37:01.000Z"
+    },
+    {
       "id": "agentrq/agentrq",
       "name": "agentrq/agentrq",
       "displayName": "agentrq",
@@ -635,7 +653,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-17T07:53:22.000Z"
+      "updatedAt": "2026-10-17T16:28:43.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -658,25 +676,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-17T09:47:56.000Z"
-    },
-    {
-      "id": "corrinehu/dsh-workbuddy-connect",
-      "name": "dsh-workbuddy-connect",
-      "displayName": "dsh-workbuddy-connect",
-      "summary": "将 WorkBuddy 桌面 App 包含的模型自动接入 DeepSeek Harness，零配置使用。Bring the models in the WorkBuddy desktop app into DeepSeek Harness with zero configuration.",
-      "repository": {
-        "url": "https://github.com/corrinehu/dsh-workbuddy-connect"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "deepseek",
-        "workbuddy",
-        "model-provider"
-      ],
-      "updatedAt": "2026-10-17T12:37:01.000Z"
+      "updatedAt": "2026-10-17T14:04:14.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -687,7 +687,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T13:31:23.000Z"
+      "updatedAt": "2026-10-17T16:32:50.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -698,7 +698,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-17T13:36:22.000Z"
+      "updatedAt": "2026-10-17T16:51:13.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -719,7 +719,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-10-15T21:07:18.000Z"
+      "updatedAt": "2026-10-17T16:08:01.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -790,7 +790,7 @@
         "url": "https://github.com/toby-bridges/api-relay-audit"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-17T08:56:07.000Z"
+      "updatedAt": "2026-10-17T15:24:51.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -803,17 +803,6 @@
       "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
-      "id": "LiPu-jpg/Openwrite",
-      "name": "dsh-openwrite",
-      "displayName": "Openwrite",
-      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
-      "repository": {
-        "url": "https://github.com/LiPu-jpg/Openwrite"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-17T13:29:22.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-browser",
       "name": "dsh-browser",
       "displayName": "dsh-browser",
@@ -823,6 +812,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-01T07:58:07.000Z"
+    },
+    {
+      "id": "LiPu-jpg/Openwrite",
+      "name": "dsh-openwrite",
+      "displayName": "Openwrite",
+      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+      "repository": {
+        "url": "https://github.com/LiPu-jpg/Openwrite"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-17T13:29:22.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -929,7 +929,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-17T13:19:32.000Z"
+      "updatedAt": "2026-10-17T16:34:36.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -941,26 +941,6 @@
       },
       "license": "BSD-3-Clause",
       "updatedAt": "2026-10-17T12:35:00.000Z"
-    },
-    {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
-      ],
-      "updatedAt": "2026-09-26T22:11:59.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -984,6 +964,26 @@
         "real-time-data"
       ],
       "updatedAt": "2026-08-24T16:55:44.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-09-26T22:11:59.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1090,24 +1090,6 @@
       "updatedAt": "2026-10-11T12:31:45.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-genui",
-      "name": "@changfenhuang/dsh-genui",
-      "displayName": "dsh-genui",
-      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-genui"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "generative-ui",
-        "plugin",
-        "ui"
-      ],
-      "updatedAt": "2026-10-16T14:06:20.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1139,6 +1121,24 @@
         "cordis"
       ],
       "updatedAt": "2026-10-15T10:10:21.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-genui",
+      "name": "@changfenhuang/dsh-genui",
+      "displayName": "dsh-genui",
+      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-genui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "generative-ui",
+        "plugin",
+        "ui"
+      ],
+      "updatedAt": "2026-10-17T15:57:56.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1191,7 +1191,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-17T13:32:07.000Z"
+      "updatedAt": "2026-10-17T16:52:37.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1268,7 +1268,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-17T13:33:57.000Z"
+      "updatedAt": "2026-10-17T16:54:44.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1346,7 +1346,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-16T09:04:10.000Z"
+      "updatedAt": "2026-10-17T14:48:32.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1376,17 +1376,6 @@
       "updatedAt": "2026-10-17T07:53:06.000Z"
     },
     {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-16T19:37:12.000Z"
-    },
-    {
       "id": "beiyege-01/dsh-voice-ai-girlfriend",
       "name": "beiyege-01/dsh-voice-ai-girlfriend",
       "displayName": "dsh-voice-ai-girlfriend",
@@ -1396,6 +1385,17 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-09-13T16:36:44.000Z"
+    },
+    {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-17T16:34:09.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1469,7 +1469,7 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-16T13:52:02.000Z"
+      "updatedAt": "2026-10-17T16:56:54.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1513,29 +1513,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-10-16T14:21:12.000Z"
-    },
-    {
-      "id": "bruc3van/awesome-dsh-plugin",
-      "name": "bruc3van/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
-      "repository": {
-        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-17T06:56:30.000Z"
-    },
-    {
-      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
-      "name": "@deepseek-ai/dsh-client-ui-aqua",
-      "displayName": "DSH-Transparent-UI-Plugin",
-      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
-      "repository": {
-        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-08-22T02:10:10.000Z"
+      "updatedAt": "2026-10-17T15:09:53.000Z"
     },
     {
       "id": "sixtysevenlf/dsh-blender-plugin",
@@ -1554,7 +1532,29 @@
         "bpy",
         "cycles"
       ],
-      "updatedAt": "2026-10-16T16:22:55.000Z"
+      "updatedAt": "2026-10-17T14:31:19.000Z"
+    },
+    {
+      "id": "bruc3van/awesome-dsh-plugin",
+      "name": "bruc3van/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
+      "repository": {
+        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-17T16:53:48.000Z"
+    },
+    {
+      "id": "WYH66666666/DSH-Transparent-UI-Plugin",
+      "name": "@deepseek-ai/dsh-client-ui-aqua",
+      "displayName": "DSH-Transparent-UI-Plugin",
+      "summary": "是一层高自由度的玻璃质感主题，套在 DeepSeek Harness 网页端。顶栏、侧边栏、输入框、统计行、轨迹视图都成了磨砂玻璃片。玻璃模糊度、磨砂度、背景（流体或自定义壁纸，壁纸还能单独调模糊和磨砂）全都能在设置卡片里自由调节。关掉开关就回到原生界面，不改 DSH 任何一行源码。",
+      "repository": {
+        "url": "https://github.com/WYH66666666/DSH-Transparent-UI-Plugin"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1578,18 +1578,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-17T13:05:45.000Z"
-    },
-    {
-      "id": "csyangwen/dsh-memory-evolve",
-      "name": "dsh-memory-evolve",
-      "displayName": "dsh-memory-evolve",
-      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
-      "repository": {
-        "url": "https://github.com/csyangwen/dsh-memory-evolve"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-29T12:52:46.000Z"
+      "updatedAt": "2026-10-17T15:39:19.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
@@ -1615,6 +1604,17 @@
         "provider"
       ],
       "updatedAt": "2026-10-17T09:29:33.000Z"
+    },
+    {
+      "id": "csyangwen/dsh-memory-evolve",
+      "name": "dsh-memory-evolve",
+      "displayName": "dsh-memory-evolve",
+      "summary": "为 DeepSeek Harness 带来「跨会话长期记忆 + 后台自我进化」能力的纯插件实现：五轨记忆 · git 分支感知 · 回合内自我审查 · 技能自我进化与技能管理器 · 四轨待办 · COI 调度 · 会话广播 · 会话搜索 · 提示词管理器 · 临时信息便签——零核心修改、零运行时依赖，随装随用、卸载即净。",
+      "repository": {
+        "url": "https://github.com/csyangwen/dsh-memory-evolve"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-29T12:52:46.000Z"
     },
     {
       "id": "d-dev0101/open-sea-skin",
@@ -1699,7 +1699,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-17T13:10:36.000Z"
+      "updatedAt": "2026-10-17T16:49:21.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
