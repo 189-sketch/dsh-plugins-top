@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-17T09:52:12.000Z"
+      "updatedAt": "2026-10-17T23:19:17.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-17T19:38:19.000Z"
+      "updatedAt": "2026-10-17T23:37:21.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-17T20:10:25.000Z"
+      "updatedAt": "2026-10-17T21:57:41.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-17T19:48:39.000Z"
+      "updatedAt": "2026-10-17T23:46:34.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -492,7 +492,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-17T19:44:05.000Z"
+      "updatedAt": "2026-10-17T21:39:06.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -531,7 +531,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-17T19:42:04.000Z"
+      "updatedAt": "2026-10-17T23:43:11.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -613,18 +613,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-17T16:22:12.000Z"
-    },
-    {
-      "id": "0xsline/awesome-deepseek-harness",
-      "name": "0xsline/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "repository": {
-        "url": "https://github.com/0xsline/awesome-deepseek-harness"
-      },
-      "license": "CC0-1.0",
-      "updatedAt": "2026-10-16T12:16:30.000Z"
+      "updatedAt": "2026-10-17T23:44:03.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -643,6 +632,17 @@
         "model-provider"
       ],
       "updatedAt": "2026-10-17T12:37:01.000Z"
+    },
+    {
+      "id": "0xsline/awesome-deepseek-harness",
+      "name": "0xsline/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "repository": {
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      "license": "CC0-1.0",
+      "updatedAt": "2026-10-16T12:16:30.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -687,7 +687,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T16:32:50.000Z"
+      "updatedAt": "2026-10-17T22:44:45.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -1268,7 +1268,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-17T18:39:44.000Z"
+      "updatedAt": "2026-10-17T23:19:04.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
