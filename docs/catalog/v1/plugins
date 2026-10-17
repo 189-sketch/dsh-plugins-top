@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T01:42:27.000Z"
+      "updatedAt": "2026-10-17T03:15:18.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-16T17:50:49.000Z"
+      "updatedAt": "2026-10-17T08:24:17.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -79,7 +79,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-16T13:50:18.000Z"
+      "updatedAt": "2026-10-17T05:20:21.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -101,7 +101,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-16T07:08:58.000Z"
+      "updatedAt": "2026-10-17T06:57:07.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -143,7 +143,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-16T17:12:26.000Z"
+      "updatedAt": "2026-10-17T08:23:45.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-16T19:20:40.000Z"
+      "updatedAt": "2026-10-17T06:01:21.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-17T02:55:48.000Z"
+      "updatedAt": "2026-10-17T08:21:21.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -280,7 +280,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T02:59:10.000Z"
+      "updatedAt": "2026-10-17T06:23:53.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -336,17 +336,6 @@
       "updatedAt": "2026-10-09T11:51:36.000Z"
     },
     {
-      "id": "Small-tailqwq/dsh-deep-whale",
-      "name": "Small-tailqwq/dsh-deep-whale",
-      "displayName": "dsh-deep-whale",
-      "summary": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
-      "repository": {
-        "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-14T14:21:59.000Z"
-    },
-    {
       "id": "T-Auto/dsh-ops",
       "name": "dsh-ops",
       "displayName": "dsh-ops",
@@ -361,7 +350,18 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-16T20:38:12.000Z"
+      "updatedAt": "2026-10-17T08:12:35.000Z"
+    },
+    {
+      "id": "Small-tailqwq/dsh-deep-whale",
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "displayName": "dsh-deep-whale",
+      "summary": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
+      "repository": {
+        "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-17T07:15:56.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -381,7 +381,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-17T01:48:41.000Z"
+      "updatedAt": "2026-10-17T04:47:52.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -402,7 +402,7 @@
         "ai-agent",
         "llm"
       ],
-      "updatedAt": "2026-10-11T02:28:17.000Z"
+      "updatedAt": "2026-10-17T08:10:17.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -466,7 +466,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T02:49:38.000Z"
+      "updatedAt": "2026-10-17T05:06:20.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -494,18 +494,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-17T02:15:40.000Z"
-    },
-    {
-      "id": "EthanYoQ/AI-Novel-Writer",
-      "name": "ai-novel-writer",
-      "displayName": "AI-Novel-Writer",
-      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
-      },
-      "license": "GPL-3.0",
-      "updatedAt": "2026-10-16T17:49:06.000Z"
+      "updatedAt": "2026-10-17T05:01:37.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -531,7 +520,18 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-17T02:50:30.000Z"
+      "updatedAt": "2026-10-17T08:23:41.000Z"
+    },
+    {
+      "id": "EthanYoQ/AI-Novel-Writer",
+      "name": "ai-novel-writer",
+      "displayName": "AI-Novel-Writer",
+      "summary": "AI 小说创作软件：把灵感、角色、世界观、大纲、章节写作、审稿和修稿组织成可控流程；提供 Windows/macOS 桌面版，支持本地和在线模型。AI Novel Writing Software: Organizes inspirations, characters, worldbuilding, outlines, chapter drafting, review, and revision into a controllable workflow. Features desktop apps for Windows/macOS, Ollama integration, and a DeepSeek Harness (DSH) plugin preview.",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
+      },
+      "license": "GPL-3.0",
+      "updatedAt": "2026-10-17T08:10:34.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -581,7 +581,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-10-13T05:10:07.000Z"
+      "updatedAt": "2026-10-17T07:15:02.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -613,7 +613,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-16T22:42:50.000Z"
+      "updatedAt": "2026-10-17T07:52:03.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -635,7 +635,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-17T00:56:31.000Z"
+      "updatedAt": "2026-10-17T07:53:22.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -658,7 +658,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-16T17:07:04.000Z"
+      "updatedAt": "2026-10-17T04:20:22.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -669,7 +669,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T00:49:06.000Z"
+      "updatedAt": "2026-10-17T07:07:47.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -698,7 +698,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-16T15:57:07.000Z"
+      "updatedAt": "2026-10-17T08:13:16.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -918,7 +918,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-16T21:54:05.000Z"
+      "updatedAt": "2026-10-17T07:40:57.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -929,7 +929,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-16T16:59:45.000Z"
+      "updatedAt": "2026-10-17T07:30:27.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1191,7 +1191,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-17T02:31:27.000Z"
+      "updatedAt": "2026-10-17T08:02:56.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1225,17 +1225,6 @@
       "updatedAt": "2026-10-12T08:33:07.000Z"
     },
     {
-      "id": "zenstory-ai/oh-story-dsh",
-      "name": "oh-story-dsh",
-      "displayName": "oh-story-dsh",
-      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
-      "repository": {
-        "url": "https://github.com/zenstory-ai/oh-story-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-16T08:29:47.000Z"
-    },
-    {
       "id": "liangmianya/dsh-synapse",
       "name": "dsh-synapse",
       "displayName": "dsh-synapse",
@@ -1245,6 +1234,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-05T11:19:39.000Z"
+    },
+    {
+      "id": "zenstory-ai/oh-story-dsh",
+      "name": "oh-story-dsh",
+      "displayName": "oh-story-dsh",
+      "summary": "DeepSeek 写网文/小说的工作流插件：DeepSeek Harness 社区插件，内置小说、短剧、游戏、视频解说四个工作台 | Community DeepSeek Harness plugin with novel, short-drama, game and video-recap workbenches.",
+      "repository": {
+        "url": "https://github.com/zenstory-ai/oh-story-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-16T08:29:47.000Z"
     },
     {
       "id": "Ikalus1988/MisakaNet",
@@ -1268,7 +1268,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-17T02:49:55.000Z"
+      "updatedAt": "2026-10-17T08:23:53.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1309,17 +1309,6 @@
       "updatedAt": "2026-10-15T10:23:41.000Z"
     },
     {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-25T10:06:22.000Z"
-    },
-    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -1338,6 +1327,17 @@
       "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-25T10:06:22.000Z"
+    },
+    {
       "id": "syncable-dev/memtrace-public",
       "name": "syncable-dev/memtrace-public",
       "displayName": "memtrace-public",
@@ -1347,17 +1347,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-10-16T09:04:10.000Z"
-    },
-    {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-16T19:37:12.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1384,7 +1373,29 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-10-16T05:23:40.000Z"
+      "updatedAt": "2026-10-17T07:53:06.000Z"
+    },
+    {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-16T19:37:12.000Z"
+    },
+    {
+      "id": "beiyege-01/dsh-voice-ai-girlfriend",
+      "name": "beiyege-01/dsh-voice-ai-girlfriend",
+      "displayName": "dsh-voice-ai-girlfriend",
+      "summary": "语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。",
+      "repository": {
+        "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-13T16:36:44.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1419,34 +1430,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-14T02:07:53.000Z"
-    },
-    {
-      "id": "beiyege-01/dsh-voice-ai-girlfriend",
-      "name": "beiyege-01/dsh-voice-ai-girlfriend",
-      "displayName": "dsh-voice-ai-girlfriend",
-      "summary": "语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。",
-      "repository": {
-        "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-13T16:36:44.000Z"
-    },
-    {
-      "id": "QCYTSN/dsh-dafeiyu",
-      "name": "dsh-dafeiyu",
-      "displayName": "dsh-dafeiyu",
-      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
-      "repository": {
-        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "desktop-pet",
-        "agent-companion"
-      ],
-      "updatedAt": "2026-10-10T05:47:31.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1489,6 +1472,23 @@
       "updatedAt": "2026-10-16T13:52:02.000Z"
     },
     {
+      "id": "QCYTSN/dsh-dafeiyu",
+      "name": "dsh-dafeiyu",
+      "displayName": "dsh-dafeiyu",
+      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
+      "repository": {
+        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "desktop-pet",
+        "agent-companion"
+      ],
+      "updatedAt": "2026-10-10T05:47:31.000Z"
+    },
+    {
       "id": "Han-1413141/dsh-cost-meter",
       "name": "dsh-cost-meter",
       "displayName": "dsh-cost-meter",
@@ -1524,7 +1524,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T02:09:46.000Z"
+      "updatedAt": "2026-10-17T06:56:30.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1559,7 +1559,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-17T02:57:35.000Z"
+      "updatedAt": "2026-10-17T08:11:24.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1642,6 +1642,25 @@
       "updatedAt": "2026-09-28T20:11:15.000Z"
     },
     {
+      "id": "sixtysevenlf/dsh-blender-plugin",
+      "name": "@dsh-external/dsh-blender-plugin",
+      "displayName": "dsh-blender-plugin",
+      "summary": "DSH x Blender direct realtime plugin v2.0 — an AI drives Blender over a direct TCP channel (no MCP): 16 tools, 28 families / 186 ops (viewport frames, click-to-pick, render profiling, headless offload) + a right-sidebar panel (live only) with click-to-context & @-mentions. Addon: DSH Blender Bridge. skill: sixtysevenlf/dsh-skill-blender-modeling",
+      "repository": {
+        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
+      },
+      "license": "BSD-3-Clause",
+      "keywords": [
+        "dsh",
+        "blender",
+        "ai-agent",
+        "tooling",
+        "bpy",
+        "cycles"
+      ],
+      "updatedAt": "2026-10-16T16:22:55.000Z"
+    },
+    {
       "id": "linhay/harmony-next.skills",
       "name": "dsh-harmony-next",
       "displayName": "harmony-next.skills",
@@ -1661,25 +1680,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-16T11:26:13.000Z"
-    },
-    {
-      "id": "sixtysevenlf/dsh-blender-plugin",
-      "name": "@dsh-external/dsh-blender-plugin",
-      "displayName": "dsh-blender-plugin",
-      "summary": "DSH x Blender direct realtime plugin v2.0 — an AI drives Blender over a direct TCP channel (no MCP): 16 tools, 28 families / 186 ops (viewport frames, click-to-pick, render profiling, headless offload) + a right-sidebar panel (live only) with click-to-context & @-mentions. Addon: DSH Blender Bridge. skill: sixtysevenlf/dsh-skill-blender-modeling",
-      "repository": {
-        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
-      },
-      "license": "BSD-3-Clause",
-      "keywords": [
-        "dsh",
-        "blender",
-        "ai-agent",
-        "tooling",
-        "bpy",
-        "cycles"
-      ],
-      "updatedAt": "2026-10-16T16:22:55.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1717,7 +1717,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-17T01:25:29.000Z"
+      "updatedAt": "2026-10-17T08:23:49.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
