@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-16T17:01:22.000Z"
+      "updatedAt": "2026-10-17T01:42:27.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-16T22:38:08.000Z"
+      "updatedAt": "2026-10-17T02:55:43.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-16T22:29:38.000Z"
+      "updatedAt": "2026-10-17T02:55:48.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -280,7 +280,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-16T14:06:09.000Z"
+      "updatedAt": "2026-10-17T02:59:10.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -381,7 +381,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-16T18:49:38.000Z"
+      "updatedAt": "2026-10-17T01:48:41.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -466,7 +466,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-16T02:10:26.000Z"
+      "updatedAt": "2026-10-17T02:49:38.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -494,7 +494,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-16T16:44:41.000Z"
+      "updatedAt": "2026-10-17T02:15:40.000Z"
     },
     {
       "id": "EthanYoQ/AI-Novel-Writer",
@@ -531,7 +531,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-16T21:02:30.000Z"
+      "updatedAt": "2026-10-17T02:50:30.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -613,7 +613,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-16T17:46:36.000Z"
+      "updatedAt": "2026-10-16T22:42:50.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -635,7 +635,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-16T05:51:37.000Z"
+      "updatedAt": "2026-10-17T00:56:31.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -669,7 +669,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-16T16:07:17.000Z"
+      "updatedAt": "2026-10-17T00:49:06.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -803,17 +803,6 @@
       "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-browser",
-      "name": "dsh-browser",
-      "displayName": "dsh-browser",
-      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-browser"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-01T07:58:07.000Z"
-    },
-    {
       "id": "LiPu-jpg/Openwrite",
       "name": "dsh-openwrite",
       "displayName": "Openwrite",
@@ -823,6 +812,17 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-10-15T07:47:47.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-browser",
+      "name": "dsh-browser",
+      "displayName": "dsh-browser",
+      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-browser"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-01T07:58:07.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -879,17 +879,6 @@
       "updatedAt": "2026-10-15T18:43:32.000Z"
     },
     {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-11T10:52:13.000Z"
-    },
-    {
       "id": "SeaOf0/dsh-redteam-model",
       "name": "@dsh-external/dsh-redteam-model",
       "displayName": "dsh-redteam-model",
@@ -908,6 +897,17 @@
         "security"
       ],
       "updatedAt": "2026-10-14T11:09:57.000Z"
+    },
+    {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-11T10:52:13.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -1191,7 +1191,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-16T19:40:08.000Z"
+      "updatedAt": "2026-10-17T02:31:27.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1268,7 +1268,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-16T21:44:18.000Z"
+      "updatedAt": "2026-10-17T02:49:55.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1524,7 +1524,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-16T18:21:15.000Z"
+      "updatedAt": "2026-10-17T02:09:46.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1559,7 +1559,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-16T21:36:59.000Z"
+      "updatedAt": "2026-10-17T02:57:35.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1617,7 +1617,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-16T17:26:34.000Z"
+      "updatedAt": "2026-10-17T00:55:40.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
@@ -1663,24 +1663,6 @@
       "updatedAt": "2026-10-16T11:26:13.000Z"
     },
     {
-      "id": "yjh051108/dsh-router-standard",
-      "name": "dsh-router-standard",
-      "displayName": "dsh-router-standard",
-      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
-      "repository": {
-        "url": "https://github.com/yjh051108/dsh-router-standard"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "dsh",
-        "deepseek-harness",
-        "progressive-disclosure",
-        "agent-preset"
-      ],
-      "updatedAt": "2026-08-24T18:20:09.000Z"
-    },
-    {
       "id": "sixtysevenlf/dsh-blender-plugin",
       "name": "@dsh-external/dsh-blender-plugin",
       "displayName": "dsh-blender-plugin",
@@ -1700,6 +1682,24 @@
       "updatedAt": "2026-10-16T16:22:55.000Z"
     },
     {
+      "id": "yjh051108/dsh-router-standard",
+      "name": "dsh-router-standard",
+      "displayName": "dsh-router-standard",
+      "summary": "已并入 dsh-routing-suite（单仓库化）；本仓库为历史镜像/归档 —— 注意力工程主线 v1.19.1/v34 研发线未发布。新代码见 github.com/yjh051108/dsh-routing-suite",
+      "repository": {
+        "url": "https://github.com/yjh051108/dsh-router-standard"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "dsh",
+        "deepseek-harness",
+        "progressive-disclosure",
+        "agent-preset"
+      ],
+      "updatedAt": "2026-08-24T18:20:09.000Z"
+    },
+    {
       "id": "liguobao/ds-harness-remote",
       "name": "ds-harness-remote",
       "displayName": "ds-harness-remote",
@@ -1717,7 +1717,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-16T18:21:02.000Z"
+      "updatedAt": "2026-10-17T01:25:29.000Z"
     },
     {
       "id": "shengsheng90/DSH-taskboard",
