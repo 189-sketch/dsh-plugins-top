@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-18T17:09:09.000Z"
+      "updatedAt": "2026-10-18T20:12:46.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -110,7 +110,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-18T17:12:45.000Z"
+      "updatedAt": "2026-10-18T18:21:53.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-18T17:14:14.000Z"
+      "updatedAt": "2026-10-18T19:55:56.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-18T16:57:54.000Z"
+      "updatedAt": "2026-10-18T20:10:41.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -339,7 +339,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-18T17:09:16.000Z"
+      "updatedAt": "2026-10-18T20:00:10.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -435,7 +435,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-18T07:44:28.000Z"
+      "updatedAt": "2026-10-18T18:07:47.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -481,7 +481,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-18T17:00:07.000Z"
+      "updatedAt": "2026-10-18T20:00:04.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -620,7 +620,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-18T14:09:08.000Z"
+      "updatedAt": "2026-10-18T20:08:22.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -642,7 +642,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-18T15:40:37.000Z"
+      "updatedAt": "2026-10-18T18:27:34.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -792,17 +792,6 @@
       "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
-      "id": "LiPu-jpg/Openwrite",
-      "name": "dsh-openwrite",
-      "displayName": "Openwrite",
-      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
-      "repository": {
-        "url": "https://github.com/LiPu-jpg/Openwrite"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-18T04:23:49.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-browser",
       "name": "dsh-browser",
       "displayName": "dsh-browser",
@@ -812,6 +801,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-01T07:58:07.000Z"
+    },
+    {
+      "id": "LiPu-jpg/Openwrite",
+      "name": "dsh-openwrite",
+      "displayName": "Openwrite",
+      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+      "repository": {
+        "url": "https://github.com/LiPu-jpg/Openwrite"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-18T04:23:49.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -972,7 +972,7 @@
         "spinner",
         "pi-coding-agent"
       ],
-      "updatedAt": "2026-10-18T16:33:47.000Z"
+      "updatedAt": "2026-10-18T19:14:22.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1219,7 +1219,7 @@
         "bpy",
         "cycles"
       ],
-      "updatedAt": "2026-10-17T14:31:19.000Z"
+      "updatedAt": "2026-10-18T19:19:03.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1443,7 +1443,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-18T16:41:47.000Z"
+      "updatedAt": "2026-10-18T18:45:03.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1477,7 +1477,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-18T14:50:31.000Z"
+      "updatedAt": "2026-10-18T17:46:39.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1532,7 +1532,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-18T16:46:40.000Z"
+      "updatedAt": "2026-10-18T17:39:48.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1567,7 +1567,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-18T17:13:11.000Z"
+      "updatedAt": "2026-10-18T18:17:29.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
