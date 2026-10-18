@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T18:06:59.000Z"
+      "updatedAt": "2026-10-18T02:58:16.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-17T18:26:59.000Z"
+      "updatedAt": "2026-10-18T02:01:59.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-17T23:46:34.000Z"
+      "updatedAt": "2026-10-18T03:00:45.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -322,7 +322,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-10-17T15:27:19.000Z"
+      "updatedAt": "2026-10-18T03:00:55.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -361,7 +361,7 @@
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-17T12:36:57.000Z"
+      "updatedAt": "2026-10-18T02:31:23.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -381,7 +381,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-17T04:47:52.000Z"
+      "updatedAt": "2026-10-18T02:53:05.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -402,7 +402,7 @@
         "ai-agent",
         "llm"
       ],
-      "updatedAt": "2026-10-17T08:10:17.000Z"
+      "updatedAt": "2026-10-18T02:57:54.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -435,7 +435,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-17T19:48:42.000Z"
+      "updatedAt": "2026-10-18T02:38:25.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -466,7 +466,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T05:06:20.000Z"
+      "updatedAt": "2026-10-18T00:24:27.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -492,7 +492,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-17T21:39:06.000Z"
+      "updatedAt": "2026-10-18T00:43:28.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -531,7 +531,7 @@
         "url": "https://github.com/EthanYoQ/AI-Novel-Writer"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-10-17T23:43:11.000Z"
+      "updatedAt": "2026-10-18T02:33:07.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -613,7 +613,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-17T23:44:03.000Z"
+      "updatedAt": "2026-10-18T02:56:16.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -631,7 +631,7 @@
         "workbuddy",
         "model-provider"
       ],
-      "updatedAt": "2026-10-17T12:37:01.000Z"
+      "updatedAt": "2026-10-18T02:53:48.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -653,7 +653,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-17T20:03:16.000Z"
+      "updatedAt": "2026-10-18T01:16:01.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -687,7 +687,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-17T22:44:45.000Z"
+      "updatedAt": "2026-10-18T01:58:46.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -699,27 +699,6 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-10-17T19:44:40.000Z"
-    },
-    {
-      "id": "Miaotofu01/Study-Mate",
-      "name": "@yunmiao/studymate",
-      "displayName": "Study-Mate",
-      "summary": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
-      "repository": {
-        "url": "https://github.com/Miaotofu01/Study-Mate"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "studymate",
-        "learning",
-        "education",
-        "antigravity",
-        "codex",
-        "chatgpt"
-      ],
-      "updatedAt": "2026-10-17T17:51:39.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -744,6 +723,27 @@
         "worldline"
       ],
       "updatedAt": "2026-10-14T06:25:25.000Z"
+    },
+    {
+      "id": "Miaotofu01/Study-Mate",
+      "name": "@yunmiao/studymate",
+      "displayName": "Study-Mate",
+      "summary": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
+      "repository": {
+        "url": "https://github.com/Miaotofu01/Study-Mate"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "studymate",
+        "learning",
+        "education",
+        "antigravity",
+        "codex",
+        "chatgpt"
+      ],
+      "updatedAt": "2026-10-17T17:51:39.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -779,7 +779,7 @@
         "screenshot-testing",
         "gui-automation"
       ],
-      "updatedAt": "2026-10-13T09:12:15.000Z"
+      "updatedAt": "2026-10-18T02:42:13.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -822,7 +822,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-17T13:29:22.000Z"
+      "updatedAt": "2026-10-18T01:20:29.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -943,6 +943,26 @@
       "updatedAt": "2026-10-17T12:35:00.000Z"
     },
     {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-09-26T22:11:59.000Z"
+    },
+    {
       "id": "chainbase-labs/Agentkey",
       "name": "agentkey-skill",
       "displayName": "Agentkey",
@@ -964,26 +984,6 @@
         "real-time-data"
       ],
       "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
-      ],
-      "updatedAt": "2026-09-26T22:11:59.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1111,7 +1111,7 @@
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
-      "summary": "AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.",
+      "summary": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.",
       "repository": {
         "url": "https://github.com/shanliuling/dsh-image-gen"
       },
@@ -1268,7 +1268,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-17T23:19:04.000Z"
+      "updatedAt": "2026-10-18T02:53:41.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1472,6 +1472,25 @@
       "updatedAt": "2026-10-17T18:33:48.000Z"
     },
     {
+      "id": "sixtysevenlf/dsh-blender-plugin",
+      "name": "@dsh-external/dsh-blender-plugin",
+      "displayName": "dsh-blender-plugin",
+      "summary": "DSH x Blender direct realtime plugin v2.0 — an AI drives Blender over a direct TCP channel (no MCP): 16 tools, 28 families / 186 ops (viewport frames, click-to-pick, render profiling, headless offload) + a right-sidebar panel (live only) with click-to-context & @-mentions. Addon: DSH Blender Bridge. skill: sixtysevenlf/dsh-skill-blender-modeling",
+      "repository": {
+        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
+      },
+      "license": "BSD-3-Clause",
+      "keywords": [
+        "dsh",
+        "blender",
+        "ai-agent",
+        "tooling",
+        "bpy",
+        "cycles"
+      ],
+      "updatedAt": "2026-10-17T14:31:19.000Z"
+    },
+    {
       "id": "QCYTSN/dsh-dafeiyu",
       "name": "dsh-dafeiyu",
       "displayName": "dsh-dafeiyu",
@@ -1514,25 +1533,6 @@
         "language"
       ],
       "updatedAt": "2026-10-17T15:09:53.000Z"
-    },
-    {
-      "id": "sixtysevenlf/dsh-blender-plugin",
-      "name": "@dsh-external/dsh-blender-plugin",
-      "displayName": "dsh-blender-plugin",
-      "summary": "DSH x Blender direct realtime plugin v2.0 — an AI drives Blender over a direct TCP channel (no MCP): 16 tools, 28 families / 186 ops (viewport frames, click-to-pick, render profiling, headless offload) + a right-sidebar panel (live only) with click-to-context & @-mentions. Addon: DSH Blender Bridge. skill: sixtysevenlf/dsh-skill-blender-modeling",
-      "repository": {
-        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
-      },
-      "license": "BSD-3-Clause",
-      "keywords": [
-        "dsh",
-        "blender",
-        "ai-agent",
-        "tooling",
-        "bpy",
-        "cycles"
-      ],
-      "updatedAt": "2026-10-17T14:31:19.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1578,7 +1578,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-17T15:39:19.000Z"
+      "updatedAt": "2026-10-18T02:31:38.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
@@ -1603,7 +1603,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-17T09:29:33.000Z"
+      "updatedAt": "2026-10-18T02:42:33.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
