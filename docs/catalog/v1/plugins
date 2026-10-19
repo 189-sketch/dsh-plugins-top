@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-19T16:58:11.000Z"
+      "updatedAt": "2026-10-19T20:25:14.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -116,7 +116,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-19T16:53:25.000Z"
+      "updatedAt": "2026-10-19T21:42:08.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -136,7 +136,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-19T16:55:41.000Z"
+      "updatedAt": "2026-10-19T18:21:34.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-19T16:57:16.000Z"
+      "updatedAt": "2026-10-19T21:41:07.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -339,18 +339,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-19T16:54:13.000Z"
-    },
-    {
-      "id": "zilliztech/memsearch",
-      "name": "zilliztech/memsearch",
-      "displayName": "memsearch",
-      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
-      "repository": {
-        "url": "https://github.com/zilliztech/memsearch"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-19T08:16:01.000Z"
+      "updatedAt": "2026-10-19T21:44:46.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -362,6 +351,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-19T14:32:23.000Z"
+    },
+    {
+      "id": "zilliztech/memsearch",
+      "name": "zilliztech/memsearch",
+      "displayName": "memsearch",
+      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+      "repository": {
+        "url": "https://github.com/zilliztech/memsearch"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-19T08:16:01.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -392,7 +392,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-19T03:43:12.000Z"
+      "updatedAt": "2026-10-19T22:04:00.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -472,7 +472,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-19T16:56:48.000Z"
+      "updatedAt": "2026-10-19T22:02:07.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -520,7 +520,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-19T11:47:31.000Z"
+      "updatedAt": "2026-10-19T17:35:20.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -569,7 +569,7 @@
         "workbuddy",
         "model-provider"
       ],
-      "updatedAt": "2026-10-19T15:46:59.000Z"
+      "updatedAt": "2026-10-19T17:58:37.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -620,7 +620,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-19T16:51:09.000Z"
+      "updatedAt": "2026-10-19T20:51:06.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -665,7 +665,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-19T16:47:00.000Z"
+      "updatedAt": "2026-10-19T17:28:44.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -711,7 +711,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-19T15:36:54.000Z"
+      "updatedAt": "2026-10-19T19:41:12.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -837,7 +837,7 @@
       "id": "sixtysevenlf/dsh-blender-plugin",
       "name": "@dsh-external/dsh-blender-plugin",
       "displayName": "dsh-blender-plugin",
-      "summary": "DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.4 起编辑模式点/线/面、姿态骨骼也能随选中送进 DSH 草稿（含多选/集合模式与 human/agent 判定），随包建模 skill，支持 WSL / Windows / macOS。",
+      "summary": "DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.5 活动状态置顶并可一键暂停 AI，原生选中/集合/子元素直送 DSH，随包建模 skill，支持 WSL / Windows / macOS。",
       "repository": {
         "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
       },
@@ -852,7 +852,7 @@
         "skill",
         "modeling"
       ],
-      "updatedAt": "2026-10-19T14:49:56.000Z"
+      "updatedAt": "2026-10-19T17:36:50.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -939,7 +939,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-19T10:42:01.000Z"
+      "updatedAt": "2026-10-19T20:50:59.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1101,7 +1101,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-10-19T15:07:07.000Z"
+      "updatedAt": "2026-10-19T19:57:08.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
@@ -1201,7 +1201,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-19T16:51:04.000Z"
+      "updatedAt": "2026-10-19T19:54:33.000Z"
     },
     {
       "id": "Clarklevis1995/dsh-mobile",
@@ -1296,7 +1296,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-19T16:56:39.000Z"
+      "updatedAt": "2026-10-19T20:49:29.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1456,7 +1456,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-19T08:25:47.000Z"
+      "updatedAt": "2026-10-19T21:10:39.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1545,7 +1545,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-19T10:53:56.000Z"
+      "updatedAt": "2026-10-19T20:19:52.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1669,7 +1669,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-19T16:41:52.000Z"
+      "updatedAt": "2026-10-19T17:16:31.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
