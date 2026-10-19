@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-18T20:12:46.000Z"
+      "updatedAt": "2026-10-18T23:48:32.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -110,18 +110,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-18T18:21:53.000Z"
-    },
-    {
-      "id": "Devin-AXIS/iPolloWork",
-      "name": "@ipollo/ipollowork-workspace",
-      "displayName": "iPolloWork",
-      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/iPolloWork"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-18T07:13:24.000Z"
+      "updatedAt": "2026-10-18T20:50:42.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -148,6 +137,17 @@
         "agent"
       ],
       "updatedAt": "2026-10-12T06:10:34.000Z"
+    },
+    {
+      "id": "Devin-AXIS/iPolloWork",
+      "name": "@ipollo/ipollowork-workspace",
+      "displayName": "iPolloWork",
+      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/iPolloWork"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-18T07:13:24.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-18T19:55:56.000Z"
+      "updatedAt": "2026-10-18T20:29:45.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-18T16:51:34.000Z"
+      "updatedAt": "2026-10-18T21:27:09.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-18T20:10:41.000Z"
+      "updatedAt": "2026-10-18T23:49:36.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -339,7 +339,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-18T20:00:10.000Z"
+      "updatedAt": "2026-10-18T22:54:48.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -381,7 +381,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-18T13:30:47.000Z"
+      "updatedAt": "2026-10-19T00:01:49.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -458,6 +458,17 @@
       "updatedAt": "2026-10-17T09:48:40.000Z"
     },
     {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-18T14:40:06.000Z"
+    },
+    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -481,18 +492,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-18T20:00:04.000Z"
-    },
-    {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-18T14:40:06.000Z"
+      "updatedAt": "2026-10-18T23:32:01.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -620,7 +620,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-18T20:08:22.000Z"
+      "updatedAt": "2026-10-18T23:58:53.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -679,17 +679,6 @@
       "updatedAt": "2026-10-18T12:22:54.000Z"
     },
     {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-18T16:49:44.000Z"
-    },
-    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -712,6 +701,17 @@
         "worldline"
       ],
       "updatedAt": "2026-10-14T06:25:25.000Z"
+    },
+    {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-18T16:49:44.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -1183,6 +1183,25 @@
       "updatedAt": "2026-10-18T16:28:03.000Z"
     },
     {
+      "id": "sixtysevenlf/dsh-blender-plugin",
+      "name": "@dsh-external/dsh-blender-plugin",
+      "displayName": "dsh-blender-plugin",
+      "summary": "DSH x Blender direct realtime plugin v2.0 — an AI drives Blender over a direct TCP channel (no MCP): 16 tools, 28 families / 186 ops (viewport frames, click-to-pick, render profiling, headless offload) + a right-sidebar panel (live only) with click-to-context & @-mentions. Addon: DSH Blender Bridge. skill: sixtysevenlf/dsh-skill-blender-modeling",
+      "repository": {
+        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
+      },
+      "license": "BSD-3-Clause",
+      "keywords": [
+        "dsh",
+        "blender",
+        "ai-agent",
+        "tooling",
+        "bpy",
+        "cycles"
+      ],
+      "updatedAt": "2026-10-18T19:19:03.000Z"
+    },
+    {
       "id": "dream-num/dsh-univer-office",
       "name": "dsh-univer-office",
       "displayName": "dsh-univer-office",
@@ -1201,25 +1220,6 @@
         "worktree"
       ],
       "updatedAt": "2026-10-08T08:36:16.000Z"
-    },
-    {
-      "id": "sixtysevenlf/dsh-blender-plugin",
-      "name": "@dsh-external/dsh-blender-plugin",
-      "displayName": "dsh-blender-plugin",
-      "summary": "DSH x Blender direct realtime plugin v2.0 — an AI drives Blender over a direct TCP channel (no MCP): 16 tools, 28 families / 186 ops (viewport frames, click-to-pick, render profiling, headless offload) + a right-sidebar panel (live only) with click-to-context & @-mentions. Addon: DSH Blender Bridge. skill: sixtysevenlf/dsh-skill-blender-modeling",
-      "repository": {
-        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
-      },
-      "license": "BSD-3-Clause",
-      "keywords": [
-        "dsh",
-        "blender",
-        "ai-agent",
-        "tooling",
-        "bpy",
-        "cycles"
-      ],
-      "updatedAt": "2026-10-18T19:19:03.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1294,7 +1294,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-18T17:10:35.000Z"
+      "updatedAt": "2026-10-18T23:30:26.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1395,6 +1395,17 @@
       "updatedAt": "2026-10-17T14:48:32.000Z"
     },
     {
+      "id": "vibeinging/dsh-desktop",
+      "name": "dsh-desktop",
+      "displayName": "dsh-desktop",
+      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "repository": {
+        "url": "https://github.com/vibeinging/dsh-desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-18T18:45:03.000Z"
+    },
+    {
       "id": "DDDMUC/dsh-free-search",
       "name": "dsh-free-search",
       "displayName": "dsh-free-search",
@@ -1433,17 +1444,6 @@
         "zhihu"
       ],
       "updatedAt": "2026-10-18T12:24:09.000Z"
-    },
-    {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-18T18:45:03.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1567,7 +1567,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-18T18:17:29.000Z"
+      "updatedAt": "2026-10-18T23:45:39.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
