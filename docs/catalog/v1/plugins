@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-20T18:24:53.000Z"
+      "updatedAt": "2026-10-20T20:33:03.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -99,7 +99,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-20T18:20:37.000Z"
+      "updatedAt": "2026-10-20T20:55:03.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -110,7 +110,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-20T18:03:44.000Z"
+      "updatedAt": "2026-10-20T22:08:15.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -157,7 +157,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-20T18:19:05.000Z"
+      "updatedAt": "2026-10-20T19:47:50.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -178,7 +178,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-20T14:50:03.000Z"
+      "updatedAt": "2026-10-20T22:40:56.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-20T17:21:09.000Z"
+      "updatedAt": "2026-10-20T21:08:06.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -313,7 +313,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-20T17:58:24.000Z"
+      "updatedAt": "2026-10-20T19:31:24.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -420,7 +420,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-20T17:39:52.000Z"
+      "updatedAt": "2026-10-20T19:12:19.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-20T18:28:01.000Z"
+      "updatedAt": "2026-10-20T22:50:18.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -532,7 +532,7 @@
         "workbuddy",
         "model-provider"
       ],
-      "updatedAt": "2026-10-20T18:28:04.000Z"
+      "updatedAt": "2026-10-20T18:41:51.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -594,7 +594,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-20T17:59:52.000Z"
+      "updatedAt": "2026-10-20T22:04:12.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1138,7 +1138,7 @@
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
-      "summary": "Composable, view-based memory for DeepSeek Harness. Pluggable sources and strategies, with three-tier memory out of the box.",
+      "summary": "Composable, view-based context for DeepSeek Harness. Pluggable sources and strategies, with layered memory and self-evolving skills out of the box.",
       "repository": {
         "url": "https://github.com/omdsh-dev/dsh-mnemon"
       },
@@ -1175,7 +1175,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-19T19:54:33.000Z"
+      "updatedAt": "2026-10-20T23:00:26.000Z"
     },
     {
       "id": "Clarklevis1995/dsh-mobile",
@@ -1249,17 +1249,6 @@
       "updatedAt": "2026-10-19T11:46:41.000Z"
     },
     {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-05T11:19:39.000Z"
-    },
-    {
       "id": "1692775560/dsh-Mimir-Academic-research",
       "name": "mimir-monorepo",
       "displayName": "dsh-Mimir-Academic-research",
@@ -1269,6 +1258,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-12T08:33:07.000Z"
+    },
+    {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-05T11:19:39.000Z"
     },
     {
       "id": "Ikalus1988/MisakaNet",
@@ -1292,7 +1292,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-20T18:27:53.000Z"
+      "updatedAt": "2026-10-20T21:43:03.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1322,17 +1322,6 @@
       "updatedAt": "2026-10-19T11:18:40.000Z"
     },
     {
-      "id": "FSMargoo/dsh-at-file",
-      "name": "dsh-at-file",
-      "displayName": "dsh-at-file",
-      "summary": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
-      "repository": {
-        "url": "https://github.com/FSMargoo/dsh-at-file"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-01T01:00:35.000Z"
-    },
-    {
       "id": "gitroomhq/postiz-agent",
       "name": "postiz",
       "displayName": "postiz-agent",
@@ -1358,6 +1347,17 @@
         "reddit"
       ],
       "updatedAt": "2026-10-20T07:53:01.000Z"
+    },
+    {
+      "id": "FSMargoo/dsh-at-file",
+      "name": "dsh-at-file",
+      "displayName": "dsh-at-file",
+      "summary": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
+      "repository": {
+        "url": "https://github.com/FSMargoo/dsh-at-file"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-01T01:00:35.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1453,7 +1453,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T18:03:53.000Z"
+      "updatedAt": "2026-10-20T20:03:12.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1519,7 +1519,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T14:06:32.000Z"
+      "updatedAt": "2026-10-20T18:47:04.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
