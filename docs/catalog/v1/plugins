@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-19T15:15:00.000Z"
+      "updatedAt": "2026-10-19T23:36:43.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-19T20:25:14.000Z"
+      "updatedAt": "2026-10-19T23:23:05.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -79,7 +79,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-19T15:40:04.000Z"
+      "updatedAt": "2026-10-20T01:00:01.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -116,7 +116,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-19T21:42:08.000Z"
+      "updatedAt": "2026-10-19T23:55:18.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-19T15:56:53.000Z"
+      "updatedAt": "2026-10-20T00:25:46.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-19T21:41:07.000Z"
+      "updatedAt": "2026-10-20T01:04:33.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -392,7 +392,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-19T22:04:00.000Z"
+      "updatedAt": "2026-10-20T00:42:58.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -472,7 +472,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-19T22:02:07.000Z"
+      "updatedAt": "2026-10-20T01:06:55.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -950,7 +950,25 @@
         "url": "https://github.com/Nagi-ovo/dsh-ads"
       },
       "license": "BSD-3-Clause",
-      "updatedAt": "2026-10-17T12:35:00.000Z"
+      "updatedAt": "2026-10-20T00:24:53.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-genui",
+      "name": "@changfenhuang/dsh-genui",
+      "displayName": "dsh-genui",
+      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-genui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "generative-ui",
+        "plugin",
+        "ui"
+      ],
+      "updatedAt": "2026-10-19T13:45:02.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -994,24 +1012,6 @@
         "pi-coding-agent"
       ],
       "updatedAt": "2026-10-18T19:14:22.000Z"
-    },
-    {
-      "id": "omdsh-dev/dsh-genui",
-      "name": "@changfenhuang/dsh-genui",
-      "displayName": "dsh-genui",
-      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-genui"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "generative-ui",
-        "plugin",
-        "ui"
-      ],
-      "updatedAt": "2026-10-19T13:45:02.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1296,7 +1296,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-19T20:49:29.000Z"
+      "updatedAt": "2026-10-20T00:34:25.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1397,17 +1397,6 @@
       "updatedAt": "2026-09-25T10:06:22.000Z"
     },
     {
-      "id": "syncable-dev/memtrace-public",
-      "name": "syncable-dev/memtrace-public",
-      "displayName": "memtrace-public",
-      "summary": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.",
-      "repository": {
-        "url": "https://github.com/syncable-dev/memtrace-public"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-19T02:14:33.000Z"
-    },
-    {
       "id": "DDDMUC/dsh-free-search",
       "name": "dsh-free-search",
       "displayName": "dsh-free-search",
@@ -1446,6 +1435,17 @@
         "zhihu"
       ],
       "updatedAt": "2026-10-19T14:50:36.000Z"
+    },
+    {
+      "id": "syncable-dev/memtrace-public",
+      "name": "syncable-dev/memtrace-public",
+      "displayName": "memtrace-public",
+      "summary": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.",
+      "repository": {
+        "url": "https://github.com/syncable-dev/memtrace-public"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-19T02:14:33.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -1569,7 +1569,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-19T16:36:09.000Z"
+      "updatedAt": "2026-10-20T01:00:36.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1616,7 +1616,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-19T12:19:03.000Z"
+      "updatedAt": "2026-10-20T00:58:32.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1669,7 +1669,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-19T17:16:31.000Z"
+      "updatedAt": "2026-10-19T23:53:27.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
