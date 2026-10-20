@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T03:38:17.000Z"
+      "updatedAt": "2026-10-20T12:04:50.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -57,7 +57,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-17T12:47:04.000Z"
+      "updatedAt": "2026-10-20T12:32:29.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -94,7 +94,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T06:22:03.000Z"
+      "updatedAt": "2026-10-20T08:44:06.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -105,7 +105,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-20T05:58:51.000Z"
+      "updatedAt": "2026-10-20T13:06:59.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -116,7 +116,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-19T23:55:18.000Z"
+      "updatedAt": "2026-10-20T13:11:44.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -136,7 +136,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-19T18:21:34.000Z"
+      "updatedAt": "2026-10-20T13:20:14.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -147,7 +147,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-20T04:14:40.000Z"
+      "updatedAt": "2026-10-20T11:34:28.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-19T07:45:48.000Z"
+      "updatedAt": "2026-10-20T08:48:59.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-20T07:00:45.000Z"
+      "updatedAt": "2026-10-20T13:02:52.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -246,7 +246,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-20T07:15:49.000Z"
+      "updatedAt": "2026-10-20T12:36:55.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -300,7 +300,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-10-20T07:09:12.000Z"
+      "updatedAt": "2026-10-20T13:07:23.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -339,7 +339,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-20T07:07:02.000Z"
+      "updatedAt": "2026-10-20T09:02:55.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -350,7 +350,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T05:54:06.000Z"
+      "updatedAt": "2026-10-20T12:08:08.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -361,7 +361,7 @@
         "url": "https://github.com/zilliztech/memsearch"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-19T08:16:01.000Z"
+      "updatedAt": "2026-10-20T12:26:12.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -446,13 +446,13 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-19T16:42:35.000Z"
+      "updatedAt": "2026-10-20T11:33:49.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
-      "summary": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
+      "summary": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "repository": {
         "url": "https://github.com/ranxianglei/billion-context"
       },
@@ -472,7 +472,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-20T07:17:05.000Z"
+      "updatedAt": "2026-10-20T13:19:44.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -540,18 +540,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-19T07:47:32.000Z"
-    },
-    {
-      "id": "Devin-AXIS/deepseek-design",
-      "name": "Devin-AXIS/deepseek-design",
-      "displayName": "deepseek-design",
-      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/deepseek-design"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-08T09:24:13.000Z"
+      "updatedAt": "2026-10-20T08:36:31.000Z"
     },
     {
       "id": "corrinehu/dsh-workbuddy-connect",
@@ -569,7 +558,18 @@
         "workbuddy",
         "model-provider"
       ],
-      "updatedAt": "2026-10-20T07:15:25.000Z"
+      "updatedAt": "2026-10-20T12:50:47.000Z"
+    },
+    {
+      "id": "Devin-AXIS/deepseek-design",
+      "name": "Devin-AXIS/deepseek-design",
+      "displayName": "deepseek-design",
+      "summary": "DeepSeek Harness 可编辑设计系统：AI 生成、可视化编辑、模板市场与 PPT｜Native Design & PPT Studio for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/deepseek-design"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-08T09:24:13.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -588,7 +588,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-10-18T05:44:13.000Z"
+      "updatedAt": "2026-10-20T08:01:49.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -620,18 +620,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-19T20:51:06.000Z"
-    },
-    {
-      "id": "0xsline/awesome-deepseek-harness",
-      "name": "0xsline/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "repository": {
-        "url": "https://github.com/0xsline/awesome-deepseek-harness"
-      },
-      "license": "CC0-1.0",
-      "updatedAt": "2026-10-16T12:16:30.000Z"
+      "updatedAt": "2026-10-20T13:23:02.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -656,6 +645,17 @@
         "worldline"
       ],
       "updatedAt": "2026-10-19T03:54:43.000Z"
+    },
+    {
+      "id": "0xsline/awesome-deepseek-harness",
+      "name": "0xsline/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "repository": {
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      "license": "CC0-1.0",
+      "updatedAt": "2026-10-16T12:16:30.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -689,7 +689,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-20T05:25:32.000Z"
+      "updatedAt": "2026-10-20T12:26:04.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -700,7 +700,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-20T06:32:53.000Z"
+      "updatedAt": "2026-10-20T13:16:25.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -711,7 +711,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T03:42:14.000Z"
+      "updatedAt": "2026-10-20T12:56:42.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -743,6 +743,27 @@
         "url": "https://github.com/mindscale-noah/MindMemOS"
       },
       "updatedAt": "2026-10-19T03:19:19.000Z"
+    },
+    {
+      "id": "sixtysevenlf/dsh-blender-plugin",
+      "name": "@dsh-external/dsh-blender-plugin",
+      "displayName": "dsh-blender-plugin",
+      "summary": "DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.5 活动状态置顶并可一键暂停 AI，原生选中/集合/子元素直送 DSH，随包建模 skill，支持 WSL / Windows / macOS。",
+      "repository": {
+        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
+      },
+      "license": "BSD-3-Clause",
+      "keywords": [
+        "dsh",
+        "blender",
+        "ai-agent",
+        "tooling",
+        "bpy",
+        "cycles",
+        "skill",
+        "modeling"
+      ],
+      "updatedAt": "2026-10-19T17:36:50.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -790,27 +811,6 @@
         "url": "https://github.com/Electricitysheep/dsh-handbook"
       },
       "updatedAt": "2026-10-04T01:28:20.000Z"
-    },
-    {
-      "id": "sixtysevenlf/dsh-blender-plugin",
-      "name": "@dsh-external/dsh-blender-plugin",
-      "displayName": "dsh-blender-plugin",
-      "summary": "DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.5 活动状态置顶并可一键暂停 AI，原生选中/集合/子元素直送 DSH，随包建模 skill，支持 WSL / Windows / macOS。",
-      "repository": {
-        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
-      },
-      "license": "BSD-3-Clause",
-      "keywords": [
-        "dsh",
-        "blender",
-        "ai-agent",
-        "tooling",
-        "bpy",
-        "cycles",
-        "skill",
-        "modeling"
-      ],
-      "updatedAt": "2026-10-19T17:36:50.000Z"
     },
     {
       "id": "omdsh-dev/dsh-browser",
@@ -939,7 +939,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-20T07:15:19.000Z"
+      "updatedAt": "2026-10-20T12:00:33.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -957,7 +957,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-20T06:59:14.000Z"
+      "updatedAt": "2026-10-20T07:33:59.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1212,7 +1212,7 @@
         "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T02:14:12.000Z"
+      "updatedAt": "2026-10-20T11:54:42.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1264,6 +1264,17 @@
       "updatedAt": "2026-10-19T11:46:41.000Z"
     },
     {
+      "id": "beiyege-01/dsh-voice-ai-girlfriend",
+      "name": "beiyege-01/dsh-voice-ai-girlfriend",
+      "displayName": "dsh-voice-ai-girlfriend",
+      "summary": "语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。",
+      "repository": {
+        "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-13T16:36:44.000Z"
+    },
+    {
       "id": "1692775560/dsh-Mimir-Academic-research",
       "name": "mimir-monorepo",
       "displayName": "dsh-Mimir-Academic-research",
@@ -1307,7 +1318,34 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-20T07:03:20.000Z"
+      "updatedAt": "2026-10-20T13:21:02.000Z"
+    },
+    {
+      "id": "saya-ch/dsh-mobile",
+      "name": "dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness 的 Android App 与安全远程访问插件，支持局域网/远程连接和高度自定义的移动界面与扩展能力。",
+      "repository": {
+        "url": "https://github.com/saya-ch/dsh-mobile"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "android",
+        "lan",
+        "remote-access",
+        "tailscale",
+        "cpolar",
+        "frp",
+        "self-hosted",
+        "reverse-proxy",
+        "mobile",
+        "https"
+      ],
+      "updatedAt": "2026-10-19T11:18:40.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1345,56 +1383,7 @@
         "youtube",
         "reddit"
       ],
-      "updatedAt": "2026-10-20T06:42:00.000Z"
-    },
-    {
-      "id": "beiyege-01/dsh-voice-ai-girlfriend",
-      "name": "beiyege-01/dsh-voice-ai-girlfriend",
-      "displayName": "dsh-voice-ai-girlfriend",
-      "summary": "语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。",
-      "repository": {
-        "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-13T16:36:44.000Z"
-    },
-    {
-      "id": "saya-ch/dsh-mobile",
-      "name": "dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness 的 Android App 与安全远程访问插件，支持局域网/远程连接和高度自定义的移动界面与扩展能力。",
-      "repository": {
-        "url": "https://github.com/saya-ch/dsh-mobile"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "android",
-        "lan",
-        "remote-access",
-        "tailscale",
-        "cpolar",
-        "frp",
-        "self-hosted",
-        "reverse-proxy",
-        "mobile",
-        "https"
-      ],
-      "updatedAt": "2026-10-19T11:18:40.000Z"
-    },
-    {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-25T10:06:22.000Z"
+      "updatedAt": "2026-10-20T07:53:01.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1434,7 +1423,18 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-19T14:50:36.000Z"
+      "updatedAt": "2026-10-20T09:16:06.000Z"
+    },
+    {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-25T10:06:22.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -1445,7 +1445,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-19T02:14:33.000Z"
+      "updatedAt": "2026-10-20T10:41:47.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1517,7 +1517,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-10-20T05:18:06.000Z"
+      "updatedAt": "2026-10-20T11:18:18.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1569,7 +1569,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-20T03:42:25.000Z"
+      "updatedAt": "2026-10-20T12:34:17.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1649,7 +1649,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-10-11T17:17:28.000Z"
+      "updatedAt": "2026-10-20T12:17:12.000Z"
     },
     {
       "id": "liguobao/ds-harness-remote",
@@ -1669,7 +1669,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-19T23:53:27.000Z"
+      "updatedAt": "2026-10-20T13:27:01.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
