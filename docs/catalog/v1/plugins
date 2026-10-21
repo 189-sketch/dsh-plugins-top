@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-20T15:47:03.000Z"
+      "updatedAt": "2026-10-21T02:29:14.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-20T20:33:03.000Z"
+      "updatedAt": "2026-10-20T23:55:07.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -68,7 +68,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T08:44:06.000Z"
+      "updatedAt": "2026-10-21T02:55:48.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -79,7 +79,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-20T13:06:59.000Z"
+      "updatedAt": "2026-10-21T01:26:33.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -110,7 +110,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-20T22:08:15.000Z"
+      "updatedAt": "2026-10-21T02:51:02.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -178,7 +178,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-20T22:40:56.000Z"
+      "updatedAt": "2026-10-21T02:33:30.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-20T21:08:06.000Z"
+      "updatedAt": "2026-10-21T03:14:57.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -274,7 +274,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-10-20T13:07:23.000Z"
+      "updatedAt": "2026-10-21T03:06:59.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -324,7 +324,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T12:08:08.000Z"
+      "updatedAt": "2026-10-21T02:32:57.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -366,7 +366,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-20T02:40:35.000Z"
+      "updatedAt": "2026-10-21T02:42:38.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -420,7 +420,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-20T19:12:19.000Z"
+      "updatedAt": "2026-10-21T00:31:39.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-20T22:50:18.000Z"
+      "updatedAt": "2026-10-21T03:15:58.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -486,7 +486,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-20T18:28:12.000Z"
+      "updatedAt": "2026-10-21T02:32:15.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -565,6 +565,30 @@
       "updatedAt": "2026-10-20T08:01:49.000Z"
     },
     {
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
+      "repository": {
+        "url": "https://github.com/Clearailhc/clearai-dsh"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "ontology",
+        "epistemic-loop",
+        "evidence",
+        "worldline"
+      ],
+      "updatedAt": "2026-10-19T03:54:43.000Z"
+    },
+    {
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
@@ -597,30 +621,6 @@
       "updatedAt": "2026-10-20T22:04:12.000Z"
     },
     {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "ontology",
-        "epistemic-loop",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-10-19T03:54:43.000Z"
-    },
-    {
       "id": "0xsline/awesome-deepseek-harness",
       "name": "0xsline/awesome-deepseek-harness",
       "displayName": "awesome-deepseek-harness",
@@ -632,6 +632,17 @@
       "updatedAt": "2026-10-16T12:16:30.000Z"
     },
     {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-21T03:14:25.000Z"
+    },
+    {
       "id": "agentrq/agentrq",
       "name": "agentrq/agentrq",
       "displayName": "agentrq",
@@ -641,17 +652,6 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-10-19T15:46:39.000Z"
-    },
-    {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-20T17:25:07.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -685,7 +685,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-20T12:56:42.000Z"
+      "updatedAt": "2026-10-21T03:18:46.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -706,7 +706,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-10-19T16:47:45.000Z"
+      "updatedAt": "2026-10-21T03:05:24.000Z"
     },
     {
       "id": "sixtysevenlf/dsh-blender-plugin",
@@ -931,7 +931,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-20T07:33:59.000Z"
+      "updatedAt": "2026-10-21T02:35:51.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -968,26 +968,6 @@
       "updatedAt": "2026-08-24T16:55:44.000Z"
     },
     {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
-      ],
-      "updatedAt": "2026-10-18T19:14:22.000Z"
-    },
-    {
       "id": "chenxiachan/thoughtdag",
       "name": "thoughtdag",
       "displayName": "thoughtdag",
@@ -1006,6 +986,26 @@
         "research-tool"
       ],
       "updatedAt": "2026-10-20T16:21:40.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-10-18T19:14:22.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1125,6 +1125,17 @@
       "updatedAt": "2026-10-18T14:15:46.000Z"
     },
     {
+      "id": "beiyege-01/dsh-voice-ai-girlfriend",
+      "name": "beiyege-01/dsh-voice-ai-girlfriend",
+      "displayName": "dsh-voice-ai-girlfriend",
+      "summary": "语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。",
+      "repository": {
+        "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-09-13T16:36:44.000Z"
+    },
+    {
       "id": "howmp/dsh-pentest",
       "name": "@howmp/dsh-pentest",
       "displayName": "dsh-pentest",
@@ -1175,18 +1186,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-20T23:00:26.000Z"
-    },
-    {
-      "id": "Clarklevis1995/dsh-mobile",
-      "name": "Clarklevis1995/dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
-      "repository": {
-        "url": "https://github.com/Clarklevis1995/dsh-mobile"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-20T11:54:42.000Z"
+      "updatedAt": "2026-10-21T01:14:41.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1207,15 +1207,15 @@
       "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
-      "id": "beiyege-01/dsh-voice-ai-girlfriend",
-      "name": "beiyege-01/dsh-voice-ai-girlfriend",
-      "displayName": "dsh-voice-ai-girlfriend",
-      "summary": "语音 AI 女友（Voice AI girlfriend for DeepSeek Harness）：Whisper 语音输入 + Qwen3-TTS 声音克隆 + 句子级流式朗读 + 数字人动画窗。插话/排队双模式，说话即打断。",
+      "id": "Clarklevis1995/dsh-mobile",
+      "name": "Clarklevis1995/dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
       "repository": {
-        "url": "https://github.com/beiyege-01/dsh-voice-ai-girlfriend"
+        "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-09-13T16:36:44.000Z"
+      "license": "MIT",
+      "updatedAt": "2026-10-20T11:54:42.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1249,17 +1249,6 @@
       "updatedAt": "2026-10-19T11:46:41.000Z"
     },
     {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-12T08:33:07.000Z"
-    },
-    {
       "id": "liangmianya/dsh-synapse",
       "name": "dsh-synapse",
       "displayName": "dsh-synapse",
@@ -1269,6 +1258,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-05T11:19:39.000Z"
+    },
+    {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-12T08:33:07.000Z"
     },
     {
       "id": "Ikalus1988/MisakaNet",
@@ -1292,7 +1292,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-20T21:43:03.000Z"
+      "updatedAt": "2026-10-21T02:09:25.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1349,17 +1349,6 @@
       "updatedAt": "2026-10-20T07:53:01.000Z"
     },
     {
-      "id": "FSMargoo/dsh-at-file",
-      "name": "dsh-at-file",
-      "displayName": "dsh-at-file",
-      "summary": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
-      "repository": {
-        "url": "https://github.com/FSMargoo/dsh-at-file"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-01T01:00:35.000Z"
-    },
-    {
       "id": "DDDMUC/dsh-free-search",
       "name": "dsh-free-search",
       "displayName": "dsh-free-search",
@@ -1398,6 +1387,17 @@
         "zhihu"
       ],
       "updatedAt": "2026-10-20T13:50:12.000Z"
+    },
+    {
+      "id": "FSMargoo/dsh-at-file",
+      "name": "dsh-at-file",
+      "displayName": "dsh-at-file",
+      "summary": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
+      "repository": {
+        "url": "https://github.com/FSMargoo/dsh-at-file"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-01T01:00:35.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
@@ -1480,7 +1480,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-10-20T15:57:37.000Z"
+      "updatedAt": "2026-10-21T03:15:55.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1543,7 +1543,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-20T17:10:21.000Z"
+      "updatedAt": "2026-10-21T03:05:25.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1579,7 +1579,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-20T00:58:32.000Z"
+      "updatedAt": "2026-10-21T02:12:48.000Z"
     },
     {
       "id": "theBigGavin/marketingdashboard",
@@ -1604,6 +1604,26 @@
       "updatedAt": "2026-09-29T12:52:46.000Z"
     },
     {
+      "id": "liguobao/ds-harness-remote",
+      "name": "ds-harness-remote",
+      "displayName": "ds-harness-remote",
+      "summary": "一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)",
+      "repository": {
+        "url": "https://github.com/liguobao/ds-harness-remote"
+      },
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "codex",
+        "remote-development",
+        "end-to-end-encryption",
+        "webrtc"
+      ],
+      "updatedAt": "2026-10-20T13:27:01.000Z"
+    },
+    {
       "id": "d-dev0101/open-sea-skin",
       "name": "open-sea-skin",
       "displayName": "open-sea-skin",
@@ -1624,26 +1644,6 @@
         "skin"
       ],
       "updatedAt": "2026-10-20T16:48:16.000Z"
-    },
-    {
-      "id": "liguobao/ds-harness-remote",
-      "name": "ds-harness-remote",
-      "displayName": "ds-harness-remote",
-      "summary": "一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)",
-      "repository": {
-        "url": "https://github.com/liguobao/ds-harness-remote"
-      },
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "codex",
-        "remote-development",
-        "end-to-end-encryption",
-        "webrtc"
-      ],
-      "updatedAt": "2026-10-20T13:27:01.000Z"
     },
     {
       "id": "pax-beehive/dsh-hub-cli",
