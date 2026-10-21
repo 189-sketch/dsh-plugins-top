@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-21T18:19:12.000Z"
+      "updatedAt": "2026-10-21T20:24:26.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -110,7 +110,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-21T19:13:58.000Z"
+      "updatedAt": "2026-10-21T22:13:13.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -178,7 +178,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-21T17:26:35.000Z"
+      "updatedAt": "2026-10-21T22:54:01.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -220,7 +220,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-21T19:04:55.000Z"
+      "updatedAt": "2026-10-21T22:15:05.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -347,17 +347,6 @@
       "updatedAt": "2026-10-21T18:13:42.000Z"
     },
     {
-      "id": "zilliztech/memsearch",
-      "name": "zilliztech/memsearch",
-      "displayName": "memsearch",
-      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
-      "repository": {
-        "url": "https://github.com/zilliztech/memsearch"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-21T09:44:00.000Z"
-    },
-    {
       "id": "Small-tailqwq/dsh-deep-whale",
       "name": "Small-tailqwq/dsh-deep-whale",
       "displayName": "dsh-deep-whale",
@@ -367,6 +356,17 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-10-21T11:30:28.000Z"
+    },
+    {
+      "id": "zilliztech/memsearch",
+      "name": "zilliztech/memsearch",
+      "displayName": "memsearch",
+      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+      "repository": {
+        "url": "https://github.com/zilliztech/memsearch"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-21T09:44:00.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-21T19:48:50.000Z"
+      "updatedAt": "2026-10-21T23:10:42.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -486,7 +486,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-21T17:43:45.000Z"
+      "updatedAt": "2026-10-21T21:21:42.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -547,30 +547,6 @@
       "updatedAt": "2026-10-21T04:08:24.000Z"
     },
     {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "ontology",
-        "epistemic-loop",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-10-19T03:54:43.000Z"
-    },
-    {
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
@@ -600,7 +576,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-21T19:09:25.000Z"
+      "updatedAt": "2026-10-21T23:07:28.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -691,25 +667,28 @@
       "updatedAt": "2026-10-21T18:24:00.000Z"
     },
     {
-      "id": "sixtysevenlf/dsh-blender-plugin",
-      "name": "@dsh-external/dsh-blender-plugin",
-      "displayName": "dsh-blender-plugin",
-      "summary": "DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.5 活动状态置顶并可一键暂停 AI，原生选中/集合/子元素直送 DSH，随包建模 skill，支持 WSL / Windows / macOS。",
+      "id": "Clearailhc/clearai-dsh",
+      "name": "clearai-dsh",
+      "displayName": "clearai-dsh",
+      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
       "repository": {
-        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
+        "url": "https://github.com/Clearailhc/clearai-dsh"
       },
-      "license": "BSD-3-Clause",
+      "license": "Apache-2.0",
       "keywords": [
         "dsh",
-        "blender",
-        "ai-agent",
-        "tooling",
-        "bpy",
-        "cycles",
-        "skill",
-        "modeling"
+        "dsh-plugin",
+        "deepseek-harness",
+        "cordis",
+        "plugin",
+        "clearai",
+        "agent-preset",
+        "ontology",
+        "epistemic-loop",
+        "evidence",
+        "worldline"
       ],
-      "updatedAt": "2026-10-21T17:59:27.000Z"
+      "updatedAt": "2026-10-19T03:54:43.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -736,6 +715,27 @@
         "agent"
       ],
       "updatedAt": "2026-10-13T05:50:46.000Z"
+    },
+    {
+      "id": "sixtysevenlf/dsh-blender-plugin",
+      "name": "@dsh-external/dsh-blender-plugin",
+      "displayName": "dsh-blender-plugin",
+      "summary": "DSH × Blender 直连实时插件：15 个模型工具让 AI 驱动 GUI Blender；v2.5 活动状态置顶并可一键暂停 AI，原生选中/集合/子元素直送 DSH，随包建模 skill，支持 WSL / Windows / macOS。",
+      "repository": {
+        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
+      },
+      "license": "BSD-3-Clause",
+      "keywords": [
+        "dsh",
+        "blender",
+        "ai-agent",
+        "tooling",
+        "bpy",
+        "cycles",
+        "skill",
+        "modeling"
+      ],
+      "updatedAt": "2026-10-21T17:59:27.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -902,17 +902,6 @@
       "updatedAt": "2026-10-14T11:09:57.000Z"
     },
     {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-18T15:23:42.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-genui",
       "name": "@changfenhuang/dsh-genui",
       "displayName": "dsh-genui",
@@ -929,6 +918,17 @@
         "ui"
       ],
       "updatedAt": "2026-10-21T12:12:43.000Z"
+    },
+    {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-18T15:23:42.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -1097,6 +1097,24 @@
       "updatedAt": "2026-10-19T19:57:08.000Z"
     },
     {
+      "id": "anysearch-team/anysearch-dsh",
+      "name": "@anysearch/anysearch-dsh",
+      "displayName": "anysearch-dsh",
+      "summary": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
+      "repository": {
+        "url": "https://github.com/anysearch-team/anysearch-dsh"
+      },
+      "license": "MIT",
+      "keywords": [
+        "anysearch",
+        "deepseek-harness",
+        "dsh-plugin",
+        "web-search",
+        "web-fetch"
+      ],
+      "updatedAt": "2026-10-10T08:54:47.000Z"
+    },
+    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -1142,24 +1160,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-10-18T14:15:46.000Z"
-    },
-    {
-      "id": "anysearch-team/anysearch-dsh",
-      "name": "@anysearch/anysearch-dsh",
-      "displayName": "anysearch-dsh",
-      "summary": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
-      "repository": {
-        "url": "https://github.com/anysearch-team/anysearch-dsh"
-      },
-      "license": "MIT",
-      "keywords": [
-        "anysearch",
-        "deepseek-harness",
-        "dsh-plugin",
-        "web-search",
-        "web-fetch"
-      ],
-      "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1367,7 +1367,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-21T18:55:16.000Z"
+      "updatedAt": "2026-10-21T22:06:53.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1427,7 +1427,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-21T14:50:41.000Z"
+      "updatedAt": "2026-10-21T21:00:48.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1488,7 +1488,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-21T18:10:08.000Z"
+      "updatedAt": "2026-10-21T20:16:09.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1654,17 +1654,6 @@
       "updatedAt": "2026-10-20T16:48:16.000Z"
     },
     {
-      "id": "pax-beehive/dsh-hub-cli",
-      "name": "dsh-hub-cli-workspace",
-      "displayName": "dsh-hub-cli",
-      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
-      "repository": {
-        "url": "https://github.com/pax-beehive/dsh-hub-cli"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-20T05:24:18.000Z"
-    },
-    {
       "id": "vlln/whale-girl",
       "name": "whale-girl",
       "displayName": "whale-girl",
@@ -1674,6 +1663,16 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-21T14:20:59.000Z"
+    },
+    {
+      "id": "linhay/harmony-next.skills",
+      "name": "dsh-harmony-next",
+      "displayName": "harmony-next.skills",
+      "summary": "Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling.",
+      "repository": {
+        "url": "https://github.com/linhay/harmony-next.skills"
+      },
+      "updatedAt": "2026-09-20T07:21:18.000Z"
     },
     {
       "id": "delta-box/deltabox-lite",
@@ -1687,14 +1686,15 @@
       "updatedAt": "2026-10-21T13:33:10.000Z"
     },
     {
-      "id": "linhay/harmony-next.skills",
-      "name": "dsh-harmony-next",
-      "displayName": "harmony-next.skills",
-      "summary": "Offline HarmonyOS NEXT developer skill library for AI coding assistants. Covers API 12–26 declarations, ArkTS/ArkUI, NDK, DevEco Studio, emulator automation, debugging, publishing, and reproducible local tooling.",
+      "id": "ADWMC/helm-d",
+      "name": "helmd",
+      "displayName": "helm-d",
+      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
       "repository": {
-        "url": "https://github.com/linhay/harmony-next.skills"
+        "url": "https://github.com/ADWMC/helm-d"
       },
-      "updatedAt": "2026-09-20T07:21:18.000Z"
+      "license": "MIT",
+      "updatedAt": "2026-10-21T14:17:06.000Z"
     },
     {
       "id": "yjh051108/dsh-router-standard",
@@ -1715,15 +1715,15 @@
       "updatedAt": "2026-08-24T18:20:09.000Z"
     },
     {
-      "id": "ADWMC/helm-d",
-      "name": "helmd",
-      "displayName": "helm-d",
-      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
+      "id": "pax-beehive/dsh-hub-cli",
+      "name": "dsh-hub-cli-workspace",
+      "displayName": "dsh-hub-cli",
+      "summary": "Open-source CLI, schemas, resolver, and DSH agent tools for DSH Plugin Hub",
       "repository": {
-        "url": "https://github.com/ADWMC/helm-d"
+        "url": "https://github.com/pax-beehive/dsh-hub-cli"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-21T14:17:06.000Z"
+      "updatedAt": "2026-10-20T05:24:18.000Z"
     },
     {
       "id": "dingminhua/dsh-connect-workbuddy",
