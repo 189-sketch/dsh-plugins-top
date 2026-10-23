@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-22T16:54:59.000Z"
+      "updatedAt": "2026-10-23T02:13:52.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-22T08:08:16.000Z"
+      "updatedAt": "2026-10-23T02:15:32.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-22T21:05:56.000Z"
+      "updatedAt": "2026-10-23T00:02:05.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -68,7 +68,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-22T11:24:51.000Z"
+      "updatedAt": "2026-10-23T02:07:24.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -79,7 +79,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-22T22:58:48.000Z"
+      "updatedAt": "2026-10-23T01:15:33.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -110,7 +110,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-22T21:04:52.000Z"
+      "updatedAt": "2026-10-23T01:18:02.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -157,7 +157,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-22T20:49:12.000Z"
+      "updatedAt": "2026-10-23T03:19:28.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -178,7 +178,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-22T23:05:23.000Z"
+      "updatedAt": "2026-10-23T03:05:22.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -221,7 +221,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-22T22:44:22.000Z"
+      "updatedAt": "2026-10-23T03:22:38.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -325,7 +325,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-22T13:18:19.000Z"
+      "updatedAt": "2026-10-23T03:19:03.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -345,7 +345,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-22T19:56:18.000Z"
+      "updatedAt": "2026-10-23T03:05:05.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -367,7 +367,7 @@
         "url": "https://github.com/zilliztech/memsearch"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-22T12:42:04.000Z"
+      "updatedAt": "2026-10-23T02:13:56.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -393,7 +393,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-22T18:27:43.000Z"
+      "updatedAt": "2026-10-23T02:57:34.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -490,6 +490,32 @@
       "updatedAt": "2026-10-22T16:03:14.000Z"
     },
     {
+      "id": "mmparko/dsh-purge",
+      "name": "dsh-purge",
+      "displayName": "dsh-purge",
+      "summary": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
+      "repository": {
+        "url": "https://github.com/mmparko/dsh-purge"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "网络安全",
+        "红队评测",
+        "llm-security",
+        "harness-security",
+        "deepseek-harness",
+        "red-team",
+        "instructions",
+        "rules",
+        "prompt-eval",
+        "agent"
+      ],
+      "updatedAt": "2026-10-13T05:50:46.000Z"
+    },
+    {
       "id": "kenryu42/cc-safety-net",
       "name": "cc-safety-net",
       "displayName": "cc-safety-net",
@@ -515,33 +541,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-22T15:37:44.000Z"
-    },
-    {
-      "id": "mmparko/dsh-purge",
-      "name": "dsh-purge",
-      "displayName": "dsh-purge",
-      "summary": "DeepSeek Harness 破甲 (mirror of YuJunZhiXue/dsh-purge) — 上游即将删库，此为本仓库全量镜像：含全部分支/73 个 tag/完整提交历史。原作者署名与二开要求见 README 署名章节。",
-      "repository": {
-        "url": "https://github.com/mmparko/dsh-purge"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "网络安全",
-        "红队评测",
-        "llm-security",
-        "harness-security",
-        "deepseek-harness",
-        "red-team",
-        "instructions",
-        "rules",
-        "prompt-eval",
-        "agent"
-      ],
-      "updatedAt": "2026-10-13T05:50:46.000Z"
+      "updatedAt": "2026-10-23T03:21:32.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -673,6 +673,17 @@
       "updatedAt": "2026-10-22T17:21:53.000Z"
     },
     {
+      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+      "name": "cloudbase-ai-toolkit",
+      "displayName": "CloudBase-AI-Toolkit",
+      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+      "repository": {
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-23T02:47:19.000Z"
+    },
+    {
       "id": "Miaotofu01/Study-Mate",
       "name": "@yunmiao/studymate",
       "displayName": "Study-Mate",
@@ -692,17 +703,6 @@
         "chatgpt"
       ],
       "updatedAt": "2026-10-21T18:24:00.000Z"
-    },
-    {
-      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
-      "name": "cloudbase-ai-toolkit",
-      "displayName": "CloudBase-AI-Toolkit",
-      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
-      "repository": {
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-22T07:51:28.000Z"
     },
     {
       "id": "sixtysevenlf/dsh-blender-plugin",
@@ -822,7 +822,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-22T04:00:00.000Z"
+      "updatedAt": "2026-10-23T03:07:41.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -856,7 +856,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-22T16:32:25.000Z"
+      "updatedAt": "2026-10-23T01:50:00.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -961,26 +961,6 @@
       "updatedAt": "2026-10-22T17:00:08.000Z"
     },
     {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
-      ],
-      "updatedAt": "2026-10-18T19:14:22.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1012,6 +992,26 @@
         "cordis"
       ],
       "updatedAt": "2026-10-20T02:24:59.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-10-18T19:14:22.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1106,25 +1106,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-22T13:52:55.000Z"
-    },
-    {
-      "id": "mnemon-dev/mnemon",
-      "name": "@mnemon-dev/dsh-mnemon",
-      "displayName": "mnemon",
-      "summary": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime.",
-      "repository": {
-        "url": "https://github.com/mnemon-dev/mnemon"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "mnemon",
-        "agent-memory",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-10-19T19:57:08.000Z"
+      "updatedAt": "2026-10-23T03:08:30.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1168,6 +1150,44 @@
         "supermemory"
       ],
       "updatedAt": "2026-10-22T10:45:34.000Z"
+    },
+    {
+      "id": "mnemon-dev/mnemon",
+      "name": "@mnemon-dev/dsh-mnemon",
+      "displayName": "mnemon",
+      "summary": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime.",
+      "repository": {
+        "url": "https://github.com/mnemon-dev/mnemon"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "mnemon",
+        "agent-memory",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-10-19T19:57:08.000Z"
+    },
+    {
+      "id": "liguobao/ds-harness-remote",
+      "name": "ds-harness-remote",
+      "displayName": "ds-harness-remote",
+      "summary": "一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)",
+      "repository": {
+        "url": "https://github.com/liguobao/ds-harness-remote"
+      },
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "codex",
+        "remote-development",
+        "end-to-end-encryption",
+        "webrtc"
+      ],
+      "updatedAt": "2026-10-23T01:16:59.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
@@ -1347,26 +1367,6 @@
       "updatedAt": "2026-10-22T12:16:28.000Z"
     },
     {
-      "id": "liguobao/ds-harness-remote",
-      "name": "ds-harness-remote",
-      "displayName": "ds-harness-remote",
-      "summary": "一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.)",
-      "repository": {
-        "url": "https://github.com/liguobao/ds-harness-remote"
-      },
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "codex",
-        "remote-development",
-        "end-to-end-encryption",
-        "webrtc"
-      ],
-      "updatedAt": "2026-10-22T16:51:31.000Z"
-    },
-    {
       "id": "1692775560/dsh-Mimir-Academic-research",
       "name": "mimir-monorepo",
       "displayName": "dsh-Mimir-Academic-research",
@@ -1399,7 +1399,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-22T22:51:58.000Z"
+      "updatedAt": "2026-10-23T03:15:02.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1459,7 +1459,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-22T22:51:41.000Z"
+      "updatedAt": "2026-10-23T02:43:13.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1531,7 +1531,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-22T16:09:37.000Z"
+      "updatedAt": "2026-10-23T02:56:41.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1572,18 +1572,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-22T17:01:34.000Z"
-    },
-    {
-      "id": "bruc3van/awesome-dsh-plugin",
-      "name": "bruc3van/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
-      "repository": {
-        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-22T18:52:45.000Z"
+      "updatedAt": "2026-10-23T00:55:17.000Z"
     },
     {
       "id": "ADWMC/helm-d",
@@ -1595,6 +1584,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-21T14:17:06.000Z"
+    },
+    {
+      "id": "bruc3van/awesome-dsh-plugin",
+      "name": "bruc3van/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
+      "repository": {
+        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-23T02:03:30.000Z"
     },
     {
       "id": "dingminhua/dsh-connect-workbuddy",
@@ -1657,7 +1657,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-22T00:58:46.000Z"
+      "updatedAt": "2026-10-23T00:32:43.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
