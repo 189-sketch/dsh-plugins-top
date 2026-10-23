@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-23T18:33:29.000Z"
+      "updatedAt": "2026-10-23T20:32:39.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -99,7 +99,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-23T18:46:30.000Z"
+      "updatedAt": "2026-10-23T20:43:46.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -110,7 +110,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-23T19:57:32.000Z"
+      "updatedAt": "2026-10-23T22:27:47.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-23T19:47:02.000Z"
+      "updatedAt": "2026-10-23T22:13:14.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-23T19:46:17.000Z"
+      "updatedAt": "2026-10-23T21:50:19.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -371,7 +371,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-23T18:41:17.000Z"
+      "updatedAt": "2026-10-23T22:55:10.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -419,7 +419,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-23T19:40:41.000Z"
+      "updatedAt": "2026-10-23T22:03:01.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -662,7 +662,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-23T19:33:07.000Z"
+      "updatedAt": "2026-10-23T23:03:10.000Z"
     },
     {
       "id": "sixtysevenlf/dsh-blender-plugin",
@@ -1195,7 +1195,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-23T10:15:14.000Z"
+      "updatedAt": "2026-10-23T21:54:27.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1332,7 +1332,7 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-23T12:58:01.000Z"
+      "updatedAt": "2026-10-23T20:43:14.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1444,7 +1444,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-23T17:29:25.000Z"
+      "updatedAt": "2026-10-23T21:42:44.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1485,17 +1485,6 @@
       "updatedAt": "2026-09-01T01:00:35.000Z"
     },
     {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-25T10:06:22.000Z"
-    },
-    {
       "id": "ADWMC/helm-d",
       "name": "helmd",
       "displayName": "helm-d",
@@ -1505,6 +1494,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-23T07:26:44.000Z"
+    },
+    {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-25T10:06:22.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1584,7 +1584,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-10-23T19:36:41.000Z"
+      "updatedAt": "2026-10-23T21:09:40.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -1595,7 +1595,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-23T17:55:56.000Z"
+      "updatedAt": "2026-10-23T20:00:08.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
