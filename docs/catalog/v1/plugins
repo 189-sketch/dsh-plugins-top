@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-23T03:36:31.000Z"
+      "updatedAt": "2026-10-24T03:06:35.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-23T05:11:34.000Z"
+      "updatedAt": "2026-10-24T01:51:50.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -113,17 +113,6 @@
       "updatedAt": "2026-10-23T22:27:47.000Z"
     },
     {
-      "id": "Devin-AXIS/iPolloWork",
-      "name": "@ipollo/ipollowork-workspace",
-      "displayName": "iPolloWork",
-      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/iPolloWork"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-23T10:25:56.000Z"
-    },
-    {
       "id": "YuJunZhiXue/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -148,6 +137,17 @@
         "agent"
       ],
       "updatedAt": "2026-10-23T17:51:22.000Z"
+    },
+    {
+      "id": "Devin-AXIS/iPolloWork",
+      "name": "@ipollo/ipollowork-workspace",
+      "displayName": "iPolloWork",
+      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/iPolloWork"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-24T02:10:02.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-23T21:50:19.000Z"
+      "updatedAt": "2026-10-24T03:12:40.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -321,6 +321,17 @@
       "updatedAt": "2026-10-21T15:22:47.000Z"
     },
     {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-24T00:56:35.000Z"
+    },
+    {
       "id": "xiaobright/dsh-anchored-standard",
       "name": "dsh-anchored-standard",
       "displayName": "dsh-anchored-standard",
@@ -330,17 +341,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-10-21T16:32:08.000Z"
-    },
-    {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-23T15:26:53.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -419,7 +419,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-23T22:03:01.000Z"
+      "updatedAt": "2026-10-24T03:16:28.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -452,7 +452,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-23T19:17:16.000Z"
+      "updatedAt": "2026-10-24T01:45:45.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -567,18 +567,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-10-23T07:43:32.000Z"
-    },
-    {
-      "id": "hyhmrright/brooks-lint",
-      "name": "brooks-lint",
-      "displayName": "brooks-lint",
-      "summary": "AI code reviews grounded in 12 classic engineering books — decay risk diagnostics with book citations, severity labels, and 6 analysis modes including full-sweep auto-fix",
-      "repository": {
-        "url": "https://github.com/hyhmrright/brooks-lint"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-22T13:04:11.000Z"
+      "updatedAt": "2026-10-24T03:16:38.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -590,6 +579,29 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-10-08T09:24:13.000Z"
+    },
+    {
+      "id": "hyhmrright/brooks-lint",
+      "name": "brooks-lint",
+      "displayName": "brooks-lint",
+      "summary": "Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skills for architecture, technical debt, tests and remediation.",
+      "repository": {
+        "url": "https://github.com/hyhmrright/brooks-lint"
+      },
+      "license": "MIT",
+      "keywords": [
+        "agent-skills",
+        "code-review",
+        "architecture",
+        "technical-debt",
+        "codex",
+        "claude-code",
+        "cursor",
+        "copilot",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-10-24T01:55:36.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -662,7 +674,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-23T23:03:10.000Z"
+      "updatedAt": "2026-10-24T02:44:38.000Z"
     },
     {
       "id": "sixtysevenlf/dsh-blender-plugin",
@@ -706,7 +718,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-23T19:31:01.000Z"
+      "updatedAt": "2026-10-24T02:04:47.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -717,7 +729,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-23T04:29:42.000Z"
+      "updatedAt": "2026-10-24T02:38:19.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -874,17 +886,6 @@
       "updatedAt": "2026-10-18T16:23:15.000Z"
     },
     {
-      "id": "zhoushoujianwork/easyeda-agent",
-      "name": "easyeda-agent-dsh",
-      "displayName": "easyeda-agent",
-      "summary": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
-      "repository": {
-        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-23T16:27:39.000Z"
-    },
-    {
       "id": "liguobao/ds-harness-remote",
       "name": "ds-harness-remote",
       "displayName": "ds-harness-remote",
@@ -903,6 +904,17 @@
         "webrtc"
       ],
       "updatedAt": "2026-10-23T17:06:13.000Z"
+    },
+    {
+      "id": "zhoushoujianwork/easyeda-agent",
+      "name": "easyeda-agent-dsh",
+      "displayName": "easyeda-agent",
+      "summary": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
+      "repository": {
+        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-23T16:27:39.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -976,6 +988,17 @@
       "updatedAt": "2026-09-13T16:36:44.000Z"
     },
     {
+      "id": "Nagi-ovo/dsh-ads",
+      "name": "@nagi-ovo/dsh-ads",
+      "displayName": "dsh-ads",
+      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-ads"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-10-20T00:24:53.000Z"
+    },
+    {
       "id": "chenxiachan/thoughtdag",
       "name": "thoughtdag",
       "displayName": "thoughtdag",
@@ -994,17 +1017,6 @@
         "research-tool"
       ],
       "updatedAt": "2026-10-22T17:00:08.000Z"
-    },
-    {
-      "id": "Nagi-ovo/dsh-ads",
-      "name": "@nagi-ovo/dsh-ads",
-      "displayName": "dsh-ads",
-      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-ads"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-10-20T00:24:53.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1083,26 +1095,6 @@
       "updatedAt": "2026-10-20T02:24:59.000Z"
     },
     {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
-      ],
-      "updatedAt": "2026-10-18T19:14:22.000Z"
-    },
-    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -1124,7 +1116,27 @@
         "evidence",
         "worldline"
       ],
-      "updatedAt": "2026-10-19T03:54:43.000Z"
+      "updatedAt": "2026-10-24T01:25:05.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-10-18T19:14:22.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1144,24 +1156,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-10-01T00:45:49.000Z"
-    },
-    {
-      "id": "anysearch-team/anysearch-dsh",
-      "name": "@anysearch/anysearch-dsh",
-      "displayName": "anysearch-dsh",
-      "summary": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
-      "repository": {
-        "url": "https://github.com/anysearch-team/anysearch-dsh"
-      },
-      "license": "MIT",
-      "keywords": [
-        "anysearch",
-        "deepseek-harness",
-        "dsh-plugin",
-        "web-search",
-        "web-fetch"
-      ],
-      "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1185,6 +1179,24 @@
         "real-time-data"
       ],
       "updatedAt": "2026-08-24T16:55:44.000Z"
+    },
+    {
+      "id": "anysearch-team/anysearch-dsh",
+      "name": "@anysearch/anysearch-dsh",
+      "displayName": "anysearch-dsh",
+      "summary": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
+      "repository": {
+        "url": "https://github.com/anysearch-team/anysearch-dsh"
+      },
+      "license": "MIT",
+      "keywords": [
+        "anysearch",
+        "deepseek-harness",
+        "dsh-plugin",
+        "web-search",
+        "web-fetch"
+      ],
+      "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -1214,6 +1226,17 @@
         "dsh-plugin"
       ],
       "updatedAt": "2026-10-19T19:57:08.000Z"
+    },
+    {
+      "id": "Clarklevis1995/dsh-mobile",
+      "name": "Clarklevis1995/dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
+      "repository": {
+        "url": "https://github.com/Clarklevis1995/dsh-mobile"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-23T13:30:07.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
@@ -1261,17 +1284,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-10-18T14:15:46.000Z"
-    },
-    {
-      "id": "Clarklevis1995/dsh-mobile",
-      "name": "Clarklevis1995/dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
-      "repository": {
-        "url": "https://github.com/Clarklevis1995/dsh-mobile"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-23T13:30:07.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
@@ -1444,7 +1456,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-23T21:42:44.000Z"
+      "updatedAt": "2026-10-24T03:12:25.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1545,6 +1557,25 @@
       "updatedAt": "2026-10-23T13:19:44.000Z"
     },
     {
+      "id": "dingminhua/dsh-connect-workbuddy",
+      "name": "dsh-connect-workbuddy",
+      "displayName": "dsh-connect-workbuddy",
+      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
+      "repository": {
+        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "workbuddy",
+        "codebuddy",
+        "model-provider",
+        "credits"
+      ],
+      "updatedAt": "2026-10-23T21:09:40.000Z"
+    },
+    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -1566,25 +1597,6 @@
         "google-antigravity"
       ],
       "updatedAt": "2026-10-19T06:59:16.000Z"
-    },
-    {
-      "id": "dingminhua/dsh-connect-workbuddy",
-      "name": "dsh-connect-workbuddy",
-      "displayName": "dsh-connect-workbuddy",
-      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
-      "repository": {
-        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "workbuddy",
-        "codebuddy",
-        "model-provider",
-        "credits"
-      ],
-      "updatedAt": "2026-10-23T21:09:40.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -1626,17 +1638,6 @@
       "updatedAt": "2026-10-23T13:51:20.000Z"
     },
     {
-      "id": "bruc3van/awesome-dsh-plugin",
-      "name": "bruc3van/awesome-dsh-plugin",
-      "displayName": "awesome-dsh-plugin",
-      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
-      "repository": {
-        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-23T18:41:10.000Z"
-    },
-    {
       "id": "FuRongJun-1999/dsh-memory",
       "name": "@furongjun1999/dsh-memory",
       "displayName": "dsh-memory",
@@ -1661,6 +1662,17 @@
       "updatedAt": "2026-10-23T11:09:30.000Z"
     },
     {
+      "id": "bruc3van/awesome-dsh-plugin",
+      "name": "bruc3van/awesome-dsh-plugin",
+      "displayName": "awesome-dsh-plugin",
+      "summary": "30 秒找到真正适合你的 DeepSeek Harness插件。每天自动抓取 GitHub 上的 `dsh-plugin` 项目并逐个复核：真实插件分类收录，蹭标签项目剔除。通过场景化分类、精选推荐、热度排行和图文导览，帮你快速看懂每个插件能做什么、适合谁，以及如何开始使用。欢迎 Star ，让好用的插件更快被发现。",
+      "repository": {
+        "url": "https://github.com/bruc3van/awesome-dsh-plugin"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-24T01:51:32.000Z"
+    },
+    {
       "id": "csyangwen/dsh-memory-evolve",
       "name": "dsh-memory-evolve",
       "displayName": "dsh-memory-evolve",
@@ -1680,7 +1692,7 @@
         "url": "https://github.com/zhuzhaoyun/Molio"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-23T18:46:27.000Z"
+      "updatedAt": "2026-10-24T00:46:42.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
@@ -1705,7 +1717,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-23T00:32:43.000Z"
+      "updatedAt": "2026-10-24T03:15:01.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
