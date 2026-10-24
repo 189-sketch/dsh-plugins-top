@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [cholot-Zhou/dsh-ui-overrides](https://github.com/cholot-Zhou/dsh-ui-overrides) | ⭐ 0 | ✅ | User-owned CSS overrides for the DeepSeek Harness Web UI — restyle any plugin without patching it. | `ui-panel` |
-| #2 | [qwqasdna/dsh-plugin-auto-vision](https://github.com/qwqasdna/dsh-plugin-auto-vision) | ⭐ 0 | ✅ | DeepSeek Harness (DSH) 智能视觉模型增强插件：自动注入图片输入模态，解决第三方 Claude / GPT-4o / Gemini 识图降级与无法识别图片问题 | `ui-panel` |
-| #3 | [zx2021210538/dsh-skills-mcp-manager](https://github.com/zx2021210538/dsh-skills-mcp-manager) | ⭐ 0 | ✅ | DSH 插件：在设置面板里管理技能（SKILL.md）与 MCP 服务器，全局 / 项目级分层，改完即生效。Manage skills and MCP servers from the DSH settings panel. | `skill` |
-| #4 | [SeekAfterSeek/dsh-chrome-only](https://github.com/SeekAfterSeek/dsh-chrome-only) | ⭐ 0 | ✅ | DeepSeek Harness bundle: every browser navigation goes to Google Chrome - tools, guard, prompt rule, and a Chrome handoff so dsh web never opens the OS default browser. | `tool` |
-| #5 | [mkingyixing/AI-QR-code-scanning-](https://github.com/mkingyixing/AI-QR-code-scanning-) | ⭐ 0 | ✅ | QR/barcode scanner for DeepSeek Harness: decode images, the live screen or a webcam with zxing-cpp (WASM), and generate QR codes. 4 model tools, ~14 ms per decode. | `tool` |
-| #6 | [379385796-sys/dsh-environment-packer](https://github.com/379385796-sys/dsh-environment-packer) | ⭐ 0 | ✅ | Local DSH private backups, conservative config export, and verified restoration into a fresh compatible home. | `ui-panel` |
-| #7 | [lhmlhmlhm11/resume-crafter](https://github.com/lhmlhmlhm11/resume-crafter) | ⭐ 0 | ✅ | 口述经历 → 可投递简历 → JD 定制 → 投递体检 → 面试准备 | `skill` |
-| #8 | [Ayowait/dsh-official-reasoning-effort](https://github.com/Ayowait/dsh-official-reasoning-effort) | ⭐ 0 | ✅ | Official-style model + reasoning-effort control for the DeepSeek Harness composer: Off/Low/High/Max. | `ui-panel` |
-| #9 | [lingr7/dsh-reversed-chat](https://github.com/lingr7/dsh-reversed-chat) | ⭐ 0 | ✅ | Reverses the conversation reading layout for DeepSeek Harness: the composer pins to the top of an active conversation and the transcript plus turn navigator render newest-first. | `ui-panel` |
-| #10 | [aldveylor/dsh-intellisense](https://github.com/aldveylor/dsh-intellisense) | ⭐ 0 | ✅ | A plugin implemented for namespace-based tool calls for DeepSeek Harness. | `ui-panel` |
-| #11 | [Idun233/dsh-gen](https://github.com/Idun233/dsh-gen) | ⭐ 0 | ✅ | DeepSeek Harness 的技能（Gem）管理器：把可复用的指令与本地知识文档打包成模型可调用的技能，并提供设置面板里的 Dsh-Gen 页面。 | `skill` |
-| #12 | [hrygo/dsh-speechrail-bundle](https://github.com/hrygo/dsh-speechrail-bundle) | ⭐ 0 | 🟡 | Independent DeepSeek Harness voice-input bundle: browser recording transcribed by a local SpeechRail service over the OpenAI-compatible file-transcription API (loopback only). | `other` |
-| #13 | [LzdqesjG/dsh-your-balance](https://github.com/LzdqesjG/dsh-your-balance) | ⭐ 0 | ✅ | AI查余额 — a balance-checking tool and per-turn balance-aware power-saving policy for DeepSeek Harness. | `ui-panel` |
-| #14 | [Exagone313/dsh-draft-prompts](https://github.com/Exagone313/dsh-draft-prompts) | ⭐ 0 | ✅ | Adds a right-sidebar tab for drafting prompts in DeepSeek Harness | `ui-panel` |
-| #15 | [vennahlot/dsh-tabs](https://github.com/vennahlot/dsh-tabs) | ⭐ 0 | ✅ | Chrome-style tabs for DeepSeek Harness (DSH) web chat sessions: tab strip, tab groups, split panes. | `ui-panel` |
-| #16 | [1010231693/dsh-first-prompt-bar](https://github.com/1010231693/dsh-first-prompt-bar) | ⭐ 1 | ✅ |  | `ui-panel` |
-| #17 | [seaison/dsh-plugin-eva-theme](https://github.com/seaison/dsh-plugin-eva-theme) | ⭐ 0 | ✅ | DSH / DeepSeek Harness EVA 主题插件：明日香暗色、绫波丽亮色，含驾驶员选择、启动语音、时钟与音乐播放器 | `skin` |
-| #18 | [gychen-NJU/dsh-game-daily](https://github.com/gychen-NJU/dsh-game-daily) | ⭐ 0 | ✅ | DSH 桌面端插件：游戏日常代理（原神 / 崩坏3 / 星穹铁道）—设置页逐游戏开关、排班、计划任务自动执行并汇报 \| DSH plugin for daily game automation | `ui-panel` |
-| #19 | [ShioUmiusi/dsh-fs-retry](https://github.com/ShioUmiusi/dsh-fs-retry) | ⭐ 0 | ✅ | Retry ctx.fs.writeText on Windows ReplaceFileW failures (Win32 1175) — DSH plugin | `other` |
-| #20 | [zengxiaolou/dsh-paste-chip](https://github.com/zengxiaolou/dsh-paste-chip) | ⭐ 0 | ✅ | DSH 插件 · 长文本粘贴自动折叠成可展开的胶囊：≥400 字或 ≥12 行即折叠，悬停/点击看正文与上下文，发送时按原位展开；也接管标注浏览器、划词注释等插件写入的长文本。 | `ui-panel` |
-| #21 | [Mooling0602/dsh-hint-shell](https://github.com/Mooling0602/dsh-hint-shell) | ⭐ 0 | ✅ | DeepSeek Harness plugin: type ! in the composer to run a real shell command in the session's working directory — recorded as a format-v4-valid tool exchange, with no model request. | `ui-panel` |
-| #22 | [0avatar0/dsh-reading-shelf](https://github.com/0avatar0/dsh-reading-shelf) | ⭐ 0 | ✅ | DSH 书架 / 论文模式：EPUB/PDF/论文阅读、AI 解释、全文搜索、论文翻译与中英对照 | `ui-panel` |
-| #23 | [vit-cerny/dsh-model-manager](https://github.com/vit-cerny/dsh-model-manager) | ⭐ 0 | ✅ | Import the models, providers, API keys and OAuth logins that other agent harnesses keep on your machine (opencode, Codex/ChatGPT, Claude Code, Gemini, Qwen, .env) into DeepSeek Harness, with a clean Settings page to manage them. | `provider` |
-| #24 | [KurohaneKaoruko/DSH-START](https://github.com/KurohaneKaoruko/DSH-START) | ⭐ 1 | ✅ | 用于DeepSeekHarness的启动动画插件 | `ui-panel` |
-| #25 | [ogidimitrov/dsh-peak-cost](https://github.com/ogidimitrov/dsh-peak-cost) | ⭐ 0 | ✅ | DeepSeek Harness plugin: live peak-hours status and estimated USD spend for the current session, under the composer. | `ui-panel` |
-| #26 | [Kyf-eng/dsh-threads](https://github.com/Kyf-eng/dsh-threads) | ⭐ 0 | ✅ | DeepSeek Harness plugin: the main conversation dispatches work into real thread sessions and gets short summaries back. | `ui-panel` |
-| #27 | [PerryLink/dsh-safety-ledger-check](https://github.com/PerryLink/dsh-safety-ledger-check) | ⭐ 0 | ✅ | 核对施工安全资格台账：三级教育与学时、培训档案四要素、特种作业证书、有效期、工种匹配、六个月实习期。 | `tool` |
-| #28 | [XavierMarquis93/dsh-plugin-auto-review-zh](https://github.com/XavierMarquis93/dsh-plugin-auto-review-zh) | ⭐ 0 | ✅ | 让 DeepSeek Harness 实验性「自动审查」在征求用户同意时显示中文（Host 插件，无 UI、无依赖） | `other` |
-| #29 | [meng-lx/dsh-auto-restart](https://github.com/meng-lx/dsh-auto-restart) | ⭐ 0 | ✅ | 等整个 DSH 都空闲下来再安全地重启它，重启完成后自动回到原会话说一句话。Restart DSH only when idle, then wake the original session. | `ui-panel` |
-| #30 | [XavierMarquis93/dsh-auto-review-default](https://github.com/XavierMarquis93/dsh-auto-review-default) | ⭐ 0 | ✅ | Make the shipped Auto review permission preset the new-session default in DeepSeek Harness. | `other` |
+| #1 | [ugg-ki/dsh-skill-manager](https://github.com/ugg-ki/dsh-skill-manager) | ⭐ 0 | ✅ | Standalone Skills page for DeepSeek Harness: every skill listed with an enable switch at global, project and session scope; custom categories; Chinese descriptions. | `skill` |
+| #2 | [only-one-over/robocasa-control](https://github.com/only-one-over/robocasa-control) | ⭐ 0 | ✅ | Chat-driven RoboCasa simulation control plugin for DeepSeek Harness | `other` |
+| #3 | [Elysia-laoda/dsh-creativity-nudge](https://github.com/Elysia-laoda/dsh-creativity-nudge) | ⭐ 0 | ✅ | DSH 插件：在模型锁定路线的那一刻注入一次「先发散」提醒 —— 低频、硬预算、只落在决策点。Advisory creativity nudge for DeepSeek Harness. | `tool` |
+| #4 | [feely0208/dsh-markdown-kit](https://github.com/feely0208/dsh-markdown-kit) | ⭐ 0 | ✅ | Markdown 工具箱：批量转 Word / 生成目录 / 提取链接 / 合并（不依赖第三方 Markdown 库） | `skill` |
+| #5 | [feely0208/dsh-image-batch](https://github.com/feely0208/dsh-image-batch) | ⭐ 0 | ✅ | 图片批量处理：压缩 / 改尺寸 / 加水印 / 转格式 / 去 EXIF（Pillow） | `skill` |
+| #6 | [JiayuREN1127/dsh-file-drag](https://github.com/JiayuREN1127/dsh-file-drag) | ⭐ 0 | ✅ | DeepSeek Harness plugin: drag files and folders from the Sidebar Files pane into the composer as @ mentions. | `ui-panel` |
+| #7 | [feely0208/dsh-pptx-batch](https://github.com/feely0208/dsh-pptx-batch) | ⭐ 0 | ✅ | PPT 批量处理：填模板占位符 / 替换图片 / 提取文本 / 查看结构信息（python-pptx） | `skill` |
+| #8 | [FallnStrelitzia/dsh-chat-settings](https://github.com/FallnStrelitzia/dsh-chat-settings) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #9 | [ohlygod/dsh-jiuling-remote-android](https://github.com/ohlygod/dsh-jiuling-remote-android) | ⭐ 0 | ✅ | DSH 远程目录（安卓端）：6 位配对码接入电脑端 dsh-jiuling-remote-desktop，凭据只留在引擎进程，提供 RPC / SSE 桥接与设置页。 | `ui-panel` |
+| #10 | [MrChengl11/Stop-That-Shit-DSH](https://github.com/MrChengl11/Stop-That-Shit-DSH) | ⭐ 0 | ✅ | 二次开发 (derivative work)：Stop That Shit 的 DeepSeek Harness 适配层。上游 lennney/stop-that-shit v0.2.5 (MIT)，判定引擎原样收录于 vendor-sts/，本仓库仅新增宿主粘合层。 | `other` |
+| #11 | [bmhty123/dsh-sketchpad](https://github.com/bmhty123/dsh-sketchpad) | ⭐ 0 | ✅ | 给Deepseek Harness界面添加一块画板。 | `ui-panel` |
+| #12 | [Limnal-Ash/dsh-skill-manager](https://github.com/Limnal-Ash/dsh-skill-manager) | ⭐ 0 | ✅ | dsh的一个关于skill管理的插件 | `skill` |
+| #13 | [Idun/dsh-gen](https://github.com/Idun/dsh-gen) | ⭐ 0 | ✅ | DeepSeek Harness 的技能（Gem）管理器：把可复用的指令与本地知识文档打包成模型可调用的技能，并提供设置面板里的 Dsh-Gen 页面。 | `skill` |
+| #14 | [ZSF-2026/qq-memory](https://github.com/ZSF-2026/qq-memory) | ⭐ 0 | ✅ | DSH 长期记忆 + 遗忘曲线插件：让 AI 记住跨会话的事、按需回顾上下文，用艾宾浩斯遗忘曲线让旧记忆自然淡出以节约 token | `other` |
+| #15 | [JiuRiWu/dsh-restart](https://github.com/JiuRiWu/dsh-restart) | ⭐ 0 | ✅ | Restart button for DSH Desktop. Requires the companion shell patch in this repository.DSH桌面的重启按钮。需要此仓库中的配套shell补丁 | `ui-panel` |
+| #16 | [BOOK-4-1/dsh-highlight-link](https://github.com/BOOK-4-1/dsh-highlight-link) | ⭐ 0 | ✅ | 让 DSH Web UI 里的链接和 `@` 引用更醒目：统一成一种颜色 `#7b97d9`，链接常驻下划线。 | `skin` |
+| #17 | [Gorkaseto/dsh-plugin-updater](https://github.com/Gorkaseto/dsh-plugin-updater) | ⭐ 0 | ✅ | A plugin updater for DSH. It finds the plugins in your profile that were installed from GitHub, compares versions and updates them — one at a time or all at once. | `ui-panel` |
+| #18 | [L050110/dsh-vx-workbench](https://github.com/L050110/dsh-vx-workbench) | ⭐ 0 | ✅ | Visual X-Space workbench for DeepSeek Harness: signature-based CAD import repair, parameterised factory layouts, self-maintaining skill ledger | `skill` |
+| #19 | [MingTXin/dsh-remote-workstation](https://github.com/MingTXin/dsh-remote-workstation) | ⭐ 0 | ✅ | Mount remote SSH/SFTP servers as DeepSeek Harness workspaces - a VS Code Remote-SSH style remote workspace panel for DSH. | `ui-panel` |
+| #20 | [7gzgn/dsh-tool-gate](https://github.com/7gzgn/dsh-tool-gate) | ⭐ 0 | ✅ | Park whole tool packs out of the session's tool surface and mount them back with one command. Cuts the tool table from 99,789 to 48,082 characters (51.8%) without uninstalling plugins or restarting. Reversible per group, per agent. | `tool` |
+| #21 | [hongdougao111/dsh-archive-trash](https://github.com/hongdougao111/dsh-archive-trash) | ⭐ 1 | ✅ | DSH 归档会话清理：把已归档的会话移进可还原的回收站，或彻底删除。 | `ui-panel` |
+| #22 | [NekoDD-wow/dsh-creator-plus](https://github.com/NekoDD-wow/dsh-creator-plus) | ⭐ 0 | ✅ | 创造模式增强：一键在临时纯净 profile 中启动 DSH 分身，用无头浏览器检查前端能否正常启动，避免改坏本体客户端。 | `other` |
+| #23 | [xyzzing/dsh-minder-hooks](https://github.com/xyzzing/dsh-minder-hooks) | ⭐ 0 | ✅ |  | `other` |
+| #24 | [JHees/dsh-unattended](https://github.com/JHees/dsh-unattended) | ⭐ 0 | ✅ | Unattended mode for DSH Auto review: reviewer denials become final with no human approval prompt | `ui-panel` |
+| #25 | [Dongze502/dsh-session-to-doc](https://github.com/Dongze502/dsh-session-to-doc) | ⭐ 0 | ✅ | Reorganize a DeepSeek Harness session into a structured Markdown document with outline and TOC (model tool + composer button + loopback endpoint) | `ui-panel` |
+| #26 | [HimA6652/dsh-workbuddy2api-hub](https://github.com/HimA6652/dsh-workbuddy2api-hub) | ⭐ 0 | ✅ | 把本地 workbuddy2api-hub 接进 DSH：模型路由 + 额度与用量徽标 | `ui-panel` |
+| #27 | [WU079/dsh-memory-keeper](https://github.com/WU079/dsh-memory-keeper) | ⭐ 0 | ✅ | Cross-session memory for DSH: exports every session to readable Markdown with provenance, keeps a MEMORY.md you curate, and gives the agent mem_wake / mem_search / mem_write — memory that survives windows. | `ui-panel` |
+| #28 | [wuzhican/dsh-qbittorrent](https://github.com/wuzhican/dsh-qbittorrent) | ⭐ 0 | ✅ | DSH plugin: qBittorrent WebAPI v2 tools | `tool` |
+| #29 | [7gzgn/dsh-frame](https://github.com/7gzgn/dsh-frame) | ⭐ 0 | ✅ | See what a conversation actually costs: how many model requests, how big the system prompt and tool table are, cumulative tokens, estimated spend, and how far you are from automatic context compaction. Reads the local session log only; never calls a model, never adds a word to the system prompt. | `tool` |
+| #30 | [HugoOu/dsh-opencode-go-eta](https://github.com/HugoOu/dsh-opencode-go-eta) | ⭐ 1 | ✅ | OpenCode Go quota forecast for DeepSeek Harness: projected exhaustion ETA, renewal-date comparison and renew-vs-API cost advice. | `ui-panel` |
