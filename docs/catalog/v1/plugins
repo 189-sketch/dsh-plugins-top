@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-24T03:55:12.000Z"
+      "updatedAt": "2026-10-24T14:25:59.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-23T20:32:39.000Z"
+      "updatedAt": "2026-10-24T17:22:49.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -57,7 +57,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-23T12:02:17.000Z"
+      "updatedAt": "2026-10-24T15:17:53.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -99,7 +99,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-23T20:43:46.000Z"
+      "updatedAt": "2026-10-24T17:04:20.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-24T13:22:41.000Z"
+      "updatedAt": "2026-10-24T16:00:55.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-24T12:30:43.000Z"
+      "updatedAt": "2026-10-24T14:14:15.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-24T14:00:07.000Z"
+      "updatedAt": "2026-10-24T17:20:55.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -318,7 +318,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-24T11:59:59.000Z"
+      "updatedAt": "2026-10-24T17:13:10.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -329,7 +329,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-24T13:55:29.000Z"
+      "updatedAt": "2026-10-24T14:48:21.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -371,7 +371,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-24T13:45:57.000Z"
+      "updatedAt": "2026-10-24T16:56:38.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -419,7 +419,27 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-24T13:58:13.000Z"
+      "updatedAt": "2026-10-24T17:15:40.000Z"
+    },
+    {
+      "id": "elysia395/dsh-wallpaper-engine",
+      "name": "dsh-plugin-wallpaper-engine",
+      "displayName": "dsh-wallpaper-engine",
+      "summary": "把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。",
+      "repository": {
+        "url": "https://github.com/elysia395/dsh-wallpaper-engine"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "wallpaper",
+        "wallpaper-engine",
+        "theme",
+        "background"
+      ],
+      "updatedAt": "2026-10-23T06:40:28.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -453,26 +473,6 @@
         "ai-office"
       ],
       "updatedAt": "2026-10-24T01:45:45.000Z"
-    },
-    {
-      "id": "elysia395/dsh-wallpaper-engine",
-      "name": "dsh-plugin-wallpaper-engine",
-      "displayName": "dsh-wallpaper-engine",
-      "summary": "把本机 Wallpaper Engine 的壁纸搬进 DSH 网页界面：场景壁纸由内置 MIT 开源引擎 WebWallGL 实时 WebGL 渲染（粒子 / puppet 骨骼 / SceneScript / 音频反应 / 鼠标交互），失败自动降级内嵌 MP4 与场景静态帧；Web 壁纸严格沙箱 + WE API；iOS 风格液态玻璃 UI 高度自定义，遮挡暂停省电、ffmpeg 帧率上限转码、系统音频频谱与 Now Playing、自定义上传与自动轮播；设置存宿主端，对 agent 零 token 开销。Windows / macOS / Linux 三平台原生（同一个包、同一条命令）。",
-      "repository": {
-        "url": "https://github.com/elysia395/dsh-wallpaper-engine"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "wallpaper",
-        "wallpaper-engine",
-        "theme",
-        "background"
-      ],
-      "updatedAt": "2026-10-23T06:40:28.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -663,7 +663,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-24T13:40:25.000Z"
+      "updatedAt": "2026-10-24T17:11:22.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -750,7 +750,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-24T08:55:00.000Z"
+      "updatedAt": "2026-10-24T17:22:29.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -849,7 +849,7 @@
         "url": "https://github.com/toby-bridges/api-relay-audit"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-22T18:41:38.000Z"
+      "updatedAt": "2026-10-24T17:10:28.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -903,7 +903,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-23T17:06:13.000Z"
+      "updatedAt": "2026-10-24T15:21:34.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -943,7 +943,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-24T03:54:04.000Z"
+      "updatedAt": "2026-10-24T15:01:02.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -988,6 +988,26 @@
       "updatedAt": "2026-09-13T16:36:44.000Z"
     },
     {
+      "id": "chenxiachan/thoughtdag",
+      "name": "thoughtdag",
+      "displayName": "thoughtdag",
+      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "repository": {
+        "url": "https://github.com/chenxiachan/thoughtdag"
+      },
+      "license": "MIT",
+      "keywords": [
+        "llm",
+        "dag",
+        "canvas",
+        "react-flow",
+        "ai",
+        "knowledge-graph",
+        "research-tool"
+      ],
+      "updatedAt": "2026-10-24T13:15:44.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
@@ -1028,27 +1048,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-23T17:09:08.000Z"
-    },
-    {
-      "id": "chenxiachan/thoughtdag",
-      "name": "thoughtdag",
-      "displayName": "thoughtdag",
-      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
-      "repository": {
-        "url": "https://github.com/chenxiachan/thoughtdag"
-      },
-      "license": "MIT",
-      "keywords": [
-        "llm",
-        "dag",
-        "canvas",
-        "react-flow",
-        "ai",
-        "knowledge-graph",
-        "research-tool"
-      ],
-      "updatedAt": "2026-10-24T13:15:44.000Z"
+      "updatedAt": "2026-10-24T15:07:13.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1093,6 +1093,25 @@
         "cordis"
       ],
       "updatedAt": "2026-10-20T02:24:59.000Z"
+    },
+    {
+      "id": "c1overzz/dsh-bili-scroll",
+      "name": "dsh-bili-scroll",
+      "displayName": "dsh-bili-scroll",
+      "summary": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
+      "repository": {
+        "url": "https://github.com/c1overzz/dsh-bili-scroll"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "bilibili",
+        "mcp",
+        "duty"
+      ],
+      "updatedAt": "2026-10-24T09:42:53.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1239,25 +1258,6 @@
       "updatedAt": "2026-10-23T13:30:07.000Z"
     },
     {
-      "id": "c1overzz/dsh-bili-scroll",
-      "name": "dsh-bili-scroll",
-      "displayName": "dsh-bili-scroll",
-      "summary": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
-      "repository": {
-        "url": "https://github.com/c1overzz/dsh-bili-scroll"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "bilibili",
-        "mcp",
-        "duty"
-      ],
-      "updatedAt": "2026-10-24T09:42:53.000Z"
-    },
-    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -1366,26 +1366,6 @@
       "updatedAt": "2026-10-19T11:46:41.000Z"
     },
     {
-      "id": "dream-num/dsh-univer-office",
-      "name": "dsh-univer-office",
-      "displayName": "dsh-univer-office",
-      "summary": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
-      "repository": {
-        "url": "https://github.com/dream-num/dsh-univer-office"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "univer",
-        "spreadsheet",
-        "preview",
-        "worktree"
-      ],
-      "updatedAt": "2026-10-08T08:36:16.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1413,6 +1393,26 @@
       "updatedAt": "2026-10-23T05:31:45.000Z"
     },
     {
+      "id": "dream-num/dsh-univer-office",
+      "name": "dsh-univer-office",
+      "displayName": "dsh-univer-office",
+      "summary": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
+      "repository": {
+        "url": "https://github.com/dream-num/dsh-univer-office"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "univer",
+        "spreadsheet",
+        "preview",
+        "worktree"
+      ],
+      "updatedAt": "2026-10-08T08:36:16.000Z"
+    },
+    {
       "id": "liangmianya/dsh-synapse",
       "name": "dsh-synapse",
       "displayName": "dsh-synapse",
@@ -1432,7 +1432,26 @@
         "url": "https://github.com/ADWMC/helm-d"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-23T07:26:44.000Z"
+      "updatedAt": "2026-10-24T15:48:31.000Z"
+    },
+    {
+      "id": "dingminhua/dsh-connect-workbuddy",
+      "name": "dsh-connect-workbuddy",
+      "displayName": "dsh-connect-workbuddy",
+      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
+      "repository": {
+        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "workbuddy",
+        "codebuddy",
+        "model-provider",
+        "credits"
+      ],
+      "updatedAt": "2026-10-24T14:44:01.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1467,7 +1486,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-24T11:36:50.000Z"
+      "updatedAt": "2026-10-24T16:20:14.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1495,25 +1514,6 @@
         "reddit"
       ],
       "updatedAt": "2026-10-22T17:25:17.000Z"
-    },
-    {
-      "id": "dingminhua/dsh-connect-workbuddy",
-      "name": "dsh-connect-workbuddy",
-      "displayName": "dsh-connect-workbuddy",
-      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
-      "repository": {
-        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "workbuddy",
-        "codebuddy",
-        "model-provider",
-        "credits"
-      ],
-      "updatedAt": "2026-10-24T09:46:07.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1624,7 +1624,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-23T20:00:08.000Z"
+      "updatedAt": "2026-10-24T16:47:42.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1659,7 +1659,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-24T12:21:36.000Z"
+      "updatedAt": "2026-10-24T16:24:55.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1670,7 +1670,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-24T01:51:32.000Z"
+      "updatedAt": "2026-10-24T17:21:40.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1692,7 +1692,7 @@
         "url": "https://github.com/zhuzhaoyun/Molio"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-24T13:43:03.000Z"
+      "updatedAt": "2026-10-24T15:20:14.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
