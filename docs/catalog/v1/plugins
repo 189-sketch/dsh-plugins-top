@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-25T05:16:59.000Z"
+      "updatedAt": "2026-10-25T19:56:02.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-25T18:54:24.000Z"
+      "updatedAt": "2026-10-25T21:47:57.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -371,7 +371,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-25T17:27:09.000Z"
+      "updatedAt": "2026-10-25T20:35:28.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -408,7 +408,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-25T18:52:44.000Z"
+      "updatedAt": "2026-10-25T22:26:19.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -750,7 +750,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-25T18:19:37.000Z"
+      "updatedAt": "2026-10-25T21:32:09.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -844,7 +844,7 @@
       "id": "toby-bridges/api-relay-audit",
       "name": "dsh-api-relay-audit",
       "displayName": "api-relay-audit",
-      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks.",
+      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks. Website: https://apirelayaudit.com",
       "repository": {
         "url": "https://github.com/toby-bridges/api-relay-audit"
       },
@@ -1047,7 +1047,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-25T18:48:55.000Z"
+      "updatedAt": "2026-10-25T22:21:37.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1383,16 +1383,6 @@
       "updatedAt": "2026-10-25T16:27:16.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-10-09T11:19:50.000Z"
-    },
-    {
       "id": "zenstory-ai/oh-story-dsh",
       "name": "oh-story-dsh",
       "displayName": "oh-story-dsh",
@@ -1402,6 +1392,16 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-19T11:46:41.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-10-09T11:19:50.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1513,7 +1513,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-25T18:49:31.000Z"
+      "updatedAt": "2026-10-25T22:23:45.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1624,7 +1624,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-25T17:09:34.000Z"
+      "updatedAt": "2026-10-25T19:09:44.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1742,6 +1742,17 @@
       "updatedAt": "2026-08-22T02:10:10.000Z"
     },
     {
+      "id": "Alice-Marx/dsh-model-router",
+      "name": "@ljwei-stak/dsh-model-router",
+      "displayName": "dsh-model-router",
+      "summary": "Model Router and GALGame plugin for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/Alice-Marx/dsh-model-router"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-25T17:47:31.000Z"
+    },
+    {
       "id": "d-dev0101/open-sea-skin",
       "name": "open-sea-skin",
       "displayName": "open-sea-skin",
@@ -1762,17 +1773,6 @@
         "skin"
       ],
       "updatedAt": "2026-10-20T16:48:16.000Z"
-    },
-    {
-      "id": "vlln/whale-girl",
-      "name": "whale-girl",
-      "displayName": "whale-girl",
-      "summary": "DSH Web GUI 桌面宠物插件（QQ 宠物形态）：右下角悬浮、可拖拽/投喂/玩耍的积累型伙伴。",
-      "repository": {
-        "url": "https://github.com/vlln/whale-girl"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-22T02:10:14.000Z"
     }
   ],
   "page": {
