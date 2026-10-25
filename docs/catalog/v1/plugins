@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-25T09:03:41.000Z"
+      "updatedAt": "2026-10-25T14:15:18.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-25T08:45:15.000Z"
+      "updatedAt": "2026-10-25T14:13:09.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -68,7 +68,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-23T16:59:28.000Z"
+      "updatedAt": "2026-10-25T13:51:41.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -79,7 +79,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-25T06:26:58.000Z"
+      "updatedAt": "2026-10-25T12:13:34.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-25T09:07:38.000Z"
+      "updatedAt": "2026-10-25T14:16:29.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -371,7 +371,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-25T06:51:47.000Z"
+      "updatedAt": "2026-10-25T11:10:10.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -419,7 +419,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-25T09:03:08.000Z"
+      "updatedAt": "2026-10-25T14:15:51.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -652,7 +652,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-25T08:30:30.000Z"
+      "updatedAt": "2026-10-25T12:27:08.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -663,7 +663,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-25T07:47:19.000Z"
+      "updatedAt": "2026-10-25T14:13:09.000Z"
     },
     {
       "id": "sixtysevenlf/dsh-blender-plugin",
@@ -750,7 +750,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-25T08:01:02.000Z"
+      "updatedAt": "2026-10-25T10:53:46.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -772,6 +772,16 @@
         "url": "https://github.com/mindscale-noah/MindMemOS"
       },
       "updatedAt": "2026-10-19T03:19:19.000Z"
+    },
+    {
+      "id": "Electricitysheep/dsh-handbook",
+      "name": "Electricitysheep/dsh-handbook",
+      "displayName": "dsh-handbook",
+      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "repository": {
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      },
+      "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -798,16 +808,6 @@
         "gui-automation"
       ],
       "updatedAt": "2026-10-24T18:52:03.000Z"
-    },
-    {
-      "id": "Electricitysheep/dsh-handbook",
-      "name": "Electricitysheep/dsh-handbook",
-      "displayName": "dsh-handbook",
-      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "repository": {
-        "url": "https://github.com/Electricitysheep/dsh-handbook"
-      },
-      "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
       "id": "omdsh-dev/dsh-browser",
@@ -880,7 +880,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-24T15:21:34.000Z"
+      "updatedAt": "2026-10-25T13:53:23.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -928,24 +928,6 @@
       "updatedAt": "2026-10-03T05:03:23.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-genui",
-      "name": "@changfenhuang/dsh-genui",
-      "displayName": "dsh-genui",
-      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-genui"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "generative-ui",
-        "plugin",
-        "ui"
-      ],
-      "updatedAt": "2026-10-25T04:23:04.000Z"
-    },
-    {
       "id": "c1overzz/dsh-bili-scroll",
       "name": "dsh-bili-scroll",
       "displayName": "dsh-bili-scroll",
@@ -963,6 +945,24 @@
         "duty"
       ],
       "updatedAt": "2026-10-25T06:41:33.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-genui",
+      "name": "@changfenhuang/dsh-genui",
+      "displayName": "dsh-genui",
+      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-genui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "generative-ui",
+        "plugin",
+        "ui"
+      ],
+      "updatedAt": "2026-10-25T04:23:04.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1050,26 +1050,6 @@
       "updatedAt": "2026-10-24T15:07:13.000Z"
     },
     {
-      "id": "chenxiachan/thoughtdag",
-      "name": "thoughtdag",
-      "displayName": "thoughtdag",
-      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
-      "repository": {
-        "url": "https://github.com/chenxiachan/thoughtdag"
-      },
-      "license": "MIT",
-      "keywords": [
-        "llm",
-        "dag",
-        "canvas",
-        "react-flow",
-        "ai",
-        "knowledge-graph",
-        "research-tool"
-      ],
-      "updatedAt": "2026-10-24T13:15:44.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -1101,6 +1081,26 @@
         "cordis"
       ],
       "updatedAt": "2026-10-20T02:24:59.000Z"
+    },
+    {
+      "id": "chenxiachan/thoughtdag",
+      "name": "thoughtdag",
+      "displayName": "thoughtdag",
+      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "repository": {
+        "url": "https://github.com/chenxiachan/thoughtdag"
+      },
+      "license": "MIT",
+      "keywords": [
+        "llm",
+        "dag",
+        "canvas",
+        "react-flow",
+        "ai",
+        "knowledge-graph",
+        "research-tool"
+      ],
+      "updatedAt": "2026-10-24T13:15:44.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1195,6 +1195,24 @@
       "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
+      "id": "mnemon-dev/mnemon",
+      "name": "@mnemon-dev/dsh-mnemon",
+      "displayName": "mnemon",
+      "summary": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime.",
+      "repository": {
+        "url": "https://github.com/mnemon-dev/mnemon"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "mnemon",
+        "agent-memory",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-10-19T19:57:08.000Z"
+    },
+    {
       "id": "chainbase-labs/Agentkey",
       "name": "agentkey-skill",
       "displayName": "Agentkey",
@@ -1216,24 +1234,6 @@
         "real-time-data"
       ],
       "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
-      "id": "mnemon-dev/mnemon",
-      "name": "@mnemon-dev/dsh-mnemon",
-      "displayName": "mnemon",
-      "summary": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime.",
-      "repository": {
-        "url": "https://github.com/mnemon-dev/mnemon"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "mnemon",
-        "agent-memory",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-10-19T19:57:08.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -1305,6 +1305,17 @@
       "updatedAt": "2026-10-18T14:15:46.000Z"
     },
     {
+      "id": "ADWMC/helm-d",
+      "name": "helmd",
+      "displayName": "helm-d",
+      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
+      "repository": {
+        "url": "https://github.com/ADWMC/helm-d"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-25T11:14:42.000Z"
+    },
+    {
       "id": "DDDMUC/dsh-free-search",
       "name": "dsh-free-search",
       "displayName": "dsh-free-search",
@@ -1345,16 +1356,6 @@
       "updatedAt": "2026-10-23T20:43:14.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
-      "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
-      },
-      "updatedAt": "2026-10-09T11:19:50.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1379,7 +1380,17 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-10-23T05:31:45.000Z"
+      "updatedAt": "2026-10-25T14:03:53.000Z"
+    },
+    {
+      "id": "howmp/dsh-pentest",
+      "name": "@howmp/dsh-pentest",
+      "displayName": "dsh-pentest",
+      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "repository": {
+        "url": "https://github.com/howmp/dsh-pentest"
+      },
+      "updatedAt": "2026-10-09T11:19:50.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1391,17 +1402,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-19T11:46:41.000Z"
-    },
-    {
-      "id": "ADWMC/helm-d",
-      "name": "helmd",
-      "displayName": "helm-d",
-      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
-      "repository": {
-        "url": "https://github.com/ADWMC/helm-d"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-25T08:20:24.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1440,7 +1440,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-10-25T05:08:37.000Z"
+      "updatedAt": "2026-10-25T13:41:25.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1513,7 +1513,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-25T08:20:42.000Z"
+      "updatedAt": "2026-10-25T13:50:16.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1565,17 +1565,6 @@
       "updatedAt": "2026-09-25T10:06:22.000Z"
     },
     {
-      "id": "syncable-dev/memtrace-public",
-      "name": "syncable-dev/memtrace-public",
-      "displayName": "memtrace-public",
-      "summary": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.",
-      "repository": {
-        "url": "https://github.com/syncable-dev/memtrace-public"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-23T13:19:44.000Z"
-    },
-    {
       "id": "V1ki/dsh-plugin-subscriptions",
       "name": "dsh-plugin-subscriptions",
       "displayName": "dsh-plugin-subscriptions",
@@ -1597,6 +1586,17 @@
         "google-antigravity"
       ],
       "updatedAt": "2026-10-19T06:59:16.000Z"
+    },
+    {
+      "id": "syncable-dev/memtrace-public",
+      "name": "syncable-dev/memtrace-public",
+      "displayName": "memtrace-public",
+      "summary": "Structural memory for AI coding agents. Bi-temporal graph, MCP-native, zero LLM calls. Cursor · Claude Code · Codex · DeepSeek Harness · Hermes · VS Code · Windsurf.",
+      "repository": {
+        "url": "https://github.com/syncable-dev/memtrace-public"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-23T13:19:44.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1659,7 +1659,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-25T08:25:47.000Z"
+      "updatedAt": "2026-10-25T13:04:35.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
