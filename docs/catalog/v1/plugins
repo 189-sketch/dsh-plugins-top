@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-24T20:20:55.000Z"
+      "updatedAt": "2026-10-25T00:06:10.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -183,7 +183,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-24T20:09:12.000Z"
+      "updatedAt": "2026-10-24T22:36:48.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-24T20:13:37.000Z"
+      "updatedAt": "2026-10-24T23:40:22.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -419,7 +419,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-24T20:08:31.000Z"
+      "updatedAt": "2026-10-25T00:04:15.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -439,7 +439,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-23T06:40:28.000Z"
+      "updatedAt": "2026-10-24T20:52:01.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -626,7 +626,7 @@
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
-      "summary": "Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.",
+      "summary": "Coding agent memory for Claude Code, Codex, Cursor and 40 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.",
       "repository": {
         "url": "https://github.com/vshulcz/deja-vu"
       },
@@ -652,7 +652,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-24T19:59:38.000Z"
+      "updatedAt": "2026-10-24T22:05:16.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -695,7 +695,7 @@
         "skill",
         "modeling"
       ],
-      "updatedAt": "2026-10-23T12:50:48.000Z"
+      "updatedAt": "2026-10-25T00:01:53.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -750,7 +750,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-24T20:20:51.000Z"
+      "updatedAt": "2026-10-25T00:00:25.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1413,17 +1413,6 @@
       "updatedAt": "2026-10-08T08:36:16.000Z"
     },
     {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-22T12:16:28.000Z"
-    },
-    {
       "id": "ADWMC/helm-d",
       "name": "helmd",
       "displayName": "helm-d",
@@ -1433,6 +1422,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-24T15:48:31.000Z"
+    },
+    {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-22T12:16:28.000Z"
     },
     {
       "id": "dingminhua/dsh-connect-workbuddy",
@@ -1486,7 +1486,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-24T16:20:14.000Z"
+      "updatedAt": "2026-10-24T23:32:51.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
