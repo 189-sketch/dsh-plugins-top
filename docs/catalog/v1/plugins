@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-26T05:59:06.000Z"
+      "updatedAt": "2026-10-27T01:15:41.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-26T15:24:56.000Z"
+      "updatedAt": "2026-10-27T03:15:09.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-26T20:58:54.000Z"
+      "updatedAt": "2026-10-26T23:24:39.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -57,7 +57,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-26T14:41:43.000Z"
+      "updatedAt": "2026-10-27T02:47:29.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -94,7 +94,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-26T10:21:32.000Z"
+      "updatedAt": "2026-10-27T02:42:36.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -105,7 +105,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-26T17:20:08.000Z"
+      "updatedAt": "2026-10-27T01:05:49.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -125,7 +125,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-26T19:28:13.000Z"
+      "updatedAt": "2026-10-27T03:39:29.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -204,7 +204,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-26T22:09:55.000Z"
+      "updatedAt": "2026-10-27T03:32:08.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-26T22:15:57.000Z"
+      "updatedAt": "2026-10-27T03:40:44.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -258,7 +258,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-26T12:20:16.000Z"
+      "updatedAt": "2026-10-27T03:40:50.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -371,7 +371,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-26T09:07:30.000Z"
+      "updatedAt": "2026-10-27T03:14:59.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -417,7 +417,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-26T18:08:17.000Z"
+      "updatedAt": "2026-10-27T03:31:00.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -428,7 +428,7 @@
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-26T03:28:59.000Z"
+      "updatedAt": "2026-10-27T03:40:08.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -468,7 +468,7 @@
         "url": "https://github.com/zilliztech/memsearch"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-26T09:48:12.000Z"
+      "updatedAt": "2026-10-27T03:33:37.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -504,27 +504,6 @@
       "updatedAt": "2026-10-25T17:32:38.000Z"
     },
     {
-      "id": "NanmiCoder/dsh-agent-teams",
-      "name": "@nanmicoder/dsh-agent-teams",
-      "displayName": "dsh-agent-teams",
-      "summary": "DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行、成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/NanmiCoder/dsh-agent-teams"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "agent-teams",
-        "multi-agent",
-        "subagent",
-        "ai-agent",
-        "llm"
-      ],
-      "updatedAt": "2026-10-26T09:46:30.000Z"
-    },
-    {
       "id": "mmparko/dsh-purge",
       "name": "dsh-purge",
       "displayName": "dsh-purge",
@@ -549,6 +528,27 @@
         "agent"
       ],
       "updatedAt": "2026-10-13T05:50:46.000Z"
+    },
+    {
+      "id": "NanmiCoder/dsh-agent-teams",
+      "name": "@nanmicoder/dsh-agent-teams",
+      "displayName": "dsh-agent-teams",
+      "summary": "DeepSeek Harness 的 Agent Teams 多智能体协作插件，支持多个 AI Agent 组成团队，协同完成复杂任务，实现任务分配、并行执行、成员通信与团队协作。 AgentTeams plugin for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/NanmiCoder/dsh-agent-teams"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "agent-teams",
+        "multi-agent",
+        "subagent",
+        "ai-agent",
+        "llm"
+      ],
+      "updatedAt": "2026-10-26T09:46:30.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -673,17 +673,6 @@
       "updatedAt": "2026-10-26T12:58:25.000Z"
     },
     {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-26T16:09:31.000Z"
-    },
-    {
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
@@ -713,7 +702,18 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-26T13:24:08.000Z"
+      "updatedAt": "2026-10-26T23:27:21.000Z"
+    },
+    {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-26T16:09:31.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -768,7 +768,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-24T06:47:31.000Z"
+      "updatedAt": "2026-10-27T03:42:26.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -779,7 +779,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-26T22:24:54.000Z"
+      "updatedAt": "2026-10-27T03:32:36.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -790,7 +790,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-26T12:00:57.000Z"
+      "updatedAt": "2026-10-27T03:39:05.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -881,6 +881,25 @@
       "updatedAt": "2026-10-26T07:10:24.000Z"
     },
     {
+      "id": "c1overzz/dsh-bili-scroll",
+      "name": "dsh-bili-scroll",
+      "displayName": "dsh-bili-scroll",
+      "summary": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
+      "repository": {
+        "url": "https://github.com/c1overzz/dsh-bili-scroll"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "bilibili",
+        "mcp",
+        "duty"
+      ],
+      "updatedAt": "2026-10-26T12:53:55.000Z"
+    },
+    {
       "id": "LiPu-jpg/Openwrite",
       "name": "dsh-openwrite",
       "displayName": "Openwrite",
@@ -889,7 +908,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-26T20:10:28.000Z"
+      "updatedAt": "2026-10-27T02:29:20.000Z"
     },
     {
       "id": "liguobao/ds-harness-remote",
@@ -909,26 +928,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-26T16:39:12.000Z"
-    },
-    {
-      "id": "c1overzz/dsh-bili-scroll",
-      "name": "dsh-bili-scroll",
-      "displayName": "dsh-bili-scroll",
-      "summary": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
-      "repository": {
-        "url": "https://github.com/c1overzz/dsh-bili-scroll"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "bilibili",
-        "mcp",
-        "duty"
-      ],
-      "updatedAt": "2026-10-26T12:53:55.000Z"
+      "updatedAt": "2026-10-27T02:23:16.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -991,7 +991,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-26T12:42:37.000Z"
+      "updatedAt": "2026-10-27T03:12:51.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1011,7 +1011,7 @@
         "redteam",
         "security"
       ],
-      "updatedAt": "2026-10-14T11:09:57.000Z"
+      "updatedAt": "2026-10-27T02:05:14.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1101,17 +1101,6 @@
       "updatedAt": "2026-10-26T15:21:19.000Z"
     },
     {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-22T13:51:41.000Z"
-    },
-    {
       "id": "ADWMC/helm-d",
       "name": "helmd",
       "displayName": "helm-d",
@@ -1121,6 +1110,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-25T11:14:42.000Z"
+    },
+    {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-22T13:51:41.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1154,6 +1154,25 @@
       "updatedAt": "2026-10-20T00:24:53.000Z"
     },
     {
+      "id": "dingminhua/dsh-connect-workbuddy",
+      "name": "dsh-connect-workbuddy",
+      "displayName": "dsh-connect-workbuddy",
+      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
+      "repository": {
+        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "workbuddy",
+        "codebuddy",
+        "model-provider",
+        "credits"
+      ],
+      "updatedAt": "2026-10-26T12:38:49.000Z"
+    },
+    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -1176,25 +1195,6 @@
         "worldline"
       ],
       "updatedAt": "2026-10-24T01:25:05.000Z"
-    },
-    {
-      "id": "dingminhua/dsh-connect-workbuddy",
-      "name": "dsh-connect-workbuddy",
-      "displayName": "dsh-connect-workbuddy",
-      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
-      "repository": {
-        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "workbuddy",
-        "codebuddy",
-        "model-provider",
-        "credits"
-      ],
-      "updatedAt": "2026-10-26T12:38:49.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -1272,6 +1272,17 @@
       "updatedAt": "2026-10-26T20:07:17.000Z"
     },
     {
+      "id": "Clarklevis1995/dsh-mobile",
+      "name": "Clarklevis1995/dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
+      "repository": {
+        "url": "https://github.com/Clarklevis1995/dsh-mobile"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-26T13:21:06.000Z"
+    },
+    {
       "id": "chainbase-labs/Agentkey",
       "name": "agentkey-skill",
       "displayName": "Agentkey",
@@ -1295,17 +1306,6 @@
       "updatedAt": "2026-08-24T16:55:44.000Z"
     },
     {
-      "id": "Clarklevis1995/dsh-mobile",
-      "name": "Clarklevis1995/dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生 iOS 客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
-      "repository": {
-        "url": "https://github.com/Clarklevis1995/dsh-mobile"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-26T13:21:06.000Z"
-    },
-    {
       "id": "LivXue/dsh-plugin-shop",
       "name": "dsh-plugin-shop-registry",
       "displayName": "dsh-plugin-shop",
@@ -1314,7 +1314,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-26T06:37:28.000Z"
+      "updatedAt": "2026-10-27T02:59:33.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1521,30 +1521,6 @@
       "updatedAt": "2026-10-26T15:19:01.000Z"
     },
     {
-      "id": "Ikalus1988/MisakaNet",
-      "name": "misakanet",
-      "displayName": "MisakaNet",
-      "summary": "Re-debugging Solved Failures? No Way. 500+ Evidence-graded fix lessons, One MCP Call-->https://misakanet.org",
-      "repository": {
-        "url": "https://github.com/Ikalus1988/MisakaNet"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "misakanet",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "cordis",
-        "failure-memory",
-        "mcp",
-        "skill",
-        "lessons"
-      ],
-      "updatedAt": "2026-10-26T21:56:31.000Z"
-    },
-    {
       "id": "Han-1413141/dsh-cost-meter",
       "name": "dsh-cost-meter",
       "displayName": "dsh-cost-meter",
@@ -1572,6 +1548,30 @@
       "updatedAt": "2026-10-26T14:12:06.000Z"
     },
     {
+      "id": "Ikalus1988/MisakaNet",
+      "name": "misakanet",
+      "displayName": "MisakaNet",
+      "summary": "Re-debugging Solved Failures? No Way. 500+ Evidence-graded fix lessons, One MCP Call-->https://misakanet.org",
+      "repository": {
+        "url": "https://github.com/Ikalus1988/MisakaNet"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "misakanet",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "cordis",
+        "failure-memory",
+        "mcp",
+        "skill",
+        "lessons"
+      ],
+      "updatedAt": "2026-10-27T03:35:10.000Z"
+    },
+    {
       "id": "FSMargoo/dsh-at-file",
       "name": "dsh-at-file",
       "displayName": "dsh-at-file",
@@ -1592,6 +1592,23 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-09-25T10:06:22.000Z"
+    },
+    {
+      "id": "QCYTSN/dsh-dafeiyu",
+      "name": "dsh-dafeiyu",
+      "displayName": "dsh-dafeiyu",
+      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
+      "repository": {
+        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "desktop-pet",
+        "agent-companion"
+      ],
+      "updatedAt": "2026-10-26T05:43:17.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1615,23 +1632,6 @@
         "google-antigravity"
       ],
       "updatedAt": "2026-10-26T08:57:45.000Z"
-    },
-    {
-      "id": "QCYTSN/dsh-dafeiyu",
-      "name": "dsh-dafeiyu",
-      "displayName": "dsh-dafeiyu",
-      "summary": "Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.",
-      "repository": {
-        "url": "https://github.com/QCYTSN/dsh-dafeiyu"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "desktop-pet",
-        "agent-companion"
-      ],
-      "updatedAt": "2026-10-26T05:43:17.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -1666,7 +1666,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-26T15:53:25.000Z"
+      "updatedAt": "2026-10-27T02:10:08.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -1746,7 +1746,7 @@
         "url": "https://github.com/zhuzhaoyun/Molio"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-26T16:49:42.000Z"
+      "updatedAt": "2026-10-27T03:37:58.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
@@ -1779,7 +1779,7 @@
         "url": "https://github.com/Alice-Marx/dsh-model-router"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-26T18:49:06.000Z"
+      "updatedAt": "2026-10-27T02:27:44.000Z"
     }
   ],
   "page": {
