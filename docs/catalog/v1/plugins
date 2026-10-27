@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-27T15:57:27.000Z"
+      "updatedAt": "2026-10-27T20:18:23.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-26T23:24:39.000Z"
+      "updatedAt": "2026-10-27T20:26:44.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -83,7 +83,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-10-27T15:35:15.000Z"
+      "updatedAt": "2026-10-27T16:06:26.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -125,7 +125,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-27T09:51:21.000Z"
+      "updatedAt": "2026-10-27T19:21:35.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -136,7 +136,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-27T15:53:19.000Z"
+      "updatedAt": "2026-10-27T19:20:11.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -190,7 +190,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-27T15:27:37.000Z"
+      "updatedAt": "2026-10-27T17:59:30.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -222,7 +222,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-26T19:36:47.000Z"
+      "updatedAt": "2026-10-27T17:02:59.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-27T15:55:57.000Z"
+      "updatedAt": "2026-10-27T19:55:36.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -417,7 +417,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-27T15:56:59.000Z"
+      "updatedAt": "2026-10-27T20:36:00.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -501,7 +501,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-25T17:32:38.000Z"
+      "updatedAt": "2026-10-27T18:01:32.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -681,7 +681,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-27T15:44:51.000Z"
+      "updatedAt": "2026-10-27T17:20:41.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -713,7 +713,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-27T15:56:23.000Z"
+      "updatedAt": "2026-10-27T20:25:07.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -809,7 +809,7 @@
         "mcp",
         "duty"
       ],
-      "updatedAt": "2026-10-26T12:53:55.000Z"
+      "updatedAt": "2026-10-27T17:42:47.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -866,7 +866,7 @@
         "screenshot-testing",
         "gui-automation"
       ],
-      "updatedAt": "2026-10-26T04:58:47.000Z"
+      "updatedAt": "2026-10-27T17:05:24.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -889,17 +889,6 @@
       "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
-      "id": "toby-bridges/api-relay-audit",
-      "name": "dsh-api-relay-audit",
-      "displayName": "api-relay-audit",
-      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks. Website: https://apirelayaudit.com",
-      "repository": {
-        "url": "https://github.com/toby-bridges/api-relay-audit"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-26T07:10:24.000Z"
-    },
-    {
       "id": "liguobao/ds-harness-remote",
       "name": "ds-harness-remote",
       "displayName": "ds-harness-remote",
@@ -917,7 +906,18 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-27T13:22:11.000Z"
+      "updatedAt": "2026-10-27T17:36:37.000Z"
+    },
+    {
+      "id": "toby-bridges/api-relay-audit",
+      "name": "dsh-api-relay-audit",
+      "displayName": "api-relay-audit",
+      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks. Website: https://apirelayaudit.com",
+      "repository": {
+        "url": "https://github.com/toby-bridges/api-relay-audit"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-27T18:13:30.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -928,7 +928,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-27T05:56:57.000Z"
+      "updatedAt": "2026-10-27T18:38:54.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -980,7 +980,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-27T07:14:09.000Z"
+      "updatedAt": "2026-10-27T18:07:31.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -1035,7 +1035,7 @@
         "url": "https://github.com/ADWMC/helm-d"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-27T15:00:33.000Z"
+      "updatedAt": "2026-10-27T16:17:36.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1109,7 +1109,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-26T15:21:19.000Z"
+      "updatedAt": "2026-10-27T16:47:40.000Z"
     },
     {
       "id": "myYangyunfan/dsh_desktop",
@@ -1159,7 +1159,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-10-27T05:25:46.000Z"
+      "updatedAt": "2026-10-27T20:28:42.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1195,26 +1195,6 @@
         "worldline"
       ],
       "updatedAt": "2026-10-24T01:25:05.000Z"
-    },
-    {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
-      ],
-      "updatedAt": "2026-10-18T19:14:22.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1255,6 +1235,26 @@
         "zhihu"
       ],
       "updatedAt": "2026-10-27T06:26:13.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-10-18T19:14:22.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1569,7 +1569,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-27T15:53:31.000Z"
+      "updatedAt": "2026-10-27T17:46:46.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1581,17 +1581,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-09-01T01:00:35.000Z"
-    },
-    {
-      "id": "EthanYoQ/Invoice-Downloader",
-      "name": "EthanYoQ/Invoice-Downloader",
-      "displayName": "Invoice-Downloader",
-      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
-      "repository": {
-        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-09-25T10:06:22.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1609,6 +1598,17 @@
         "agent-companion"
       ],
       "updatedAt": "2026-10-27T11:45:07.000Z"
+    },
+    {
+      "id": "EthanYoQ/Invoice-Downloader",
+      "name": "EthanYoQ/Invoice-Downloader",
+      "displayName": "Invoice-Downloader",
+      "summary": "电子发票整理与报销准备工具：从邮箱批量收集 PDF/OFD/XML 发票，OCR 识别、分类归档并生成 Excel 汇总；提供 Windows/macOS 桌面版与 DSH 插件。",
+      "repository": {
+        "url": "https://github.com/EthanYoQ/Invoice-Downloader"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-09-25T10:06:22.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1666,7 +1666,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-27T15:44:15.000Z"
+      "updatedAt": "2026-10-27T17:16:48.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -1677,7 +1677,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-26T21:06:48.000Z"
+      "updatedAt": "2026-10-27T18:50:22.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1699,7 +1699,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-26T21:04:24.000Z"
+      "updatedAt": "2026-10-27T19:54:10.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1746,7 +1746,7 @@
         "url": "https://github.com/zhuzhaoyun/Molio"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-27T15:50:50.000Z"
+      "updatedAt": "2026-10-27T17:08:25.000Z"
     },
     {
       "id": "WYH66666666/DSH-Transparent-UI-Plugin",
