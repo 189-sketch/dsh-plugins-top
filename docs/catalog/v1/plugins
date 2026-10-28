@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-27T20:18:23.000Z"
+      "updatedAt": "2026-10-28T00:57:47.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-27T20:26:44.000Z"
+      "updatedAt": "2026-10-27T23:24:52.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -105,7 +105,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-27T07:03:44.000Z"
+      "updatedAt": "2026-10-28T00:36:59.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -125,7 +125,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-27T19:21:35.000Z"
+      "updatedAt": "2026-10-27T20:52:56.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -136,7 +136,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-27T19:20:11.000Z"
+      "updatedAt": "2026-10-27T23:08:10.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -190,7 +190,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-27T17:59:30.000Z"
+      "updatedAt": "2026-10-28T01:07:27.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-27T19:55:36.000Z"
+      "updatedAt": "2026-10-28T01:09:59.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -417,7 +417,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-27T20:36:00.000Z"
+      "updatedAt": "2026-10-28T01:08:32.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -713,7 +713,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-27T20:25:07.000Z"
+      "updatedAt": "2026-10-28T00:51:31.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -779,7 +779,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-27T14:33:01.000Z"
+      "updatedAt": "2026-10-28T00:43:43.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -790,7 +790,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-27T11:35:06.000Z"
+      "updatedAt": "2026-10-28T01:04:19.000Z"
     },
     {
       "id": "c1overzz/dsh-bili-scroll",
@@ -962,7 +962,18 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-25T02:11:32.000Z"
+      "updatedAt": "2026-10-27T22:50:20.000Z"
+    },
+    {
+      "id": "Aisland-SJL/dsh-worktable",
+      "name": "Aisland-SJL/dsh-worktable",
+      "displayName": "dsh-worktable",
+      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+      "repository": {
+        "url": "https://github.com/Aisland-SJL/dsh-worktable"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-27T15:09:56.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -980,18 +991,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-27T18:07:31.000Z"
-    },
-    {
-      "id": "Aisland-SJL/dsh-worktable",
-      "name": "Aisland-SJL/dsh-worktable",
-      "displayName": "dsh-worktable",
-      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "repository": {
-        "url": "https://github.com/Aisland-SJL/dsh-worktable"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-27T15:09:56.000Z"
+      "updatedAt": "2026-10-28T00:59:02.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1109,7 +1109,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-27T16:47:40.000Z"
+      "updatedAt": "2026-10-28T00:03:33.000Z"
     },
     {
       "id": "myYangyunfan/dsh_desktop",
@@ -1257,6 +1257,17 @@
       "updatedAt": "2026-10-18T19:14:22.000Z"
     },
     {
+      "id": "Clarklevis1995/dsh-mobile",
+      "name": "Clarklevis1995/dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生移动端客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
+      "repository": {
+        "url": "https://github.com/Clarklevis1995/dsh-mobile"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-27T05:28:54.000Z"
+    },
+    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -1273,17 +1284,6 @@
         "web-fetch"
       ],
       "updatedAt": "2026-10-10T08:54:47.000Z"
-    },
-    {
-      "id": "Clarklevis1995/dsh-mobile",
-      "name": "Clarklevis1995/dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生移动端客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
-      "repository": {
-        "url": "https://github.com/Clarklevis1995/dsh-mobile"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-27T05:28:54.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1569,7 +1569,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-27T17:46:46.000Z"
+      "updatedAt": "2026-10-28T00:52:30.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1642,7 +1642,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-26T18:09:30.000Z"
+      "updatedAt": "2026-10-28T00:28:42.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1666,7 +1666,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-27T17:16:48.000Z"
+      "updatedAt": "2026-10-28T00:05:32.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -1677,7 +1677,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-27T18:50:22.000Z"
+      "updatedAt": "2026-10-27T20:49:54.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1699,7 +1699,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-27T19:54:10.000Z"
+      "updatedAt": "2026-10-27T20:43:50.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
