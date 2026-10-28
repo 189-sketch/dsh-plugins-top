@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-28T14:29:57.000Z"
+      "updatedAt": "2026-10-28T20:49:37.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-27T23:24:52.000Z"
+      "updatedAt": "2026-10-28T20:24:31.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -94,7 +94,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-28T15:02:38.000Z"
+      "updatedAt": "2026-10-28T16:19:44.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -105,7 +105,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-28T10:20:57.000Z"
+      "updatedAt": "2026-10-28T15:38:09.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -125,7 +125,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-28T11:09:11.000Z"
+      "updatedAt": "2026-10-28T20:37:29.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -136,7 +136,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-28T14:26:15.000Z"
+      "updatedAt": "2026-10-28T20:52:02.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -190,7 +190,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-28T14:20:35.000Z"
+      "updatedAt": "2026-10-28T18:14:53.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -222,7 +222,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-28T08:10:33.000Z"
+      "updatedAt": "2026-10-28T16:41:50.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -247,18 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-28T14:28:11.000Z"
-    },
-    {
-      "id": "omdsh-dev/DSH-better-sidebar",
-      "name": "dsh-better-sidebar",
-      "displayName": "DSH-better-sidebar",
-      "summary": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-28T07:43:25.000Z"
+      "updatedAt": "2026-10-28T20:13:10.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -270,6 +259,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-28T14:26:07.000Z"
+    },
+    {
+      "id": "omdsh-dev/DSH-better-sidebar",
+      "name": "dsh-better-sidebar",
+      "displayName": "DSH-better-sidebar",
+      "summary": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-28T07:43:25.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -349,7 +349,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-28T15:04:09.000Z"
+      "updatedAt": "2026-10-28T17:54:21.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -417,7 +417,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-28T14:46:49.000Z"
+      "updatedAt": "2026-10-28T19:33:47.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -692,7 +692,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-28T14:13:25.000Z"
+      "updatedAt": "2026-10-28T18:28:21.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -724,7 +724,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-10-28T13:51:14.000Z"
+      "updatedAt": "2026-10-28T18:29:24.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -779,7 +779,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-27T12:25:47.000Z"
+      "updatedAt": "2026-10-28T17:21:53.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -841,7 +841,7 @@
       "repository": {
         "url": "https://github.com/mindscale-noah/MindMemOS"
       },
-      "updatedAt": "2026-10-28T14:04:40.000Z"
+      "updatedAt": "2026-10-28T16:37:02.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -852,6 +852,26 @@
         "url": "https://github.com/Electricitysheep/dsh-handbook"
       },
       "updatedAt": "2026-10-04T01:28:20.000Z"
+    },
+    {
+      "id": "liguobao/ds-harness-remote",
+      "name": "ds-harness-remote",
+      "displayName": "ds-harness-remote",
+      "summary": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)",
+      "repository": {
+        "url": "https://github.com/liguobao/ds-harness-remote"
+      },
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "codex",
+        "remote-development",
+        "end-to-end-encryption",
+        "webrtc"
+      ],
+      "updatedAt": "2026-10-28T17:47:38.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -898,26 +918,6 @@
         "infinite-canvas"
       ],
       "updatedAt": "2026-08-21T05:23:23.000Z"
-    },
-    {
-      "id": "liguobao/ds-harness-remote",
-      "name": "ds-harness-remote",
-      "displayName": "ds-harness-remote",
-      "summary": "基于 DeepSeek Harness 插件机制构建的远程访问方案，通过低延迟、端到端加密的 P2P 网络，支持使用 PC、移动端 和 Web 随时访问本地设备上的DSH 、CodeX、Cursor、Claude Code等工作区。 (Built on DeepSeek Harness plugins, this low-latency, end-to-end encrypted P2P solution lets PC, mobile, and web clients access local DSH, Codex, Cursor, and Claude Code workspaces.)",
-      "repository": {
-        "url": "https://github.com/liguobao/ds-harness-remote"
-      },
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "codex",
-        "remote-development",
-        "end-to-end-encryption",
-        "webrtc"
-      ],
-      "updatedAt": "2026-10-28T14:40:19.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -1020,17 +1020,6 @@
       "updatedAt": "2026-10-28T12:31:20.000Z"
     },
     {
-      "id": "Aisland-SJL/dsh-worktable",
-      "name": "Aisland-SJL/dsh-worktable",
-      "displayName": "dsh-worktable",
-      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "repository": {
-        "url": "https://github.com/Aisland-SJL/dsh-worktable"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-27T15:09:56.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-genui",
       "name": "@changfenhuang/dsh-genui",
       "displayName": "dsh-genui",
@@ -1047,6 +1036,17 @@
         "ui"
       ],
       "updatedAt": "2026-10-28T13:31:51.000Z"
+    },
+    {
+      "id": "Aisland-SJL/dsh-worktable",
+      "name": "Aisland-SJL/dsh-worktable",
+      "displayName": "dsh-worktable",
+      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+      "repository": {
+        "url": "https://github.com/Aisland-SJL/dsh-worktable"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-27T15:09:56.000Z"
     },
     {
       "id": "beiyege-01/dsh-voice-ai-girlfriend",
@@ -1096,7 +1096,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-10-28T05:36:19.000Z"
+      "updatedAt": "2026-10-28T19:42:55.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1224,6 +1224,17 @@
       "updatedAt": "2026-10-28T10:38:02.000Z"
     },
     {
+      "id": "Clarklevis1995/dsh-mobile",
+      "name": "Clarklevis1995/dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生移动端客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
+      "repository": {
+        "url": "https://github.com/Clarklevis1995/dsh-mobile"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-28T01:19:24.000Z"
+    },
+    {
       "id": "Clearailhc/clearai-dsh",
       "name": "clearai-dsh",
       "displayName": "clearai-dsh",
@@ -1248,15 +1259,22 @@
       "updatedAt": "2026-10-24T01:25:05.000Z"
     },
     {
-      "id": "Clarklevis1995/dsh-mobile",
-      "name": "Clarklevis1995/dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生移动端客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
+      "id": "mnemon-dev/mnemon",
+      "name": "@mnemon-dev/dsh-mnemon",
+      "displayName": "mnemon",
+      "summary": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime.",
       "repository": {
-        "url": "https://github.com/Clarklevis1995/dsh-mobile"
+        "url": "https://github.com/mnemon-dev/mnemon"
       },
-      "license": "MIT",
-      "updatedAt": "2026-10-28T01:19:24.000Z"
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "mnemon",
+        "agent-memory",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-10-26T20:07:17.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1277,24 +1295,6 @@
       "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
-      "id": "mnemon-dev/mnemon",
-      "name": "@mnemon-dev/dsh-mnemon",
-      "displayName": "mnemon",
-      "summary": "LLM-supervised persistent memory for AI agents — graph-based recall, cross-session knowledge, single binary. Works with DeepSeek Harness, Claude Code, OpenClaw, and any agent runtime.",
-      "repository": {
-        "url": "https://github.com/mnemon-dev/mnemon"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "mnemon",
-        "agent-memory",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-10-26T20:07:17.000Z"
-    },
-    {
       "id": "ccch1mneyyy/working-activity",
       "name": "pi-working-activity",
       "displayName": "working-activity",
@@ -1313,6 +1313,33 @@
         "pi-coding-agent"
       ],
       "updatedAt": "2026-10-18T19:14:22.000Z"
+    },
+    {
+      "id": "saya-ch/dsh-mobile",
+      "name": "dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness 的 Android App 与安全远程访问插件，支持局域网/远程连接和高度自定义的移动界面与扩展能力。",
+      "repository": {
+        "url": "https://github.com/saya-ch/dsh-mobile"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "plugin",
+        "android",
+        "lan",
+        "remote-access",
+        "tailscale",
+        "cpolar",
+        "frp",
+        "self-hosted",
+        "reverse-proxy",
+        "mobile",
+        "https"
+      ],
+      "updatedAt": "2026-10-28T13:02:48.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1366,33 +1393,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-10-28T09:41:09.000Z"
-    },
-    {
-      "id": "saya-ch/dsh-mobile",
-      "name": "dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness 的 Android App 与安全远程访问插件，支持局域网/远程连接和高度自定义的移动界面与扩展能力。",
-      "repository": {
-        "url": "https://github.com/saya-ch/dsh-mobile"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "plugin",
-        "android",
-        "lan",
-        "remote-access",
-        "tailscale",
-        "cpolar",
-        "frp",
-        "self-hosted",
-        "reverse-proxy",
-        "mobile",
-        "https"
-      ],
-      "updatedAt": "2026-10-28T13:02:48.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
@@ -1591,7 +1591,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-28T14:57:08.000Z"
+      "updatedAt": "2026-10-28T20:37:56.000Z"
     },
     {
       "id": "QCYTSN/dsh-dafeiyu",
@@ -1666,7 +1666,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-28T10:25:56.000Z"
+      "updatedAt": "2026-10-28T16:20:47.000Z"
     },
     {
       "id": "syncable-dev/memtrace-public",
@@ -1688,7 +1688,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-27T13:59:55.000Z"
+      "updatedAt": "2026-10-28T18:43:36.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -1699,7 +1699,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-27T20:49:54.000Z"
+      "updatedAt": "2026-10-28T18:58:40.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1710,7 +1710,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-28T01:49:55.000Z"
+      "updatedAt": "2026-10-28T19:56:55.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
