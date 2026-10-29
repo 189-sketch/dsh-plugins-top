@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-29T15:10:17.000Z"
+      "updatedAt": "2026-10-29T20:59:56.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-28T23:20:10.000Z"
+      "updatedAt": "2026-10-29T20:51:20.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -94,7 +94,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-29T10:01:53.000Z"
+      "updatedAt": "2026-10-29T16:59:57.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -105,7 +105,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-29T15:05:57.000Z"
+      "updatedAt": "2026-10-29T16:37:59.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -125,7 +125,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-29T09:55:45.000Z"
+      "updatedAt": "2026-10-29T20:48:24.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -136,7 +136,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-29T14:51:24.000Z"
+      "updatedAt": "2026-10-29T19:41:39.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -208,7 +208,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-29T15:14:00.000Z"
+      "updatedAt": "2026-10-29T20:45:17.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-29T14:45:02.000Z"
+      "updatedAt": "2026-10-29T19:05:48.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -286,7 +286,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-28T07:43:25.000Z"
+      "updatedAt": "2026-10-29T18:14:42.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -306,7 +306,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-10-29T15:13:54.000Z"
+      "updatedAt": "2026-10-29T16:31:06.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -369,7 +369,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-29T14:02:20.000Z"
+      "updatedAt": "2026-10-29T17:11:10.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-29T15:08:49.000Z"
+      "updatedAt": "2026-10-29T18:15:41.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -501,7 +501,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-27T18:01:32.000Z"
+      "updatedAt": "2026-10-29T17:01:31.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -662,7 +662,7 @@
         "skill",
         "modeling"
       ],
-      "updatedAt": "2026-10-28T14:52:00.000Z"
+      "updatedAt": "2026-10-29T19:32:43.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -692,7 +692,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-29T15:01:10.000Z"
+      "updatedAt": "2026-10-29T15:42:53.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -747,7 +747,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-29T15:07:59.000Z"
+      "updatedAt": "2026-10-29T15:33:10.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -791,17 +791,6 @@
       "updatedAt": "2026-10-28T05:58:05.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-browser",
-      "name": "dsh-browser",
-      "displayName": "dsh-browser",
-      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-browser"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-01T07:58:07.000Z"
-    },
-    {
       "id": "liguobao/ds-harness-remote",
       "name": "ds-harness-remote",
       "displayName": "ds-harness-remote",
@@ -819,7 +808,18 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-29T14:13:27.000Z"
+      "updatedAt": "2026-10-29T17:21:08.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-browser",
+      "name": "dsh-browser",
+      "displayName": "dsh-browser",
+      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-browser"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-01T07:58:07.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -840,6 +840,26 @@
         "url": "https://github.com/Electricitysheep/dsh-handbook"
       },
       "updatedAt": "2026-10-04T01:28:20.000Z"
+    },
+    {
+      "id": "superdesigndev/superdesign-skill",
+      "name": "superdesign-dsh",
+      "displayName": "superdesign-skill",
+      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+      "repository": {
+        "url": "https://github.com/superdesigndev/superdesign-skill"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "design",
+        "ui-design",
+        "presentations",
+        "slide-decks",
+        "infinite-canvas"
+      ],
+      "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -866,59 +886,6 @@
         "gui-automation"
       ],
       "updatedAt": "2026-10-27T17:05:24.000Z"
-    },
-    {
-      "id": "superdesigndev/superdesign-skill",
-      "name": "superdesign-dsh",
-      "displayName": "superdesign-skill",
-      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
-      "repository": {
-        "url": "https://github.com/superdesigndev/superdesign-skill"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "design",
-        "ui-design",
-        "presentations",
-        "slide-decks",
-        "infinite-canvas"
-      ],
-      "updatedAt": "2026-08-21T05:23:23.000Z"
-    },
-    {
-      "id": "LiPu-jpg/Openwrite",
-      "name": "dsh-openwrite",
-      "displayName": "Openwrite",
-      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
-      "repository": {
-        "url": "https://github.com/LiPu-jpg/Openwrite"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-28T09:44:00.000Z"
-    },
-    {
-      "id": "toby-bridges/api-relay-audit",
-      "name": "dsh-api-relay-audit",
-      "displayName": "api-relay-audit",
-      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks. Website: https://apirelayaudit.com",
-      "repository": {
-        "url": "https://github.com/toby-bridges/api-relay-audit"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-27T18:13:30.000Z"
-    },
-    {
-      "id": "zhoushoujianwork/easyeda-agent",
-      "name": "easyeda-agent-dsh",
-      "displayName": "easyeda-agent",
-      "summary": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
-      "repository": {
-        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-28T15:03:59.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -952,6 +919,39 @@
         "cordis"
       ],
       "updatedAt": "2026-10-28T10:39:06.000Z"
+    },
+    {
+      "id": "toby-bridges/api-relay-audit",
+      "name": "dsh-api-relay-audit",
+      "displayName": "api-relay-audit",
+      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks. Website: https://apirelayaudit.com",
+      "repository": {
+        "url": "https://github.com/toby-bridges/api-relay-audit"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-27T18:13:30.000Z"
+    },
+    {
+      "id": "LiPu-jpg/Openwrite",
+      "name": "dsh-openwrite",
+      "displayName": "Openwrite",
+      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+      "repository": {
+        "url": "https://github.com/LiPu-jpg/Openwrite"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-28T09:44:00.000Z"
+    },
+    {
+      "id": "zhoushoujianwork/easyeda-agent",
+      "name": "easyeda-agent-dsh",
+      "displayName": "easyeda-agent",
+      "summary": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
+      "repository": {
+        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-29T15:39:35.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1004,7 +1004,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-10-29T15:00:06.000Z"
+      "updatedAt": "2026-10-29T19:03:49.000Z"
     },
     {
       "id": "beiyege-01/dsh-voice-ai-girlfriend",
@@ -1033,7 +1033,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-29T11:39:50.000Z"
+      "updatedAt": "2026-10-29T18:36:34.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -1178,7 +1178,7 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-28T10:38:02.000Z"
+      "updatedAt": "2026-10-29T16:36:35.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1596,7 +1596,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-29T15:10:24.000Z"
+      "updatedAt": "2026-10-29T20:52:27.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1676,7 +1676,7 @@
         "url": "https://github.com/text2future/flowix"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-28T18:43:36.000Z"
+      "updatedAt": "2026-10-29T15:53:02.000Z"
     },
     {
       "id": "vibeinging/dsh-desktop",
@@ -1687,7 +1687,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-28T21:13:48.000Z"
+      "updatedAt": "2026-10-29T19:06:08.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1698,7 +1698,18 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-29T01:53:17.000Z"
+      "updatedAt": "2026-10-29T20:04:27.000Z"
+    },
+    {
+      "id": "Alice-Marx/dsh-model-router",
+      "name": "@ljwei-stak/dsh-model-router",
+      "displayName": "dsh-model-router",
+      "summary": "Model Router and GALGame plugin for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/Alice-Marx/dsh-model-router"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-27T03:50:19.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1712,15 +1723,23 @@
       "updatedAt": "2026-10-29T14:45:44.000Z"
     },
     {
-      "id": "Alice-Marx/dsh-model-router",
-      "name": "@ljwei-stak/dsh-model-router",
-      "displayName": "dsh-model-router",
-      "summary": "Model Router and GALGame plugin for DeepSeek Harness",
+      "id": "yyh-001/dsh-meme",
+      "name": "dsh-meme",
+      "displayName": "dsh-meme",
+      "summary": "DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.",
       "repository": {
-        "url": "https://github.com/Alice-Marx/dsh-model-router"
+        "url": "https://github.com/yyh-001/dsh-meme"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-27T03:50:19.000Z"
+      "keywords": [
+        "dsh-plugin",
+        "dsh-meme",
+        "deepseek-harness",
+        "meme",
+        "emoticon",
+        "sticker"
+      ],
+      "updatedAt": "2026-10-29T12:22:42.000Z"
     },
     {
       "id": "Mars-Sea/dsh-commandcode-provider",
@@ -1745,26 +1764,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-29T10:41:19.000Z"
-    },
-    {
-      "id": "yyh-001/dsh-meme",
-      "name": "dsh-meme",
-      "displayName": "dsh-meme",
-      "summary": "DeepSeek Harness 表情包插件：输入框一键发图、文字 token 斗图、情绪主动发图、AI 自动学图，图库市场一键安装。 · Meme/sticker plugin for DeepSeek Harness: one-click picker in the composer, text-token memes, mood-driven sending, AI learns your images, marketplace packs.",
-      "repository": {
-        "url": "https://github.com/yyh-001/dsh-meme"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "dsh-meme",
-        "deepseek-harness",
-        "meme",
-        "emoticon",
-        "sticker"
-      ],
-      "updatedAt": "2026-10-29T12:22:42.000Z"
+      "updatedAt": "2026-10-29T16:27:05.000Z"
     },
     {
       "id": "tencent-connect/dsh-qqbot",
