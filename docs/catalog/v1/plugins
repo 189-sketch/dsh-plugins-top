@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-29T20:59:56.000Z"
+      "updatedAt": "2026-10-30T01:07:21.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-29T20:51:20.000Z"
+      "updatedAt": "2026-10-29T23:35:42.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -136,7 +136,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-29T19:41:39.000Z"
+      "updatedAt": "2026-10-29T23:42:31.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -208,7 +208,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-29T20:45:17.000Z"
+      "updatedAt": "2026-10-30T00:15:45.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-29T19:05:48.000Z"
+      "updatedAt": "2026-10-30T01:42:36.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -258,7 +258,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-29T14:02:44.000Z"
+      "updatedAt": "2026-10-30T00:54:45.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -278,17 +278,6 @@
       "updatedAt": "2026-10-29T13:08:14.000Z"
     },
     {
-      "id": "omdsh-dev/DSH-better-sidebar",
-      "name": "dsh-better-sidebar",
-      "displayName": "DSH-better-sidebar",
-      "summary": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-29T18:14:42.000Z"
-    },
-    {
       "id": "QingYunA/answer-me-with-html",
       "name": "answer-me-with-html",
       "displayName": "answer-me-with-html",
@@ -306,7 +295,18 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-10-29T16:31:06.000Z"
+      "updatedAt": "2026-10-30T01:39:17.000Z"
+    },
+    {
+      "id": "omdsh-dev/DSH-better-sidebar",
+      "name": "dsh-better-sidebar",
+      "displayName": "DSH-better-sidebar",
+      "summary": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-29T18:14:42.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -369,7 +369,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-29T17:11:10.000Z"
+      "updatedAt": "2026-10-30T01:30:42.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-29T18:15:41.000Z"
+      "updatedAt": "2026-10-30T01:38:32.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -692,7 +692,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-29T15:42:53.000Z"
+      "updatedAt": "2026-10-30T00:28:12.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -862,32 +862,6 @@
       "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
-      "id": "Anionex/dsh-vision-toolkit",
-      "name": "@anionex/dsh-vision-toolkit",
-      "displayName": "dsh-vision-toolkit",
-      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "repository": {
-        "url": "https://github.com/Anionex/dsh-vision-toolkit"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "agent-vision-toolkit",
-        "agent-skills",
-        "text-only-llm",
-        "vision-language-model",
-        "vision-tools",
-        "vision-skills",
-        "computer-vision",
-        "ocr",
-        "ui-restoration",
-        "screenshot-testing",
-        "gui-automation"
-      ],
-      "updatedAt": "2026-10-27T17:05:24.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -921,15 +895,30 @@
       "updatedAt": "2026-10-28T10:39:06.000Z"
     },
     {
-      "id": "toby-bridges/api-relay-audit",
-      "name": "dsh-api-relay-audit",
-      "displayName": "api-relay-audit",
-      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks. Website: https://apirelayaudit.com",
+      "id": "Anionex/dsh-vision-toolkit",
+      "name": "@anionex/dsh-vision-toolkit",
+      "displayName": "dsh-vision-toolkit",
+      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
       "repository": {
-        "url": "https://github.com/toby-bridges/api-relay-audit"
+        "url": "https://github.com/Anionex/dsh-vision-toolkit"
       },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-27T18:13:30.000Z"
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "agent-vision-toolkit",
+        "agent-skills",
+        "text-only-llm",
+        "vision-language-model",
+        "vision-tools",
+        "vision-skills",
+        "computer-vision",
+        "ocr",
+        "ui-restoration",
+        "screenshot-testing",
+        "gui-automation"
+      ],
+      "updatedAt": "2026-10-27T17:05:24.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -941,6 +930,17 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-10-28T09:44:00.000Z"
+    },
+    {
+      "id": "toby-bridges/api-relay-audit",
+      "name": "dsh-api-relay-audit",
+      "displayName": "api-relay-audit",
+      "summary": "Local security audit for AI API relays and LLM proxies: detects prompt injection, model substitution, tool-call rewriting, SSE anomalies, error leakage, and Web3 wallet risks. Website: https://apirelayaudit.com",
+      "repository": {
+        "url": "https://github.com/toby-bridges/api-relay-audit"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-27T18:13:30.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -1200,7 +1200,7 @@
         "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-29T07:40:42.000Z"
+      "updatedAt": "2026-10-30T01:42:44.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1251,7 +1251,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-10-29T15:05:50.000Z"
+      "updatedAt": "2026-10-30T01:03:54.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1596,7 +1596,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-29T20:52:27.000Z"
+      "updatedAt": "2026-10-30T01:35:18.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1687,7 +1687,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-29T19:06:08.000Z"
+      "updatedAt": "2026-10-29T21:16:31.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1698,7 +1698,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-29T20:04:27.000Z"
+      "updatedAt": "2026-10-30T01:39:59.000Z"
     },
     {
       "id": "Alice-Marx/dsh-model-router",
@@ -1721,6 +1721,28 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-29T14:45:44.000Z"
+    },
+    {
+      "id": "tencent-connect/dsh-qqbot",
+      "name": "@tencent-connect/dsh-qqbot",
+      "displayName": "dsh-qqbot",
+      "summary": "让 QQ Bot 接入 DeepSeek Harness（dsh）的官方插件",
+      "repository": {
+        "url": "https://github.com/tencent-connect/dsh-qqbot"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "qqbot",
+        "qq",
+        "cordis",
+        "plugin",
+        "chatbot",
+        "im"
+      ],
+      "updatedAt": "2026-10-29T13:23:50.000Z"
     },
     {
       "id": "yyh-001/dsh-meme",
@@ -1765,28 +1787,6 @@
         "provider"
       ],
       "updatedAt": "2026-10-29T16:27:05.000Z"
-    },
-    {
-      "id": "tencent-connect/dsh-qqbot",
-      "name": "@tencent-connect/dsh-qqbot",
-      "displayName": "dsh-qqbot",
-      "summary": "让 QQ Bot 接入 DeepSeek Harness（dsh）的官方插件",
-      "repository": {
-        "url": "https://github.com/tencent-connect/dsh-qqbot"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "qqbot",
-        "qq",
-        "cordis",
-        "plugin",
-        "chatbot",
-        "im"
-      ],
-      "updatedAt": "2026-10-29T13:23:50.000Z"
     }
   ],
   "page": {
