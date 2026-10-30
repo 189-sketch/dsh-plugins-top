@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T10:43:07.000Z"
+      "updatedAt": "2026-10-30T17:03:33.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-29T23:35:42.000Z"
+      "updatedAt": "2026-10-30T20:35:36.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -72,7 +72,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-10-30T05:19:24.000Z"
+      "updatedAt": "2026-10-30T17:51:34.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -94,7 +94,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T08:09:21.000Z"
+      "updatedAt": "2026-10-30T18:10:37.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -114,7 +114,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-30T13:57:32.000Z"
+      "updatedAt": "2026-10-30T18:43:34.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -136,7 +136,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-30T15:15:38.000Z"
+      "updatedAt": "2026-10-30T20:20:50.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -172,24 +172,6 @@
       "updatedAt": "2026-09-18T23:10:58.000Z"
     },
     {
-      "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "name": "dsh-whale-widget",
-      "displayName": "DeepSeek-Balance-Whale-Widget",
-      "summary": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "repository": {
-        "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "balance",
-        "widget"
-      ],
-      "updatedAt": "2026-10-11T12:25:55.000Z"
-    },
-    {
       "id": "superdesigndev/treg",
       "name": "treg-dsh",
       "displayName": "treg",
@@ -208,7 +190,25 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-30T14:45:24.000Z"
+      "updatedAt": "2026-10-30T18:43:44.000Z"
+    },
+    {
+      "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "name": "dsh-whale-widget",
+      "displayName": "DeepSeek-Balance-Whale-Widget",
+      "summary": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "repository": {
+        "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "balance",
+        "widget"
+      ],
+      "updatedAt": "2026-10-11T12:25:55.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -233,7 +233,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-30T15:01:12.000Z"
+      "updatedAt": "2026-10-30T20:19:57.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -247,7 +247,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-10-30T09:58:10.000Z"
+      "updatedAt": "2026-10-30T17:13:07.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -295,7 +295,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-30T10:58:05.000Z"
+      "updatedAt": "2026-10-30T16:13:53.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -349,7 +349,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-30T13:31:42.000Z"
+      "updatedAt": "2026-10-30T17:05:38.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -369,7 +369,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-30T15:03:32.000Z"
+      "updatedAt": "2026-10-30T17:53:00.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -420,7 +420,7 @@
         "无限制模式",
         "unrestricted"
       ],
-      "updatedAt": "2026-10-30T15:15:23.000Z"
+      "updatedAt": "2026-10-30T15:26:26.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-30T15:14:41.000Z"
+      "updatedAt": "2026-10-30T20:24:32.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -490,7 +490,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-30T06:57:14.000Z"
+      "updatedAt": "2026-10-30T19:16:40.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -662,7 +662,7 @@
         "skill",
         "modeling"
       ],
-      "updatedAt": "2026-10-30T14:55:47.000Z"
+      "updatedAt": "2026-10-30T17:40:50.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -808,7 +808,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-30T08:31:39.000Z"
+      "updatedAt": "2026-10-30T18:56:51.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -895,6 +895,25 @@
       "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
+      "id": "dingminhua/dsh-connect-workbuddy",
+      "name": "dsh-connect-workbuddy",
+      "displayName": "dsh-connect-workbuddy",
+      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
+      "repository": {
+        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "workbuddy",
+        "codebuddy",
+        "model-provider",
+        "credits"
+      ],
+      "updatedAt": "2026-10-30T11:39:27.000Z"
+    },
+    {
       "id": "Anionex/dsh-vision-toolkit",
       "name": "@anionex/dsh-vision-toolkit",
       "displayName": "dsh-vision-toolkit",
@@ -921,25 +940,6 @@
       "updatedAt": "2026-10-27T17:05:24.000Z"
     },
     {
-      "id": "dingminhua/dsh-connect-workbuddy",
-      "name": "dsh-connect-workbuddy",
-      "displayName": "dsh-connect-workbuddy",
-      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
-      "repository": {
-        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "workbuddy",
-        "codebuddy",
-        "model-provider",
-        "credits"
-      ],
-      "updatedAt": "2026-10-30T11:39:27.000Z"
-    },
-    {
       "id": "LiPu-jpg/Openwrite",
       "name": "dsh-openwrite",
       "displayName": "Openwrite",
@@ -949,6 +949,17 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-10-28T09:44:00.000Z"
+    },
+    {
+      "id": "ADWMC/helm-d",
+      "name": "helmd",
+      "displayName": "helm-d",
+      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
+      "repository": {
+        "url": "https://github.com/ADWMC/helm-d"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-28T12:31:20.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -970,18 +981,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-30T15:05:49.000Z"
-    },
-    {
-      "id": "ADWMC/helm-d",
-      "name": "helmd",
-      "displayName": "helm-d",
-      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
-      "repository": {
-        "url": "https://github.com/ADWMC/helm-d"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-28T12:31:20.000Z"
+      "updatedAt": "2026-10-30T19:44:04.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1033,7 +1033,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-10-30T15:10:57.000Z"
+      "updatedAt": "2026-10-30T15:43:14.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -1158,7 +1158,7 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-30T10:43:52.000Z"
+      "updatedAt": "2026-10-30T17:35:24.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1269,7 +1269,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-10-26T20:07:17.000Z"
+      "updatedAt": "2026-10-30T20:31:15.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1337,7 +1337,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T15:14:15.000Z"
+      "updatedAt": "2026-10-30T19:49:13.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1596,7 +1596,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-30T14:40:49.000Z"
+      "updatedAt": "2026-10-30T18:20:14.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1621,6 +1621,17 @@
         "knowledge-graph"
       ],
       "updatedAt": "2026-10-30T14:58:34.000Z"
+    },
+    {
+      "id": "Alice-Marx/dsh-model-router",
+      "name": "@ljwei-stak/dsh-model-router",
+      "displayName": "dsh-model-router",
+      "summary": "Model Router and GALGame plugin for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/Alice-Marx/dsh-model-router"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-27T03:50:19.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1668,17 +1679,6 @@
       "updatedAt": "2026-10-30T13:21:22.000Z"
     },
     {
-      "id": "Alice-Marx/dsh-model-router",
-      "name": "@ljwei-stak/dsh-model-router",
-      "displayName": "dsh-model-router",
-      "summary": "Model Router and GALGame plugin for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/Alice-Marx/dsh-model-router"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-27T03:50:19.000Z"
-    },
-    {
       "id": "text2future/flowix",
       "name": "flowix",
       "displayName": "flowix",
@@ -1698,7 +1698,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-29T21:16:31.000Z"
+      "updatedAt": "2026-10-30T18:43:43.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1709,7 +1709,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-30T01:39:59.000Z"
+      "updatedAt": "2026-10-30T19:43:32.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1742,7 +1742,7 @@
         "chatbot",
         "im"
       ],
-      "updatedAt": "2026-10-30T14:43:01.000Z"
+      "updatedAt": "2026-10-30T15:58:35.000Z"
     },
     {
       "id": "yyh-001/dsh-meme",
@@ -1786,7 +1786,7 @@
       "categories": [
         "provider"
       ],
-      "updatedAt": "2026-10-30T15:14:24.000Z"
+      "updatedAt": "2026-10-30T15:25:12.000Z"
     }
   ],
   "page": {
