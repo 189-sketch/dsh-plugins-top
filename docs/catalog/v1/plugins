@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-30T07:19:04.000Z"
+      "updatedAt": "2026-10-31T01:11:47.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-30T20:35:36.000Z"
+      "updatedAt": "2026-10-30T23:21:26.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -86,17 +86,6 @@
       "updatedAt": "2026-10-29T11:26:35.000Z"
     },
     {
-      "id": "zhu1090093659/dsh-web",
-      "name": "dsh-web",
-      "displayName": "dsh-web",
-      "summary": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
-      "repository": {
-        "url": "https://github.com/zhu1090093659/dsh-web"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T18:10:37.000Z"
-    },
-    {
       "id": "dsh-market/dsh-market",
       "name": "dshmarket",
       "displayName": "dsh-market",
@@ -115,6 +104,17 @@
         "plugin-manager"
       ],
       "updatedAt": "2026-10-30T18:43:34.000Z"
+    },
+    {
+      "id": "zhu1090093659/dsh-web",
+      "name": "dsh-web",
+      "displayName": "dsh-web",
+      "summary": "DeepSeek Harness (DSH) Web 插件聚合生态 · 万物皆插件，通过创意工坊分发｜｜DeepSeek Harness (DSH) Web Plugin Aggregation Ecosystem · Everything is a plugin, distributed via the Creative Workshop",
+      "repository": {
+        "url": "https://github.com/zhu1090093659/dsh-web"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-30T18:10:37.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -136,7 +136,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-30T20:20:50.000Z"
+      "updatedAt": "2026-10-31T01:05:40.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -190,7 +190,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-30T18:43:44.000Z"
+      "updatedAt": "2026-10-31T00:31:58.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -233,7 +233,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-30T20:19:57.000Z"
+      "updatedAt": "2026-10-31T01:21:57.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -349,7 +349,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-30T17:05:38.000Z"
+      "updatedAt": "2026-10-30T20:58:59.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-30T20:24:32.000Z"
+      "updatedAt": "2026-10-31T01:37:13.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -530,6 +530,26 @@
       "updatedAt": "2026-10-13T05:50:46.000Z"
     },
     {
+      "id": "shaobeichen/dsh-pocket",
+      "name": "dsh-pocket",
+      "displayName": "dsh-pocket",
+      "summary": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)",
+      "repository": {
+        "url": "https://github.com/shaobeichen/dsh-pocket"
+      },
+      "license": "GPL-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "mobile",
+        "remote",
+        "qr",
+        "tunnel"
+      ],
+      "updatedAt": "2026-10-17T09:48:40.000Z"
+    },
+    {
       "id": "NanmiCoder/dsh-agent-teams",
       "name": "@nanmicoder/dsh-agent-teams",
       "displayName": "dsh-agent-teams",
@@ -549,26 +569,6 @@
         "llm"
       ],
       "updatedAt": "2026-10-30T06:28:34.000Z"
-    },
-    {
-      "id": "shaobeichen/dsh-pocket",
-      "name": "dsh-pocket",
-      "displayName": "dsh-pocket",
-      "summary": "把 DeepSeek Harness 装进你的口袋：电脑上跑 dsh web，手机扫码即同步访问（局域网 + 公网，实时同屏）Put DeepSeek Harness in your pocket: run dsh web on your computer and access it synchronously by scanning a QR code on your phone (LAN + public network, real‑time screen mirroring)",
-      "repository": {
-        "url": "https://github.com/shaobeichen/dsh-pocket"
-      },
-      "license": "GPL-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "mobile",
-        "remote",
-        "qr",
-        "tunnel"
-      ],
-      "updatedAt": "2026-10-17T09:48:40.000Z"
     },
     {
       "id": "zhuyansen/new-term-radar",
@@ -758,7 +758,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-30T15:15:32.000Z"
+      "updatedAt": "2026-10-31T01:34:03.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -865,6 +865,25 @@
       "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
+      "id": "dingminhua/dsh-connect-workbuddy",
+      "name": "dsh-connect-workbuddy",
+      "displayName": "dsh-connect-workbuddy",
+      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
+      "repository": {
+        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "workbuddy",
+        "codebuddy",
+        "model-provider",
+        "credits"
+      ],
+      "updatedAt": "2026-10-30T11:39:27.000Z"
+    },
+    {
       "id": "mindscale-noah/MindMemOS",
       "name": "mindscale-noah/MindMemOS",
       "displayName": "MindMemOS",
@@ -893,25 +912,6 @@
         "infinite-canvas"
       ],
       "updatedAt": "2026-08-21T05:23:23.000Z"
-    },
-    {
-      "id": "dingminhua/dsh-connect-workbuddy",
-      "name": "dsh-connect-workbuddy",
-      "displayName": "dsh-connect-workbuddy",
-      "summary": "Connect locally signed-in WorkBuddy models to DeepSeek Harness with a read-only credits overview and model management.",
-      "repository": {
-        "url": "https://github.com/dingminhua/dsh-connect-workbuddy"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "workbuddy",
-        "codebuddy",
-        "model-provider",
-        "credits"
-      ],
-      "updatedAt": "2026-10-30T11:39:27.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -1110,17 +1110,6 @@
       "updatedAt": "2026-10-29T10:39:56.000Z"
     },
     {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-27T06:08:03.000Z"
-    },
-    {
       "id": "DDDMUC/dsh-free-search",
       "name": "dsh-free-search",
       "displayName": "dsh-free-search",
@@ -1158,7 +1147,18 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-30T17:35:24.000Z"
+      "updatedAt": "2026-10-30T22:15:05.000Z"
+    },
+    {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-27T06:08:03.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1269,7 +1269,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-10-30T20:31:15.000Z"
+      "updatedAt": "2026-10-30T21:11:12.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1337,7 +1337,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T19:49:13.000Z"
+      "updatedAt": "2026-10-30T21:54:31.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1575,28 +1575,15 @@
       "updatedAt": "2026-09-01T01:00:35.000Z"
     },
     {
-      "id": "Ikalus1988/MisakaNet",
-      "name": "misakanet",
-      "displayName": "MisakaNet",
-      "summary": "Re-debugging Solved Failures? No Way. 500+ Evidence-graded fix lessons, One MCP Call-->https://misakanet.org",
+      "id": "Alice-Marx/dsh-model-router",
+      "name": "@ljwei-stak/dsh-model-router",
+      "displayName": "dsh-model-router",
+      "summary": "Model Router and GALGame plugin for DeepSeek Harness",
       "repository": {
-        "url": "https://github.com/Ikalus1988/MisakaNet"
+        "url": "https://github.com/Alice-Marx/dsh-model-router"
       },
-      "license": "Apache-2.0",
-      "keywords": [
-        "misakanet",
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "deepseek-harness",
-        "deepseek-harness-plugin",
-        "cordis",
-        "failure-memory",
-        "mcp",
-        "skill",
-        "lessons"
-      ],
-      "updatedAt": "2026-10-30T18:20:14.000Z"
+      "license": "MIT",
+      "updatedAt": "2026-10-27T03:50:19.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1620,18 +1607,31 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-30T14:58:34.000Z"
+      "updatedAt": "2026-10-31T00:59:39.000Z"
     },
     {
-      "id": "Alice-Marx/dsh-model-router",
-      "name": "@ljwei-stak/dsh-model-router",
-      "displayName": "dsh-model-router",
-      "summary": "Model Router and GALGame plugin for DeepSeek Harness",
+      "id": "Ikalus1988/MisakaNet",
+      "name": "misakanet",
+      "displayName": "MisakaNet",
+      "summary": "Re-debugging Solved Failures? No Way. 500+ Evidence-graded fix lessons, One MCP Call-->https://misakanet.org",
       "repository": {
-        "url": "https://github.com/Alice-Marx/dsh-model-router"
+        "url": "https://github.com/Ikalus1988/MisakaNet"
       },
-      "license": "MIT",
-      "updatedAt": "2026-10-27T03:50:19.000Z"
+      "license": "Apache-2.0",
+      "keywords": [
+        "misakanet",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "cordis",
+        "failure-memory",
+        "mcp",
+        "skill",
+        "lessons"
+      ],
+      "updatedAt": "2026-10-31T01:26:22.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1698,7 +1698,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-30T18:43:43.000Z"
+      "updatedAt": "2026-10-30T20:57:15.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
