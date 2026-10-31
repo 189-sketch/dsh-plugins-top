@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-31T17:32:25.000Z"
+      "updatedAt": "2026-10-31T20:26:05.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -190,7 +190,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-31T18:43:40.000Z"
+      "updatedAt": "2026-10-31T22:51:07.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -233,7 +233,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-31T19:54:13.000Z"
+      "updatedAt": "2026-10-31T21:47:00.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -401,17 +401,6 @@
       "updatedAt": "2026-10-31T08:58:30.000Z"
     },
     {
-      "id": "xiaobright/dsh-anchored-standard",
-      "name": "dsh-anchored-standard",
-      "displayName": "dsh-anchored-standard",
-      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "repository": {
-        "url": "https://github.com/xiaobright/dsh-anchored-standard"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-21T16:32:08.000Z"
-    },
-    {
       "id": "agentscope-ai/ReMe",
       "name": "agentscope-ai/ReMe",
       "displayName": "ReMe",
@@ -421,6 +410,17 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-10-30T03:21:51.000Z"
+    },
+    {
+      "id": "xiaobright/dsh-anchored-standard",
+      "name": "dsh-anchored-standard",
+      "displayName": "dsh-anchored-standard",
+      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "repository": {
+        "url": "https://github.com/xiaobright/dsh-anchored-standard"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-21T16:32:08.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-31T18:14:12.000Z"
+      "updatedAt": "2026-10-31T22:26:05.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -747,7 +747,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-31T14:10:30.000Z"
+      "updatedAt": "2026-10-31T20:09:49.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -871,7 +871,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-10-31T19:54:05.000Z"
+      "updatedAt": "2026-10-31T20:13:19.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -1301,26 +1301,6 @@
       "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
-      "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
-      ],
-      "updatedAt": "2026-10-18T19:14:22.000Z"
-    },
-    {
       "id": "6shenhonghong9/dsh-startup-screen",
       "name": "dsh-startup-screen",
       "displayName": "dsh-startup-screen",
@@ -1339,6 +1319,26 @@
         "boot-animation"
       ],
       "updatedAt": "2026-10-31T18:09:53.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-10-18T19:14:22.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1642,7 +1642,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-31T19:51:05.000Z"
+      "updatedAt": "2026-10-31T20:10:10.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1709,7 +1709,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-31T17:51:29.000Z"
+      "updatedAt": "2026-10-31T20:09:32.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1720,7 +1720,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-31T18:58:36.000Z"
+      "updatedAt": "2026-10-31T19:59:15.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
