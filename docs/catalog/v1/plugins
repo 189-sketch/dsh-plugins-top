@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-31T04:39:48.000Z"
+      "updatedAt": "2026-10-31T13:24:11.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -114,7 +114,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-31T06:15:18.000Z"
+      "updatedAt": "2026-10-31T11:27:32.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -125,7 +125,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-31T05:03:40.000Z"
+      "updatedAt": "2026-10-31T13:02:05.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -147,7 +147,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-30T09:27:43.000Z"
+      "updatedAt": "2026-10-31T08:25:11.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -190,7 +190,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-31T08:02:34.000Z"
+      "updatedAt": "2026-10-31T14:18:12.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -233,7 +233,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-31T08:02:05.000Z"
+      "updatedAt": "2026-10-31T14:21:56.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -258,7 +258,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-31T07:20:57.000Z"
+      "updatedAt": "2026-10-31T13:49:21.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -369,7 +369,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-31T07:15:55.000Z"
+      "updatedAt": "2026-10-31T14:06:27.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -398,18 +398,7 @@
         "无限制模式",
         "unrestricted"
       ],
-      "updatedAt": "2026-10-31T04:20:41.000Z"
-    },
-    {
-      "id": "xiaobright/dsh-anchored-standard",
-      "name": "dsh-anchored-standard",
-      "displayName": "dsh-anchored-standard",
-      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "repository": {
-        "url": "https://github.com/xiaobright/dsh-anchored-standard"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-21T16:32:08.000Z"
+      "updatedAt": "2026-10-31T08:58:30.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -421,6 +410,17 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-10-30T03:21:51.000Z"
+    },
+    {
+      "id": "xiaobright/dsh-anchored-standard",
+      "name": "dsh-anchored-standard",
+      "displayName": "dsh-anchored-standard",
+      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "repository": {
+        "url": "https://github.com/xiaobright/dsh-anchored-standard"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-21T16:32:08.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -446,18 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-31T08:07:45.000Z"
-    },
-    {
-      "id": "Small-tailqwq/dsh-deep-whale",
-      "name": "Small-tailqwq/dsh-deep-whale",
-      "displayName": "dsh-deep-whale",
-      "summary": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
-      "repository": {
-        "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-27T03:40:08.000Z"
+      "updatedAt": "2026-10-31T14:29:29.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -490,7 +479,18 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-30T19:16:40.000Z"
+      "updatedAt": "2026-10-31T14:15:54.000Z"
+    },
+    {
+      "id": "Small-tailqwq/dsh-deep-whale",
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "displayName": "dsh-deep-whale",
+      "summary": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
+      "repository": {
+        "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-27T03:40:08.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -692,7 +692,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-31T04:51:52.000Z"
+      "updatedAt": "2026-10-31T14:33:05.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -747,7 +747,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-10-30T03:11:23.000Z"
+      "updatedAt": "2026-10-31T14:10:30.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -758,7 +758,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-31T06:43:18.000Z"
+      "updatedAt": "2026-10-31T14:30:59.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -769,7 +769,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-30T08:52:21.000Z"
+      "updatedAt": "2026-10-31T13:24:55.000Z"
     },
     {
       "id": "liguobao/ds-harness-remote",
@@ -789,7 +789,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-30T18:56:51.000Z"
+      "updatedAt": "2026-10-31T13:31:24.000Z"
     },
     {
       "id": "c1overzz/dsh-bili-scroll",
@@ -808,7 +808,7 @@
         "mcp",
         "duty"
       ],
-      "updatedAt": "2026-10-28T05:58:05.000Z"
+      "updatedAt": "2026-10-31T11:14:11.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -871,7 +871,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-10-30T11:39:27.000Z"
+      "updatedAt": "2026-10-31T09:50:02.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -911,7 +911,7 @@
       "repository": {
         "url": "https://github.com/mindscale-noah/MindMemOS"
       },
-      "updatedAt": "2026-10-31T07:28:33.000Z"
+      "updatedAt": "2026-10-31T10:07:10.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -981,7 +981,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-30T19:44:04.000Z"
+      "updatedAt": "2026-10-31T14:13:00.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1044,27 +1044,7 @@
         "url": "https://github.com/Aisland-SJL/dsh-worktable"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-27T15:09:56.000Z"
-    },
-    {
-      "id": "SeaOf0/dsh-redteam-model",
-      "name": "@dsh-external/dsh-redteam-model",
-      "displayName": "dsh-redteam-model",
-      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
-      "repository": {
-        "url": "https://github.com/SeaOf0/dsh-redteam-model"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-bundle",
-        "redteam",
-        "security"
-      ],
-      "updatedAt": "2026-10-27T02:05:14.000Z"
+      "updatedAt": "2026-10-31T09:06:12.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1110,6 +1090,26 @@
       "updatedAt": "2026-10-29T10:39:56.000Z"
     },
     {
+      "id": "SeaOf0/dsh-redteam-model",
+      "name": "@dsh-external/dsh-redteam-model",
+      "displayName": "dsh-redteam-model",
+      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
+      "repository": {
+        "url": "https://github.com/SeaOf0/dsh-redteam-model"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-bundle",
+        "redteam",
+        "security"
+      ],
+      "updatedAt": "2026-10-27T02:05:14.000Z"
+    },
+    {
       "id": "DDDMUC/dsh-free-search",
       "name": "dsh-free-search",
       "displayName": "dsh-free-search",
@@ -1147,7 +1147,7 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-31T06:03:36.000Z"
+      "updatedAt": "2026-10-31T10:45:19.000Z"
     },
     {
       "id": "myYangyunfan/dsh_desktop",
@@ -1200,7 +1200,7 @@
         "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-30T08:56:43.000Z"
+      "updatedAt": "2026-10-31T12:47:46.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1227,7 +1227,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-10-30T10:02:29.000Z"
+      "updatedAt": "2026-10-31T14:26:47.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1269,7 +1269,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-10-30T21:11:12.000Z"
+      "updatedAt": "2026-10-31T12:30:38.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1329,6 +1329,26 @@
       "updatedAt": "2026-10-01T00:45:49.000Z"
     },
     {
+      "id": "6shenhonghong9/dsh-startup-screen",
+      "name": "dsh-startup-screen",
+      "displayName": "dsh-startup-screen",
+      "summary": "DeepSeek Harness plugin hosted at 6shenhonghong9/dsh-startup-screen.",
+      "repository": {
+        "url": "https://github.com/6shenhonghong9/dsh-startup-screen"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "deepseek-harness-desktop",
+        "startup",
+        "splash",
+        "boot-animation"
+      ],
+      "updatedAt": "2026-10-27T13:21:41.000Z"
+    },
+    {
       "id": "LivXue/dsh-plugin-shop",
       "name": "dsh-plugin-shop-registry",
       "displayName": "dsh-plugin-shop",
@@ -1337,7 +1357,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-31T07:54:07.000Z"
+      "updatedAt": "2026-10-31T13:39:59.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1361,26 +1381,6 @@
         "real-time-data"
       ],
       "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
-      "id": "6shenhonghong9/dsh-startup-screen",
-      "name": "dsh-startup-screen",
-      "displayName": "dsh-startup-screen",
-      "summary": "DeepSeek Harness plugin hosted at 6shenhonghong9/dsh-startup-screen.",
-      "repository": {
-        "url": "https://github.com/6shenhonghong9/dsh-startup-screen"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "deepseek-harness-desktop",
-        "startup",
-        "splash",
-        "boot-animation"
-      ],
-      "updatedAt": "2026-10-27T13:21:41.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1458,7 +1458,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-10-18T14:15:46.000Z"
+      "updatedAt": "2026-10-31T14:01:24.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1509,6 +1509,17 @@
       "updatedAt": "2026-10-29T06:30:22.000Z"
     },
     {
+      "id": "Alice-Marx/dsh-model-router",
+      "name": "@ljwei-stak/dsh-model-router",
+      "displayName": "dsh-model-router",
+      "summary": "Model Router and GALGame plugin for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/Alice-Marx/dsh-model-router"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-27T03:50:19.000Z"
+    },
+    {
       "id": "QCYTSN/dsh-dafeiyu",
       "name": "dsh-dafeiyu",
       "displayName": "dsh-dafeiyu",
@@ -1553,28 +1564,6 @@
       "updatedAt": "2026-10-30T09:47:39.000Z"
     },
     {
-      "id": "FSMargoo/dsh-at-file",
-      "name": "dsh-at-file",
-      "displayName": "dsh-at-file",
-      "summary": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
-      "repository": {
-        "url": "https://github.com/FSMargoo/dsh-at-file"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-09-01T01:00:35.000Z"
-    },
-    {
-      "id": "Alice-Marx/dsh-model-router",
-      "name": "@ljwei-stak/dsh-model-router",
-      "displayName": "dsh-model-router",
-      "summary": "Model Router and GALGame plugin for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/Alice-Marx/dsh-model-router"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-27T03:50:19.000Z"
-    },
-    {
       "id": "FuRongJun-1999/dsh-memory",
       "name": "@furongjun1999/dsh-memory",
       "displayName": "dsh-memory",
@@ -1596,7 +1585,18 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-31T06:13:12.000Z"
+      "updatedAt": "2026-10-31T13:08:30.000Z"
+    },
+    {
+      "id": "FSMargoo/dsh-at-file",
+      "name": "dsh-at-file",
+      "displayName": "dsh-at-file",
+      "summary": "Codex-style @file mentions for DeepSeek Harness: search workspace files in the composer and attach their path to prompts.",
+      "repository": {
+        "url": "https://github.com/FSMargoo/dsh-at-file"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-09-01T01:00:35.000Z"
     },
     {
       "id": "1692775560/dsh-Mimir-Academic-research",
@@ -1631,7 +1631,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-31T07:33:13.000Z"
+      "updatedAt": "2026-10-31T14:32:25.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
