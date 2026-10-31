@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-30T23:21:26.000Z"
+      "updatedAt": "2026-10-31T17:32:25.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -72,7 +72,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-10-31T07:07:41.000Z"
+      "updatedAt": "2026-10-31T17:33:31.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -103,7 +103,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-30T18:43:34.000Z"
+      "updatedAt": "2026-10-31T19:00:31.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -190,7 +190,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-31T14:18:12.000Z"
+      "updatedAt": "2026-10-31T18:43:40.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -233,7 +233,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-31T14:21:56.000Z"
+      "updatedAt": "2026-10-31T19:54:13.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -369,7 +369,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-31T14:06:27.000Z"
+      "updatedAt": "2026-10-31T19:23:47.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -401,17 +401,6 @@
       "updatedAt": "2026-10-31T08:58:30.000Z"
     },
     {
-      "id": "agentscope-ai/ReMe",
-      "name": "agentscope-ai/ReMe",
-      "displayName": "ReMe",
-      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "repository": {
-        "url": "https://github.com/agentscope-ai/ReMe"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T03:21:51.000Z"
-    },
-    {
       "id": "xiaobright/dsh-anchored-standard",
       "name": "dsh-anchored-standard",
       "displayName": "dsh-anchored-standard",
@@ -421,6 +410,17 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-10-21T16:32:08.000Z"
+    },
+    {
+      "id": "agentscope-ai/ReMe",
+      "name": "agentscope-ai/ReMe",
+      "displayName": "ReMe",
+      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "repository": {
+        "url": "https://github.com/agentscope-ai/ReMe"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-30T03:21:51.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-31T14:29:29.000Z"
+      "updatedAt": "2026-10-31T18:14:12.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -479,7 +479,7 @@
         "matrix",
         "ai-office"
       ],
-      "updatedAt": "2026-10-31T14:15:54.000Z"
+      "updatedAt": "2026-10-31T16:43:05.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -491,17 +491,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-10-27T03:40:08.000Z"
-    },
-    {
-      "id": "zilliztech/memsearch",
-      "name": "zilliztech/memsearch",
-      "displayName": "memsearch",
-      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
-      "repository": {
-        "url": "https://github.com/zilliztech/memsearch"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-27T03:33:37.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -528,6 +517,17 @@
         "agent"
       ],
       "updatedAt": "2026-10-13T05:50:46.000Z"
+    },
+    {
+      "id": "zilliztech/memsearch",
+      "name": "zilliztech/memsearch",
+      "displayName": "memsearch",
+      "summary": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
+      "repository": {
+        "url": "https://github.com/zilliztech/memsearch"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-27T03:33:37.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -665,6 +665,17 @@
       "updatedAt": "2026-10-31T07:37:50.000Z"
     },
     {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-31T18:18:11.000Z"
+    },
+    {
       "id": "GanyuanRan/Aegis",
       "name": "aegis",
       "displayName": "Aegis",
@@ -682,17 +693,6 @@
         "deepseek-harness"
       ],
       "updatedAt": "2026-10-25T05:46:02.000Z"
-    },
-    {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-31T14:33:05.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -758,7 +758,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-31T14:30:59.000Z"
+      "updatedAt": "2026-10-31T16:01:36.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -789,7 +789,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-31T13:31:24.000Z"
+      "updatedAt": "2026-10-31T17:57:08.000Z"
     },
     {
       "id": "c1overzz/dsh-bili-scroll",
@@ -871,7 +871,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-10-31T09:50:02.000Z"
+      "updatedAt": "2026-10-31T19:54:05.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -914,6 +914,17 @@
       "updatedAt": "2026-10-31T10:07:10.000Z"
     },
     {
+      "id": "ADWMC/helm-d",
+      "name": "helmd",
+      "displayName": "helm-d",
+      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
+      "repository": {
+        "url": "https://github.com/ADWMC/helm-d"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-28T12:31:20.000Z"
+    },
+    {
       "id": "Anionex/dsh-vision-toolkit",
       "name": "@anionex/dsh-vision-toolkit",
       "displayName": "dsh-vision-toolkit",
@@ -938,17 +949,6 @@
         "gui-automation"
       ],
       "updatedAt": "2026-10-27T17:05:24.000Z"
-    },
-    {
-      "id": "ADWMC/helm-d",
-      "name": "helmd",
-      "displayName": "helm-d",
-      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
-      "repository": {
-        "url": "https://github.com/ADWMC/helm-d"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-28T12:31:20.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -976,12 +976,12 @@
       "id": "zhoushoujianwork/easyeda-agent",
       "name": "easyeda-agent-dsh",
       "displayName": "easyeda-agent",
-      "summary": "嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.",
+      "summary": "嘉立创 EDA 专业版（EasyEDA Pro）开源 AI 自动化：原理图、PCB 布局布线与工程检查，支持 CLI / Agent Skill / MCP。配套 EdaDesk Desktop 内测版可下载体验。Open-source AI schematic and PCB automation for EasyEDA Pro.",
       "repository": {
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-31T14:13:00.000Z"
+      "updatedAt": "2026-10-31T15:43:52.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1036,6 +1036,17 @@
       "updatedAt": "2026-10-30T15:43:14.000Z"
     },
     {
+      "id": "yexi-by/dsh-unrestricted",
+      "name": "dsh-unrestricted",
+      "displayName": "dsh-unrestricted",
+      "summary": "DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用",
+      "repository": {
+        "url": "https://github.com/yexi-by/dsh-unrestricted"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-31T14:38:31.000Z"
+    },
+    {
       "id": "Aisland-SJL/dsh-worktable",
       "name": "Aisland-SJL/dsh-worktable",
       "displayName": "dsh-worktable",
@@ -1087,7 +1098,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-10-29T10:39:56.000Z"
+      "updatedAt": "2026-10-31T17:10:42.000Z"
     },
     {
       "id": "SeaOf0/dsh-redteam-model",
@@ -1310,6 +1321,26 @@
       "updatedAt": "2026-10-18T19:14:22.000Z"
     },
     {
+      "id": "6shenhonghong9/dsh-startup-screen",
+      "name": "dsh-startup-screen",
+      "displayName": "dsh-startup-screen",
+      "summary": "DeepSeek Harness 的启动界面与启动动画插件",
+      "repository": {
+        "url": "https://github.com/6shenhonghong9/dsh-startup-screen"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "deepseek-harness-desktop",
+        "startup",
+        "splash",
+        "boot-animation"
+      ],
+      "updatedAt": "2026-10-31T18:09:53.000Z"
+    },
+    {
       "id": "adoresever/graph-memory",
       "name": "graph-memory",
       "displayName": "graph-memory",
@@ -1329,26 +1360,6 @@
       "updatedAt": "2026-10-01T00:45:49.000Z"
     },
     {
-      "id": "6shenhonghong9/dsh-startup-screen",
-      "name": "dsh-startup-screen",
-      "displayName": "dsh-startup-screen",
-      "summary": "DeepSeek Harness plugin hosted at 6shenhonghong9/dsh-startup-screen.",
-      "repository": {
-        "url": "https://github.com/6shenhonghong9/dsh-startup-screen"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "deepseek-harness-desktop",
-        "startup",
-        "splash",
-        "boot-animation"
-      ],
-      "updatedAt": "2026-10-27T13:21:41.000Z"
-    },
-    {
       "id": "LivXue/dsh-plugin-shop",
       "name": "dsh-plugin-shop-registry",
       "displayName": "dsh-plugin-shop",
@@ -1357,7 +1368,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-31T13:39:59.000Z"
+      "updatedAt": "2026-10-31T17:35:59.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1458,7 +1469,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-10-31T14:01:24.000Z"
+      "updatedAt": "2026-10-31T16:37:50.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1506,7 +1517,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-10-29T06:30:22.000Z"
+      "updatedAt": "2026-10-31T19:12:59.000Z"
     },
     {
       "id": "Alice-Marx/dsh-model-router",
@@ -1631,7 +1642,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-31T14:32:25.000Z"
+      "updatedAt": "2026-10-31T19:51:05.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1676,7 +1687,7 @@
         "url": "https://github.com/syncable-dev/memtrace-public"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-10-30T13:21:22.000Z"
+      "updatedAt": "2026-10-31T19:29:43.000Z"
     },
     {
       "id": "text2future/flowix",
@@ -1698,7 +1709,7 @@
         "url": "https://github.com/vibeinging/dsh-desktop"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-30T20:57:15.000Z"
+      "updatedAt": "2026-10-31T17:51:29.000Z"
     },
     {
       "id": "bruc3van/awesome-dsh-plugin",
@@ -1709,7 +1720,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-31T02:06:05.000Z"
+      "updatedAt": "2026-10-31T18:58:36.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1762,31 +1773,6 @@
         "sticker"
       ],
       "updatedAt": "2026-10-30T09:02:59.000Z"
-    },
-    {
-      "id": "Mars-Sea/dsh-commandcode-provider",
-      "name": "@mars-sea/dsh-commandcode-provider",
-      "displayName": "dsh-commandcode-provider",
-      "summary": "Command Code provider plugin for DeepSeek Harness (dsh). Adds Command Code model access, live model catalog, plan-aware model selection, reasoning effort, image input, web search, and multi-account support.",
-      "repository": {
-        "url": "https://github.com/Mars-Sea/dsh-commandcode-provider"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "commandcode",
-        "command-code",
-        "llm",
-        "adapter",
-        "provider",
-        "plugin",
-        "bundle"
-      ],
-      "categories": [
-        "provider"
-      ],
-      "updatedAt": "2026-10-30T15:25:12.000Z"
     }
   ],
   "page": {
