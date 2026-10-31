@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T17:03:33.000Z"
+      "updatedAt": "2026-10-31T06:53:27.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-10-31T01:11:47.000Z"
+      "updatedAt": "2026-10-31T04:39:48.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -72,7 +72,7 @@
         "prompt-eval",
         "agent"
       ],
-      "updatedAt": "2026-10-30T17:51:34.000Z"
+      "updatedAt": "2026-10-31T07:07:41.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -114,7 +114,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T18:10:37.000Z"
+      "updatedAt": "2026-10-31T06:15:18.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -125,7 +125,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-30T13:52:06.000Z"
+      "updatedAt": "2026-10-31T05:03:40.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -190,7 +190,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-31T00:31:58.000Z"
+      "updatedAt": "2026-10-31T08:02:34.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -233,7 +233,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-31T01:21:57.000Z"
+      "updatedAt": "2026-10-31T08:02:05.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -258,7 +258,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-30T14:11:06.000Z"
+      "updatedAt": "2026-10-31T07:20:57.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -278,7 +278,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-10-30T08:48:27.000Z"
+      "updatedAt": "2026-10-31T03:14:50.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -295,7 +295,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-10-30T16:13:53.000Z"
+      "updatedAt": "2026-10-31T04:45:55.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -349,7 +349,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-10-30T20:58:59.000Z"
+      "updatedAt": "2026-10-31T07:51:27.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -369,29 +369,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-10-30T17:53:00.000Z"
-    },
-    {
-      "id": "xiaobright/dsh-anchored-standard",
-      "name": "dsh-anchored-standard",
-      "displayName": "dsh-anchored-standard",
-      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "repository": {
-        "url": "https://github.com/xiaobright/dsh-anchored-standard"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-21T16:32:08.000Z"
-    },
-    {
-      "id": "agentscope-ai/ReMe",
-      "name": "agentscope-ai/ReMe",
-      "displayName": "ReMe",
-      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "repository": {
-        "url": "https://github.com/agentscope-ai/ReMe"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T03:21:51.000Z"
+      "updatedAt": "2026-10-31T07:15:55.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -420,7 +398,29 @@
         "无限制模式",
         "unrestricted"
       ],
-      "updatedAt": "2026-10-30T15:26:26.000Z"
+      "updatedAt": "2026-10-31T04:20:41.000Z"
+    },
+    {
+      "id": "xiaobright/dsh-anchored-standard",
+      "name": "dsh-anchored-standard",
+      "displayName": "dsh-anchored-standard",
+      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "repository": {
+        "url": "https://github.com/xiaobright/dsh-anchored-standard"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-21T16:32:08.000Z"
+    },
+    {
+      "id": "agentscope-ai/ReMe",
+      "name": "agentscope-ai/ReMe",
+      "displayName": "ReMe",
+      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "repository": {
+        "url": "https://github.com/agentscope-ai/ReMe"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-30T03:21:51.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-31T01:37:13.000Z"
+      "updatedAt": "2026-10-31T08:07:45.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -662,7 +662,7 @@
         "skill",
         "modeling"
       ],
-      "updatedAt": "2026-10-30T17:40:50.000Z"
+      "updatedAt": "2026-10-31T07:37:50.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -692,7 +692,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-30T14:54:31.000Z"
+      "updatedAt": "2026-10-31T04:51:52.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -758,7 +758,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-31T01:34:03.000Z"
+      "updatedAt": "2026-10-31T06:43:18.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -770,25 +770,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-30T08:52:21.000Z"
-    },
-    {
-      "id": "c1overzz/dsh-bili-scroll",
-      "name": "dsh-bili-scroll",
-      "displayName": "dsh-bili-scroll",
-      "summary": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
-      "repository": {
-        "url": "https://github.com/c1overzz/dsh-bili-scroll"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "bilibili",
-        "mcp",
-        "duty"
-      ],
-      "updatedAt": "2026-10-28T05:58:05.000Z"
     },
     {
       "id": "liguobao/ds-harness-remote",
@@ -809,6 +790,25 @@
         "webrtc"
       ],
       "updatedAt": "2026-10-30T18:56:51.000Z"
+    },
+    {
+      "id": "c1overzz/dsh-bili-scroll",
+      "name": "dsh-bili-scroll",
+      "displayName": "dsh-bili-scroll",
+      "summary": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
+      "repository": {
+        "url": "https://github.com/c1overzz/dsh-bili-scroll"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "bilibili",
+        "mcp",
+        "duty"
+      ],
+      "updatedAt": "2026-10-28T05:58:05.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -855,16 +855,6 @@
       "updatedAt": "2026-10-01T07:58:07.000Z"
     },
     {
-      "id": "Electricitysheep/dsh-handbook",
-      "name": "Electricitysheep/dsh-handbook",
-      "displayName": "dsh-handbook",
-      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "repository": {
-        "url": "https://github.com/Electricitysheep/dsh-handbook"
-      },
-      "updatedAt": "2026-10-04T01:28:20.000Z"
-    },
-    {
       "id": "dingminhua/dsh-connect-workbuddy",
       "name": "dsh-connect-workbuddy",
       "displayName": "dsh-connect-workbuddy",
@@ -884,14 +874,14 @@
       "updatedAt": "2026-10-30T11:39:27.000Z"
     },
     {
-      "id": "mindscale-noah/MindMemOS",
-      "name": "mindscale-noah/MindMemOS",
-      "displayName": "MindMemOS",
-      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
+      "id": "Electricitysheep/dsh-handbook",
+      "name": "Electricitysheep/dsh-handbook",
+      "displayName": "dsh-handbook",
+      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
       "repository": {
-        "url": "https://github.com/mindscale-noah/MindMemOS"
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
       },
-      "updatedAt": "2026-10-29T06:10:03.000Z"
+      "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -912,6 +902,16 @@
         "infinite-canvas"
       ],
       "updatedAt": "2026-08-21T05:23:23.000Z"
+    },
+    {
+      "id": "mindscale-noah/MindMemOS",
+      "name": "mindscale-noah/MindMemOS",
+      "displayName": "MindMemOS",
+      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
+      "repository": {
+        "url": "https://github.com/mindscale-noah/MindMemOS"
+      },
+      "updatedAt": "2026-10-31T07:28:33.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -940,17 +940,6 @@
       "updatedAt": "2026-10-27T17:05:24.000Z"
     },
     {
-      "id": "LiPu-jpg/Openwrite",
-      "name": "dsh-openwrite",
-      "displayName": "Openwrite",
-      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
-      "repository": {
-        "url": "https://github.com/LiPu-jpg/Openwrite"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-10-28T09:44:00.000Z"
-    },
-    {
       "id": "ADWMC/helm-d",
       "name": "helmd",
       "displayName": "helm-d",
@@ -960,6 +949,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-10-28T12:31:20.000Z"
+    },
+    {
+      "id": "LiPu-jpg/Openwrite",
+      "name": "dsh-openwrite",
+      "displayName": "Openwrite",
+      "summary": "dsh-Openwrite：OpenWrite 的 DeepSeek Harness 小说创作插件，含统一创作 Agent、90 个小说工具、原生工作台与标准审稿 DAG",
+      "repository": {
+        "url": "https://github.com/LiPu-jpg/Openwrite"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-10-28T09:44:00.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -1147,7 +1147,7 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-10-30T22:15:05.000Z"
+      "updatedAt": "2026-10-31T06:03:36.000Z"
     },
     {
       "id": "myYangyunfan/dsh_desktop",
@@ -1337,7 +1337,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-30T21:54:31.000Z"
+      "updatedAt": "2026-10-31T07:54:07.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1553,17 +1553,6 @@
       "updatedAt": "2026-10-30T09:47:39.000Z"
     },
     {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-28T09:09:07.000Z"
-    },
-    {
       "id": "FSMargoo/dsh-at-file",
       "name": "dsh-at-file",
       "displayName": "dsh-at-file",
@@ -1607,7 +1596,18 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-31T00:59:39.000Z"
+      "updatedAt": "2026-10-31T06:13:12.000Z"
+    },
+    {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-28T09:09:07.000Z"
     },
     {
       "id": "Ikalus1988/MisakaNet",
@@ -1631,7 +1631,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-31T01:26:22.000Z"
+      "updatedAt": "2026-10-31T07:33:13.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1709,7 +1709,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-30T19:43:32.000Z"
+      "updatedAt": "2026-10-31T02:06:05.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
