@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-10-31T20:26:05.000Z"
+      "updatedAt": "2026-10-31T23:24:53.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -103,7 +103,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-10-31T19:00:31.000Z"
+      "updatedAt": "2026-11-01T02:45:38.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -114,7 +114,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-31T11:27:32.000Z"
+      "updatedAt": "2026-11-01T03:18:41.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -190,7 +190,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-10-31T22:51:07.000Z"
+      "updatedAt": "2026-11-01T03:38:35.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -233,7 +233,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-10-31T21:47:00.000Z"
+      "updatedAt": "2026-11-01T04:10:15.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -258,7 +258,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-31T13:49:21.000Z"
+      "updatedAt": "2026-11-01T03:57:25.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -446,7 +446,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-10-31T22:26:05.000Z"
+      "updatedAt": "2026-11-01T04:15:46.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -673,7 +673,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-10-31T18:18:11.000Z"
+      "updatedAt": "2026-11-01T03:55:53.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -789,7 +789,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-10-31T17:57:08.000Z"
+      "updatedAt": "2026-11-01T03:17:54.000Z"
     },
     {
       "id": "c1overzz/dsh-bili-scroll",
@@ -844,17 +844,6 @@
       "updatedAt": "2026-10-28T10:39:06.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-browser",
-      "name": "dsh-browser",
-      "displayName": "dsh-browser",
-      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-browser"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-01T07:58:07.000Z"
-    },
-    {
       "id": "dingminhua/dsh-connect-workbuddy",
       "name": "dsh-connect-workbuddy",
       "displayName": "dsh-connect-workbuddy",
@@ -874,6 +863,17 @@
       "updatedAt": "2026-10-31T20:13:19.000Z"
     },
     {
+      "id": "omdsh-dev/dsh-browser",
+      "name": "dsh-browser",
+      "displayName": "dsh-browser",
+      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-browser"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-01T07:58:07.000Z"
+    },
+    {
       "id": "Electricitysheep/dsh-handbook",
       "name": "Electricitysheep/dsh-handbook",
       "displayName": "dsh-handbook",
@@ -882,6 +882,17 @@
         "url": "https://github.com/Electricitysheep/dsh-handbook"
       },
       "updatedAt": "2026-10-04T01:28:20.000Z"
+    },
+    {
+      "id": "ADWMC/helm-d",
+      "name": "helmd",
+      "displayName": "helm-d",
+      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
+      "repository": {
+        "url": "https://github.com/ADWMC/helm-d"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-28T12:31:20.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -912,17 +923,6 @@
         "url": "https://github.com/mindscale-noah/MindMemOS"
       },
       "updatedAt": "2026-10-31T10:07:10.000Z"
-    },
-    {
-      "id": "ADWMC/helm-d",
-      "name": "helmd",
-      "displayName": "helm-d",
-      "summary": "DeepSeek Harness 破甲一体化安全分析插件：Android · Web · Native · Protocol · Malware · AI-Security 全领域聚合（9 bundle + 1 preset）",
-      "repository": {
-        "url": "https://github.com/ADWMC/helm-d"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-28T12:31:20.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -1018,6 +1018,17 @@
       "updatedAt": "2026-10-24T19:59:36.000Z"
     },
     {
+      "id": "yexi-by/dsh-unrestricted",
+      "name": "dsh-unrestricted",
+      "displayName": "dsh-unrestricted",
+      "summary": "DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用",
+      "repository": {
+        "url": "https://github.com/yexi-by/dsh-unrestricted"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-31T14:38:31.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-genui",
       "name": "@changfenhuang/dsh-genui",
       "displayName": "dsh-genui",
@@ -1034,17 +1045,6 @@
         "ui"
       ],
       "updatedAt": "2026-10-30T15:43:14.000Z"
-    },
-    {
-      "id": "yexi-by/dsh-unrestricted",
-      "name": "dsh-unrestricted",
-      "displayName": "dsh-unrestricted",
-      "summary": "DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用",
-      "repository": {
-        "url": "https://github.com/yexi-by/dsh-unrestricted"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-31T14:38:31.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -1238,7 +1238,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-10-31T14:26:47.000Z"
+      "updatedAt": "2026-11-01T00:12:54.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1368,7 +1368,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-10-31T17:35:59.000Z"
+      "updatedAt": "2026-11-01T03:58:55.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1469,7 +1469,7 @@
         "typescript",
         "sqlite"
       ],
-      "updatedAt": "2026-10-31T16:37:50.000Z"
+      "updatedAt": "2026-11-01T03:20:50.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1517,7 +1517,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-10-31T19:12:59.000Z"
+      "updatedAt": "2026-11-01T03:01:57.000Z"
     },
     {
       "id": "Alice-Marx/dsh-model-router",
@@ -1596,7 +1596,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-10-31T13:08:30.000Z"
+      "updatedAt": "2026-11-01T03:05:00.000Z"
     },
     {
       "id": "FSMargoo/dsh-at-file",
@@ -1642,7 +1642,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-10-31T20:10:10.000Z"
+      "updatedAt": "2026-11-01T02:46:19.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1720,7 +1720,7 @@
         "url": "https://github.com/bruc3van/awesome-dsh-plugin"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-31T19:59:15.000Z"
+      "updatedAt": "2026-11-01T01:52:51.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1772,7 +1772,7 @@
         "emoticon",
         "sticker"
       ],
-      "updatedAt": "2026-10-30T09:02:59.000Z"
+      "updatedAt": "2026-11-01T03:09:02.000Z"
     }
   ],
   "page": {
