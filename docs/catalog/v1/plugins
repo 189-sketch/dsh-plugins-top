@@ -46,7 +46,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-02T23:30:09.000Z"
+      "updatedAt": "2026-11-02T23:45:09.000Z"
     },
     {
       "id": "YuJunZhiXue/dsh-purge",
@@ -114,7 +114,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-02T16:02:35.000Z"
+      "updatedAt": "2026-11-03T01:51:30.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -136,7 +136,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-02T23:17:35.000Z"
+      "updatedAt": "2026-11-03T01:41:05.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -168,7 +168,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-02T21:48:18.000Z"
+      "updatedAt": "2026-11-03T05:14:29.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -233,7 +233,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-02T23:18:33.000Z"
+      "updatedAt": "2026-11-03T05:17:23.000Z"
     },
     {
       "id": "Q00/ouroboros",
@@ -258,7 +258,7 @@
         "url": "https://github.com/JimLiu/baoyu-design"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-02T16:54:56.000Z"
+      "updatedAt": "2026-11-03T05:04:31.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -269,7 +269,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-02T15:03:19.000Z"
+      "updatedAt": "2026-11-03T05:17:47.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -289,7 +289,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-11-02T11:34:48.000Z"
+      "updatedAt": "2026-11-03T03:09:00.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -412,28 +412,6 @@
       "updatedAt": "2026-11-02T18:44:47.000Z"
     },
     {
-      "id": "agentscope-ai/ReMe",
-      "name": "agentscope-ai/ReMe",
-      "displayName": "ReMe",
-      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "repository": {
-        "url": "https://github.com/agentscope-ai/ReMe"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-11-02T09:41:00.000Z"
-    },
-    {
-      "id": "xiaobright/dsh-anchored-standard",
-      "name": "dsh-anchored-standard",
-      "displayName": "dsh-anchored-standard",
-      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "repository": {
-        "url": "https://github.com/xiaobright/dsh-anchored-standard"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-21T16:32:08.000Z"
-    },
-    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -457,7 +435,29 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-11-02T19:39:20.000Z"
+      "updatedAt": "2026-11-03T05:14:17.000Z"
+    },
+    {
+      "id": "agentscope-ai/ReMe",
+      "name": "agentscope-ai/ReMe",
+      "displayName": "ReMe",
+      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "repository": {
+        "url": "https://github.com/agentscope-ai/ReMe"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-11-02T09:41:00.000Z"
+    },
+    {
+      "id": "xiaobright/dsh-anchored-standard",
+      "name": "dsh-anchored-standard",
+      "displayName": "dsh-anchored-standard",
+      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "repository": {
+        "url": "https://github.com/xiaobright/dsh-anchored-standard"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-21T16:32:08.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -501,7 +501,7 @@
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-01T13:35:54.000Z"
+      "updatedAt": "2026-11-03T02:52:02.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -590,7 +590,7 @@
         "url": "https://github.com/zhuyansen/new-term-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-10-28T11:48:20.000Z"
+      "updatedAt": "2026-11-02T23:42:54.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -684,7 +684,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-02T21:56:17.000Z"
+      "updatedAt": "2026-11-03T05:21:27.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -735,7 +735,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-02T23:07:10.000Z"
+      "updatedAt": "2026-11-03T01:02:44.000Z"
     },
     {
       "id": "liguobao/ds-harness-remote",
@@ -755,7 +755,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-02T17:20:31.000Z"
+      "updatedAt": "2026-11-03T04:26:33.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -824,17 +824,6 @@
       "updatedAt": "2026-11-02T04:37:43.000Z"
     },
     {
-      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
-      "name": "cloudbase-ai-toolkit",
-      "displayName": "CloudBase-AI-Toolkit",
-      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
-      "repository": {
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-02T12:02:17.000Z"
-    },
-    {
       "id": "c1overzz/dsh-bili-scroll",
       "name": "dsh-bili-scroll",
       "displayName": "dsh-bili-scroll",
@@ -852,6 +841,17 @@
         "duty"
       ],
       "updatedAt": "2026-10-31T11:14:11.000Z"
+    },
+    {
+      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+      "name": "cloudbase-ai-toolkit",
+      "displayName": "CloudBase-AI-Toolkit",
+      "summary": "Backend for AI coding agents on CloudBase — database, auth, functions via Plugin, Skills & MCP.",
+      "repository": {
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-03T04:11:16.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -885,6 +885,17 @@
         "cordis"
       ],
       "updatedAt": "2026-11-02T02:50:38.000Z"
+    },
+    {
+      "id": "poco-ai/Agentero",
+      "name": "agentero",
+      "displayName": "Agentero",
+      "summary": "Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。",
+      "repository": {
+        "url": "https://github.com/poco-ai/Agentero"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-03T05:16:25.000Z"
     },
     {
       "id": "dingminhua/dsh-connect-workbuddy",
@@ -928,16 +939,6 @@
       "updatedAt": "2026-10-01T07:58:07.000Z"
     },
     {
-      "id": "Electricitysheep/dsh-handbook",
-      "name": "Electricitysheep/dsh-handbook",
-      "displayName": "dsh-handbook",
-      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
-      "repository": {
-        "url": "https://github.com/Electricitysheep/dsh-handbook"
-      },
-      "updatedAt": "2026-10-04T01:28:20.000Z"
-    },
-    {
       "id": "superdesigndev/superdesign-skill",
       "name": "superdesign-dsh",
       "displayName": "superdesign-skill",
@@ -956,6 +957,16 @@
         "infinite-canvas"
       ],
       "updatedAt": "2026-08-21T05:23:23.000Z"
+    },
+    {
+      "id": "Electricitysheep/dsh-handbook",
+      "name": "Electricitysheep/dsh-handbook",
+      "displayName": "dsh-handbook",
+      "summary": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "repository": {
+        "url": "https://github.com/Electricitysheep/dsh-handbook"
+      },
+      "updatedAt": "2026-10-04T01:28:20.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -1130,7 +1141,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-11-01T07:47:50.000Z"
+      "updatedAt": "2026-11-03T02:20:39.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -1215,26 +1226,6 @@
       "updatedAt": "2026-10-27T06:08:03.000Z"
     },
     {
-      "id": "chenxiachan/thoughtdag",
-      "name": "thoughtdag",
-      "displayName": "thoughtdag",
-      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
-      "repository": {
-        "url": "https://github.com/chenxiachan/thoughtdag"
-      },
-      "license": "MIT",
-      "keywords": [
-        "llm",
-        "dag",
-        "canvas",
-        "react-flow",
-        "ai",
-        "knowledge-graph",
-        "research-tool"
-      ],
-      "updatedAt": "2026-11-01T20:56:08.000Z"
-    },
-    {
       "id": "saya-ch/dsh-mobile",
       "name": "dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1259,7 +1250,27 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-11-02T16:21:41.000Z"
+      "updatedAt": "2026-11-03T04:39:41.000Z"
+    },
+    {
+      "id": "chenxiachan/thoughtdag",
+      "name": "thoughtdag",
+      "displayName": "thoughtdag",
+      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "repository": {
+        "url": "https://github.com/chenxiachan/thoughtdag"
+      },
+      "license": "MIT",
+      "keywords": [
+        "llm",
+        "dag",
+        "canvas",
+        "react-flow",
+        "ai",
+        "knowledge-graph",
+        "research-tool"
+      ],
+      "updatedAt": "2026-11-01T20:56:08.000Z"
     },
     {
       "id": "Clarklevis1995/dsh-mobile",
@@ -1270,7 +1281,7 @@
         "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-01T12:10:11.000Z"
+      "updatedAt": "2026-11-03T00:15:27.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1422,7 +1433,7 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-02T11:56:42.000Z"
+      "updatedAt": "2026-11-03T03:05:46.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1476,7 +1487,7 @@
         "url": "https://github.com/Alice-Marx/dsh-model-router"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-01T14:22:55.000Z"
+      "updatedAt": "2026-11-03T03:34:30.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1612,7 +1623,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-11-02T15:16:54.000Z"
+      "updatedAt": "2026-11-03T00:09:31.000Z"
     },
     {
       "id": "gitroomhq/postiz-agent",
@@ -1653,17 +1664,6 @@
       "updatedAt": "2026-09-01T01:00:35.000Z"
     },
     {
-      "id": "1692775560/dsh-Mimir-Academic-research",
-      "name": "mimir-monorepo",
-      "displayName": "dsh-Mimir-Academic-research",
-      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
-      "repository": {
-        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-10-28T09:09:07.000Z"
-    },
-    {
       "id": "Ikalus1988/MisakaNet",
       "name": "misakanet",
       "displayName": "MisakaNet",
@@ -1685,7 +1685,18 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-11-02T19:54:06.000Z"
+      "updatedAt": "2026-11-03T05:21:25.000Z"
+    },
+    {
+      "id": "1692775560/dsh-Mimir-Academic-research",
+      "name": "mimir-monorepo",
+      "displayName": "dsh-Mimir-Academic-research",
+      "summary": "Mimir — 一站式科研工作台插件：LaTeX 论文边写边编译、arXiv 文献管理、实验追踪、指标图表、GPU 服务器 SSH 任务编排，管理科研全周期。An open-source research workbench plugin for the whole research cycle.",
+      "repository": {
+        "url": "https://github.com/1692775560/dsh-Mimir-Academic-research"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-10-28T09:09:07.000Z"
     },
     {
       "id": "V1ki/dsh-plugin-subscriptions",
@@ -1775,17 +1786,6 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-11-02T17:45:47.000Z"
-    },
-    {
-      "id": "vibeinging/dsh-desktop",
-      "name": "dsh-desktop",
-      "displayName": "dsh-desktop",
-      "summary": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
-      "repository": {
-        "url": "https://github.com/vibeinging/dsh-desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-02T22:24:37.000Z"
     }
   ],
   "page": {
