@@ -78,7 +78,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-04T17:49:20.000Z"
+      "updatedAt": "2026-11-04T23:23:36.000Z"
     },
     {
       "id": "HunYiSage/dsh-purge",
@@ -135,7 +135,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-04T16:45:03.000Z"
+      "updatedAt": "2026-11-04T19:20:45.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -168,7 +168,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-04T17:35:44.000Z"
+      "updatedAt": "2026-11-04T23:14:36.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -200,7 +200,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-04T17:51:31.000Z"
+      "updatedAt": "2026-11-04T22:37:29.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -247,7 +247,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-04T18:00:35.000Z"
+      "updatedAt": "2026-11-04T22:29:55.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -279,7 +279,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-11-04T17:53:51.000Z"
+      "updatedAt": "2026-11-04T23:11:53.000Z"
     },
     {
       "id": "JimLiu/baoyu-design",
@@ -358,7 +358,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-11-04T10:31:22.000Z"
+      "updatedAt": "2026-11-04T22:59:58.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -421,7 +421,7 @@
         "无限制模式",
         "unrestricted"
       ],
-      "updatedAt": "2026-11-04T17:59:40.000Z"
+      "updatedAt": "2026-11-04T18:22:12.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -441,7 +441,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-04T17:25:25.000Z"
+      "updatedAt": "2026-11-04T19:28:37.000Z"
     },
     {
       "id": "ranxianglei/billion-context",
@@ -467,7 +467,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-11-04T17:53:41.000Z"
+      "updatedAt": "2026-11-04T19:24:20.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -727,7 +727,7 @@
         "skill",
         "modeling"
       ],
-      "updatedAt": "2026-11-04T17:54:49.000Z"
+      "updatedAt": "2026-11-04T23:19:17.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -812,7 +812,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-04T17:45:52.000Z"
+      "updatedAt": "2026-11-04T21:53:54.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -867,7 +867,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-04T17:56:48.000Z"
+      "updatedAt": "2026-11-04T18:31:28.000Z"
     },
     {
       "id": "c1overzz/dsh-bili-scroll",
@@ -897,7 +897,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-04T17:17:09.000Z"
+      "updatedAt": "2026-11-04T18:44:15.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -927,7 +927,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-11-04T17:38:45.000Z"
+      "updatedAt": "2026-11-04T18:58:35.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1351,17 +1351,6 @@
       "updatedAt": "2026-10-31T18:09:53.000Z"
     },
     {
-      "id": "Clarklevis1995/dsh-mobile",
-      "name": "Clarklevis1995/dsh-mobile",
-      "displayName": "dsh-mobile",
-      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生移动端客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
-      "repository": {
-        "url": "https://github.com/Clarklevis1995/dsh-mobile"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-04T15:41:44.000Z"
-    },
-    {
       "id": "Alice-Marx/dsh-model-router",
       "name": "@ljwei-stak/dsh-model-router",
       "displayName": "dsh-model-router",
@@ -1371,6 +1360,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-11-04T16:54:13.000Z"
+    },
+    {
+      "id": "Clarklevis1995/dsh-mobile",
+      "name": "Clarklevis1995/dsh-mobile",
+      "displayName": "dsh-mobile",
+      "summary": "DeepSeek Harness Mobile 是一个面向 DeepSeek Harness 的原生移动端客户端。它通过 dsh-plugin-mobile-gateway 与 Harness 建立 WebSocket 连接，将工作区、会话、实时回复和 Agent 执行轨迹带到 iPhone，同时延续 DeepSeek WebUI 克制、清晰的视觉语言",
+      "repository": {
+        "url": "https://github.com/Clarklevis1995/dsh-mobile"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-04T15:41:44.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1788,7 +1788,7 @@
         "skill",
         "lessons"
       ],
-      "updatedAt": "2026-11-04T17:59:49.000Z"
+      "updatedAt": "2026-11-04T20:15:32.000Z"
     },
     {
       "id": "EthanYoQ/Invoice-Downloader",
