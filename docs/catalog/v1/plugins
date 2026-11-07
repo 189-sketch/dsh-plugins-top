@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-07T18:23:47.000Z"
+      "updatedAt": "2026-11-07T23:11:43.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -78,7 +78,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-07T18:11:21.000Z"
+      "updatedAt": "2026-11-07T23:04:57.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-07T17:14:30.000Z"
+      "updatedAt": "2026-11-07T20:40:17.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -163,7 +163,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-07T18:36:59.000Z"
+      "updatedAt": "2026-11-07T20:39:17.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -199,7 +199,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-07T17:29:09.000Z"
+      "updatedAt": "2026-11-07T22:48:29.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -315,7 +315,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-11-06T12:41:44.000Z"
+      "updatedAt": "2026-11-07T23:28:49.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -332,7 +332,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-11-07T18:36:30.000Z"
+      "updatedAt": "2026-11-07T21:44:03.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -409,26 +409,6 @@
       "updatedAt": "2026-11-07T17:40:48.000Z"
     },
     {
-      "id": "bowenliang123/dsh-context",
-      "name": "dsh-context",
-      "displayName": "dsh-context",
-      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。",
-      "repository": {
-        "url": "https://github.com/bowenliang123/dsh-context"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "cordis",
-        "plugin",
-        "context",
-        "token",
-        "ui"
-      ],
-      "updatedAt": "2026-11-07T18:09:44.000Z"
-    },
-    {
       "id": "ranxianglei/billion-context",
       "name": "billion-context",
       "displayName": "billion-context",
@@ -452,7 +432,27 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-11-07T18:25:11.000Z"
+      "updatedAt": "2026-11-07T23:25:02.000Z"
+    },
+    {
+      "id": "bowenliang123/dsh-context",
+      "name": "dsh-context",
+      "displayName": "dsh-context",
+      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。",
+      "repository": {
+        "url": "https://github.com/bowenliang123/dsh-context"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "cordis",
+        "plugin",
+        "context",
+        "token",
+        "ui"
+      ],
+      "updatedAt": "2026-11-07T18:09:44.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -680,7 +680,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-11-07T18:29:52.000Z"
+      "updatedAt": "2026-11-07T18:48:36.000Z"
     },
     {
       "id": "poco-ai/Agentero",
@@ -789,7 +789,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-07T12:01:13.000Z"
+      "updatedAt": "2026-11-07T19:48:23.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -878,7 +878,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-11-07T00:42:46.000Z"
+      "updatedAt": "2026-11-07T22:17:53.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -901,7 +901,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-07T18:36:18.000Z"
+      "updatedAt": "2026-11-07T20:21:34.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -970,17 +970,6 @@
       "updatedAt": "2026-11-04T10:31:34.000Z"
     },
     {
-      "id": "omdsh-dev/dsh-browser",
-      "name": "dsh-browser",
-      "displayName": "dsh-browser",
-      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-browser"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-06T02:58:20.000Z"
-    },
-    {
       "id": "yexi-by/dsh-unrestricted",
       "name": "dsh-unrestricted",
       "displayName": "dsh-unrestricted",
@@ -990,6 +979,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-11-05T09:51:34.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-browser",
+      "name": "dsh-browser",
+      "displayName": "dsh-browser",
+      "summary": "Chrome sidebar extension that lets DeepSeek Harness operate your browser directly, no vision capabilities required. 一款 Chrome 侧边栏扩展程序，可让 DeepSeek Harness 直接操控您的浏览器，无需视觉能力。",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-browser"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-06T02:58:20.000Z"
     },
     {
       "id": "beiyege-01/dsh-voice-ai-girlfriend",
@@ -1041,7 +1041,7 @@
         "volcano",
         "zhihu"
       ],
-      "updatedAt": "2026-11-07T14:22:50.000Z"
+      "updatedAt": "2026-11-07T21:02:15.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -1195,7 +1195,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-07T11:15:30.000Z"
+      "updatedAt": "2026-11-07T21:22:31.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -1353,17 +1353,6 @@
       "updatedAt": "2026-11-06T23:06:33.000Z"
     },
     {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-07T11:17:30.000Z"
-    },
-    {
       "id": "Clarklevis1995/dsh-mobile",
       "name": "Clarklevis1995/dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1373,6 +1362,17 @@
       },
       "license": "MIT",
       "updatedAt": "2026-11-07T03:31:42.000Z"
+    },
+    {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-07T11:17:30.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1646,6 +1646,17 @@
       "updatedAt": "2026-11-04T16:38:24.000Z"
     },
     {
+      "id": "Ebony-Vinyl/EAC-design-world",
+      "name": "eac-design-world",
+      "displayName": "EAC-design-world",
+      "summary": "DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出",
+      "repository": {
+        "url": "https://github.com/Ebony-Vinyl/EAC-design-world"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-10-25T15:32:00.000Z"
+    },
+    {
       "id": "FuRongJun-1999/dsh-memory",
       "name": "@furongjun1999/dsh-memory",
       "displayName": "dsh-memory",
@@ -1695,17 +1706,6 @@
         "agent-companion"
       ],
       "updatedAt": "2026-10-29T07:19:09.000Z"
-    },
-    {
-      "id": "Ebony-Vinyl/EAC-design-world",
-      "name": "eac-design-world",
-      "displayName": "EAC-design-world",
-      "summary": "DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出",
-      "repository": {
-        "url": "https://github.com/Ebony-Vinyl/EAC-design-world"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-10-25T15:32:00.000Z"
     },
     {
       "id": "op7418/dsh-guizang-design",
