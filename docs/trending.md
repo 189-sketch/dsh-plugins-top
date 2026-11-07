@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [chunbo824-tech/dsh-rp-card](https://github.com/chunbo824-tech/dsh-rp-card) | ⭐ 0 | ✅ | 基于dsh的rp卡自动编写插件，当前支持风月（fengyue.ai）平台 | `ui-panel` |
-| #2 | [drm-nz/dsh-customisations](https://github.com/drm-nz/dsh-customisations) | ⭐ 0 | ✅ | One DeepSeek Harness plugin for small, independent fixes, starting with a guard against currency dollars parsed as inline math. | `other` |
-| #3 | [yhPrime/dsh-sidebar-guide-scroll](https://github.com/yhPrime/dsh-sidebar-guide-scroll) | ⭐ 0 | ✅ | DSH 插件：右侧栏「开始」页卡片溢出时可滚动，滚动条只在需要时出现 / Make the right sidebar Start page scroll when its tool cards overflow | `ui-panel` |
-| #4 | [pinion05/dsh-local-wispr](https://github.com/pinion05/dsh-local-wispr) | ⭐ 0 | ✅ | Standalone local voice input for the DeepSeek Harness composer — record in the browser, transcribe with your own Whisper, insert into the draft. 마이크 버튼 → 로컬 Whisper 전사 → 작성란 삽입. | `ui-panel` |
-| #5 | [1020252969/dsh-dev-runner](https://github.com/1020252969/dsh-dev-runner) | ⭐ 0 | ✅ | One-click start for a whole dev stack: discover projects and their run commands, orchestrate a backend plus any frontends, follow every log from the right sidebar. | `ui-panel` |
-| #6 | [caipanjin/dsh-image-bridge](https://github.com/caipanjin/dsh-image-bridge) | ⭐ 0 | ✅ | Recognize images via a dedicated vision subagent with independently configurable model | `ui-panel` |
-| #7 | [ASALULU/dsh-conversation-trash](https://github.com/ASALULU/dsh-conversation-trash) | ⭐ 0 | ✅ | Reversible conversation deletion for DeepSeek Harness: 30-day trash, undo, restore. | `ui-panel` |
-| #8 | [simin-xxm/dsh-plugin-git-commits](https://github.com/simin-xxm/dsh-plugin-git-commits) | ⭐ 0 | ✅ | DeepSeek Harness 插件：在 Web UI 侧边栏可视化操作 Git（暂存、提交、推送、提交历史与 diff 对比） | `ui-panel` |
-| #9 | [naije-c/dsh-browser-agent](https://github.com/naije-c/dsh-browser-agent) | ⭐ 0 | ✅ | Codex-style Chrome control for DeepSeek Harness: drive the Chrome or Edge already installed on this machine over the DevTools Protocol. | `tool` |
-| #10 | [XRC111/dsh-apikeys](https://github.com/XRC111/dsh-apikeys) | ⭐ 0 | ✅ | Multi-platform API keys for DeepSeek Harness: store keys for GitHub, Cloudflare, Vercel, npm, Docker Hub, Hugging Face and your own platforms, and let the model call their APIs as you via apikey_call / apikey_platforms / apikey_key. | `ui-panel` |
-| #11 | [crawfordxx/dsh-wecom-lead](https://github.com/crawfordxx/dsh-wecom-lead) | ⭐ 0 | ✅ | DSH (DeepSeek Harness) 插件:腾讯广告落地页 → 企业微信进粉归因监测与转化回传的管理工具集 | `tool` |
-| #12 | [yamahei21python/dsh-peak-guard](https://github.com/yamahei21python/dsh-peak-guard) | ⭐ 0 | ✅ | DeepSeek Harness bundle: block peak-priced DeepSeek calls (auto-detected from the provider catalog) until manually bypassed. | `other` |
-| #13 | [Elycheng/dsh-article-annotator](https://github.com/Elycheng/dsh-article-annotator) | ⭐ 0 | ✅ | DSH plugin: sentence-level article annotations for Markdown / DOCX / PPTX / PDF, an agent review loop, and a long-term writing-style memory. | `ui-panel` |
-| #14 | [JHf0912/dsh-workspace-groups-anim](https://github.com/JHf0912/dsh-workspace-groups-anim) | ⭐ 0 | ✅ | DeepSeek Harness 网页端侧边栏插件：可拖拽的会话标签栏，内置 4 种拖拽动效与插件页 1:1 实时预览设置。基于 z-col/dsh-workspace-groups（MIT）。 | `ui-panel` |
-| #15 | [Dippppper/dsh-hero-motto](https://github.com/Dippppper/dsh-hero-motto) | ⭐ 0 | ✅ |  | `ui-panel` |
-| #16 | [AChengLinus/dsh-linus-brand](https://github.com/AChengLinus/dsh-linus-brand) | ⭐ 0 | ✅ | Linus 插画品牌标记 + 18 状态手绘宠物动画（24–72 帧 / 19 fps / 像素粒子）for DeepSeek Harness Web UI | `skin` |
-| #17 | [anticbv/dsh-preset-deep](https://github.com/anticbv/dsh-preset-deep) | ⭐ 1 | ✅ | 梁圣模式：DeepSeek Harness 的第五个工作模式——先证伪，再交付 / A falsification-first work mode for DeepSeek Harness | `ui-panel` |
-| #18 | [Takeoff0518/dsh-katex-inline-copy](https://github.com/Takeoff0518/dsh-katex-inline-copy) | ⭐ 0 | ✅ | Copy formulas from DeepSeek Harness chat as LaTeX source ($...$ / $$...$$) instead of rendered KaTeX markup. | `ui-panel` |
-| #19 | [hejiwan77-byte/dsh-bili-review](https://github.com/hejiwan77-byte/dsh-bili-review) | ⭐ 0 | ✅ | Bilibili reviews and knowledge base for DeepSeek Harness: browse by category, read each video, and write grounded reviews. | `ui-panel` |
-| #20 | [Anilams/dsh-session-observer](https://github.com/Anilams/dsh-session-observer) | ⭐ 0 | ✅ | A conversation view for DeepSeek Harness that answers one question: do I need to step in? Rule-based by default, zero model calls. | `ui-panel` |
-| #21 | [zmd12345/dsh-plugin-thinking-level](https://github.com/zmd12345/dsh-plugin-thinking-level) | ⭐ 0 | ✅ | Suggests the right thinking level for the current DSH draft and switches it in one click — less overthinking on simple tasks, enough reasoning on hard ones. | `ui-panel` |
-| #22 | [catilgrass/ype-writer](https://github.com/catilgrass/ype-writer) | ⭐ 1 | ✅ | A DSH article auditor that scores an article paragraph by paragraph against a `rule.toml`. Every rule opens its own LLM session, so the scoring standard is reproducible, reviewable, and committable. | `ui-panel` |
-| #23 | [savasana168/dsh-token-usage-heatmap](https://github.com/savasana168/dsh-token-usage-heatmap) | ⭐ 0 | ✅ | Token usage panel for the DSH web UI: 26-week heatmap, per-model bars, and a header chip. DSH 网页界面里的 Token 总用量面板。 | `ui-panel` |
-| #24 | [zhangcaiqian/zsxq-skill](https://github.com/zhangcaiqian/zsxq-skill) | ⭐ 0 | ✅ | 让 Agent 将订阅的知识星球内容整理为个人知识库 | `skill` |
-| #25 | [Lli-WenZe/dsh-model-console](https://github.com/Lli-WenZe/dsh-model-console) | ⭐ 0 | ✅ | DSH 全局模型控制台：一个面板统管所有对话的模型选择，支持批量切换、按闲置时间筛选、子代理树形折叠、批量归档/释放。 | `ui-panel` |
-| #26 | [This-is-XiaoDeng/dsh-todo-queue](https://github.com/This-is-XiaoDeng/dsh-todo-queue) | ⭐ 0 | ✅ | DeepSeek Harness 的串行 TODO 队列板：全局/工作区队列各自最多一个会话，空闲自动派发，独立响应式面板 + 待验收浮窗 | `ui-panel` |
-| #27 | [Leonlee114514/dsh-better-debug](https://github.com/Leonlee114514/dsh-better-debug) | ⭐ 0 | ✅ | 把「卡住闸门」从提示词条款变成代码闸门：同一文件反复改 / 同一报错反复吃 / 改完不验证 → 下一步注入一次提醒 \| Turn a stuck-gate from prompt text into a code gate for DeepSeek Harness | `other` |
-| #28 | [UncertaintyDeterminesYou4ndMe/dsh-immersive-reader](https://github.com/UncertaintyDeterminesYou4ndMe/dsh-immersive-reader) | ⭐ 0 | ✅ | 译读：在 DeepSeek Harness (dsh) 里用母语读原版书。导入 EPUB/TXT/Markdown/网页，按章节由模型精译，点一下看原文；选中即可追问。 | `ui-panel` |
-| #29 | [mdalboni/dsh-static-token](https://github.com/mdalboni/dsh-static-token) | ⭐ 0 | ✅ | Configurable static launch token for DeepSeek Harness Web GUI | `other` |
-| #30 | [Chengeat/dsh-session-management](https://github.com/Chengeat/dsh-session-management) | ⭐ 1 | ✅ | Managing chat conversations in DeepSeek Harness | `ui-panel` |
+| #1 | [EviMing/dsh-balance](https://github.com/EviMing/dsh-balance) | ⭐ 0 | ✅ |  | `other` |
+| #2 | [ThereWasAYang/dsh-project-automemory](https://github.com/ThereWasAYang/dsh-project-automemory) | ⭐ 0 | ✅ | Per-project automatic memory for DeepSeek Harness: private memory directories under the DSH home, auto-loaded every conversation, maintained through a memory tool. MIT. | `tool` |
+| #3 | [yubdey/daimeow-dsh](https://github.com/yubdey/daimeow-dsh) | ⭐ 1 | ✅ | DaiMeow Monster Hunter Palico desktop pet plugin for DeepSeek Harness | `ui-panel` |
+| #4 | [zhangcaiqian/wenfang-themes](https://github.com/zhangcaiqian/wenfang-themes) | ⭐ 0 | ✅ | Wenfang · 文房六色 — Chinese-aesthetic theme series: Codex import strings + DeepSeek Harness theme plugin | `skin` |
+| #5 | [zhkkjF/dsh-cookie-sentinel](https://github.com/zhkkjF/dsh-cookie-sentinel) | ⭐ 0 | ✅ | Raises the DSH Desktop Host header budget to 128 KiB and prunes stale dsh-auth cookies only on the launch-token response that mints the replacement, so random-port launches cannot lock the desktop out with HTTP 431. | `other` |
+| #6 | [zhkkjF/dsh-auto-update](https://github.com/zhkkjF/dsh-auto-update) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #7 | [Sara-Chen111/dsh-md-review](https://github.com/Sara-Chen111/dsh-md-review) | ⭐ 1 | ✅ | DeepSeek Harness Web 插件：在右侧栏 Markdown 预览里直接批注、留修改意见，最后合并成一条消息发给 Agent。 · Comment on Markdown previews and send review comments to the agent in one message. | `ui-panel` |
+| #8 | [fcz20060311/dsh-life-planner](https://github.com/fcz20060311/dsh-life-planner) | ⭐ 0 | ✅ | 拾光笺 · DSH 生活时间管理插件：待办提醒 / 倒计时 / 日历 / 专注计时 / 热力图 | `ui-panel` |
+| #9 | [chinokoyuki/dsh-anime-model-avatars](https://github.com/chinokoyuki/dsh-anime-model-avatars) | ⭐ 0 | ✅ | Anime character avatars and per-provider thinking styles for the DSH model picker. | `provider` |
+| #10 | [222406569/dsh-uitest](https://github.com/222406569/dsh-uitest) | ⭐ 0 | ✅ | DSH 插件：WinForms/Win32 应用的 UI 自动化测试桥（UIA 结构化优先，OCR 兜底），含用例编排、批量回归与 CI 命令行 | `other` |
+| #11 | [xuehun2/dsh-files-plus](https://github.com/xuehun2/dsh-files-plus) | ⭐ 0 | ✅ | Workspace files context menu for DeepSeek Harness with copy, cut, paste and keyboard shortcuts. | `ui-panel` |
+| #12 | [CPHWQ/dsh-balance-strip](https://github.com/CPHWQ/dsh-balance-strip) | ⭐ 0 | ✅ | 在 DSH 会话页标签行右侧常驻一枚胶囊：余额 · 今日已用（估算）· 峰/谷与对应时段。 | `ui-panel` |
+| #13 | [rh666666/dsh-plugin-cfr](https://github.com/rh666666/dsh-plugin-cfr) | ⭐ 0 | ✅ |  | `other` |
+| #14 | [ayf-master/dsh-worklog](https://github.com/ayf-master/dsh-worklog) | ⭐ 0 | ✅ | Turn DSH session logs into daily, weekly and monthly Markdown work reports, grouped by working directory. | `ui-panel` |
+| #15 | [YYJ-python/dsh-focus-board](https://github.com/YYJ-python/dsh-focus-board) | ⭐ 0 | ✅ | Cross-session task ledger for DeepSeek Harness: one item per request, step chain, injected into every step, staleness review, choices, grant ledger, scheduler. | `ui-panel` |
+| #16 | [MikuDayo-IoI/dsh-pdf-book-translate](https://github.com/MikuDayo-IoI/dsh-pdf-book-translate) | ⭐ 0 | ✅ | DSH plugin: AI chapter/section outlining, glossary-aware, layout-preserving PDF book translation with resumable cache and bilingual comparison PDF | `ui-panel` |
+| #17 | [huangxn29/dsh-shooter](https://github.com/huangxn29/dsh-shooter) | ⭐ 0 | ✅ | A top-down arena shooter that opens as a full panel from a left sidebar entry in DeepSeek Harness. | `ui-panel` |
+| #18 | [hhzx/dsh-BigCat](https://github.com/hhzx/dsh-BigCat) | ⭐ 0 | ✅ | ?????????????????;??????? DSH Desktop ????? | `ui-panel` |
+| #19 | [MsCutey/dsh-tsinghua-paratera](https://github.com/MsCutey/dsh-tsinghua-paratera) | ⭐ 0 | ✅ | Unofficial DeepSeek Harness plugin linking Tsinghua SSO with Paratera: balance, console API keys, model import and settings. macOS and Windows. | `ui-panel` |
+| #20 | [Zhengruize/dsh-browser-control](https://github.com/Zhengruize/dsh-browser-control) | ⭐ 1 | ✅ | DeepSeek Harness plugin + Chrome/Edge extension: let the model control your real browser (tabs, snapshot, click, type, drag, screenshot, eval) with iframe/Shadow DOM support and optional CDP trusted input. | `tool` |
+| #21 | [Felix-fyz/dsh-session-import-native](https://github.com/Felix-fyz/dsh-session-import-native) | ⭐ 0 | ✅ | Import DeepSeek Harness's own session logs (session.v4.jsonl.zstd) into the current profile. | `ui-panel` |
+| #22 | [liangdabiao/dsh-sorftime-research](https://github.com/liangdabiao/dsh-sorftime-research) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #23 | [liangdabiao/dsh-data-analysis](https://github.com/liangdabiao/dsh-data-analysis) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #24 | [liangdabiao/dsh-bookwriter](https://github.com/liangdabiao/dsh-bookwriter) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #25 | [callmenightmare/dsh-work-log](https://github.com/callmenightmare/dsh-work-log) | ⭐ 0 | ✅ | Daily work log for DeepSeek Harness — per-project time, model-written summaries, wallet balance/spend, plus an always-on floating pill. 按项目统计时长、自动生成「今天解决了什么」、显示余额与花费，附常驻浮窗。 | `ui-panel` |
+| #26 | [tangyixiao/dsh-pr-release-workspace](https://github.com/tangyixiao/dsh-pr-release-workspace) | ⭐ 1 | ✅ | DSH plugin: a read-only PR and release workspace inside the sidebar — grouped PR lists, diffs, comments, local review notes, and six independent release facts. | `ui-panel` |
+| #27 | [yeweiliang7063/dsh-tcm](https://github.com/yeweiliang7063/dsh-tcm) | ⭐ 0 | ✅ | DSH 中医预设「岐黄经方」插件：systemPrompt 变量 + 中医资料库设置 + 经方预设 | `ui-panel` |
+| #28 | [suittokillcha/dsh-diary](https://github.com/suittokillcha/dsh-diary) | ⭐ 0 | ✅ |  | `other` |
+| #29 | [szluyu99/dsh-oneapi](https://github.com/szluyu99/dsh-oneapi) | ⭐ 0 | ✅ |  | `provider` |
+| #30 | [1Jaron/dsh-tongji-agi](https://github.com/1Jaron/dsh-tongji-agi) | ⭐ 0 | ✅ | 把同济大学人工智能服务平台（agi.tongji.edu.cn）接进 DeepSeek Harness | `ui-panel` |
