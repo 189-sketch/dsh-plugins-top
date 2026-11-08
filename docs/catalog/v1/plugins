@@ -78,7 +78,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-08T18:11:42.000Z"
+      "updatedAt": "2026-11-08T23:38:51.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -163,7 +163,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-08T16:39:34.000Z"
+      "updatedAt": "2026-11-08T21:45:24.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -199,7 +199,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-08T18:03:51.000Z"
+      "updatedAt": "2026-11-08T23:25:20.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -253,7 +253,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-11-08T18:53:09.000Z"
+      "updatedAt": "2026-11-08T20:35:49.000Z"
     },
     {
       "id": "JimLiu/baoyu-design",
@@ -387,7 +387,7 @@
         "openai",
         "pi-package"
       ],
-      "updatedAt": "2026-11-08T18:06:18.000Z"
+      "updatedAt": "2026-11-08T23:01:30.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -692,7 +692,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-11-08T08:56:36.000Z"
+      "updatedAt": "2026-11-08T23:33:00.000Z"
     },
     {
       "id": "sixtysevenlf/dsh-blender-plugin",
@@ -758,7 +758,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-08T18:14:02.000Z"
+      "updatedAt": "2026-11-08T22:39:40.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -790,7 +790,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-08T06:38:19.000Z"
+      "updatedAt": "2026-11-08T21:33:10.000Z"
     },
     {
       "id": "GanyuanRan/Aegis",
@@ -868,7 +868,7 @@
         "mcp",
         "duty"
       ],
-      "updatedAt": "2026-11-07T13:28:11.000Z"
+      "updatedAt": "2026-11-08T20:55:06.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -902,7 +902,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-08T17:50:41.000Z"
+      "updatedAt": "2026-11-08T20:21:05.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -1045,17 +1045,6 @@
       "updatedAt": "2026-11-08T13:25:37.000Z"
     },
     {
-      "id": "zhoushoujianwork/easyeda-agent",
-      "name": "easyeda-agent-dsh",
-      "displayName": "easyeda-agent",
-      "summary": "嘉立创 EDA 专业版（EasyEDA Pro）开源 AI 自动化：原理图、PCB 布局布线与工程检查，支持 CLI / Agent Skill / MCP。配套 EdaDesk Desktop 内测版可下载体验。Open-source AI schematic and PCB automation for EasyEDA Pro.",
-      "repository": {
-        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-11-08T15:37:46.000Z"
-    },
-    {
       "id": "Ebony-Vinyl/EAC-design-world",
       "name": "eac-design-world",
       "displayName": "EAC-design-world",
@@ -1065,6 +1054,17 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-11-08T07:54:28.000Z"
+    },
+    {
+      "id": "zhoushoujianwork/easyeda-agent",
+      "name": "easyeda-agent-dsh",
+      "displayName": "easyeda-agent",
+      "summary": "嘉立创 EDA 专业版（EasyEDA Pro）开源 AI 自动化：原理图、PCB 布局布线与工程检查，支持 CLI / Agent Skill / MCP。配套 EdaDesk Desktop 内测版可下载体验。Open-source AI schematic and PCB automation for EasyEDA Pro.",
+      "repository": {
+        "url": "https://github.com/zhoushoujianwork/easyeda-agent"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-11-08T15:37:46.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -1131,32 +1131,6 @@
       "updatedAt": "2026-11-08T08:35:38.000Z"
     },
     {
-      "id": "Anionex/dsh-vision-toolkit",
-      "name": "@anionex/dsh-vision-toolkit",
-      "displayName": "dsh-vision-toolkit",
-      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "repository": {
-        "url": "https://github.com/Anionex/dsh-vision-toolkit"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "agent-vision-toolkit",
-        "agent-skills",
-        "text-only-llm",
-        "vision-language-model",
-        "vision-tools",
-        "vision-skills",
-        "computer-vision",
-        "ocr",
-        "ui-restoration",
-        "screenshot-testing",
-        "gui-automation"
-      ],
-      "updatedAt": "2026-11-06T18:38:10.000Z"
-    },
-    {
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
@@ -1197,7 +1171,33 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-08T18:52:00.000Z"
+      "updatedAt": "2026-11-08T19:48:14.000Z"
+    },
+    {
+      "id": "Anionex/dsh-vision-toolkit",
+      "name": "@anionex/dsh-vision-toolkit",
+      "displayName": "dsh-vision-toolkit",
+      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "repository": {
+        "url": "https://github.com/Anionex/dsh-vision-toolkit"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "agent-vision-toolkit",
+        "agent-skills",
+        "text-only-llm",
+        "vision-language-model",
+        "vision-tools",
+        "vision-skills",
+        "computer-vision",
+        "ocr",
+        "ui-restoration",
+        "screenshot-testing",
+        "gui-automation"
+      ],
+      "updatedAt": "2026-11-06T18:38:10.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -1530,6 +1530,16 @@
       "updatedAt": "2026-10-01T00:45:49.000Z"
     },
     {
+      "id": "Ebony-Vinyl/EAC-Pack",
+      "name": "eac-plugin-suite",
+      "displayName": "EAC-Pack",
+      "summary": "Embracing All Creation (Plugin Suite) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（插件整合包） —— 致力于让数百个DSH插件和谐共存",
+      "repository": {
+        "url": "https://github.com/Ebony-Vinyl/EAC-Pack"
+      },
+      "updatedAt": "2026-10-25T04:43:34.000Z"
+    },
+    {
       "id": "ccch1mneyyy/working-activity",
       "name": "pi-working-activity",
       "displayName": "working-activity",
@@ -1548,16 +1558,6 @@
         "pi-coding-agent"
       ],
       "updatedAt": "2026-10-18T19:14:22.000Z"
-    },
-    {
-      "id": "Ebony-Vinyl/EAC-Pack",
-      "name": "eac-plugin-suite",
-      "displayName": "EAC-Pack",
-      "summary": "Embracing All Creation (Plugin Suite) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（插件整合包） —— 致力于让数百个DSH插件和谐共存",
-      "repository": {
-        "url": "https://github.com/Ebony-Vinyl/EAC-Pack"
-      },
-      "updatedAt": "2026-10-25T04:43:34.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
@@ -1621,6 +1621,26 @@
       "updatedAt": "2026-11-08T13:19:24.000Z"
     },
     {
+      "id": "op7418/dsh-guizang-design",
+      "name": "dsh-guizang-design",
+      "displayName": "dsh-guizang-design",
+      "summary": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+      "repository": {
+        "url": "https://github.com/op7418/dsh-guizang-design"
+      },
+      "license": "AGPL-3.0",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "dsh",
+        "skills",
+        "ppt",
+        "design-system",
+        "typography"
+      ],
+      "updatedAt": "2026-11-05T07:44:48.000Z"
+    },
+    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -1666,26 +1686,6 @@
         "sqlite"
       ],
       "updatedAt": "2026-11-08T14:15:39.000Z"
-    },
-    {
-      "id": "op7418/dsh-guizang-design",
-      "name": "dsh-guizang-design",
-      "displayName": "dsh-guizang-design",
-      "summary": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
-      "repository": {
-        "url": "https://github.com/op7418/dsh-guizang-design"
-      },
-      "license": "AGPL-3.0",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "skills",
-        "ppt",
-        "design-system",
-        "typography"
-      ],
-      "updatedAt": "2026-11-05T07:44:48.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
