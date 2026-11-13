@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-12T19:48:41.000Z"
+      "updatedAt": "2026-11-13T01:34:39.000Z"
     },
     {
       "id": "tw93/Mole",
@@ -21,7 +21,7 @@
         "url": "https://github.com/tw93/Mole"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-11-12T15:24:54.000Z"
+      "updatedAt": "2026-11-13T01:45:53.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-12T20:40:28.000Z"
+      "updatedAt": "2026-11-12T23:43:02.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -174,7 +174,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-12T20:43:19.000Z"
+      "updatedAt": "2026-11-13T02:15:17.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -199,18 +199,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-12T21:20:56.000Z"
-    },
-    {
-      "id": "Devin-AXIS/iPolloWork",
-      "name": "@ipollo/ipollowork-workspace",
-      "displayName": "iPolloWork",
-      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
-      "repository": {
-        "url": "https://github.com/Devin-AXIS/iPolloWork"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-11-12T16:03:26.000Z"
+      "updatedAt": "2026-11-13T02:29:45.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -240,6 +229,17 @@
         "unrestricted"
       ],
       "updatedAt": "2026-11-12T17:40:25.000Z"
+    },
+    {
+      "id": "Devin-AXIS/iPolloWork",
+      "name": "@ipollo/ipollowork-workspace",
+      "displayName": "iPolloWork",
+      "summary": "Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video.",
+      "repository": {
+        "url": "https://github.com/Devin-AXIS/iPolloWork"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-11-12T16:03:26.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -324,7 +324,7 @@
       "categories": [
         "skill"
       ],
-      "updatedAt": "2026-11-12T18:04:27.000Z"
+      "updatedAt": "2026-11-13T02:19:53.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -403,7 +403,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-12T18:42:40.000Z"
+      "updatedAt": "2026-11-13T02:17:04.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -437,7 +437,7 @@
         "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-12T21:27:36.000Z"
+      "updatedAt": "2026-11-12T23:05:10.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -474,7 +474,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-12T06:17:07.000Z"
+      "updatedAt": "2026-11-13T01:31:37.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -670,7 +670,7 @@
         "skill",
         "modeling"
       ],
-      "updatedAt": "2026-11-12T19:29:17.000Z"
+      "updatedAt": "2026-11-12T22:27:05.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -720,7 +720,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-12T20:17:50.000Z"
+      "updatedAt": "2026-11-13T02:37:41.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -775,7 +775,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-12T21:34:21.000Z"
+      "updatedAt": "2026-11-12T21:57:55.000Z"
     },
     {
       "id": "dingminhua/dsh-connect-workbuddy",
@@ -837,17 +837,6 @@
       "updatedAt": "2026-11-04T15:40:15.000Z"
     },
     {
-      "id": "Ebony-Vinyl/EAC-design-world",
-      "name": "eac-design-world",
-      "displayName": "EAC-design-world",
-      "summary": "DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出",
-      "repository": {
-        "url": "https://github.com/Ebony-Vinyl/EAC-design-world"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-11-08T07:54:28.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -879,6 +868,17 @@
         "cordis"
       ],
       "updatedAt": "2026-11-12T15:01:27.000Z"
+    },
+    {
+      "id": "Ebony-Vinyl/EAC-design-world",
+      "name": "eac-design-world",
+      "displayName": "EAC-design-world",
+      "summary": "DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出",
+      "repository": {
+        "url": "https://github.com/Ebony-Vinyl/EAC-design-world"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-11-08T07:54:28.000Z"
     },
     {
       "id": "c1overzz/dsh-bili-scroll",
@@ -1136,6 +1136,16 @@
       "updatedAt": "2026-11-12T18:28:52.000Z"
     },
     {
+      "id": "Ebony-Vinyl/EAC-Pack",
+      "name": "eac-plugin-suite",
+      "displayName": "EAC-Pack",
+      "summary": "Embracing All Creation (Plugin Suite) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（插件整合包） —— 致力于让数百个DSH插件和谐共存",
+      "repository": {
+        "url": "https://github.com/Ebony-Vinyl/EAC-Pack"
+      },
+      "updatedAt": "2026-10-25T04:43:34.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-genui",
       "name": "@changfenhuang/dsh-genui",
       "displayName": "dsh-genui",
@@ -1152,16 +1162,6 @@
         "ui"
       ],
       "updatedAt": "2026-11-11T15:59:04.000Z"
-    },
-    {
-      "id": "Ebony-Vinyl/EAC-Pack",
-      "name": "eac-plugin-suite",
-      "displayName": "EAC-Pack",
-      "summary": "Embracing All Creation (Plugin Suite) — Dedicated to the Harmonious Coexistence of Hundreds of DSH Plugins / 揽尽万象（插件整合包） —— 致力于让数百个DSH插件和谐共存",
-      "repository": {
-        "url": "https://github.com/Ebony-Vinyl/EAC-Pack"
-      },
-      "updatedAt": "2026-10-25T04:43:34.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1266,26 +1266,6 @@
       "updatedAt": "2026-10-27T18:13:30.000Z"
     },
     {
-      "id": "SeaOf0/dsh-redteam-model",
-      "name": "@dsh-external/dsh-redteam-model",
-      "displayName": "dsh-redteam-model",
-      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
-      "repository": {
-        "url": "https://github.com/SeaOf0/dsh-redteam-model"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-bundle",
-        "redteam",
-        "security"
-      ],
-      "updatedAt": "2026-10-27T02:05:14.000Z"
-    },
-    {
       "id": "helloHub1212/dsh-windows-mcp",
       "name": "dsh-windows-mcp",
       "displayName": "dsh-windows-mcp",
@@ -1307,7 +1287,27 @@
         "ui-automation",
         "screenshot"
       ],
-      "updatedAt": "2026-11-12T12:45:22.000Z"
+      "updatedAt": "2026-11-13T01:43:00.000Z"
+    },
+    {
+      "id": "SeaOf0/dsh-redteam-model",
+      "name": "@dsh-external/dsh-redteam-model",
+      "displayName": "dsh-redteam-model",
+      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
+      "repository": {
+        "url": "https://github.com/SeaOf0/dsh-redteam-model"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-bundle",
+        "redteam",
+        "security"
+      ],
+      "updatedAt": "2026-10-27T02:05:14.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -1459,7 +1459,7 @@
         "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-12T11:29:19.000Z"
+      "updatedAt": "2026-11-13T02:20:44.000Z"
     },
     {
       "id": "myYangyunfan/dsh_desktop",
@@ -1694,7 +1694,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-11-12T15:03:48.000Z"
+      "updatedAt": "2026-11-13T02:32:05.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
