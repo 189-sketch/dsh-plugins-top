@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [YJX0118/dsh-second-pass](https://github.com/YJX0118/dsh-second-pass) | ⭐ 0 | ✅ | Second Pass / 第二遍 — a DeepSeek Harness plugin that turns a finished answer into a verified interactive page or narrated film, with an evidence ledger and a durable work library. | `ui-panel` |
-| #2 | [bearman141/dsh-kernel-restart](https://github.com/bearman141/dsh-kernel-restart) | ⭐ 0 | ✅ | Restart the running DSH profile in place from a floating button, without closing the desktop window. | `other` |
-| #3 | [abraxasLi/dsh-desktop-capsule](https://github.com/abraxasLi/dsh-desktop-capsule) | ⭐ 0 | ✅ | Glass desktop capsule for DeepSeek Harness: always-on-top agent status, approval and answer alerts, click to return. | `other` |
-| #4 | [tero0224-droid/dsh-locale-zh-tw](https://github.com/tero0224-droid/dsh-locale-zh-tw) | ⭐ 0 | ✅ | Traditional Chinese (Taiwan) interface language pack for the DeepSeek Harness web GUI | `ui-panel` |
-| #5 | [ssacko510-stack/dsh-purge-fork](https://github.com/ssacko510-stack/dsh-purge-fork) | ⭐ 0 | ✅ | dsh-purge 1.1.71 个人维护分支 \| DSH Desktop 0.2.1-rc.1 与 0.2.2-rc.2.1 兼容修复 \| 基于 YuJunZhiXue/dsh-purge (MIT) | `ui-panel` |
-| #6 | [3671656786/dsh-web-chat-preset](https://github.com/3671656786/dsh-web-chat-preset) | ⭐ 0 | ✅ | DeepSeek Harness「网页聊天」Agent 预设：只保留 web_search / web_fetch 两个联网工具，系统提示词由你自己的 persona.json 驱动。 | `other` |
-| #7 | [fader-cx/dsh-startup-animation](https://github.com/fader-cx/dsh-startup-animation) | ⭐ 0 | ✅ | 为 DeepSeek Harness 加上 Codex 风格开场动画与可自定义常驻背景（灵感与实现参考 yanami-sec/codex-startup-animation-windows，并完成移植扩展与演出效果升级） | `ui-panel` |
-| #8 | [Fouxiuan/dsh-free-bili-scroll](https://github.com/Fouxiuan/dsh-free-bili-scroll) | ⭐ 0 | ✅ | DSH 插件：每天替你刷一轮 B站，支持 DeepSeek 与 Our Free Model（刷B站 Free） | `ui-panel` |
-| #9 | [feely0208/dsh-skill-vet](https://github.com/feely0208/dsh-skill-vet) | ⭐ 0 | ✅ |  | `skill` |
-| #10 | [feely0208/dsh-legal-evidence](https://github.com/feely0208/dsh-legal-evidence) | ⭐ 0 | ✅ |  | `skill` |
-| #11 | [feely0208/dsh-industry-live](https://github.com/feely0208/dsh-industry-live) | ⭐ 0 | ✅ |  | `skill` |
-| #12 | [feely0208/dsh-industry-ecommerce](https://github.com/feely0208/dsh-industry-ecommerce) | ⭐ 0 | ✅ |  | `skill` |
-| #13 | [feely0208/dsh-api-cost-calc](https://github.com/feely0208/dsh-api-cost-calc) | ⭐ 0 | ✅ |  | `skill` |
-| #14 | [TideDra/dsh-session-history-cache](https://github.com/TideDra/dsh-session-history-cache) | ⭐ 0 | ✅ | LRU session history cache plugin for DeepSeek Harness Web UI — instant session switching without reloading | `ui-panel` |
-| #15 | [lingsmall-code/dsh-go-unrestricted](https://github.com/lingsmall-code/dsh-go-unrestricted) | ⭐ 1 | ✅ | DSH 破甲插件：执行层补丁 + 25 层自检 + 三个可选模式 + 四个面板（dsh-purge 等价实现） | `other` |
-| #16 | [Singapo/mvplus-subtitle](https://github.com/Singapo/mvplus-subtitle) | ⭐ 0 | ✅ | Give a cloud-drive film a Chinese subtitle: local ASR + forced alignment + LLM translation, then a verified upload back to the same folder. Also a DeepSeek Harness plugin. | `other` |
-| #17 | [fengshu-ai/DSH-boot](https://github.com/fengshu-ai/DSH-boot) | ⭐ 0 | ✅ | 这是饲养染的30DAYs的DSH启动界面插件 | `skin` |
-| #18 | [homes-mark/dsh-fold-workspace-sessions](https://github.com/homes-mark/dsh-fold-workspace-sessions) | ⭐ 0 | ✅ | DSH plugin: one sidebar button folds or unfolds every workspace's conversations in a single click. 一键折叠工作区对话的 DeepSeek Harness 插件 | `ui-panel` |
-| #19 | [fengpei666/dsh-card-panel](https://github.com/fengpei666/dsh-card-panel) | ⭐ 0 | ✅ | DSH 无限量日卡面板：粘贴中转站发货信息即可写入模型配置，实时显示用量、到期倒计时与官方价对比，并一键修复上下文窗口截断 | `ui-panel` |
-| #20 | [CYBSYC-Nya/MuRaSame](https://github.com/CYBSYC-Nya/MuRaSame) | ⭐ 0 | ✅ | MuRaSame ????????SH ??a????????????????????? | `ui-panel` |
-| #21 | [SiteraHusiki/unreal-skills-port](https://github.com/SiteraHusiki/unreal-skills-port) | ⭐ 0 | ✅ | Epic Games Unreal Engine MCP Skills port for DeepSeek Harness (dsh) and other MCP clients | `skill` |
-| #22 | [shenhua725/dsh-qq-console-v2](https://github.com/shenhua725/dsh-qq-console-v2) | ⭐ 0 | ✅ | Turn mobile QQ into a remote control for DeepSeek Harness (DSH plugin) | `ui-panel` |
-| #23 | [YJX0118/dsh-inspiration-wall](https://github.com/YJX0118/dsh-inspiration-wall) | ⭐ 1 | ✅ | 灵感墙：为 DeepSeek Harness 提供纸感便签墙、多板块、语音速记、AI 整理、自定义背景与批量删除。 | `ui-panel` |
-| #24 | [feely0208/dsh-cn-genai-preflight](https://github.com/feely0208/dsh-cn-genai-preflight) | ⭐ 0 | ✅ |  | `skill` |
-| #25 | [tangmanto98-VoV/dsh-screenshot-button](https://github.com/tangmanto98-VoV/dsh-screenshot-button) | ⭐ 0 | ✅ | Screenshot button for the DeepSeek Harness composer: per-monitor and all-screens capture (Windows) | `ui-panel` |
-| #26 | [Fe2-Plus/dsh-ocr-example](https://github.com/Fe2-Plus/dsh-ocr-example) | ⭐ 0 | ✅ | DeepSeek OCR tool plugin for DeepSeek Harness — plus the traps that make a plugin silently fail to load | `tool` |
-| #27 | [zznobzz/dsh-model-fallback](https://github.com/zznobzz/dsh-model-fallback) | ⭐ 0 | ✅ | Model failover for DeepSeek Harness: repeat a failed primary model request on a fallback route, with selectable trigger mode, failure-code selection, and a switch-over threshold. | `ui-panel` |
-| #28 | [runfali/dsh-fact-memory](https://github.com/runfali/dsh-fact-memory) | ⭐ 0 | ✅ | Cross-session fact memory for DeepSeek Harness: structured claims (subject · property · value) in one SQLite store, with evidence levels, visible conflicts, tombstones, and a token-budgeted directory injected into every request. | `ui-panel` |
-| #29 | [Fulisike/daily-secretary](https://github.com/Fulisike/daily-secretary) | ⭐ 0 | ✅ | 让dsh帮你记录电脑屏幕，完成总结（与吐槽），帮你记录下每天电脑操作的点点滴滴，以及及时发现那些无意识中不好的使用习惯。 | `ui-panel` |
-| #30 | [Solitudeks/agent-coop](https://github.com/Solitudeks/agent-coop) | ⭐ 0 | ✅ | 硅姬后援团（@local/agent-coop）：DeepSeek Harness 本机 Agent 运行状态面板 — local Agent runtime status panel for DSH | `ui-panel` |
+| #1 | [happyde2b/dsh-balance-display-simple](https://github.com/happyde2b/dsh-balance-display-simple) | ⭐ 0 | ✅ | Show the DeepSeek API account balance in the DSH sidebar, refreshed every 60 seconds through a same-origin endpoint that keeps the API key on the server side. | `ui-panel` |
+| #2 | [xiaaoyun/dsh-scratchpad](https://github.com/xiaaoyun/dsh-scratchpad) | ⭐ 0 | ✅ | Scratchpad in the DSH sidebar: tagged notes with a tag filter, Markdown to-dos you can tick, image and file attachments with a size budget, and JSON export/import. | `ui-panel` |
+| #3 | [xiaaoyun/dsh-auto-continue](https://github.com/xiaaoyun/dsh-auto-continue) | ⭐ 0 | ✅ | Keeps a DSH Session working while you are away: after each turn it sends one more continuation, until the round budget runs out or you send a message yourself. | `ui-panel` |
+| #4 | [xiaaoyun/dsh-crypto](https://github.com/xiaaoyun/dsh-crypto) | ⭐ 0 | ✅ | Crypto market panel in the DSH sidebar: live watchlist, candles with EMA, a 7-factor AI signal with entry/stop/target, an add-position plan and DeepSeek commentary. | `ui-panel` |
+| #5 | [xiaaoyun/dsh-idle-game](https://github.com/xiaaoyun/dsh-idle-game) | ⭐ 0 | ✅ | An idle deep-sea diving game inside the DSH Web UI: it keeps sinking while the page is closed, with three upgrades, a chest every two minutes and a dive log. | `ui-panel` |
+| #6 | [xiaaoyun/dsh-workspace-glow](https://github.com/xiaaoyun/dsh-workspace-glow) | ⭐ 0 | ✅ | Future-tech HUD workspace skin for the DSH Web UI: chamfered neon frame, dotted grid, radar ring, System UI plaque, glitch flicker and a focus mode. | `skin` |
+| #7 | [xiaaoyun/dsh-aionui-grid-fix](https://github.com/xiaaoyun/dsh-aionui-grid-fix) | ⭐ 0 | ✅ | Layout patch for the third-party AionUi right-panel plugin: pins its columns to the first grid row and copies a diagnostic when the fix stops holding. | `ui-panel` |
+| #8 | [SuShuoran/dsh-wechat-135](https://github.com/SuShuoran/dsh-wechat-135) | ⭐ 0 | ✅ | DSH ??:135 ???????????(???? / ???? / ??+?????) | `other` |
+| #9 | [whiplashf/dsh-voice-hotkey](https://github.com/whiplashf/dsh-voice-hotkey) | ⭐ 0 | ✅ | Minimal push-to-talk voice input for DeepSeek Harness: Alt+V toggles the official Voice Input recorder, silence stops it, the transcript lands in the composer. | `ui-panel` |
+| #10 | [Wuming1101/dsh-plugin-foundry-preset](https://github.com/Wuming1101/dsh-plugin-foundry-preset) | ⭐ 0 | ✅ | 插件工坊预设 + 从桌面版 app.asar 取官方文档的用户技能 | `other` |
+| #11 | [Wuming1101/dsh-memory-preset](https://github.com/Wuming1101/dsh-memory-preset) | ⭐ 0 | ✅ | 记忆优先预设：只留最近一轮原文，更早的历史走记忆库检索 | `other` |
+| #12 | [Wuming1101/dsh-workspace-autoclaim](https://github.com/Wuming1101/dsh-workspace-autoclaim) | ⭐ 0 | ✅ | 启动时把存量会话挂到 cwd 相同的已注册工作区 | `other` |
+| #13 | [Wuming1101/dsh-context-window](https://github.com/Wuming1101/dsh-context-window) | ⭐ 0 | ✅ | 每轮把更早的轮次从模型可见 surface 折叠，只保留最近 N 轮原文 | `other` |
+| #14 | [Wuming1101/dsh-memory-store](https://github.com/Wuming1101/dsh-memory-store) | ⭐ 0 | ✅ | 本地 SQLite 记忆库：四路召回、软删、会话采集与可选注入（DSH 插件） | `other` |
+| #15 | [Wuming1101/dsh-qq](https://github.com/Wuming1101/dsh-qq) | ⭐ 0 | ✅ | 把 QQ（NapCat / OneBot11）接进 DSH：私聊/群聊变持久会话，拟人分条、文件与表情收发 | `other` |
+| #16 | [daedalforge/missions](https://github.com/daedalforge/missions) | ⭐ 0 | ✅ | Plugin DeepSeek Harness pour piloter des missions Jira et GitHub | `ui-panel` |
+| #17 | [Leica-Shen/deepseek-harness-metre](https://github.com/Leica-Shen/deepseek-harness-metre) | ⭐ 0 | ✅ | Measurement-driven slide layout engine for DeepSeek Harness with text measurement, line breaking, image sourcing, and layout audits. | `other` |
+| #18 | [SpokAtom/dsh-status-lamp](https://github.com/SpokAtom/dsh-status-lamp) | ⭐ 0 | ✅ | Session-row status lamp for DeepSeek Harness: blue dot for idle, hollow ring for parked, solid grey dot for archived. | `ui-panel` |
+| #19 | [happyde2b/dsh-win-notify](https://github.com/happyde2b/dsh-win-notify) | ⭐ 0 | ✅ | Windows toast notifications for DeepSeek Harness: task done, task error, question, approval - click to focus the desktop app | `other` |
+| #20 | [yukre/dsh-session-api](https://github.com/yukre/dsh-session-api) | ⭐ 0 | ✅ | Loopback HTTP control surface for DeepSeek Harness sessions: read run state and drive prompt, model, permission, queue and cancel from outside the page. | `ui-panel` |
+| #21 | [Elgwia-dsh/dsh-comfy-suite](https://github.com/Elgwia-dsh/dsh-comfy-suite) | ⭐ 0 | ✅ | ComfyUI 一站式套件：工作流库 + 本地出图修图 + 服务启停 + 作品库/风格库/提示词衣柜（个人整合，非官方；三个上游均为 MIT） | `ui-panel` |
+| #22 | [X1aoM1ngTX/dsh-lan-remote](https://github.com/X1aoM1ngTX/dsh-lan-remote) | ⭐ 0 | ✅ | Share a DSH over the LAN and open other computers' DSH from one settings page. | `ui-panel` |
+| #23 | [skj1023/dsh-sidebar-groups](https://github.com/skj1023/dsh-sidebar-groups) | ⭐ 0 | ✅ | Group DeepSeek Harness sidebar plugin entries into collapsible groups. | `ui-panel` |
+| #24 | [sijiyu521/dsh-wordhelper](https://github.com/sijiyu521/dsh-wordhelper) | ⭐ 0 | ✅ | DSH 划词助手插件：左侧栏入口 + 划词浮条（翻译/解释/复制/搜索/收藏）+ 全电脑剪贴板监听 + 模拟输入 | `ui-panel` |
+| #25 | [diudiu62/dsh-connect-loomy](https://github.com/diudiu62/dsh-connect-loomy) | ⭐ 0 | ✅ |  | `provider` |
+| #26 | [tongqing1130-png/dsh-session-delete](https://github.com/tongqing1130-png/dsh-session-delete) | ⭐ 0 | ✅ | DSH 插件：会话右键「删除对话」。真正删掉会话（磁盘 + 内存 + 工作区引用），原生 Modal 确认，删完即时生效不用重启。 | `ui-panel` |
+| #27 | [YEHO-gg/dsh-china-weather](https://github.com/YEHO-gg/dsh-china-weather) | ⭐ 0 | ✅ | 中国境内天气查询 DSH 插件：按 IP 自动定位，实时天气、空气质量与 1–7 天预报，全部免费、无需密钥。 | `other` |
+| #28 | [yingrui96/dsh-attention-board](https://github.com/yingrui96/dsh-attention-board) | ⭐ 0 | ✅ | An always-on attention pill for DeepSeek Harness: one glance shows how many sessions are waiting on you — approvals, questions, failures, and what you already declined. | `ui-panel` |
+| #29 | [zhangqi423820-ai/dsh-spend-badge](https://github.com/zhangqi423820-ai/dsh-spend-badge) | ⭐ 0 | ✅ | Per-turn and per-session spend for DeepSeek Harness, appended inline to the usage row and the composer status bar. | `other` |
+| #30 | [Reco1or/dsh-prompt-zh-cn](https://github.com/Reco1or/dsh-prompt-zh-cn) | ⭐ 0 | ✅ | 替换DSH内置的系统提示词sections、运行时上下文、自动注入消息与工具定义为中文 | `other` |
