@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-13T17:54:01.000Z"
+      "updatedAt": "2026-11-13T23:20:18.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -153,7 +153,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-13T16:38:03.000Z"
+      "updatedAt": "2026-11-13T22:31:56.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -174,7 +174,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-13T18:33:52.000Z"
+      "updatedAt": "2026-11-13T22:03:49.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -228,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-13T18:51:04.000Z"
+      "updatedAt": "2026-11-14T00:08:10.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -299,18 +299,18 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-11-12T19:28:04.000Z"
+      "updatedAt": "2026-11-13T21:04:09.000Z"
     },
     {
-      "id": "JimLiu/baoyu-design",
-      "name": "baoyu-design",
-      "displayName": "baoyu-design",
+      "id": "JimLiu/open-artifacts",
+      "name": "open-artifacts",
+      "displayName": "open-artifacts",
       "summary": "Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus or Claude.",
       "repository": {
-        "url": "https://github.com/JimLiu/baoyu-design"
+        "url": "https://github.com/JimLiu/open-artifacts"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-13T08:04:37.000Z"
+      "updatedAt": "2026-11-13T22:18:42.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -358,7 +358,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-11-13T19:20:34.000Z"
+      "updatedAt": "2026-11-13T21:48:59.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -599,7 +599,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-13T18:48:10.000Z"
+      "updatedAt": "2026-11-13T20:07:28.000Z"
     },
     {
       "id": "zhuyansen/new-term-radar",
@@ -695,7 +695,7 @@
         "url": "https://github.com/Devin-AXIS/deepseek-design"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-13T17:10:52.000Z"
+      "updatedAt": "2026-11-14T00:11:55.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -706,7 +706,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-13T18:26:51.000Z"
+      "updatedAt": "2026-11-14T00:54:17.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -1215,7 +1215,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-10T15:48:14.000Z"
+      "updatedAt": "2026-11-13T20:02:44.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -1649,7 +1649,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-11-13T15:15:16.000Z"
+      "updatedAt": "2026-11-14T00:33:19.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -1773,17 +1773,24 @@
         "token-efficient",
         "multimodal"
       ],
-      "updatedAt": "2026-11-11T12:40:10.000Z"
+      "updatedAt": "2026-11-13T20:05:16.000Z"
     },
     {
-      "id": "howmp/dsh-pentest",
-      "name": "@howmp/dsh-pentest",
-      "displayName": "dsh-pentest",
-      "summary": "面向 DeepSeek Harness（dsh）的渗透测试模式  @CloverSecLabs",
+      "id": "aureth-labs/dsh-aurabot-qq",
+      "name": "dsh-aurabot-qq",
+      "displayName": "dsh-aurabot-qq",
+      "summary": "让 DeepSeek Harness 里的 AI 以「大肥鱼」住进 QQ：会聊天、发表情、发语音、记事、发空间、刷 B 站、唱歌。功能都是模块，能开关、能自己写，还能从模块市场装更多（SnowLuma / OneBot v11）。",
       "repository": {
-        "url": "https://github.com/howmp/dsh-pentest"
+        "url": "https://github.com/aureth-labs/dsh-aurabot-qq"
       },
-      "updatedAt": "2026-10-09T11:19:50.000Z"
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "qq",
+        "onebot"
+      ],
+      "updatedAt": "2026-11-13T15:09:04.000Z"
     }
   ],
   "page": {
