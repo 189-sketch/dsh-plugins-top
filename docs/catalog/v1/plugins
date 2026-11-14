@@ -38,7 +38,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-11-13T07:47:23.000Z"
+      "updatedAt": "2026-11-14T19:35:24.000Z"
     },
     {
       "id": "alchaincyf/nuwa-skill",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-14T06:12:48.000Z"
+      "updatedAt": "2026-11-14T20:21:25.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-13T16:45:25.000Z"
+      "updatedAt": "2026-11-14T16:46:21.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-14T13:14:44.000Z"
+      "updatedAt": "2026-11-14T21:56:48.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -217,7 +217,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-14T16:12:12.000Z"
+      "updatedAt": "2026-11-14T21:03:28.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -228,7 +228,7 @@
         "url": "https://github.com/Devin-AXIS/iPolloWork"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-14T16:21:57.000Z"
+      "updatedAt": "2026-11-14T20:13:59.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -336,7 +336,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-11-14T16:17:28.000Z"
+      "updatedAt": "2026-11-14T19:30:34.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -367,7 +367,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-14T14:02:35.000Z"
+      "updatedAt": "2026-11-14T20:09:38.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -401,7 +401,7 @@
         "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-14T16:25:05.000Z"
+      "updatedAt": "2026-11-14T18:05:16.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -438,7 +438,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-13T14:16:33.000Z"
+      "updatedAt": "2026-11-14T19:25:41.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -555,7 +555,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-14T15:13:02.000Z"
+      "updatedAt": "2026-11-14T17:44:03.000Z"
     },
     {
       "id": "zilliztech/memsearch",
@@ -758,7 +758,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-14T16:30:29.000Z"
+      "updatedAt": "2026-11-14T20:10:48.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -899,7 +899,7 @@
         "url": "https://github.com/ADWMC/helm-d"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-10T13:58:02.000Z"
+      "updatedAt": "2026-11-14T18:30:42.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -923,17 +923,6 @@
         "plugin"
       ],
       "updatedAt": "2026-11-13T17:38:28.000Z"
-    },
-    {
-      "id": "agentrq/agentrq",
-      "name": "agentrq/agentrq",
-      "displayName": "agentrq",
-      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
-      "repository": {
-        "url": "https://github.com/agentrq/agentrq"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-11-14T16:11:09.000Z"
     },
     {
       "id": "helloHub1212/dsh-windows-mcp",
@@ -960,6 +949,17 @@
       "updatedAt": "2026-11-13T01:43:00.000Z"
     },
     {
+      "id": "agentrq/agentrq",
+      "name": "agentrq/agentrq",
+      "displayName": "agentrq",
+      "summary": "AgentRQ: Human-in-loop realtime conversational task manager for AI Agents. Self-hosted! Control your own agents from wherever you want Mobile, Web, Desktop. Designed to work well with your own Claude subscriptions and any harness with ACP support.",
+      "repository": {
+        "url": "https://github.com/agentrq/agentrq"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-11-14T21:54:00.000Z"
+    },
+    {
       "id": "yexi-by/dsh-unrestricted",
       "name": "dsh-unrestricted",
       "displayName": "dsh-unrestricted",
@@ -969,17 +969,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-11-05T09:51:34.000Z"
-    },
-    {
-      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
-      "name": "cloudbase-ai-toolkit",
-      "displayName": "CloudBase-AI-Toolkit",
-      "summary": "Backend for AI Agents — Database, Auth, Functions,Storage,Hosting via Plugin, Skills & MCP.",
-      "repository": {
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-14T15:56:48.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -1028,6 +1017,17 @@
       "updatedAt": "2026-11-14T14:06:57.000Z"
     },
     {
+      "id": "TencentCloudBase/CloudBase-AI-Toolkit",
+      "name": "cloudbase-ai-toolkit",
+      "displayName": "CloudBase-AI-Toolkit",
+      "summary": "Backend for AI Agents — Database, Auth, Functions,Storage,Hosting via Plugin, Skills & MCP.",
+      "repository": {
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-14T15:56:48.000Z"
+    },
+    {
       "id": "zhoushoujianwork/easyeda-agent",
       "name": "easyeda-agent-dsh",
       "displayName": "easyeda-agent",
@@ -1058,26 +1058,6 @@
         "url": "https://github.com/Ebony-Vinyl/EAC-Pack"
       },
       "updatedAt": "2026-10-25T04:43:34.000Z"
-    },
-    {
-      "id": "superdesigndev/superdesign-skill",
-      "name": "superdesign-dsh",
-      "displayName": "superdesign-skill",
-      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
-      "repository": {
-        "url": "https://github.com/superdesigndev/superdesign-skill"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "design",
-        "ui-design",
-        "presentations",
-        "slide-decks",
-        "infinite-canvas"
-      ],
-      "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1120,7 +1100,27 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-14T16:29:29.000Z"
+      "updatedAt": "2026-11-14T22:02:14.000Z"
+    },
+    {
+      "id": "superdesigndev/superdesign-skill",
+      "name": "superdesign-dsh",
+      "displayName": "superdesign-skill",
+      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+      "repository": {
+        "url": "https://github.com/superdesigndev/superdesign-skill"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "design",
+        "ui-design",
+        "presentations",
+        "slide-decks",
+        "infinite-canvas"
+      ],
+      "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1138,7 +1138,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-11-13T10:59:25.000Z"
+      "updatedAt": "2026-11-14T20:01:26.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1193,7 +1193,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-14T16:17:48.000Z"
+      "updatedAt": "2026-11-14T18:37:41.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -1542,24 +1542,6 @@
       "updatedAt": "2026-11-08T03:12:18.000Z"
     },
     {
-      "id": "anysearch-team/anysearch-dsh",
-      "name": "@anysearch/anysearch-dsh",
-      "displayName": "anysearch-dsh",
-      "summary": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
-      "repository": {
-        "url": "https://github.com/anysearch-team/anysearch-dsh"
-      },
-      "license": "MIT",
-      "keywords": [
-        "anysearch",
-        "deepseek-harness",
-        "dsh-plugin",
-        "web-search",
-        "web-fetch"
-      ],
-      "updatedAt": "2026-10-10T08:54:47.000Z"
-    },
-    {
       "id": "Han-1413141/dsh-cost-meter",
       "name": "dsh-cost-meter",
       "displayName": "dsh-cost-meter",
@@ -1585,6 +1567,24 @@
         "language"
       ],
       "updatedAt": "2026-11-14T06:48:21.000Z"
+    },
+    {
+      "id": "anysearch-team/anysearch-dsh",
+      "name": "@anysearch/anysearch-dsh",
+      "displayName": "anysearch-dsh",
+      "summary": "AnySearch web search provider and advanced search tools for DeepSeek Harness (DSH)",
+      "repository": {
+        "url": "https://github.com/anysearch-team/anysearch-dsh"
+      },
+      "license": "MIT",
+      "keywords": [
+        "anysearch",
+        "deepseek-harness",
+        "dsh-plugin",
+        "web-search",
+        "web-fetch"
+      ],
+      "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1684,6 +1684,29 @@
       "updatedAt": "2026-08-24T16:55:44.000Z"
     },
     {
+      "id": "SAOS-3624/dsh-see-now",
+      "name": "dsh-see-now",
+      "displayName": "dsh-see-now",
+      "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "repository": {
+        "url": "https://github.com/SAOS-3624/dsh-see-now"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek",
+        "screen-capture",
+        "vision",
+        "llm",
+        "ffmpeg",
+        "realtime",
+        "token-efficient",
+        "multimodal"
+      ],
+      "updatedAt": "2026-11-13T20:05:16.000Z"
+    },
+    {
       "id": "sandbaseai/sandbase-harness",
       "name": "managed-agents",
       "displayName": "sandbase-harness",
@@ -1731,29 +1754,6 @@
       "updatedAt": "2026-11-11T15:21:00.000Z"
     },
     {
-      "id": "SAOS-3624/dsh-see-now",
-      "name": "dsh-see-now",
-      "displayName": "dsh-see-now",
-      "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-      "repository": {
-        "url": "https://github.com/SAOS-3624/dsh-see-now"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek",
-        "screen-capture",
-        "vision",
-        "llm",
-        "ffmpeg",
-        "realtime",
-        "token-efficient",
-        "multimodal"
-      ],
-      "updatedAt": "2026-11-13T20:05:16.000Z"
-    },
-    {
       "id": "fourzkw/dsh-drawai",
       "name": "dsh-drawai",
       "displayName": "dsh-drawai",
@@ -1772,7 +1772,7 @@
         "mxfile",
         "canvas"
       ],
-      "updatedAt": "2026-11-14T09:37:43.000Z"
+      "updatedAt": "2026-11-14T17:12:56.000Z"
     },
     {
       "id": "aureth-labs/dsh-aurabot-qq",
@@ -1789,7 +1789,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-14T16:13:23.000Z"
+      "updatedAt": "2026-11-14T20:30:02.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
