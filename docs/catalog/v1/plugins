@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-15T14:28:43.000Z"
+      "updatedAt": "2026-11-15T21:40:28.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-15T00:03:54.000Z"
+      "updatedAt": "2026-11-15T20:25:38.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-15T17:01:44.000Z"
+      "updatedAt": "2026-11-15T20:38:49.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -217,7 +217,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-15T16:53:14.000Z"
+      "updatedAt": "2026-11-15T22:25:41.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -356,7 +356,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-15T16:33:24.000Z"
+      "updatedAt": "2026-11-15T18:44:00.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -393,7 +393,7 @@
         "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-15T11:11:45.000Z"
+      "updatedAt": "2026-11-15T18:38:52.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -427,7 +427,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-15T16:43:46.000Z"
+      "updatedAt": "2026-11-15T17:35:14.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -692,7 +692,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-15T16:31:05.000Z"
+      "updatedAt": "2026-11-15T19:51:22.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -866,7 +866,7 @@
         "deepseek-harness",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-11-12T16:41:33.000Z"
+      "updatedAt": "2026-11-15T17:12:48.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -993,7 +993,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-15T16:53:34.000Z"
+      "updatedAt": "2026-11-15T22:39:49.000Z"
     },
     {
       "id": "yexi-by/dsh-unrestricted",
@@ -1015,7 +1015,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-15T14:57:44.000Z"
+      "updatedAt": "2026-11-15T17:11:12.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-Pack",
@@ -1090,7 +1090,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-15T16:20:57.000Z"
+      "updatedAt": "2026-11-15T22:42:34.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -1323,7 +1323,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-11-15T17:02:42.000Z"
+      "updatedAt": "2026-11-15T18:14:36.000Z"
     },
     {
       "id": "6shenhonghong9/dsh-startup-screen",
@@ -1405,17 +1405,6 @@
       "updatedAt": "2026-11-15T11:07:42.000Z"
     },
     {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-14T08:13:28.000Z"
-    },
-    {
       "id": "Yu-tao-Li/dsh-computer-use-win",
       "name": "dsh-computer-use-win",
       "displayName": "dsh-computer-use-win",
@@ -1435,6 +1424,17 @@
         "desktop-automation"
       ],
       "updatedAt": "2026-11-15T16:33:59.000Z"
+    },
+    {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-14T08:13:28.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1754,7 +1754,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-15T17:03:27.000Z"
+      "updatedAt": "2026-11-15T22:14:41.000Z"
     },
     {
       "id": "sandbaseai/sandbase-harness",
