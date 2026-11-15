@@ -21,7 +21,7 @@
         "url": "https://github.com/tw93/Mole"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-11-14T03:07:55.000Z"
+      "updatedAt": "2026-11-15T00:05:49.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-14T20:21:25.000Z"
+      "updatedAt": "2026-11-15T00:03:54.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -217,7 +217,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-14T21:03:28.000Z"
+      "updatedAt": "2026-11-15T01:32:37.000Z"
     },
     {
       "id": "Devin-AXIS/iPolloWork",
@@ -726,7 +726,7 @@
         "deepseek-harness",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-11-14T16:02:23.000Z"
+      "updatedAt": "2026-11-15T01:41:52.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -758,7 +758,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-14T20:10:48.000Z"
+      "updatedAt": "2026-11-14T23:11:54.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -957,7 +957,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-14T21:54:00.000Z"
+      "updatedAt": "2026-11-15T01:30:41.000Z"
     },
     {
       "id": "yexi-by/dsh-unrestricted",
@@ -1025,7 +1025,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-14T15:56:48.000Z"
+      "updatedAt": "2026-11-15T00:42:23.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -1100,7 +1100,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-14T22:02:14.000Z"
+      "updatedAt": "2026-11-15T01:44:27.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -1375,7 +1375,7 @@
         "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-14T10:20:59.000Z"
+      "updatedAt": "2026-11-15T01:45:34.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1608,7 +1608,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-11-14T15:33:23.000Z"
+      "updatedAt": "2026-11-15T01:24:10.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1789,7 +1789,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-14T20:30:02.000Z"
+      "updatedAt": "2026-11-15T00:08:03.000Z"
     },
     {
       "id": "howmp/dsh-pentest",
