@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-16T04:43:33.000Z"
+      "updatedAt": "2026-11-16T06:22:48.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-15T20:38:49.000Z"
+      "updatedAt": "2026-11-16T06:59:12.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -131,7 +131,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-16T02:08:37.000Z"
+      "updatedAt": "2026-11-16T11:13:12.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -160,18 +160,7 @@
         "无限制模式",
         "unrestricted"
       ],
-      "updatedAt": "2026-11-16T04:48:14.000Z"
-    },
-    {
-      "id": "plastic-labs/honcho",
-      "name": "plastic-labs/honcho",
-      "displayName": "honcho",
-      "summary": "Memory library for building stateful agents",
-      "repository": {
-        "url": "https://github.com/plastic-labs/honcho"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-11-13T22:31:56.000Z"
+      "updatedAt": "2026-11-16T09:57:13.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -192,7 +181,18 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-16T04:47:00.000Z"
+      "updatedAt": "2026-11-16T14:26:04.000Z"
+    },
+    {
+      "id": "plastic-labs/honcho",
+      "name": "plastic-labs/honcho",
+      "displayName": "honcho",
+      "summary": "Memory library for building stateful agents",
+      "repository": {
+        "url": "https://github.com/plastic-labs/honcho"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-11-13T22:31:56.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -217,7 +217,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-16T04:49:05.000Z"
+      "updatedAt": "2026-11-16T14:34:39.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -255,7 +255,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-11-16T02:59:00.000Z"
+      "updatedAt": "2026-11-16T05:36:45.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -280,6 +280,17 @@
       "updatedAt": "2026-09-18T23:10:58.000Z"
     },
     {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-16T14:37:53.000Z"
+    },
+    {
       "id": "QingYunA/answer-me-with-html",
       "name": "answer-me-with-html",
       "displayName": "answer-me-with-html",
@@ -297,18 +308,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-11-16T04:50:16.000Z"
-    },
-    {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-15T02:28:44.000Z"
+      "updatedAt": "2026-11-16T05:37:19.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -356,7 +356,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-16T00:51:12.000Z"
+      "updatedAt": "2026-11-16T14:56:29.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -393,7 +393,7 @@
         "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T04:04:30.000Z"
+      "updatedAt": "2026-11-16T08:03:16.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -427,7 +427,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-16T04:32:42.000Z"
+      "updatedAt": "2026-11-16T12:59:47.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -503,7 +503,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-16T04:17:40.000Z"
+      "updatedAt": "2026-11-16T05:23:50.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -566,7 +566,24 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T04:43:40.000Z"
+      "updatedAt": "2026-11-16T14:41:08.000Z"
+    },
+    {
+      "id": "oneclickvirt/ecs",
+      "name": "dsh-plugin-goecs",
+      "displayName": "ecs",
+      "summary": "VPS Fusion Monster — Server Benchmark (Go Edition) Aims to be the most comprehensive and fastest server benchmarking project, built in Go with zero external dependencies.  VPS 融合怪服务器测评项目 · Go 版本 致力于成为最全面和最快速的服务器测评项目，使用 Go 语言实现，零环境依赖零广告",
+      "repository": {
+        "url": "https://github.com/oneclickvirt/ecs"
+      },
+      "license": "GPL-3.0",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "goecs",
+        "benchmark"
+      ],
+      "updatedAt": "2026-11-16T14:22:31.000Z"
     },
     {
       "id": "zhuyansen/new-term-radar",
@@ -577,7 +594,28 @@
         "url": "https://github.com/zhuyansen/new-term-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-02T23:42:54.000Z"
+      "updatedAt": "2026-11-16T12:31:33.000Z"
+    },
+    {
+      "id": "sixtysevenlf/dsh-blender-plugin",
+      "name": "dsh-blender-plugin",
+      "displayName": "dsh-blender-plugin",
+      "summary": "DSH × Blender 直连插件 v3.0.6：15 个模型工具让 AI 驱动 GUI Blender（视口 / 自定义视角 / 无头 worker / 作业层 / 事务回滚 / 配方库），34 family / 228 op 契约层；npm 安装 + addon zip，GUI 优先、无头备用；dsh-TUI 选中 chip / @ 提及 / /blender，随包建模 skill，支持 WSL / Windows / macOS。",
+      "repository": {
+        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
+      },
+      "license": "BSD-3-Clause",
+      "keywords": [
+        "dsh",
+        "blender",
+        "ai-agent",
+        "tooling",
+        "bpy",
+        "cycles",
+        "skill",
+        "modeling"
+      ],
+      "updatedAt": "2026-11-12T22:27:05.000Z"
     },
     {
       "id": "Jesseovo/last30days-skill-cn",
@@ -605,27 +643,6 @@
       "updatedAt": "2026-11-13T09:53:26.000Z"
     },
     {
-      "id": "sixtysevenlf/dsh-blender-plugin",
-      "name": "dsh-blender-plugin",
-      "displayName": "dsh-blender-plugin",
-      "summary": "DSH × Blender 直连插件 v3.0.6：15 个模型工具让 AI 驱动 GUI Blender（视口 / 自定义视角 / 无头 worker / 作业层 / 事务回滚 / 配方库），34 family / 228 op 契约层；npm 安装 + addon zip，GUI 优先、无头备用；dsh-TUI 选中 chip / @ 提及 / /blender，随包建模 skill，支持 WSL / Windows / macOS。",
-      "repository": {
-        "url": "https://github.com/sixtysevenlf/dsh-blender-plugin"
-      },
-      "license": "BSD-3-Clause",
-      "keywords": [
-        "dsh",
-        "blender",
-        "ai-agent",
-        "tooling",
-        "bpy",
-        "cycles",
-        "skill",
-        "modeling"
-      ],
-      "updatedAt": "2026-11-12T22:27:05.000Z"
-    },
-    {
       "id": "kenryu42/cc-safety-net",
       "name": "cc-safety-net",
       "displayName": "cc-safety-net",
@@ -651,7 +668,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-11-15T09:08:41.000Z"
+      "updatedAt": "2026-11-16T13:42:44.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -662,7 +679,7 @@
         "url": "https://github.com/Devin-AXIS/deepseek-design"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-15T04:03:47.000Z"
+      "updatedAt": "2026-11-16T08:24:26.000Z"
     },
     {
       "id": "dingminhua/dsh-connect-workbuddy",
@@ -681,7 +698,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-11-16T02:38:56.000Z"
+      "updatedAt": "2026-11-16T08:18:50.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -692,7 +709,18 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-16T04:49:43.000Z"
+      "updatedAt": "2026-11-16T14:36:21.000Z"
+    },
+    {
+      "id": "Ebony-Vinyl/EAC-design-world",
+      "name": "eac-design-world",
+      "displayName": "EAC-design-world",
+      "summary": "DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出",
+      "repository": {
+        "url": "https://github.com/Ebony-Vinyl/EAC-design-world"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-11-08T07:54:28.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -715,7 +743,7 @@
         "deepseek-harness",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-11-15T16:33:43.000Z"
+      "updatedAt": "2026-11-16T11:21:49.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -747,7 +775,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-15T13:37:37.000Z"
+      "updatedAt": "2026-11-16T12:34:48.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -780,18 +808,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-11-12T15:01:27.000Z"
-    },
-    {
-      "id": "Ebony-Vinyl/EAC-design-world",
-      "name": "eac-design-world",
-      "displayName": "EAC-design-world",
-      "summary": "DeepSeek Harness 本地视频制作与设计插件：多轨剪辑、模板与设计体系、原生预览画布和真实文件导出",
-      "repository": {
-        "url": "https://github.com/Ebony-Vinyl/EAC-design-world"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-11-08T07:54:28.000Z"
+      "updatedAt": "2026-11-16T06:17:40.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -812,72 +829,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-11-16T04:36:21.000Z"
-    },
-    {
-      "id": "GanyuanRan/Aegis",
-      "name": "aegis",
-      "displayName": "Aegis",
-      "summary": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
-      "repository": {
-        "url": "https://github.com/GanyuanRan/Aegis"
-      },
-      "license": "MIT",
-      "keywords": [
-        "pi-package",
-        "agent-skills",
-        "aegis",
-        "method-pack",
-        "dsh-plugin",
-        "deepseek-harness"
-      ],
-      "updatedAt": "2026-11-14T05:14:39.000Z"
-    },
-    {
-      "id": "c1overzz/dsh-bili-scroll",
-      "name": "dsh-bili-scroll",
-      "displayName": "dsh-bili-scroll",
-      "summary": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
-      "repository": {
-        "url": "https://github.com/c1overzz/dsh-bili-scroll"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "bilibili",
-        "mcp",
-        "duty"
-      ],
-      "updatedAt": "2026-11-12T16:21:04.000Z"
-    },
-    {
-      "id": "woniuniuniu/dsh-media-desk",
-      "name": "dsh-media-desk",
-      "displayName": "dsh-media-desk",
-      "summary": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-      "repository": {
-        "url": "https://github.com/woniuniuniu/dsh-media-desk"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-11-15T17:12:48.000Z"
-    },
-    {
-      "id": "0xsline/awesome-deepseek-harness",
-      "name": "0xsline/awesome-deepseek-harness",
-      "displayName": "awesome-deepseek-harness",
-      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
-      "repository": {
-        "url": "https://github.com/0xsline/awesome-deepseek-harness"
-      },
-      "license": "CC0-1.0",
-      "updatedAt": "2026-11-06T07:27:30.000Z"
+      "updatedAt": "2026-11-16T09:25:33.000Z"
     },
     {
       "id": "helloHub1212/dsh-windows-mcp",
@@ -902,6 +854,71 @@
         "screenshot"
       ],
       "updatedAt": "2026-11-15T12:12:09.000Z"
+    },
+    {
+      "id": "GanyuanRan/Aegis",
+      "name": "aegis",
+      "displayName": "Aegis",
+      "summary": "Make AI coding agents architecture-aware: baseline-first, evidence-verified, drift-checked, and safe across long tasks.",
+      "repository": {
+        "url": "https://github.com/GanyuanRan/Aegis"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "agent-skills",
+        "aegis",
+        "method-pack",
+        "dsh-plugin",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-11-14T05:14:39.000Z"
+    },
+    {
+      "id": "woniuniuniu/dsh-media-desk",
+      "name": "dsh-media-desk",
+      "displayName": "dsh-media-desk",
+      "summary": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+      "repository": {
+        "url": "https://github.com/woniuniuniu/dsh-media-desk"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-11-15T17:12:48.000Z"
+    },
+    {
+      "id": "c1overzz/dsh-bili-scroll",
+      "name": "dsh-bili-scroll",
+      "displayName": "dsh-bili-scroll",
+      "summary": "DSH 插件：每天替你刷一轮 B站，读字幕挑出值得的、写一份日报，值得的 @ 你",
+      "repository": {
+        "url": "https://github.com/c1overzz/dsh-bili-scroll"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "bilibili",
+        "mcp",
+        "duty"
+      ],
+      "updatedAt": "2026-11-12T16:21:04.000Z"
+    },
+    {
+      "id": "0xsline/awesome-deepseek-harness",
+      "name": "0xsline/awesome-deepseek-harness",
+      "displayName": "awesome-deepseek-harness",
+      "summary": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "repository": {
+        "url": "https://github.com/0xsline/awesome-deepseek-harness"
+      },
+      "license": "CC0-1.0",
+      "updatedAt": "2026-11-06T07:27:30.000Z"
     },
     {
       "id": "ADWMC/helm-d",
@@ -935,7 +952,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-16T03:52:44.000Z"
+      "updatedAt": "2026-11-16T14:55:17.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -982,7 +999,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-15T16:38:47.000Z"
+      "updatedAt": "2026-11-16T11:32:36.000Z"
     },
     {
       "id": "yexi-by/dsh-unrestricted",
@@ -1004,7 +1021,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-16T04:49:24.000Z"
+      "updatedAt": "2026-11-16T10:25:07.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1015,7 +1032,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T04:35:34.000Z"
+      "updatedAt": "2026-11-16T13:13:32.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-Pack",
@@ -1090,7 +1107,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-15T22:42:34.000Z"
+      "updatedAt": "2026-11-16T14:58:43.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -1183,7 +1200,7 @@
         "url": "https://github.com/Alice-Marx/dsh-model-router"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-15T14:17:03.000Z"
+      "updatedAt": "2026-11-16T13:36:46.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -1285,7 +1302,7 @@
         "pi-package",
         "opencode-plugin"
       ],
-      "updatedAt": "2026-11-12T20:30:41.000Z"
+      "updatedAt": "2026-11-16T12:36:36.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -1323,7 +1340,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-11-16T04:15:02.000Z"
+      "updatedAt": "2026-11-16T13:42:00.000Z"
     },
     {
       "id": "6shenhonghong9/dsh-startup-screen",
@@ -1365,7 +1382,7 @@
         "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T02:34:20.000Z"
+      "updatedAt": "2026-11-16T12:41:20.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1402,18 +1419,7 @@
         "launcher",
         "electron"
       ],
-      "updatedAt": "2026-11-15T11:07:42.000Z"
-    },
-    {
-      "id": "zenstory-ai/oh-story-dsh",
-      "name": "oh-story-dsh",
-      "displayName": "oh-story-dsh",
-      "summary": "DeepSeek Harness 故事创作插件：一站式集成网文连载、短剧漫剧、小说改游戏与视频解说四大工作台 ｜ Community DeepSeek Harness plugin for web novels, short dramas, games & video recaps",
-      "repository": {
-        "url": "https://github.com/zenstory-ai/oh-story-dsh"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-16T03:23:51.000Z"
+      "updatedAt": "2026-11-16T10:17:08.000Z"
     },
     {
       "id": "Yu-tao-Li/dsh-computer-use-win",
@@ -1437,6 +1443,17 @@
       "updatedAt": "2026-11-15T16:33:59.000Z"
     },
     {
+      "id": "zenstory-ai/oh-story-dsh",
+      "name": "oh-story-dsh",
+      "displayName": "oh-story-dsh",
+      "summary": "DeepSeek Harness 故事创作插件：一站式集成网文连载、短剧漫剧、小说改游戏与视频解说四大工作台 ｜ Community DeepSeek Harness plugin for web novels, short dramas, games & video recaps",
+      "repository": {
+        "url": "https://github.com/zenstory-ai/oh-story-dsh"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-16T03:23:51.000Z"
+    },
+    {
       "id": "myYangyunfan/dsh_desktop",
       "name": "myYangyunfan/dsh_desktop",
       "displayName": "dsh_desktop",
@@ -1446,17 +1463,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-11-14T08:13:28.000Z"
-    },
-    {
-      "id": "Nagi-ovo/dsh-ads",
-      "name": "@nagi-ovo/dsh-ads",
-      "displayName": "dsh-ads",
-      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
-      "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-ads"
-      },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-11-15T23:07:58.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1476,7 +1482,18 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-11-03T09:06:43.000Z"
+      "updatedAt": "2026-11-16T07:49:36.000Z"
+    },
+    {
+      "id": "Nagi-ovo/dsh-ads",
+      "name": "@nagi-ovo/dsh-ads",
+      "displayName": "dsh-ads",
+      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-ads"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-11-15T23:07:58.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1532,7 +1549,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-11-16T04:10:28.000Z"
+      "updatedAt": "2026-11-16T13:03:26.000Z"
     },
     {
       "id": "Roland0511/dsh-marktext",
@@ -1623,25 +1640,6 @@
       "updatedAt": "2026-11-16T04:32:21.000Z"
     },
     {
-      "id": "adoresever/graph-memory",
-      "name": "graph-memory",
-      "displayName": "graph-memory",
-      "summary": "Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse",
-      "repository": {
-        "url": "https://github.com/adoresever/graph-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "cordis",
-        "openclaw",
-        "agent-memory",
-        "knowledge-graph",
-        "sqlite"
-      ],
-      "updatedAt": "2026-10-01T00:45:49.000Z"
-    },
-    {
       "id": "fourzkw/dsh-drawai",
       "name": "dsh-drawai",
       "displayName": "dsh-drawai",
@@ -1660,38 +1658,26 @@
         "mxfile",
         "canvas"
       ],
-      "updatedAt": "2026-11-15T11:18:54.000Z"
+      "updatedAt": "2026-11-16T10:00:32.000Z"
     },
     {
-      "id": "ccch1mneyyy/working-activity",
-      "name": "pi-working-activity",
-      "displayName": "working-activity",
-      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "id": "adoresever/graph-memory",
+      "name": "graph-memory",
+      "displayName": "graph-memory",
+      "summary": "Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse",
       "repository": {
-        "url": "https://github.com/ccch1mneyyy/working-activity"
+        "url": "https://github.com/adoresever/graph-memory"
       },
       "license": "MIT",
       "keywords": [
-        "pi-package",
-        "pi-extension",
-        "working-indicator",
-        "status",
-        "activity",
-        "spinner",
-        "pi-coding-agent"
+        "deepseek-harness",
+        "cordis",
+        "openclaw",
+        "agent-memory",
+        "knowledge-graph",
+        "sqlite"
       ],
-      "updatedAt": "2026-10-18T19:14:22.000Z"
-    },
-    {
-      "id": "LivXue/dsh-plugin-shop",
-      "name": "dsh-plugin-shop-registry",
-      "displayName": "dsh-plugin-shop",
-      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
-      "repository": {
-        "url": "https://github.com/LivXue/dsh-plugin-shop"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-11-15T07:33:19.000Z"
+      "updatedAt": "2026-10-01T00:45:49.000Z"
     },
     {
       "id": "SAOS-3624/dsh-see-now",
@@ -1714,7 +1700,55 @@
         "token-efficient",
         "multimodal"
       ],
-      "updatedAt": "2026-11-15T06:59:05.000Z"
+      "updatedAt": "2026-11-16T12:04:54.000Z"
+    },
+    {
+      "id": "ccch1mneyyy/working-activity",
+      "name": "pi-working-activity",
+      "displayName": "working-activity",
+      "summary": "Lively Working-line extension for pi CLI and DSH",
+      "repository": {
+        "url": "https://github.com/ccch1mneyyy/working-activity"
+      },
+      "license": "MIT",
+      "keywords": [
+        "pi-package",
+        "pi-extension",
+        "working-indicator",
+        "status",
+        "activity",
+        "spinner",
+        "pi-coding-agent"
+      ],
+      "updatedAt": "2026-10-18T19:14:22.000Z"
+    },
+    {
+      "id": "aureth-labs/dsh-aurabot-qq",
+      "name": "dsh-aurabot-qq",
+      "displayName": "dsh-aurabot-qq",
+      "summary": "让 DeepSeek Harness 里的 AI 以「大肥鱼」住进 QQ：会聊天、发表情、发语音、记事、发空间、刷 B 站、唱歌。功能都是模块，能开关、能自己写，还能从模块市场装更多（SnowLuma / OneBot v11）。",
+      "repository": {
+        "url": "https://github.com/aureth-labs/dsh-aurabot-qq"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "qq",
+        "onebot"
+      ],
+      "updatedAt": "2026-11-16T14:24:40.000Z"
+    },
+    {
+      "id": "LivXue/dsh-plugin-shop",
+      "name": "dsh-plugin-shop-registry",
+      "displayName": "dsh-plugin-shop",
+      "summary": "The most comprehensive DeepSeek Harness plugin market — refreshed daily, sourced across the Internet, reviewed before publishing.",
+      "repository": {
+        "url": "https://github.com/LivXue/dsh-plugin-shop"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-11-16T09:04:52.000Z"
     },
     {
       "id": "chainbase-labs/Agentkey",
@@ -1738,70 +1772,6 @@
         "real-time-data"
       ],
       "updatedAt": "2026-08-24T16:55:44.000Z"
-    },
-    {
-      "id": "aureth-labs/dsh-aurabot-qq",
-      "name": "dsh-aurabot-qq",
-      "displayName": "dsh-aurabot-qq",
-      "summary": "让 DeepSeek Harness 里的 AI 以「大肥鱼」住进 QQ：会聊天、发表情、发语音、记事、发空间、刷 B 站、唱歌。功能都是模块，能开关、能自己写，还能从模块市场装更多（SnowLuma / OneBot v11）。",
-      "repository": {
-        "url": "https://github.com/aureth-labs/dsh-aurabot-qq"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "qq",
-        "onebot"
-      ],
-      "updatedAt": "2026-11-15T22:14:41.000Z"
-    },
-    {
-      "id": "sandbaseai/sandbase-harness",
-      "name": "managed-agents",
-      "displayName": "sandbase-harness",
-      "summary": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
-      "repository": {
-        "url": "https://github.com/sandbaseai/sandbase-harness"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "ai-agents",
-        "ai-agent-runtime",
-        "agent-runtime",
-        "managed-agents",
-        "claude-managed-agents",
-        "anthropic",
-        "mcp",
-        "mcp-tools",
-        "mcp-server",
-        "model-context-protocol",
-        "docker-mcp",
-        "cline",
-        "cursor",
-        "deepseek-harness",
-        "dsh-plugin",
-        "local-first",
-        "local-ai-agents",
-        "sandboxed-execution",
-        "agent-memory",
-        "credential-vaults",
-        "audit-log",
-        "session-replay",
-        "agent-console",
-        "skills",
-        "openai-compatible",
-        "ollama",
-        "vercel-ai-sdk",
-        "server-sent-events",
-        "agent-observability",
-        "agent-tools",
-        "ai-sandbox",
-        "developer-tools",
-        "typescript",
-        "sqlite"
-      ],
-      "updatedAt": "2026-11-15T14:15:31.000Z"
     },
     {
       "id": "c3cvld7aag/fujiang-dsh",
