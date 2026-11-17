@@ -38,7 +38,7 @@
         "url": "https://github.com/tw93/Mole"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-11-16T03:29:42.000Z"
+      "updatedAt": "2026-11-16T18:15:12.000Z"
     },
     {
       "id": "alchaincyf/nuwa-skill",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-15T23:22:31.000Z"
+      "updatedAt": "2026-11-16T23:24:44.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-16T06:59:12.000Z"
+      "updatedAt": "2026-11-16T19:01:28.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -131,7 +131,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-16T11:13:12.000Z"
+      "updatedAt": "2026-11-16T16:21:27.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -181,7 +181,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-16T14:26:04.000Z"
+      "updatedAt": "2026-11-17T00:08:59.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -192,7 +192,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-13T22:31:56.000Z"
+      "updatedAt": "2026-11-16T22:19:54.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -217,7 +217,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-16T14:34:39.000Z"
+      "updatedAt": "2026-11-16T23:37:11.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -255,7 +255,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-11-16T05:36:45.000Z"
+      "updatedAt": "2026-11-16T15:55:18.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -328,17 +328,6 @@
       "updatedAt": "2026-11-15T10:39:45.000Z"
     },
     {
-      "id": "omdsh-dev/DSH-better-sidebar",
-      "name": "dsh-better-sidebar",
-      "displayName": "DSH-better-sidebar",
-      "summary": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-15T17:02:00.000Z"
-    },
-    {
       "id": "bowenliang123/dsh-context",
       "name": "dsh-context",
       "displayName": "dsh-context",
@@ -356,7 +345,18 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-16T14:56:29.000Z"
+      "updatedAt": "2026-11-16T20:50:59.000Z"
+    },
+    {
+      "id": "omdsh-dev/DSH-better-sidebar",
+      "name": "dsh-better-sidebar",
+      "displayName": "DSH-better-sidebar",
+      "summary": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-15T17:02:00.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -427,7 +427,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-16T12:59:47.000Z"
+      "updatedAt": "2026-11-16T18:06:19.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -503,7 +503,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-16T05:23:50.000Z"
+      "updatedAt": "2026-11-16T16:53:27.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -566,7 +566,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T14:41:08.000Z"
+      "updatedAt": "2026-11-16T16:36:14.000Z"
     },
     {
       "id": "oneclickvirt/ecs",
@@ -583,7 +583,7 @@
         "goecs",
         "benchmark"
       ],
-      "updatedAt": "2026-11-16T14:22:31.000Z"
+      "updatedAt": "2026-11-16T17:31:45.000Z"
     },
     {
       "id": "zhuyansen/new-term-radar",
@@ -594,7 +594,7 @@
         "url": "https://github.com/zhuyansen/new-term-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T12:31:33.000Z"
+      "updatedAt": "2026-11-16T18:06:58.000Z"
     },
     {
       "id": "sixtysevenlf/dsh-blender-plugin",
@@ -679,7 +679,7 @@
         "url": "https://github.com/Devin-AXIS/deepseek-design"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-16T08:24:26.000Z"
+      "updatedAt": "2026-11-16T17:56:50.000Z"
     },
     {
       "id": "dingminhua/dsh-connect-workbuddy",
@@ -698,7 +698,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-11-16T08:18:50.000Z"
+      "updatedAt": "2026-11-16T20:31:02.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -709,7 +709,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-16T14:36:21.000Z"
+      "updatedAt": "2026-11-16T19:11:32.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-design-world",
@@ -721,6 +721,39 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-11-08T07:54:28.000Z"
+    },
+    {
+      "id": "shanliuling/dsh-image-gen",
+      "name": "dsh-image-gen",
+      "displayName": "dsh-image-gen",
+      "summary": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.",
+      "repository": {
+        "url": "https://github.com/shanliuling/dsh-image-gen"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ai-agent",
+        "image-generation",
+        "ai-image-generation",
+        "multimodal",
+        "gemini",
+        "openai",
+        "openai-compatible",
+        "seedream",
+        "dashscope",
+        "comfyui",
+        "local-image-generation",
+        "wanx",
+        "aliyun",
+        "volcengine",
+        "byok",
+        "cordis"
+      ],
+      "updatedAt": "2026-11-16T06:17:40.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -775,40 +808,7 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-16T12:34:48.000Z"
-    },
-    {
-      "id": "shanliuling/dsh-image-gen",
-      "name": "dsh-image-gen",
-      "displayName": "dsh-image-gen",
-      "summary": "可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.",
-      "repository": {
-        "url": "https://github.com/shanliuling/dsh-image-gen"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "ai-agent",
-        "image-generation",
-        "ai-image-generation",
-        "multimodal",
-        "gemini",
-        "openai",
-        "openai-compatible",
-        "seedream",
-        "dashscope",
-        "comfyui",
-        "local-image-generation",
-        "wanx",
-        "aliyun",
-        "volcengine",
-        "byok",
-        "cordis"
-      ],
-      "updatedAt": "2026-11-16T06:17:40.000Z"
+      "updatedAt": "2026-11-16T19:54:30.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -829,7 +829,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-11-16T09:25:33.000Z"
+      "updatedAt": "2026-11-16T20:57:35.000Z"
     },
     {
       "id": "helloHub1212/dsh-windows-mcp",
@@ -952,7 +952,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-16T14:55:17.000Z"
+      "updatedAt": "2026-11-16T15:20:18.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -982,6 +982,7 @@
         "search",
         "free",
         "brave",
+        "zhipu",
         "baidu",
         "kimi",
         "moonshot",
@@ -999,7 +1000,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-16T11:32:36.000Z"
+      "updatedAt": "2026-11-16T16:30:45.000Z"
     },
     {
       "id": "yexi-by/dsh-unrestricted",
@@ -1021,7 +1022,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-16T10:25:07.000Z"
+      "updatedAt": "2026-11-16T17:01:49.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1067,6 +1068,26 @@
       "updatedAt": "2026-11-02T10:49:12.000Z"
     },
     {
+      "id": "superdesigndev/superdesign-skill",
+      "name": "superdesign-dsh",
+      "displayName": "superdesign-skill",
+      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+      "repository": {
+        "url": "https://github.com/superdesigndev/superdesign-skill"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "design",
+        "ui-design",
+        "presentations",
+        "slide-decks",
+        "infinite-canvas"
+      ],
+      "updatedAt": "2026-08-21T05:23:23.000Z"
+    },
+    {
       "id": "omdsh-dev/dsh-mnemon",
       "name": "dsh-mnemon",
       "displayName": "dsh-mnemon",
@@ -1107,27 +1128,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-16T14:58:43.000Z"
-    },
-    {
-      "id": "superdesigndev/superdesign-skill",
-      "name": "superdesign-dsh",
-      "displayName": "superdesign-skill",
-      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
-      "repository": {
-        "url": "https://github.com/superdesigndev/superdesign-skill"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "design",
-        "ui-design",
-        "presentations",
-        "slide-decks",
-        "infinite-canvas"
-      ],
-      "updatedAt": "2026-08-21T05:23:23.000Z"
+      "updatedAt": "2026-11-16T16:42:50.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1229,16 +1230,6 @@
       "updatedAt": "2026-11-13T12:53:31.000Z"
     },
     {
-      "id": "mindscale-noah/MindMemOS",
-      "name": "mindscale-noah/MindMemOS",
-      "displayName": "MindMemOS",
-      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
-      "repository": {
-        "url": "https://github.com/mindscale-noah/MindMemOS"
-      },
-      "updatedAt": "2026-11-12T07:27:16.000Z"
-    },
-    {
       "id": "op7418/dsh-guizang-design",
       "name": "dsh-guizang-design",
       "displayName": "dsh-guizang-design",
@@ -1257,6 +1248,16 @@
         "typography"
       ],
       "updatedAt": "2026-11-05T07:44:48.000Z"
+    },
+    {
+      "id": "mindscale-noah/MindMemOS",
+      "name": "mindscale-noah/MindMemOS",
+      "displayName": "MindMemOS",
+      "summary": "DeepSeek Harness plugin hosted at mindscale-noah/MindMemOS.",
+      "repository": {
+        "url": "https://github.com/mindscale-noah/MindMemOS"
+      },
+      "updatedAt": "2026-11-12T07:27:16.000Z"
     },
     {
       "id": "toby-bridges/api-relay-audit",
@@ -1340,7 +1341,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-11-16T13:42:00.000Z"
+      "updatedAt": "2026-11-16T16:30:38.000Z"
     },
     {
       "id": "6shenhonghong9/dsh-startup-screen",
@@ -1465,6 +1466,28 @@
       "updatedAt": "2026-11-14T08:13:28.000Z"
     },
     {
+      "id": "Roland0511/dsh-marktext",
+      "name": "dsh-marktext",
+      "displayName": "dsh-marktext",
+      "summary": "MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar",
+      "repository": {
+        "url": "https://github.com/Roland0511/dsh-marktext"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "markdown",
+        "editor",
+        "marktext",
+        "muya",
+        "wysiwyg"
+      ],
+      "updatedAt": "2026-11-07T13:29:10.000Z"
+    },
+    {
       "id": "dream-num/dsh-univer-office",
       "name": "dsh-univer-office",
       "displayName": "dsh-univer-office",
@@ -1550,28 +1573,6 @@
         "language"
       ],
       "updatedAt": "2026-11-16T13:03:26.000Z"
-    },
-    {
-      "id": "Roland0511/dsh-marktext",
-      "name": "dsh-marktext",
-      "displayName": "dsh-marktext",
-      "summary": "MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar",
-      "repository": {
-        "url": "https://github.com/Roland0511/dsh-marktext"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "markdown",
-        "editor",
-        "marktext",
-        "muya",
-        "wysiwyg"
-      ],
-      "updatedAt": "2026-11-07T13:29:10.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1703,6 +1704,23 @@
       "updatedAt": "2026-11-16T12:04:54.000Z"
     },
     {
+      "id": "aureth-labs/dsh-aurabot-qq",
+      "name": "dsh-aurabot-qq",
+      "displayName": "dsh-aurabot-qq",
+      "summary": "让 DeepSeek Harness 里的 AI 以「大肥鱼」住进 QQ：会聊天、发表情、发语音、记事、发空间、刷 B 站、唱歌。功能都是模块，能开关、能自己写，还能从模块市场装更多（SnowLuma / OneBot v11）。",
+      "repository": {
+        "url": "https://github.com/aureth-labs/dsh-aurabot-qq"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "qq",
+        "onebot"
+      ],
+      "updatedAt": "2026-11-16T19:18:30.000Z"
+    },
+    {
       "id": "ccch1mneyyy/working-activity",
       "name": "pi-working-activity",
       "displayName": "working-activity",
@@ -1721,23 +1739,6 @@
         "pi-coding-agent"
       ],
       "updatedAt": "2026-10-18T19:14:22.000Z"
-    },
-    {
-      "id": "aureth-labs/dsh-aurabot-qq",
-      "name": "dsh-aurabot-qq",
-      "displayName": "dsh-aurabot-qq",
-      "summary": "让 DeepSeek Harness 里的 AI 以「大肥鱼」住进 QQ：会聊天、发表情、发语音、记事、发空间、刷 B 站、唱歌。功能都是模块，能开关、能自己写，还能从模块市场装更多（SnowLuma / OneBot v11）。",
-      "repository": {
-        "url": "https://github.com/aureth-labs/dsh-aurabot-qq"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "qq",
-        "onebot"
-      ],
-      "updatedAt": "2026-11-16T14:24:40.000Z"
     },
     {
       "id": "LivXue/dsh-plugin-shop",
