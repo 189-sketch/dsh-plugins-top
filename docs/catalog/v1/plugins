@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-17T01:42:28.000Z"
+      "updatedAt": "2026-11-17T15:05:12.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-11-16T03:20:57.000Z"
+      "updatedAt": "2026-11-17T16:55:24.000Z"
     },
     {
       "id": "tw93/Mole",
@@ -38,7 +38,7 @@
         "url": "https://github.com/tw93/Mole"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-11-16T18:15:12.000Z"
+      "updatedAt": "2026-11-17T13:47:31.000Z"
     },
     {
       "id": "alchaincyf/nuwa-skill",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-16T23:24:44.000Z"
+      "updatedAt": "2026-11-17T17:40:19.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-17T05:06:42.000Z"
+      "updatedAt": "2026-11-17T16:56:05.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -120,7 +120,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-11T02:51:43.000Z"
+      "updatedAt": "2026-11-17T09:52:40.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -131,7 +131,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-17T07:12:46.000Z"
+      "updatedAt": "2026-11-17T12:30:22.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -142,7 +142,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-17T05:38:22.000Z"
+      "updatedAt": "2026-11-17T13:31:26.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -171,7 +171,7 @@
         "无限制模式",
         "unrestricted"
       ],
-      "updatedAt": "2026-11-16T09:57:13.000Z"
+      "updatedAt": "2026-11-17T17:13:43.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-17T07:16:20.000Z"
+      "updatedAt": "2026-11-17T15:14:06.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -203,7 +203,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-16T22:19:54.000Z"
+      "updatedAt": "2026-11-17T17:12:06.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -228,25 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-17T07:19:15.000Z"
-    },
-    {
-      "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
-      "name": "dsh-whale-widget",
-      "displayName": "DeepSeek-Balance-Whale-Widget",
-      "summary": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
-      "repository": {
-        "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "balance",
-        "widget"
-      ],
-      "updatedAt": "2026-10-11T12:25:55.000Z"
+      "updatedAt": "2026-11-17T17:40:35.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -267,6 +249,24 @@
         "background"
       ],
       "updatedAt": "2026-11-16T15:55:18.000Z"
+    },
+    {
+      "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
+      "name": "dsh-whale-widget",
+      "displayName": "DeepSeek-Balance-Whale-Widget",
+      "summary": "DeepSeek Harness（DSH）一只住在 DSH 界面右下角的小鲸鱼娘，帮你盯着DeepSeek账户余额。QQ弹弹，支持拖拽吸附、左吸附翻转、数字滚动动画，随界面自动启用，建议直接喊来你的dsh安装",
+      "repository": {
+        "url": "https://github.com/MeteorNOX/DeepSeek-Balance-Whale-Widget"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "balance",
+        "widget"
+      ],
+      "updatedAt": "2026-10-11T12:25:55.000Z"
     },
     {
       "id": "yjh051108/dsh-routing-suite",
@@ -308,7 +308,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-11-17T07:10:23.000Z"
+      "updatedAt": "2026-11-17T10:14:14.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -382,7 +382,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-17T05:41:25.000Z"
+      "updatedAt": "2026-11-17T07:57:16.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -393,18 +393,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-15T17:02:00.000Z"
-    },
-    {
-      "id": "onehumanbeing/esp32-iphone-agent",
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "displayName": "esp32-iphone-agent",
-      "summary": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
-      "repository": {
-        "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-16T08:03:16.000Z"
+      "updatedAt": "2026-11-17T16:15:25.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -438,7 +427,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-17T05:38:46.000Z"
+      "updatedAt": "2026-11-17T17:16:09.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -485,17 +474,6 @@
       "updatedAt": "2026-11-07T05:03:35.000Z"
     },
     {
-      "id": "Small-tailqwq/dsh-deep-whale",
-      "name": "Small-tailqwq/dsh-deep-whale",
-      "displayName": "dsh-deep-whale",
-      "summary": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
-      "repository": {
-        "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-11-15T12:42:34.000Z"
-    },
-    {
       "id": "liguobao/ds-harness-remote",
       "name": "ds-harness-remote",
       "displayName": "ds-harness-remote",
@@ -514,7 +492,18 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-17T02:02:50.000Z"
+      "updatedAt": "2026-11-17T17:25:54.000Z"
+    },
+    {
+      "id": "Small-tailqwq/dsh-deep-whale",
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "displayName": "dsh-deep-whale",
+      "summary": "Whale Girl skin series for DeepSeek Harness. 适用于 DeepSeek Harness 的，鲸鱼娘系列皮肤。",
+      "repository": {
+        "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-11-15T12:42:34.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -577,7 +566,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-17T06:10:24.000Z"
+      "updatedAt": "2026-11-17T17:20:38.000Z"
     },
     {
       "id": "oneclickvirt/ecs",
@@ -651,7 +640,7 @@
         "douyin",
         "chinese-platforms"
       ],
-      "updatedAt": "2026-11-17T04:20:34.000Z"
+      "updatedAt": "2026-11-17T10:14:53.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -679,7 +668,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-11-17T06:32:19.000Z"
+      "updatedAt": "2026-11-17T07:41:27.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -709,7 +698,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-11-16T20:31:02.000Z"
+      "updatedAt": "2026-11-17T14:08:07.000Z"
     },
     {
       "id": "flizzywine/dsh-tavern",
@@ -720,7 +709,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-17T06:53:16.000Z"
+      "updatedAt": "2026-11-17T17:30:42.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-design-world",
@@ -732,6 +721,38 @@
       },
       "license": "AGPL-3.0",
       "updatedAt": "2026-11-08T07:54:28.000Z"
+    },
+    {
+      "id": "vshulcz/deja-vu",
+      "name": "dsh-deja",
+      "displayName": "deja-vu",
+      "summary": "Shared local memory, session history search, cross-agent handoff, and uncommitted code recovery across 46 coding agents — Claude Code, Codex, Cursor, OpenCode, Gemini CLI, OpenClaw & more (CLI & MCP). One Go binary, zero LLM calls.",
+      "repository": {
+        "url": "https://github.com/vshulcz/deja-vu"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "memory",
+        "recall",
+        "session-history",
+        "migration",
+        "agent-memory",
+        "ai-memory",
+        "coding-agent",
+        "claude-code",
+        "claude-code-memory",
+        "codex",
+        "cursor",
+        "gemini-cli",
+        "mcp",
+        "mcp-server",
+        "session-search",
+        "local-first"
+      ],
+      "updatedAt": "2026-11-17T12:16:43.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -764,62 +785,7 @@
         "byok",
         "cordis"
       ],
-      "updatedAt": "2026-11-16T06:17:40.000Z"
-    },
-    {
-      "id": "vshulcz/deja-vu",
-      "name": "dsh-deja",
-      "displayName": "deja-vu",
-      "summary": "Shared local memory, session history search, cross-agent handoff, and uncommitted code recovery across 46 coding agents — Claude Code, Codex, Cursor, OpenCode, Gemini CLI, OpenClaw & more (CLI & MCP). One Go binary, zero LLM calls.",
-      "repository": {
-        "url": "https://github.com/vshulcz/deja-vu"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "memory",
-        "recall",
-        "session-history",
-        "migration",
-        "agent-memory",
-        "ai-memory",
-        "coding-agent",
-        "claude-code",
-        "claude-code-memory",
-        "codex",
-        "cursor",
-        "gemini-cli",
-        "mcp",
-        "mcp-server",
-        "session-search",
-        "local-first"
-      ],
-      "updatedAt": "2026-11-17T07:11:44.000Z"
-    },
-    {
-      "id": "hyhmrright/brooks-lint",
-      "name": "brooks-lint",
-      "displayName": "brooks-lint",
-      "summary": "Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skills for architecture, technical debt, tests and remediation.",
-      "repository": {
-        "url": "https://github.com/hyhmrright/brooks-lint"
-      },
-      "license": "MIT",
-      "keywords": [
-        "agent-skills",
-        "code-review",
-        "architecture",
-        "technical-debt",
-        "codex",
-        "claude-code",
-        "cursor",
-        "copilot",
-        "deepseek-harness",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-11-17T02:48:42.000Z"
+      "updatedAt": "2026-11-17T07:49:51.000Z"
     },
     {
       "id": "helloHub1212/dsh-windows-mcp",
@@ -846,6 +812,29 @@
       "updatedAt": "2026-11-15T12:12:09.000Z"
     },
     {
+      "id": "hyhmrright/brooks-lint",
+      "name": "brooks-lint",
+      "displayName": "brooks-lint",
+      "summary": "Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skills for architecture, technical debt, tests and remediation.",
+      "repository": {
+        "url": "https://github.com/hyhmrright/brooks-lint"
+      },
+      "license": "MIT",
+      "keywords": [
+        "agent-skills",
+        "code-review",
+        "architecture",
+        "technical-debt",
+        "codex",
+        "claude-code",
+        "cursor",
+        "copilot",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-11-17T02:48:42.000Z"
+    },
+    {
       "id": "Miaotofu01/Study-Mate",
       "name": "@yunmiao/studymate",
       "displayName": "Study-Mate",
@@ -864,7 +853,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-11-17T07:01:36.000Z"
+      "updatedAt": "2026-11-17T12:57:50.000Z"
     },
     {
       "id": "woniuniuniu/dsh-media-desk",
@@ -989,7 +978,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-17T07:03:26.000Z"
+      "updatedAt": "2026-11-17T16:36:10.000Z"
     },
     {
       "id": "ysr666/dsh-vision-router",
@@ -1012,7 +1001,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-17T03:15:57.000Z"
+      "updatedAt": "2026-11-17T15:47:52.000Z"
     },
     {
       "id": "yexi-by/dsh-unrestricted",
@@ -1023,7 +1012,7 @@
         "url": "https://github.com/yexi-by/dsh-unrestricted"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-15T11:59:12.000Z"
+      "updatedAt": "2026-11-17T11:36:12.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -1034,7 +1023,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-16T17:01:49.000Z"
+      "updatedAt": "2026-11-17T16:13:28.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1045,7 +1034,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-17T06:29:24.000Z"
+      "updatedAt": "2026-11-17T10:58:36.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-Pack",
@@ -1066,7 +1055,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-14T06:20:05.000Z"
+      "updatedAt": "2026-11-17T14:26:58.000Z"
     },
     {
       "id": "beiyege-01/dsh-voice-ai-girlfriend",
@@ -1078,26 +1067,6 @@
       },
       "license": "NOASSERTION",
       "updatedAt": "2026-11-02T10:49:12.000Z"
-    },
-    {
-      "id": "superdesigndev/superdesign-skill",
-      "name": "superdesign-dsh",
-      "displayName": "superdesign-skill",
-      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
-      "repository": {
-        "url": "https://github.com/superdesigndev/superdesign-skill"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "design",
-        "ui-design",
-        "presentations",
-        "slide-decks",
-        "infinite-canvas"
-      ],
-      "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1140,7 +1109,27 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-17T06:56:07.000Z"
+      "updatedAt": "2026-11-17T17:21:47.000Z"
+    },
+    {
+      "id": "superdesigndev/superdesign-skill",
+      "name": "superdesign-dsh",
+      "displayName": "superdesign-skill",
+      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+      "repository": {
+        "url": "https://github.com/superdesigndev/superdesign-skill"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "design",
+        "ui-design",
+        "presentations",
+        "slide-decks",
+        "infinite-canvas"
+      ],
+      "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1216,6 +1205,26 @@
       "updatedAt": "2026-11-17T04:33:20.000Z"
     },
     {
+      "id": "op7418/dsh-guizang-design",
+      "name": "dsh-guizang-design",
+      "displayName": "dsh-guizang-design",
+      "summary": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+      "repository": {
+        "url": "https://github.com/op7418/dsh-guizang-design"
+      },
+      "license": "AGPL-3.0",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "dsh",
+        "skills",
+        "ppt",
+        "design-system",
+        "typography"
+      ],
+      "updatedAt": "2026-11-05T07:44:48.000Z"
+    },
+    {
       "id": "Anionex/dsh-vision-toolkit",
       "name": "@anionex/dsh-vision-toolkit",
       "displayName": "dsh-vision-toolkit",
@@ -1240,26 +1249,6 @@
         "gui-automation"
       ],
       "updatedAt": "2026-11-13T12:53:31.000Z"
-    },
-    {
-      "id": "op7418/dsh-guizang-design",
-      "name": "dsh-guizang-design",
-      "displayName": "dsh-guizang-design",
-      "summary": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
-      "repository": {
-        "url": "https://github.com/op7418/dsh-guizang-design"
-      },
-      "license": "AGPL-3.0",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "dsh",
-        "skills",
-        "ppt",
-        "design-system",
-        "typography"
-      ],
-      "updatedAt": "2026-11-05T07:44:48.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -1353,7 +1342,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-11-17T06:37:55.000Z"
+      "updatedAt": "2026-11-17T16:50:44.000Z"
     },
     {
       "id": "6shenhonghong9/dsh-startup-screen",
@@ -1395,7 +1384,7 @@
         "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-17T02:07:13.000Z"
+      "updatedAt": "2026-11-17T11:36:18.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1432,7 +1421,7 @@
         "launcher",
         "electron"
       ],
-      "updatedAt": "2026-11-16T10:17:08.000Z"
+      "updatedAt": "2026-11-17T10:31:52.000Z"
     },
     {
       "id": "Yu-tao-Li/dsh-computer-use-win",
@@ -1453,7 +1442,7 @@
         "uia",
         "desktop-automation"
       ],
-      "updatedAt": "2026-11-15T16:33:59.000Z"
+      "updatedAt": "2026-11-17T15:54:57.000Z"
     },
     {
       "id": "zenstory-ai/oh-story-dsh",
@@ -1517,7 +1506,7 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-11-17T07:11:17.000Z"
+      "updatedAt": "2026-11-17T12:08:28.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1584,7 +1573,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-11-16T13:03:26.000Z"
+      "updatedAt": "2026-11-17T12:41:03.000Z"
     },
     {
       "id": "fourzkw/dsh-drawai",
@@ -1605,7 +1594,31 @@
         "mxfile",
         "canvas"
       ],
-      "updatedAt": "2026-11-16T10:00:32.000Z"
+      "updatedAt": "2026-11-17T16:56:30.000Z"
+    },
+    {
+      "id": "FuRongJun-1999/dsh-memory",
+      "name": "@furongjun1999/dsh-memory",
+      "displayName": "dsh-memory",
+      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
+      "repository": {
+        "url": "https://github.com/FuRongJun-1999/dsh-memory"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "dsh",
+        "dsh-plugin",
+        "cordis",
+        "memory",
+        "agent",
+        "aeis",
+        "lingshu",
+        "multi-agent",
+        "spatiotemporal",
+        "knowledge-graph"
+      ],
+      "updatedAt": "2026-11-17T16:37:00.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1650,49 +1663,6 @@
       "updatedAt": "2026-10-10T08:54:47.000Z"
     },
     {
-      "id": "FuRongJun-1999/dsh-memory",
-      "name": "@furongjun1999/dsh-memory",
-      "displayName": "dsh-memory",
-      "summary": "白箱AGI架构探索：元认知（自我认知循环）、持续学习（知识飞轮）、世界模型（条件空间+语义时空图）、自我改进（自举纪律）、零LLM白箱管线与可审计信任护栏。",
-      "repository": {
-        "url": "https://github.com/FuRongJun-1999/dsh-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "dsh",
-        "dsh-plugin",
-        "cordis",
-        "memory",
-        "agent",
-        "aeis",
-        "lingshu",
-        "multi-agent",
-        "spatiotemporal",
-        "knowledge-graph"
-      ],
-      "updatedAt": "2026-11-17T05:46:13.000Z"
-    },
-    {
-      "id": "adoresever/graph-memory",
-      "name": "graph-memory",
-      "displayName": "graph-memory",
-      "summary": "Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse",
-      "repository": {
-        "url": "https://github.com/adoresever/graph-memory"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "cordis",
-        "openclaw",
-        "agent-memory",
-        "knowledge-graph",
-        "sqlite"
-      ],
-      "updatedAt": "2026-10-01T00:45:49.000Z"
-    },
-    {
       "id": "SAOS-3624/dsh-see-now",
       "name": "dsh-see-now",
       "displayName": "dsh-see-now",
@@ -1730,7 +1700,37 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-17T06:28:53.000Z"
+      "updatedAt": "2026-11-17T12:48:20.000Z"
+    },
+    {
+      "id": "adoresever/graph-memory",
+      "name": "graph-memory",
+      "displayName": "graph-memory",
+      "summary": "Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse",
+      "repository": {
+        "url": "https://github.com/adoresever/graph-memory"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "cordis",
+        "openclaw",
+        "agent-memory",
+        "knowledge-graph",
+        "sqlite"
+      ],
+      "updatedAt": "2026-10-01T00:45:49.000Z"
+    },
+    {
+      "id": "c3cvld7aag/fujiang-dsh",
+      "name": "fujiang-armor",
+      "displayName": "fujiang-dsh",
+      "summary": "富江DSH完美破甲｜富江破甲 DSH 本地插件，内置提示词规则，支持 Windows 一键安装、环境自动准备与一键卸载，全中文使用说明。",
+      "repository": {
+        "url": "https://github.com/c3cvld7aag/fujiang-dsh"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-03T16:29:47.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -1761,18 +1761,30 @@
         "url": "https://github.com/LivXue/dsh-plugin-shop"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-16T09:04:52.000Z"
+      "updatedAt": "2026-11-17T10:32:21.000Z"
     },
     {
-      "id": "c3cvld7aag/fujiang-dsh",
-      "name": "fujiang-armor",
-      "displayName": "fujiang-dsh",
-      "summary": "富江DSH完美破甲｜富江破甲 DSH 本地插件，内置提示词规则，支持 Windows 一键安装、环境自动准备与一键卸载，全中文使用说明。",
+      "id": "chainbase-labs/Agentkey",
+      "name": "agentkey-skill",
+      "displayName": "Agentkey",
+      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
       "repository": {
-        "url": "https://github.com/c3cvld7aag/fujiang-dsh"
+        "url": "https://github.com/chainbase-labs/Agentkey"
       },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-03T16:29:47.000Z"
+      "license": "Apache-2.0",
+      "keywords": [
+        "ai-agents",
+        "claude-code",
+        "cursor",
+        "codex",
+        "skills",
+        "agent-skills",
+        "web-search",
+        "social-media",
+        "crypto",
+        "real-time-data"
+      ],
+      "updatedAt": "2026-11-17T08:51:48.000Z"
     }
   ],
   "page": {
