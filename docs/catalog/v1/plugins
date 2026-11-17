@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-16T06:22:48.000Z"
+      "updatedAt": "2026-11-17T01:42:28.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -54,7 +54,7 @@
         "deepseek-harness",
         "agent-skill"
       ],
-      "updatedAt": "2026-11-15T05:31:03.000Z"
+      "updatedAt": "2026-11-17T06:07:14.000Z"
     },
     {
       "id": "alchaincyf/huashu-design",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-16T19:01:28.000Z"
+      "updatedAt": "2026-11-17T05:06:42.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -123,6 +123,17 @@
       "updatedAt": "2026-11-11T02:51:43.000Z"
     },
     {
+      "id": "Tencent/BrowserSkill",
+      "name": "browser-skill",
+      "displayName": "BrowserSkill",
+      "summary": "Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.",
+      "repository": {
+        "url": "https://github.com/Tencent/BrowserSkill"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-17T07:12:46.000Z"
+    },
+    {
       "id": "zhu1090093659/dsh-web",
       "name": "dsh-web",
       "displayName": "dsh-web",
@@ -131,7 +142,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-16T16:21:27.000Z"
+      "updatedAt": "2026-11-17T05:38:22.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -181,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-17T00:08:59.000Z"
+      "updatedAt": "2026-11-17T07:16:20.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -217,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-16T23:37:11.000Z"
+      "updatedAt": "2026-11-17T07:19:15.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -280,17 +291,6 @@
       "updatedAt": "2026-09-18T23:10:58.000Z"
     },
     {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-16T14:37:53.000Z"
-    },
-    {
       "id": "QingYunA/answer-me-with-html",
       "name": "answer-me-with-html",
       "displayName": "answer-me-with-html",
@@ -308,7 +308,18 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-11-16T05:37:19.000Z"
+      "updatedAt": "2026-11-17T07:10:23.000Z"
+    },
+    {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-17T05:06:16.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -326,37 +337,6 @@
         "repository-tools"
       ],
       "updatedAt": "2026-11-15T10:39:45.000Z"
-    },
-    {
-      "id": "bowenliang123/dsh-context",
-      "name": "dsh-context",
-      "displayName": "dsh-context",
-      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。",
-      "repository": {
-        "url": "https://github.com/bowenliang123/dsh-context"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "cordis",
-        "plugin",
-        "context",
-        "token",
-        "ui"
-      ],
-      "updatedAt": "2026-11-16T20:50:59.000Z"
-    },
-    {
-      "id": "omdsh-dev/DSH-better-sidebar",
-      "name": "dsh-better-sidebar",
-      "displayName": "DSH-better-sidebar",
-      "summary": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-15T17:02:00.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -383,6 +363,37 @@
         "agent"
       ],
       "updatedAt": "2026-10-13T05:50:46.000Z"
+    },
+    {
+      "id": "bowenliang123/dsh-context",
+      "name": "dsh-context",
+      "displayName": "dsh-context",
+      "summary": "The best DeepSeek Harness plugin for context insight and management, with context dashboard / browser / sidebar and context command, for context statistics, composition, breakdown, evolution details, agent teams, understanding how the context is made of, and how it evolves. 一站式 DeepSeek Harness 上下文可视化插件，Context 面板、浏览器、侧栏、命令，透视上下文组成、演进、压缩、多 Agent等。",
+      "repository": {
+        "url": "https://github.com/bowenliang123/dsh-context"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "cordis",
+        "plugin",
+        "context",
+        "token",
+        "ui"
+      ],
+      "updatedAt": "2026-11-17T05:41:25.000Z"
+    },
+    {
+      "id": "omdsh-dev/DSH-better-sidebar",
+      "name": "dsh-better-sidebar",
+      "displayName": "DSH-better-sidebar",
+      "summary": "开放的侧边栏底座，支持三方拓展注册新侧边栏页面。内置文件渲染编辑/终端/侧边对话/Git/子代理页面 ｜ Open sidebar foundation, supports third-party extensions to register new sidebar pages. Built-in file rendering/editing, terminal, side chat, Git, and sub-agent pages.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-15T17:02:00.000Z"
     },
     {
       "id": "onehumanbeing/esp32-iphone-agent",
@@ -427,7 +438,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-16T18:06:19.000Z"
+      "updatedAt": "2026-11-17T05:38:46.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -503,7 +514,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-16T16:53:27.000Z"
+      "updatedAt": "2026-11-17T02:02:50.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -566,7 +577,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T16:36:14.000Z"
+      "updatedAt": "2026-11-17T06:10:24.000Z"
     },
     {
       "id": "oneclickvirt/ecs",
@@ -640,7 +651,7 @@
         "douyin",
         "chinese-platforms"
       ],
-      "updatedAt": "2026-11-13T09:53:26.000Z"
+      "updatedAt": "2026-11-17T04:20:34.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -668,7 +679,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-11-16T13:42:44.000Z"
+      "updatedAt": "2026-11-17T06:32:19.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -709,7 +720,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-16T19:11:32.000Z"
+      "updatedAt": "2026-11-17T06:53:16.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-design-world",
@@ -756,29 +767,6 @@
       "updatedAt": "2026-11-16T06:17:40.000Z"
     },
     {
-      "id": "hyhmrright/brooks-lint",
-      "name": "brooks-lint",
-      "displayName": "brooks-lint",
-      "summary": "Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skills for architecture, technical debt, tests and remediation.",
-      "repository": {
-        "url": "https://github.com/hyhmrright/brooks-lint"
-      },
-      "license": "MIT",
-      "keywords": [
-        "agent-skills",
-        "code-review",
-        "architecture",
-        "technical-debt",
-        "codex",
-        "claude-code",
-        "cursor",
-        "copilot",
-        "deepseek-harness",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-11-16T11:21:49.000Z"
-    },
-    {
       "id": "vshulcz/deja-vu",
       "name": "dsh-deja",
       "displayName": "deja-vu",
@@ -808,28 +796,30 @@
         "session-search",
         "local-first"
       ],
-      "updatedAt": "2026-11-16T19:54:30.000Z"
+      "updatedAt": "2026-11-17T07:11:44.000Z"
     },
     {
-      "id": "Miaotofu01/Study-Mate",
-      "name": "@yunmiao/studymate",
-      "displayName": "Study-Mate",
-      "summary": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
+      "id": "hyhmrright/brooks-lint",
+      "name": "brooks-lint",
+      "displayName": "brooks-lint",
+      "summary": "Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skills for architecture, technical debt, tests and remediation.",
       "repository": {
-        "url": "https://github.com/Miaotofu01/Study-Mate"
+        "url": "https://github.com/hyhmrright/brooks-lint"
       },
       "license": "MIT",
       "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "studymate",
-        "learning",
-        "education",
-        "antigravity",
+        "agent-skills",
+        "code-review",
+        "architecture",
+        "technical-debt",
         "codex",
-        "chatgpt"
+        "claude-code",
+        "cursor",
+        "copilot",
+        "deepseek-harness",
+        "dsh-plugin"
       ],
-      "updatedAt": "2026-11-16T20:57:35.000Z"
+      "updatedAt": "2026-11-17T02:48:42.000Z"
     },
     {
       "id": "helloHub1212/dsh-windows-mcp",
@@ -856,6 +846,43 @@
       "updatedAt": "2026-11-15T12:12:09.000Z"
     },
     {
+      "id": "Miaotofu01/Study-Mate",
+      "name": "@yunmiao/studymate",
+      "displayName": "Study-Mate",
+      "summary": "你的AI学习搭档：定路线、讲知识、做项目，边学边做，学透一门科目",
+      "repository": {
+        "url": "https://github.com/Miaotofu01/Study-Mate"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "studymate",
+        "learning",
+        "education",
+        "antigravity",
+        "codex",
+        "chatgpt"
+      ],
+      "updatedAt": "2026-11-17T07:01:36.000Z"
+    },
+    {
+      "id": "woniuniuniu/dsh-media-desk",
+      "name": "dsh-media-desk",
+      "displayName": "dsh-media-desk",
+      "summary": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+      "repository": {
+        "url": "https://github.com/woniuniuniu/dsh-media-desk"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-11-15T17:12:48.000Z"
+    },
+    {
       "id": "GanyuanRan/Aegis",
       "name": "aegis",
       "displayName": "Aegis",
@@ -873,22 +900,6 @@
         "deepseek-harness"
       ],
       "updatedAt": "2026-11-14T05:14:39.000Z"
-    },
-    {
-      "id": "woniuniuniu/dsh-media-desk",
-      "name": "dsh-media-desk",
-      "displayName": "dsh-media-desk",
-      "summary": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-      "repository": {
-        "url": "https://github.com/woniuniuniu/dsh-media-desk"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-11-15T17:12:48.000Z"
     },
     {
       "id": "c1overzz/dsh-bili-scroll",
@@ -932,29 +943,6 @@
       "updatedAt": "2026-11-14T18:30:42.000Z"
     },
     {
-      "id": "ysr666/dsh-vision-router",
-      "name": "dsh-vision-router",
-      "displayName": "dsh-vision-router",
-      "summary": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
-      "repository": {
-        "url": "https://github.com/ysr666/dsh-vision-router"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh",
-        "vision",
-        "vision-tools",
-        "multimodal",
-        "openrouter",
-        "image",
-        "ocr",
-        "screenshot",
-        "plugin"
-      ],
-      "updatedAt": "2026-11-16T15:20:18.000Z"
-    },
-    {
       "id": "DDDMUC/dsh-free-search",
       "name": "dsh-free-search",
       "displayName": "dsh-free-search",
@@ -979,6 +967,7 @@
         "serpbase",
         "serply",
         "outcrawl",
+        "specstream",
         "search",
         "free",
         "brave",
@@ -1000,7 +989,30 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-16T16:30:45.000Z"
+      "updatedAt": "2026-11-17T07:03:26.000Z"
+    },
+    {
+      "id": "ysr666/dsh-vision-router",
+      "name": "dsh-vision-router",
+      "displayName": "dsh-vision-router",
+      "summary": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+      "repository": {
+        "url": "https://github.com/ysr666/dsh-vision-router"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek-harness",
+        "dsh",
+        "vision",
+        "vision-tools",
+        "multimodal",
+        "openrouter",
+        "image",
+        "ocr",
+        "screenshot",
+        "plugin"
+      ],
+      "updatedAt": "2026-11-17T03:15:57.000Z"
     },
     {
       "id": "yexi-by/dsh-unrestricted",
@@ -1033,7 +1045,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T13:13:32.000Z"
+      "updatedAt": "2026-11-17T06:29:24.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-Pack",
@@ -1128,7 +1140,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-16T16:42:50.000Z"
+      "updatedAt": "2026-11-17T06:56:07.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1201,7 +1213,7 @@
         "url": "https://github.com/Alice-Marx/dsh-model-router"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T13:36:46.000Z"
+      "updatedAt": "2026-11-17T04:33:20.000Z"
     },
     {
       "id": "Anionex/dsh-vision-toolkit",
@@ -1341,7 +1353,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-11-16T16:30:38.000Z"
+      "updatedAt": "2026-11-17T06:37:55.000Z"
     },
     {
       "id": "6shenhonghong9/dsh-startup-screen",
@@ -1383,7 +1395,7 @@
         "url": "https://github.com/Clarklevis1995/dsh-mobile"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-16T12:41:20.000Z"
+      "updatedAt": "2026-11-17T02:07:13.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1505,7 +1517,7 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-11-16T07:49:36.000Z"
+      "updatedAt": "2026-11-17T07:11:17.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1545,7 +1557,7 @@
         "agent-memory",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-11-09T15:40:55.000Z"
+      "updatedAt": "2026-11-17T03:19:18.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1573,6 +1585,27 @@
         "language"
       ],
       "updatedAt": "2026-11-16T13:03:26.000Z"
+    },
+    {
+      "id": "fourzkw/dsh-drawai",
+      "name": "dsh-drawai",
+      "displayName": "dsh-drawai",
+      "summary": "DSH 右侧栏里的可编辑画布 —— 加上让模型直接改图的两个工具",
+      "repository": {
+        "url": "https://github.com/fourzkw/dsh-drawai"
+      },
+      "license": "NOASSERTION",
+      "keywords": [
+        "deepseek",
+        "harness",
+        "dsh",
+        "dsh-plugin",
+        "diagram",
+        "drawio",
+        "mxfile",
+        "canvas"
+      ],
+      "updatedAt": "2026-11-16T10:00:32.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1638,28 +1671,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-11-16T04:32:21.000Z"
-    },
-    {
-      "id": "fourzkw/dsh-drawai",
-      "name": "dsh-drawai",
-      "displayName": "dsh-drawai",
-      "summary": "DSH 右侧栏里的可编辑画布 —— 加上让模型直接改图的两个工具",
-      "repository": {
-        "url": "https://github.com/fourzkw/dsh-drawai"
-      },
-      "license": "NOASSERTION",
-      "keywords": [
-        "deepseek",
-        "harness",
-        "dsh",
-        "dsh-plugin",
-        "diagram",
-        "drawio",
-        "mxfile",
-        "canvas"
-      ],
-      "updatedAt": "2026-11-16T10:00:32.000Z"
+      "updatedAt": "2026-11-17T05:46:13.000Z"
     },
     {
       "id": "adoresever/graph-memory",
@@ -1718,7 +1730,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-16T19:18:30.000Z"
+      "updatedAt": "2026-11-17T06:28:53.000Z"
     },
     {
       "id": "ccch1mneyyy/working-activity",
@@ -1750,29 +1762,6 @@
       },
       "license": "Apache-2.0",
       "updatedAt": "2026-11-16T09:04:52.000Z"
-    },
-    {
-      "id": "chainbase-labs/Agentkey",
-      "name": "agentkey-skill",
-      "displayName": "Agentkey",
-      "summary": "Connect your AI agent to the world — Web search, Social media, Crypto & On-chain data. One plugin, zero extra config.",
-      "repository": {
-        "url": "https://github.com/chainbase-labs/Agentkey"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "ai-agents",
-        "claude-code",
-        "cursor",
-        "codex",
-        "skills",
-        "agent-skills",
-        "web-search",
-        "social-media",
-        "crypto",
-        "real-time-data"
-      ],
-      "updatedAt": "2026-08-24T16:55:44.000Z"
     },
     {
       "id": "c3cvld7aag/fujiang-dsh",
