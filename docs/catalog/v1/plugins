@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-18T14:55:29.000Z"
+      "updatedAt": "2026-11-19T00:44:55.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-18T17:35:49.000Z"
+      "updatedAt": "2026-11-18T23:20:19.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-18T17:11:50.000Z"
+      "updatedAt": "2026-11-18T20:53:09.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-18T14:48:30.000Z"
+      "updatedAt": "2026-11-19T01:54:07.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -203,7 +203,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-18T18:42:21.000Z"
+      "updatedAt": "2026-11-18T21:15:22.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -228,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-18T18:36:13.000Z"
+      "updatedAt": "2026-11-19T01:58:03.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -308,7 +308,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-11-17T10:14:14.000Z"
+      "updatedAt": "2026-11-18T19:55:16.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -404,7 +404,7 @@
         "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-18T11:21:14.000Z"
+      "updatedAt": "2026-11-18T21:59:39.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -503,7 +503,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-18T17:49:45.000Z"
+      "updatedAt": "2026-11-19T01:18:39.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -597,17 +597,6 @@
       "updatedAt": "2026-11-18T16:21:57.000Z"
     },
     {
-      "id": "zhuyansen/new-term-radar",
-      "name": "zhuyansen/new-term-radar",
-      "displayName": "new-term-radar",
-      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "repository": {
-        "url": "https://github.com/zhuyansen/new-term-radar"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-16T18:06:58.000Z"
-    },
-    {
       "id": "sixtysevenlf/dsh-blender-plugin",
       "name": "dsh-blender-plugin",
       "displayName": "dsh-blender-plugin",
@@ -626,7 +615,18 @@
         "skill",
         "modeling"
       ],
-      "updatedAt": "2026-11-12T22:27:05.000Z"
+      "updatedAt": "2026-11-18T20:36:07.000Z"
+    },
+    {
+      "id": "zhuyansen/new-term-radar",
+      "name": "zhuyansen/new-term-radar",
+      "displayName": "new-term-radar",
+      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "repository": {
+        "url": "https://github.com/zhuyansen/new-term-radar"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-16T18:06:58.000Z"
     },
     {
       "id": "Jesseovo/last30days-skill-cn",
@@ -755,7 +755,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-18T17:19:20.000Z"
+      "updatedAt": "2026-11-19T01:57:39.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -825,7 +825,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-18T16:45:15.000Z"
+      "updatedAt": "2026-11-19T01:45:20.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -1017,7 +1017,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-18T17:19:17.000Z"
+      "updatedAt": "2026-11-19T01:27:38.000Z"
     },
     {
       "id": "yexi-by/dsh-unrestricted",
@@ -1071,7 +1071,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-18T16:44:13.000Z"
+      "updatedAt": "2026-11-19T01:44:18.000Z"
     },
     {
       "id": "beiyege-01/dsh-voice-ai-girlfriend",
@@ -1392,6 +1392,28 @@
       "updatedAt": "2026-10-29T14:45:44.000Z"
     },
     {
+      "id": "Roland0511/dsh-marktext",
+      "name": "dsh-marktext",
+      "displayName": "dsh-marktext",
+      "summary": "MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar",
+      "repository": {
+        "url": "https://github.com/Roland0511/dsh-marktext"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "markdown",
+        "editor",
+        "marktext",
+        "muya",
+        "wysiwyg"
+      ],
+      "updatedAt": "2026-11-07T13:29:10.000Z"
+    },
+    {
       "id": "Clarklevis1995/dsh-mobile",
       "name": "Clarklevis1995/dsh-mobile",
       "displayName": "dsh-mobile",
@@ -1422,28 +1444,6 @@
         "desktop-automation"
       ],
       "updatedAt": "2026-11-18T16:04:56.000Z"
-    },
-    {
-      "id": "Roland0511/dsh-marktext",
-      "name": "dsh-marktext",
-      "displayName": "dsh-marktext",
-      "summary": "MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar",
-      "repository": {
-        "url": "https://github.com/Roland0511/dsh-marktext"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "markdown",
-        "editor",
-        "marktext",
-        "muya",
-        "wysiwyg"
-      ],
-      "updatedAt": "2026-11-07T13:29:10.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1634,7 +1634,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-11-18T16:00:12.000Z"
+      "updatedAt": "2026-11-19T01:40:30.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1653,6 +1653,29 @@
         "web-fetch"
       ],
       "updatedAt": "2026-10-10T08:54:47.000Z"
+    },
+    {
+      "id": "SAOS-3624/dsh-see-now",
+      "name": "dsh-see-now",
+      "displayName": "dsh-see-now",
+      "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "repository": {
+        "url": "https://github.com/SAOS-3624/dsh-see-now"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek",
+        "screen-capture",
+        "vision",
+        "llm",
+        "ffmpeg",
+        "realtime",
+        "token-efficient",
+        "multimodal"
+      ],
+      "updatedAt": "2026-11-18T09:41:36.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
@@ -1679,27 +1702,15 @@
       "updatedAt": "2026-11-08T03:12:18.000Z"
     },
     {
-      "id": "SAOS-3624/dsh-see-now",
-      "name": "dsh-see-now",
-      "displayName": "dsh-see-now",
-      "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "id": "c3cvld7aag/fujiang-dsh",
+      "name": "fujiang-armor",
+      "displayName": "fujiang-dsh",
+      "summary": "富江DSH完美破甲｜富江破甲 DSH 本地插件，内置提示词规则，支持 Windows 一键安装、环境自动准备与一键卸载，全中文使用说明。",
       "repository": {
-        "url": "https://github.com/SAOS-3624/dsh-see-now"
+        "url": "https://github.com/c3cvld7aag/fujiang-dsh"
       },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek",
-        "screen-capture",
-        "vision",
-        "llm",
-        "ffmpeg",
-        "realtime",
-        "token-efficient",
-        "multimodal"
-      ],
-      "updatedAt": "2026-11-18T09:41:36.000Z"
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-03T16:29:47.000Z"
     },
     {
       "id": "aureth-labs/dsh-aurabot-qq",
@@ -1716,18 +1727,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-18T18:35:29.000Z"
-    },
-    {
-      "id": "c3cvld7aag/fujiang-dsh",
-      "name": "fujiang-armor",
-      "displayName": "fujiang-dsh",
-      "summary": "富江DSH完美破甲｜富江破甲 DSH 本地插件，内置提示词规则，支持 Windows 一键安装、环境自动准备与一键卸载，全中文使用说明。",
-      "repository": {
-        "url": "https://github.com/c3cvld7aag/fujiang-dsh"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-03T16:29:47.000Z"
+      "updatedAt": "2026-11-18T22:14:52.000Z"
     },
     {
       "id": "adoresever/graph-memory",
