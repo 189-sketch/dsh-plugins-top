@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-19T14:44:22.000Z"
+      "updatedAt": "2026-11-20T00:24:18.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-19T17:19:54.000Z"
+      "updatedAt": "2026-11-19T23:21:53.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-19T18:46:30.000Z"
+      "updatedAt": "2026-11-19T20:37:48.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-19T17:41:04.000Z"
+      "updatedAt": "2026-11-20T01:53:44.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -203,7 +203,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-19T18:33:39.000Z"
+      "updatedAt": "2026-11-19T21:41:05.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -228,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-19T19:10:03.000Z"
+      "updatedAt": "2026-11-20T01:45:11.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -308,7 +308,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-11-19T09:54:51.000Z"
+      "updatedAt": "2026-11-20T01:48:50.000Z"
     },
     {
       "id": "PC2005-cloud/dsh-pet",
@@ -503,7 +503,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-19T17:35:22.000Z"
+      "updatedAt": "2026-11-19T19:39:45.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -594,7 +594,7 @@
         "goecs",
         "benchmark"
       ],
-      "updatedAt": "2026-11-19T11:08:06.000Z"
+      "updatedAt": "2026-11-20T01:43:38.000Z"
     },
     {
       "id": "sixtysevenlf/dsh-blender-plugin",
@@ -755,7 +755,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-19T19:09:20.000Z"
+      "updatedAt": "2026-11-20T01:46:48.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -825,7 +825,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-19T15:43:05.000Z"
+      "updatedAt": "2026-11-19T23:47:17.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -997,6 +997,17 @@
       "updatedAt": "2026-11-06T07:27:30.000Z"
     },
     {
+      "id": "yexi-by/dsh-unrestricted",
+      "name": "dsh-unrestricted",
+      "displayName": "dsh-unrestricted",
+      "summary": "DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用",
+      "repository": {
+        "url": "https://github.com/yexi-by/dsh-unrestricted"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-18T11:39:08.000Z"
+    },
+    {
       "id": "ysr666/dsh-vision-router",
       "name": "dsh-vision-router",
       "displayName": "dsh-vision-router",
@@ -1017,18 +1028,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-19T16:40:32.000Z"
-    },
-    {
-      "id": "yexi-by/dsh-unrestricted",
-      "name": "dsh-unrestricted",
-      "displayName": "dsh-unrestricted",
-      "summary": "DeepSeek Harness 提示词破限插件：通过系统提示词解除模型回答限制，深度适配 Web 与桌面端多模式及工具调用",
-      "repository": {
-        "url": "https://github.com/yexi-by/dsh-unrestricted"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-18T11:39:08.000Z"
+      "updatedAt": "2026-11-20T01:46:05.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-Pack",
@@ -1049,7 +1049,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-19T07:32:23.000Z"
+      "updatedAt": "2026-11-20T01:26:50.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1125,7 +1125,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-19T18:52:46.000Z"
+      "updatedAt": "2026-11-20T01:41:04.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1200,6 +1200,17 @@
       "updatedAt": "2026-11-19T03:12:00.000Z"
     },
     {
+      "id": "Alice-Marx/dsh-model-router",
+      "name": "@ljwei-stak/dsh-model-route-bot",
+      "displayName": "dsh-model-router",
+      "summary": "Model Router and Bot plugin for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/Alice-Marx/dsh-model-router"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-19T06:25:46.000Z"
+    },
+    {
       "id": "op7418/dsh-guizang-design",
       "name": "dsh-guizang-design",
       "displayName": "dsh-guizang-design",
@@ -1218,17 +1229,6 @@
         "typography"
       ],
       "updatedAt": "2026-11-05T07:44:48.000Z"
-    },
-    {
-      "id": "Alice-Marx/dsh-model-router",
-      "name": "@ljwei-stak/dsh-model-route-bot",
-      "displayName": "dsh-model-router",
-      "summary": "Model Router and Bot plugin for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/Alice-Marx/dsh-model-router"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-19T06:25:46.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -1617,7 +1617,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-11-19T09:06:21.000Z"
+      "updatedAt": "2026-11-20T00:08:18.000Z"
     },
     {
       "id": "SAOS-3624/dsh-see-now",
@@ -1710,7 +1710,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-19T16:15:55.000Z"
+      "updatedAt": "2026-11-19T20:56:55.000Z"
     },
     {
       "id": "adoresever/graph-memory",
