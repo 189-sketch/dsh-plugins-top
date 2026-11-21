@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-21T17:12:36.000Z"
+      "updatedAt": "2026-11-21T20:04:06.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-21T17:06:00.000Z"
+      "updatedAt": "2026-11-21T18:46:23.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -160,7 +160,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-21T16:16:28.000Z"
+      "updatedAt": "2026-11-21T19:02:50.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-21T17:05:54.000Z"
+      "updatedAt": "2026-11-21T18:31:21.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -203,7 +203,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-20T22:37:34.000Z"
+      "updatedAt": "2026-11-21T17:48:40.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -228,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-21T17:19:51.000Z"
+      "updatedAt": "2026-11-21T21:40:43.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -336,7 +336,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-11-21T12:58:48.000Z"
+      "updatedAt": "2026-11-21T17:57:52.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -382,7 +382,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-21T17:20:38.000Z"
+      "updatedAt": "2026-11-21T20:31:18.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -404,7 +404,7 @@
         "url": "https://github.com/onehumanbeing/esp32-iphone-agent"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-21T05:41:56.000Z"
+      "updatedAt": "2026-11-21T22:11:48.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -755,7 +755,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-21T17:21:55.000Z"
+      "updatedAt": "2026-11-21T22:36:29.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -825,7 +825,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-21T16:08:03.000Z"
+      "updatedAt": "2026-11-21T22:02:44.000Z"
     },
     {
       "id": "woniuniuniu/dsh-media-desk",
@@ -913,7 +913,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-21T14:09:25.000Z"
+      "updatedAt": "2026-11-21T20:26:32.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -1049,7 +1049,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-21T17:13:36.000Z"
+      "updatedAt": "2026-11-21T20:53:22.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1125,7 +1125,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-21T16:33:14.000Z"
+      "updatedAt": "2026-11-21T22:07:29.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1410,7 +1410,7 @@
         "uia",
         "desktop-automation"
       ],
-      "updatedAt": "2026-11-21T17:03:35.000Z"
+      "updatedAt": "2026-11-21T22:12:39.000Z"
     },
     {
       "id": "Clarklevis1995/dsh-mobile",
@@ -1513,26 +1513,6 @@
       "updatedAt": "2026-11-18T17:05:09.000Z"
     },
     {
-      "id": "dream-num/dsh-univer-office",
-      "name": "dsh-univer-office",
-      "displayName": "dsh-univer-office",
-      "summary": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
-      "repository": {
-        "url": "https://github.com/dream-num/dsh-univer-office"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "univer",
-        "spreadsheet",
-        "preview",
-        "worktree"
-      ],
-      "updatedAt": "2026-11-21T11:21:57.000Z"
-    },
-    {
       "id": "CallMeGuLab/dsh-purge-safe",
       "name": "dsh-purge-safe",
       "displayName": "dsh-purge-safe",
@@ -1557,6 +1537,26 @@
         "agent"
       ],
       "updatedAt": "2026-11-20T17:17:47.000Z"
+    },
+    {
+      "id": "dream-num/dsh-univer-office",
+      "name": "dsh-univer-office",
+      "displayName": "dsh-univer-office",
+      "summary": "Give DeepSeek Harness a real office environment.  Univer Office Plugin brings spreadsheets, docs, slides, canvases, relational tables, and more into one runtime — with connected data, validation, versioned changes, and isolated worktrees for multi-agent collaboration.",
+      "repository": {
+        "url": "https://github.com/dream-num/dsh-univer-office"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "univer",
+        "spreadsheet",
+        "preview",
+        "worktree"
+      ],
+      "updatedAt": "2026-11-21T11:21:57.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1767,7 +1767,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-11-21T17:19:56.000Z"
+      "updatedAt": "2026-11-21T17:32:48.000Z"
     },
     {
       "id": "adoresever/graph-memory",
