@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-20T16:08:18.000Z"
+      "updatedAt": "2026-11-21T00:50:51.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -70,7 +70,7 @@
         "deepseek-harness",
         "agent-skill"
       ],
-      "updatedAt": "2026-11-10T00:16:14.000Z"
+      "updatedAt": "2026-11-21T00:27:30.000Z"
     },
     {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-20T17:46:47.000Z"
+      "updatedAt": "2026-11-20T23:21:21.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-20T17:10:32.000Z"
+      "updatedAt": "2026-11-20T20:45:24.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-20T15:02:27.000Z"
+      "updatedAt": "2026-11-21T01:04:31.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -203,7 +203,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-20T18:18:17.000Z"
+      "updatedAt": "2026-11-20T22:37:34.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -228,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-20T18:25:37.000Z"
+      "updatedAt": "2026-11-21T00:45:20.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -291,17 +291,6 @@
       "updatedAt": "2026-09-18T23:10:58.000Z"
     },
     {
-      "id": "PC2005-cloud/dsh-pet",
-      "name": "PC2005-cloud/dsh-pet",
-      "displayName": "dsh-pet",
-      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
-      "repository": {
-        "url": "https://github.com/PC2005-cloud/dsh-pet"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-17T05:06:16.000Z"
-    },
-    {
       "id": "QingYunA/answer-me-with-html",
       "name": "answer-me-with-html",
       "displayName": "answer-me-with-html",
@@ -320,6 +309,17 @@
         "ste100"
       ],
       "updatedAt": "2026-11-20T01:48:50.000Z"
+    },
+    {
+      "id": "PC2005-cloud/dsh-pet",
+      "name": "PC2005-cloud/dsh-pet",
+      "displayName": "dsh-pet",
+      "summary": "DSH 桌面宠物：一行命令装好即用的透明动画小桌宠，支持多开、大小位置随心配置；还内置 DIY 素材链，能用 AI 视频自造专属宠物",
+      "repository": {
+        "url": "https://github.com/PC2005-cloud/dsh-pet"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-17T05:06:16.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -382,7 +382,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-20T17:45:48.000Z"
+      "updatedAt": "2026-11-21T00:57:29.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -503,7 +503,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-20T18:07:12.000Z"
+      "updatedAt": "2026-11-20T19:21:26.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -733,7 +733,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-11-19T11:47:32.000Z"
+      "updatedAt": "2026-11-20T19:00:05.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-design-world",
@@ -755,7 +755,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-20T18:24:54.000Z"
+      "updatedAt": "2026-11-20T22:55:23.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -825,7 +825,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-20T13:38:32.000Z"
+      "updatedAt": "2026-11-20T23:32:33.000Z"
     },
     {
       "id": "woniuniuniu/dsh-media-desk",
@@ -913,7 +913,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-20T16:13:14.000Z"
+      "updatedAt": "2026-11-20T20:35:07.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -1071,7 +1071,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-20T16:52:21.000Z"
+      "updatedAt": "2026-11-21T01:21:13.000Z"
     },
     {
       "id": "beiyege-01/dsh-voice-ai-girlfriend",
@@ -1189,6 +1189,17 @@
       "updatedAt": "2026-11-15T14:28:49.000Z"
     },
     {
+      "id": "Alice-Marx/dsh-model-router",
+      "name": "@ljwei-stak/dsh-model-route-bot",
+      "displayName": "dsh-model-router",
+      "summary": "Model Router and Bot plugin for DeepSeek Harness",
+      "repository": {
+        "url": "https://github.com/Alice-Marx/dsh-model-router"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-20T14:06:34.000Z"
+    },
+    {
       "id": "LiPu-jpg/Openwrite",
       "name": "dsh-openwrite",
       "displayName": "Openwrite",
@@ -1218,17 +1229,6 @@
         "typography"
       ],
       "updatedAt": "2026-11-05T07:44:48.000Z"
-    },
-    {
-      "id": "Alice-Marx/dsh-model-router",
-      "name": "@ljwei-stak/dsh-model-route-bot",
-      "displayName": "dsh-model-router",
-      "summary": "Model Router and Bot plugin for DeepSeek Harness",
-      "repository": {
-        "url": "https://github.com/Alice-Marx/dsh-model-router"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-20T14:06:34.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -1359,28 +1359,6 @@
       },
       "license": "MIT",
       "updatedAt": "2026-11-19T18:15:10.000Z"
-    },
-    {
-      "id": "Roland0511/dsh-marktext",
-      "name": "dsh-marktext",
-      "displayName": "dsh-marktext",
-      "summary": "MarkText (muya) WYSIWYG Markdown editor for the DeepSeek Harness right sidebar",
-      "repository": {
-        "url": "https://github.com/Roland0511/dsh-marktext"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "markdown",
-        "editor",
-        "marktext",
-        "muya",
-        "wysiwyg"
-      ],
-      "updatedAt": "2026-11-07T13:29:10.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1617,7 +1595,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-11-20T15:49:04.000Z"
+      "updatedAt": "2026-11-21T01:10:25.000Z"
     },
     {
       "id": "SAOS-3624/dsh-see-now",
@@ -1641,6 +1619,32 @@
         "multimodal"
       ],
       "updatedAt": "2026-11-18T09:41:36.000Z"
+    },
+    {
+      "id": "ZSeven-W/dsh-game-studio",
+      "name": "@zseven-w/dsh-game-studio",
+      "displayName": "dsh-game-studio",
+      "summary": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
+      "repository": {
+        "url": "https://github.com/ZSeven-W/dsh-game-studio"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "codex",
+        "claude-code",
+        "mcp",
+        "game",
+        "gamedev",
+        "ai-game-generator",
+        "html5-games",
+        "wechat-minigame",
+        "threejs",
+        "github-pages"
+      ],
+      "updatedAt": "2026-11-18T16:17:49.000Z"
     },
     {
       "id": "c3cvld7aag/fujiang-dsh",
@@ -1669,32 +1673,6 @@
         "onebot"
       ],
       "updatedAt": "2026-11-20T16:12:48.000Z"
-    },
-    {
-      "id": "ZSeven-W/dsh-game-studio",
-      "name": "@zseven-w/dsh-game-studio",
-      "displayName": "dsh-game-studio",
-      "summary": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
-      "repository": {
-        "url": "https://github.com/ZSeven-W/dsh-game-studio"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "codex",
-        "claude-code",
-        "mcp",
-        "game",
-        "gamedev",
-        "ai-game-generator",
-        "html5-games",
-        "wechat-minigame",
-        "threejs",
-        "github-pages"
-      ],
-      "updatedAt": "2026-11-18T16:17:49.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1756,6 +1734,32 @@
         "sqlite"
       ],
       "updatedAt": "2026-10-01T00:45:49.000Z"
+    },
+    {
+      "id": "CallMeGuLab/dsh-purge-safe",
+      "name": "dsh-purge-safe",
+      "displayName": "dsh-purge-safe",
+      "summary": "正版dsh-purge  DeepSeek Harness 破甲 ：默认提示词面向国模，原小码酱，完整开放版，无付费墙，技能库与知识库全含，免费公开。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
+      "repository": {
+        "url": "https://github.com/CallMeGuLab/dsh-purge-safe"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "网络安全",
+        "红队评测",
+        "llm-security",
+        "harness-security",
+        "deepseek-harness",
+        "red-team",
+        "instructions",
+        "rules",
+        "prompt-eval",
+        "agent"
+      ],
+      "updatedAt": "2026-11-20T17:17:47.000Z"
     },
     {
       "id": "Nwflower/dsh-claude-style",
