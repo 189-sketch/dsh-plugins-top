@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-21T15:34:09.000Z"
+      "updatedAt": "2026-11-22T04:03:17.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -38,7 +38,7 @@
         "url": "https://github.com/tw93/Mole"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-11-21T14:53:25.000Z"
+      "updatedAt": "2026-11-22T02:50:46.000Z"
     },
     {
       "id": "alchaincyf/nuwa-skill",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-21T20:04:06.000Z"
+      "updatedAt": "2026-11-21T23:19:51.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -171,7 +171,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-20T11:00:46.000Z"
+      "updatedAt": "2026-11-22T03:59:06.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-21T18:31:21.000Z"
+      "updatedAt": "2026-11-22T03:16:54.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -228,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-21T21:40:43.000Z"
+      "updatedAt": "2026-11-22T05:05:54.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -248,7 +248,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-11-21T08:57:05.000Z"
+      "updatedAt": "2026-11-22T04:11:16.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -336,7 +336,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-11-21T17:57:52.000Z"
+      "updatedAt": "2026-11-22T04:37:34.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -382,7 +382,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-21T20:31:18.000Z"
+      "updatedAt": "2026-11-22T03:07:10.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -438,7 +438,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-21T09:29:04.000Z"
+      "updatedAt": "2026-11-22T04:52:44.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -503,7 +503,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-21T16:37:01.000Z"
+      "updatedAt": "2026-11-22T02:11:14.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -534,7 +534,7 @@
         "qr",
         "tunnel"
       ],
-      "updatedAt": "2026-11-15T04:10:21.000Z"
+      "updatedAt": "2026-11-22T03:28:20.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -577,7 +577,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-21T11:05:12.000Z"
+      "updatedAt": "2026-11-22T04:10:07.000Z"
     },
     {
       "id": "oneclickvirt/ecs",
@@ -626,7 +626,7 @@
         "url": "https://github.com/zhuyansen/new-term-radar"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-21T08:33:09.000Z"
+      "updatedAt": "2026-11-22T02:59:35.000Z"
     },
     {
       "id": "Jesseovo/last30days-skill-cn",
@@ -652,6 +652,30 @@
         "chinese-platforms"
       ],
       "updatedAt": "2026-11-20T09:18:17.000Z"
+    },
+    {
+      "id": "helloHub1212/dsh-windows-mcp",
+      "name": "dsh-windows-mcp",
+      "displayName": "dsh-windows-mcp",
+      "summary": "Windows desktop automation for DeepSeek Harness: the in-box MCP client bridge mounted against CursorTouch/Windows-MCP, with an off-by-default Computer Use switch and an in-app dependency installer.",
+      "repository": {
+        "url": "https://github.com/helloHub1212/dsh-windows-mcp"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek-harness",
+        "mcp",
+        "model-context-protocol",
+        "windows",
+        "windows-mcp",
+        "automation",
+        "computer-use",
+        "ui-automation",
+        "screenshot"
+      ],
+      "updatedAt": "2026-11-15T12:12:09.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -680,30 +704,6 @@
         "security"
       ],
       "updatedAt": "2026-11-20T05:19:35.000Z"
-    },
-    {
-      "id": "helloHub1212/dsh-windows-mcp",
-      "name": "dsh-windows-mcp",
-      "displayName": "dsh-windows-mcp",
-      "summary": "Windows desktop automation for DeepSeek Harness: the in-box MCP client bridge mounted against CursorTouch/Windows-MCP, with an off-by-default Computer Use switch and an in-app dependency installer.",
-      "repository": {
-        "url": "https://github.com/helloHub1212/dsh-windows-mcp"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "mcp",
-        "model-context-protocol",
-        "windows",
-        "windows-mcp",
-        "automation",
-        "computer-use",
-        "ui-automation",
-        "screenshot"
-      ],
-      "updatedAt": "2026-11-15T12:12:09.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -755,7 +755,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-21T22:36:29.000Z"
+      "updatedAt": "2026-11-22T05:01:40.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -825,7 +825,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-21T22:02:44.000Z"
+      "updatedAt": "2026-11-21T23:54:26.000Z"
     },
     {
       "id": "woniuniuniu/dsh-media-desk",
@@ -913,7 +913,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-21T20:26:32.000Z"
+      "updatedAt": "2026-11-22T00:24:23.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -972,7 +972,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-11-21T15:27:45.000Z"
+      "updatedAt": "2026-11-22T04:02:50.000Z"
     },
     {
       "id": "ADWMC/helm-d",
@@ -1049,7 +1049,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-21T20:53:22.000Z"
+      "updatedAt": "2026-11-22T04:07:31.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1071,7 +1071,7 @@
         "url": "https://github.com/zhoushoujianwork/easyeda-agent"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-21T11:39:34.000Z"
+      "updatedAt": "2026-11-22T04:49:44.000Z"
     },
     {
       "id": "beiyege-01/dsh-voice-ai-girlfriend",
@@ -1125,7 +1125,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-21T22:07:29.000Z"
+      "updatedAt": "2026-11-22T04:40:55.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1143,7 +1143,7 @@
         "plugin",
         "ui"
       ],
-      "updatedAt": "2026-11-19T13:32:54.000Z"
+      "updatedAt": "2026-11-22T03:48:42.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -1285,7 +1285,7 @@
         "url": "https://github.com/toby-bridges/api-relay-audit"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-18T18:33:16.000Z"
+      "updatedAt": "2026-11-22T05:09:26.000Z"
     },
     {
       "id": "keli-wen/agy-staff",
@@ -1301,26 +1301,6 @@
         "opencode-plugin"
       ],
       "updatedAt": "2026-11-19T14:43:46.000Z"
-    },
-    {
-      "id": "SeaOf0/dsh-redteam-model",
-      "name": "@dsh-external/dsh-redteam-model",
-      "displayName": "dsh-redteam-model",
-      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
-      "repository": {
-        "url": "https://github.com/SeaOf0/dsh-redteam-model"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-bundle",
-        "redteam",
-        "security"
-      ],
-      "updatedAt": "2026-10-27T02:05:14.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1348,6 +1328,26 @@
         "https"
       ],
       "updatedAt": "2026-11-21T16:01:10.000Z"
+    },
+    {
+      "id": "SeaOf0/dsh-redteam-model",
+      "name": "@dsh-external/dsh-redteam-model",
+      "displayName": "dsh-redteam-model",
+      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
+      "repository": {
+        "url": "https://github.com/SeaOf0/dsh-redteam-model"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-bundle",
+        "redteam",
+        "security"
+      ],
+      "updatedAt": "2026-10-27T02:05:14.000Z"
     },
     {
       "id": "Aisland-SJL/dsh-worktable",
@@ -1410,7 +1410,7 @@
         "uia",
         "desktop-automation"
       ],
-      "updatedAt": "2026-11-21T22:12:39.000Z"
+      "updatedAt": "2026-11-22T04:20:05.000Z"
     },
     {
       "id": "Clarklevis1995/dsh-mobile",
@@ -1432,27 +1432,7 @@
         "url": "https://github.com/zenstory-ai/oh-story-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-20T04:48:30.000Z"
-    },
-    {
-      "id": "chenxiachan/thoughtdag",
-      "name": "thoughtdag",
-      "displayName": "thoughtdag",
-      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
-      "repository": {
-        "url": "https://github.com/chenxiachan/thoughtdag"
-      },
-      "license": "MIT",
-      "keywords": [
-        "llm",
-        "dag",
-        "canvas",
-        "react-flow",
-        "ai",
-        "knowledge-graph",
-        "research-tool"
-      ],
-      "updatedAt": "2026-11-12T15:17:19.000Z"
+      "updatedAt": "2026-11-22T01:11:18.000Z"
     },
     {
       "id": "fourzkw/dsh-drawai",
@@ -1474,6 +1454,26 @@
         "canvas"
       ],
       "updatedAt": "2026-11-21T12:56:13.000Z"
+    },
+    {
+      "id": "chenxiachan/thoughtdag",
+      "name": "thoughtdag",
+      "displayName": "thoughtdag",
+      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "repository": {
+        "url": "https://github.com/chenxiachan/thoughtdag"
+      },
+      "license": "MIT",
+      "keywords": [
+        "llm",
+        "dag",
+        "canvas",
+        "react-flow",
+        "ai",
+        "knowledge-graph",
+        "research-tool"
+      ],
+      "updatedAt": "2026-11-12T15:17:19.000Z"
     },
     {
       "id": "ZSeven-W/dsh-game-studio",
@@ -1597,6 +1597,17 @@
       "updatedAt": "2026-11-21T13:19:45.000Z"
     },
     {
+      "id": "Nagi-ovo/dsh-ads",
+      "name": "@nagi-ovo/dsh-ads",
+      "displayName": "dsh-ads",
+      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
+      "repository": {
+        "url": "https://github.com/Nagi-ovo/dsh-ads"
+      },
+      "license": "BSD-3-Clause",
+      "updatedAt": "2026-11-15T23:07:58.000Z"
+    },
+    {
       "id": "FuRongJun-1999/dsh-memory",
       "name": "@furongjun1999/dsh-memory",
       "displayName": "dsh-memory",
@@ -1621,15 +1632,15 @@
       "updatedAt": "2026-11-21T08:02:14.000Z"
     },
     {
-      "id": "Nagi-ovo/dsh-ads",
-      "name": "@nagi-ovo/dsh-ads",
-      "displayName": "dsh-ads",
-      "summary": "把 DSH 变成 2005 年门户网站｜Parody ads, fake games, and popups for the DSH Web UI",
+      "id": "c3cvld7aag/fujiang-dsh",
+      "name": "fujiang-armor",
+      "displayName": "fujiang-dsh",
+      "summary": "富江DSH完美破甲｜富江破甲 DSH 本地插件，内置提示词规则，支持 Windows 一键安装、环境自动准备与一键卸载，全中文使用说明。",
       "repository": {
-        "url": "https://github.com/Nagi-ovo/dsh-ads"
+        "url": "https://github.com/c3cvld7aag/fujiang-dsh"
       },
-      "license": "BSD-3-Clause",
-      "updatedAt": "2026-11-15T23:07:58.000Z"
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-03T16:29:47.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1671,17 +1682,6 @@
         "multimodal"
       ],
       "updatedAt": "2026-11-21T15:35:05.000Z"
-    },
-    {
-      "id": "c3cvld7aag/fujiang-dsh",
-      "name": "fujiang-armor",
-      "displayName": "fujiang-dsh",
-      "summary": "富江DSH完美破甲｜富江破甲 DSH 本地插件，内置提示词规则，支持 Windows 一键安装、环境自动准备与一键卸载，全中文使用说明。",
-      "repository": {
-        "url": "https://github.com/c3cvld7aag/fujiang-dsh"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-03T16:29:47.000Z"
     },
     {
       "id": "aureth-labs/dsh-aurabot-qq",
