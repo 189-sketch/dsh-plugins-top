@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-22T14:07:46.000Z"
+      "updatedAt": "2026-11-22T18:17:36.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-11-22T11:37:51.000Z"
+      "updatedAt": "2026-11-22T16:01:28.000Z"
     },
     {
       "id": "tw93/Mole",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-21T23:19:51.000Z"
+      "updatedAt": "2026-11-22T20:20:52.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +109,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-22T11:39:32.000Z"
+      "updatedAt": "2026-11-22T16:40:23.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -171,7 +171,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-22T07:11:34.000Z"
+      "updatedAt": "2026-11-22T16:46:37.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-22T13:59:47.000Z"
+      "updatedAt": "2026-11-22T16:20:50.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -228,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-22T14:15:25.000Z"
+      "updatedAt": "2026-11-22T18:42:38.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -382,7 +382,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-22T13:32:50.000Z"
+      "updatedAt": "2026-11-22T18:14:37.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -503,7 +503,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-22T12:12:40.000Z"
+      "updatedAt": "2026-11-22T19:17:37.000Z"
     },
     {
       "id": "Small-tailqwq/dsh-deep-whale",
@@ -577,7 +577,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-22T12:47:25.000Z"
+      "updatedAt": "2026-11-22T17:12:43.000Z"
     },
     {
       "id": "oneclickvirt/ecs",
@@ -755,7 +755,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-22T13:54:51.000Z"
+      "updatedAt": "2026-11-22T20:54:12.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -789,6 +789,22 @@
         "cordis"
       ],
       "updatedAt": "2026-11-22T13:00:29.000Z"
+    },
+    {
+      "id": "woniuniuniu/dsh-media-desk",
+      "name": "dsh-media-desk",
+      "displayName": "dsh-media-desk",
+      "summary": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
+      "repository": {
+        "url": "https://github.com/woniuniuniu/dsh-media-desk"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "updatedAt": "2026-11-18T14:29:36.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -825,23 +841,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-22T14:10:57.000Z"
-    },
-    {
-      "id": "woniuniuniu/dsh-media-desk",
-      "name": "dsh-media-desk",
-      "displayName": "dsh-media-desk",
-      "summary": "DeepSeek Harness 自媒体工作台插件：一句话记灵感，一键生成脚本、封面、配图和分镜",
-      "repository": {
-        "url": "https://github.com/woniuniuniu/dsh-media-desk"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "dsh-plugin"
-      ],
-      "updatedAt": "2026-11-18T14:29:36.000Z"
+      "updatedAt": "2026-11-22T18:40:25.000Z"
     },
     {
       "id": "DDDMUC/dsh-free-search",
@@ -890,7 +890,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-22T14:03:34.000Z"
+      "updatedAt": "2026-11-22T17:03:45.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -934,7 +934,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-11-22T12:54:55.000Z"
+      "updatedAt": "2026-11-22T16:15:36.000Z"
     },
     {
       "id": "c1overzz/dsh-bili-scroll",
@@ -1028,7 +1028,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-21T02:12:16.000Z"
+      "updatedAt": "2026-11-22T17:21:52.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-Pack",
@@ -1049,7 +1049,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-22T04:07:31.000Z"
+      "updatedAt": "2026-11-22T19:01:24.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1125,25 +1125,7 @@
         "byterover",
         "supermemory"
       ],
-      "updatedAt": "2026-11-22T12:51:19.000Z"
-    },
-    {
-      "id": "omdsh-dev/dsh-genui",
-      "name": "@changfenhuang/dsh-genui",
-      "displayName": "dsh-genui",
-      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
-      "repository": {
-        "url": "https://github.com/omdsh-dev/dsh-genui"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh",
-        "deepseek-harness",
-        "generative-ui",
-        "plugin",
-        "ui"
-      ],
-      "updatedAt": "2026-11-22T03:48:42.000Z"
+      "updatedAt": "2026-11-22T20:41:21.000Z"
     },
     {
       "id": "superdesigndev/superdesign-skill",
@@ -1164,6 +1146,24 @@
         "infinite-canvas"
       ],
       "updatedAt": "2026-08-21T05:23:23.000Z"
+    },
+    {
+      "id": "omdsh-dev/dsh-genui",
+      "name": "@changfenhuang/dsh-genui",
+      "displayName": "dsh-genui",
+      "summary": "GenUI for DeepSeek Harness: interactive UI components rendered inline in assistant replies via the dsh-ui fence — layout, charts, plots, forms, quizzes, mermaid, 3D scenes, and an action event loop back to the model. Ships the fence-teaching host plugin, the browser renderer (client half), and the genui skill.",
+      "repository": {
+        "url": "https://github.com/omdsh-dev/dsh-genui"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh",
+        "deepseek-harness",
+        "generative-ui",
+        "plugin",
+        "ui"
+      ],
+      "updatedAt": "2026-11-22T03:48:42.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1482,26 +1482,6 @@
       "updatedAt": "2026-11-21T16:01:32.000Z"
     },
     {
-      "id": "chenxiachan/thoughtdag",
-      "name": "thoughtdag",
-      "displayName": "thoughtdag",
-      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
-      "repository": {
-        "url": "https://github.com/chenxiachan/thoughtdag"
-      },
-      "license": "MIT",
-      "keywords": [
-        "llm",
-        "dag",
-        "canvas",
-        "react-flow",
-        "ai",
-        "knowledge-graph",
-        "research-tool"
-      ],
-      "updatedAt": "2026-11-12T15:17:19.000Z"
-    },
-    {
       "id": "CallMeGuLab/dsh-purge-safe",
       "name": "dsh-purge-safe",
       "displayName": "dsh-purge-safe",
@@ -1526,6 +1506,26 @@
         "agent"
       ],
       "updatedAt": "2026-11-22T08:37:04.000Z"
+    },
+    {
+      "id": "chenxiachan/thoughtdag",
+      "name": "thoughtdag",
+      "displayName": "thoughtdag",
+      "summary": "Your thinking deserves a map: an infinite canvas where LLM conversations grow into an editable thought graph. Wires are the context.",
+      "repository": {
+        "url": "https://github.com/chenxiachan/thoughtdag"
+      },
+      "license": "MIT",
+      "keywords": [
+        "llm",
+        "dag",
+        "canvas",
+        "react-flow",
+        "ai",
+        "knowledge-graph",
+        "research-tool"
+      ],
+      "updatedAt": "2026-11-12T15:17:19.000Z"
     },
     {
       "id": "myYangyunfan/dsh_desktop",
@@ -1556,7 +1556,7 @@
         "preview",
         "worktree"
       ],
-      "updatedAt": "2026-11-21T11:21:57.000Z"
+      "updatedAt": "2026-11-22T16:09:52.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1583,7 +1583,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-11-22T12:35:34.000Z"
+      "updatedAt": "2026-11-22T14:39:17.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1595,6 +1595,40 @@
       },
       "license": "MIT",
       "updatedAt": "2026-11-22T06:07:50.000Z"
+    },
+    {
+      "id": "SAOS-3624/dsh-see-now",
+      "name": "dsh-see-now",
+      "displayName": "dsh-see-now",
+      "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "repository": {
+        "url": "https://github.com/SAOS-3624/dsh-see-now"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "deepseek",
+        "screen-capture",
+        "vision",
+        "llm",
+        "ffmpeg",
+        "realtime",
+        "token-efficient",
+        "multimodal"
+      ],
+      "updatedAt": "2026-11-21T15:35:05.000Z"
+    },
+    {
+      "id": "c3cvld7aag/fujiang-dsh",
+      "name": "fujiang-armor",
+      "displayName": "fujiang-dsh",
+      "summary": "富江DSH完美破甲｜富江破甲 DSH 本地插件，内置提示词规则，支持 Windows 一键安装、环境自动准备与一键卸载，全中文使用说明。",
+      "repository": {
+        "url": "https://github.com/c3cvld7aag/fujiang-dsh"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-03T16:29:47.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1632,40 +1666,6 @@
       "updatedAt": "2026-11-15T23:07:58.000Z"
     },
     {
-      "id": "SAOS-3624/dsh-see-now",
-      "name": "dsh-see-now",
-      "displayName": "dsh-see-now",
-      "summary": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
-      "repository": {
-        "url": "https://github.com/SAOS-3624/dsh-see-now"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek",
-        "screen-capture",
-        "vision",
-        "llm",
-        "ffmpeg",
-        "realtime",
-        "token-efficient",
-        "multimodal"
-      ],
-      "updatedAt": "2026-11-21T15:35:05.000Z"
-    },
-    {
-      "id": "c3cvld7aag/fujiang-dsh",
-      "name": "fujiang-armor",
-      "displayName": "fujiang-dsh",
-      "summary": "富江DSH完美破甲｜富江破甲 DSH 本地插件，内置提示词规则，支持 Windows 一键安装、环境自动准备与一键卸载，全中文使用说明。",
-      "repository": {
-        "url": "https://github.com/c3cvld7aag/fujiang-dsh"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-03T16:29:47.000Z"
-    },
-    {
       "id": "mnemon-dev/mnemon",
       "name": "@mnemon-dev/dsh-mnemon",
       "displayName": "mnemon",
@@ -1698,7 +1698,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-22T13:35:13.000Z"
+      "updatedAt": "2026-11-22T20:52:23.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1767,7 +1767,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-11-22T13:34:17.000Z"
+      "updatedAt": "2026-11-22T19:47:24.000Z"
     },
     {
       "id": "adoresever/graph-memory",
