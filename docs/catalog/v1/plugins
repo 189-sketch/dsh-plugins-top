@@ -38,7 +38,7 @@
         "url": "https://github.com/tw93/Mole"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-11-24T13:12:06.000Z"
+      "updatedAt": "2026-11-25T04:33:38.000Z"
     },
     {
       "id": "alchaincyf/nuwa-skill",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-24T19:45:59.000Z"
+      "updatedAt": "2026-11-24T22:51:41.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -171,7 +171,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-24T13:33:20.000Z"
+      "updatedAt": "2026-11-25T02:54:11.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-24T22:15:27.000Z"
+      "updatedAt": "2026-11-25T05:05:15.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -203,7 +203,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-24T22:18:50.000Z"
+      "updatedAt": "2026-11-24T22:34:31.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -228,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-24T21:55:00.000Z"
+      "updatedAt": "2026-11-25T05:04:44.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -248,7 +248,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-11-23T05:24:57.000Z"
+      "updatedAt": "2026-11-25T04:06:39.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -441,7 +441,7 @@
         "url": "https://github.com/agentscope-ai/ReMe"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-24T08:39:47.000Z"
+      "updatedAt": "2026-11-25T03:21:29.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -477,17 +477,6 @@
       "updatedAt": "2026-11-24T12:11:36.000Z"
     },
     {
-      "id": "xiaobright/dsh-anchored-standard",
-      "name": "dsh-anchored-standard",
-      "displayName": "dsh-anchored-standard",
-      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
-      "repository": {
-        "url": "https://github.com/xiaobright/dsh-anchored-standard"
-      },
-      "license": "NOASSERTION",
-      "updatedAt": "2026-10-21T16:32:08.000Z"
-    },
-    {
       "id": "liguobao/ds-harness-remote",
       "name": "ds-harness-remote",
       "displayName": "ds-harness-remote",
@@ -506,7 +495,18 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-24T17:31:00.000Z"
+      "updatedAt": "2026-11-25T04:17:19.000Z"
+    },
+    {
+      "id": "xiaobright/dsh-anchored-standard",
+      "name": "dsh-anchored-standard",
+      "displayName": "dsh-anchored-standard",
+      "summary": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/99)",
+      "repository": {
+        "url": "https://github.com/xiaobright/dsh-anchored-standard"
+      },
+      "license": "NOASSERTION",
+      "updatedAt": "2026-10-21T16:32:08.000Z"
     },
     {
       "id": "shaobeichen/dsh-pocket",
@@ -569,7 +569,7 @@
         "url": "https://github.com/zilliztech/memsearch"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-24T09:55:41.000Z"
+      "updatedAt": "2026-11-25T04:02:28.000Z"
     },
     {
       "id": "poco-ai/Agentero",
@@ -580,7 +580,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-24T16:43:31.000Z"
+      "updatedAt": "2026-11-25T01:45:27.000Z"
     },
     {
       "id": "oneclickvirt/ecs",
@@ -645,6 +645,17 @@
       "updatedAt": "2026-11-18T20:36:07.000Z"
     },
     {
+      "id": "zhuyansen/new-term-radar",
+      "name": "zhuyansen/new-term-radar",
+      "displayName": "new-term-radar",
+      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "repository": {
+        "url": "https://github.com/zhuyansen/new-term-radar"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-22T02:59:35.000Z"
+    },
+    {
       "id": "Jesseovo/last30days-skill-cn",
       "name": "last30days-skill-cn",
       "displayName": "last30days-skill-cn",
@@ -668,17 +679,6 @@
         "chinese-platforms"
       ],
       "updatedAt": "2026-11-24T10:15:08.000Z"
-    },
-    {
-      "id": "zhuyansen/new-term-radar",
-      "name": "zhuyansen/new-term-radar",
-      "displayName": "new-term-radar",
-      "summary": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
-      "repository": {
-        "url": "https://github.com/zhuyansen/new-term-radar"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-22T02:59:35.000Z"
     },
     {
       "id": "kenryu42/cc-safety-net",
@@ -758,7 +758,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-24T22:17:14.000Z"
+      "updatedAt": "2026-11-25T05:09:36.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -856,7 +856,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-24T16:32:13.000Z"
+      "updatedAt": "2026-11-25T04:40:40.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -893,7 +893,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-24T21:55:26.000Z"
+      "updatedAt": "2026-11-25T04:20:33.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -937,7 +937,7 @@
         "codex",
         "chatgpt"
       ],
-      "updatedAt": "2026-11-22T16:15:36.000Z"
+      "updatedAt": "2026-11-25T03:25:53.000Z"
     },
     {
       "id": "ADWMC/helm-d",
@@ -1103,7 +1103,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-24T22:11:08.000Z"
+      "updatedAt": "2026-11-25T04:48:01.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1311,32 +1311,6 @@
       "updatedAt": "2026-11-24T16:23:13.000Z"
     },
     {
-      "id": "Anionex/dsh-vision-toolkit",
-      "name": "@anionex/dsh-vision-toolkit",
-      "displayName": "dsh-vision-toolkit",
-      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "repository": {
-        "url": "https://github.com/Anionex/dsh-vision-toolkit"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "agent-vision-toolkit",
-        "agent-skills",
-        "text-only-llm",
-        "vision-language-model",
-        "vision-tools",
-        "vision-skills",
-        "computer-vision",
-        "ocr",
-        "ui-restoration",
-        "screenshot-testing",
-        "gui-automation"
-      ],
-      "updatedAt": "2026-11-21T10:08:49.000Z"
-    },
-    {
       "id": "CallMeGuLab/dsh-purge-safe",
       "name": "dsh-purge-safe",
       "displayName": "dsh-purge-safe",
@@ -1361,6 +1335,32 @@
         "agent"
       ],
       "updatedAt": "2026-11-22T08:37:04.000Z"
+    },
+    {
+      "id": "Anionex/dsh-vision-toolkit",
+      "name": "@anionex/dsh-vision-toolkit",
+      "displayName": "dsh-vision-toolkit",
+      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "repository": {
+        "url": "https://github.com/Anionex/dsh-vision-toolkit"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "agent-vision-toolkit",
+        "agent-skills",
+        "text-only-llm",
+        "vision-language-model",
+        "vision-tools",
+        "vision-skills",
+        "computer-vision",
+        "ocr",
+        "ui-restoration",
+        "screenshot-testing",
+        "gui-automation"
+      ],
+      "updatedAt": "2026-11-21T10:08:49.000Z"
     },
     {
       "id": "mindscale-noah/MindMemOS",
@@ -1582,17 +1582,6 @@
       "updatedAt": "2026-10-03T16:29:47.000Z"
     },
     {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-23T04:49:06.000Z"
-    },
-    {
       "id": "SAOS-3624/dsh-see-now",
       "name": "dsh-see-now",
       "displayName": "dsh-see-now",
@@ -1614,6 +1603,17 @@
         "multimodal"
       ],
       "updatedAt": "2026-11-24T13:58:35.000Z"
+    },
+    {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-23T04:49:06.000Z"
     },
     {
       "id": "dream-num/dsh-univer-office",
@@ -1660,7 +1660,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-11-24T14:49:38.000Z"
+      "updatedAt": "2026-11-25T05:06:50.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1684,7 +1684,7 @@
         "spatiotemporal",
         "knowledge-graph"
       ],
-      "updatedAt": "2026-11-24T15:23:35.000Z"
+      "updatedAt": "2026-11-25T05:09:43.000Z"
     },
     {
       "id": "liangmianya/dsh-synapse",
@@ -1741,7 +1741,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-24T21:56:34.000Z"
+      "updatedAt": "2026-11-24T22:44:50.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1786,7 +1786,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-11-24T18:41:27.000Z"
+      "updatedAt": "2026-11-25T03:51:29.000Z"
     },
     {
       "id": "Clearailhc/clearai-dsh",
