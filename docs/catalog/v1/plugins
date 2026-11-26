@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-25T16:09:18.000Z"
+      "updatedAt": "2026-11-26T01:45:04.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-25T16:42:08.000Z"
+      "updatedAt": "2026-11-25T22:53:29.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-25T16:23:38.000Z"
+      "updatedAt": "2026-11-26T01:41:05.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -203,7 +203,7 @@
         "url": "https://github.com/plastic-labs/honcho"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-25T16:49:25.000Z"
+      "updatedAt": "2026-11-25T20:23:57.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -228,7 +228,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-25T16:39:57.000Z"
+      "updatedAt": "2026-11-26T01:24:27.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -319,7 +319,7 @@
         "diagram",
         "ste100"
       ],
-      "updatedAt": "2026-11-24T07:31:22.000Z"
+      "updatedAt": "2026-11-25T19:55:01.000Z"
     },
     {
       "id": "T-Auto/dsh-ops",
@@ -336,7 +336,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-11-22T09:43:54.000Z"
+      "updatedAt": "2026-11-26T01:36:12.000Z"
     },
     {
       "id": "mmparko/dsh-purge",
@@ -416,7 +416,7 @@
         "multimodal",
         "modlens"
       ],
-      "updatedAt": "2026-11-24T19:23:46.000Z"
+      "updatedAt": "2026-11-25T19:14:12.000Z"
     },
     {
       "id": "lennney/stop-that-shit",
@@ -430,7 +430,7 @@
       "keywords": [
         "pi-package"
       ],
-      "updatedAt": "2026-11-23T06:59:52.000Z"
+      "updatedAt": "2026-11-26T01:31:22.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -495,7 +495,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-25T17:05:13.000Z"
+      "updatedAt": "2026-11-25T19:12:12.000Z"
     },
     {
       "id": "xiaobright/dsh-anchored-standard",
@@ -580,7 +580,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-25T17:06:03.000Z"
+      "updatedAt": "2026-11-25T17:06:58.000Z"
     },
     {
       "id": "helloHub1212/dsh-windows-mcp",
@@ -736,7 +736,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-11-25T15:57:24.000Z"
+      "updatedAt": "2026-11-25T18:31:45.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-design-world",
@@ -758,7 +758,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-25T17:04:11.000Z"
+      "updatedAt": "2026-11-26T01:47:36.000Z"
     },
     {
       "id": "shanliuling/dsh-image-gen",
@@ -893,7 +893,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-25T13:00:53.000Z"
+      "updatedAt": "2026-11-25T23:19:40.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -1092,7 +1092,7 @@
         "pcb",
         "mcp"
       ],
-      "updatedAt": "2026-11-25T13:53:37.000Z"
+      "updatedAt": "2026-11-26T01:23:35.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -1103,7 +1103,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-25T17:01:06.000Z"
+      "updatedAt": "2026-11-25T23:26:42.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1249,7 +1249,7 @@
         "dsh-plugin",
         "deepseek-harness"
       ],
-      "updatedAt": "2026-11-24T20:33:39.000Z"
+      "updatedAt": "2026-11-25T19:12:24.000Z"
     },
     {
       "id": "LiPu-jpg/Openwrite",
@@ -1298,7 +1298,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-11-25T17:02:48.000Z"
+      "updatedAt": "2026-11-25T19:06:07.000Z"
     },
     {
       "id": "Electricitysheep/dsh-handbook",
@@ -1768,7 +1768,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-11-25T16:43:36.000Z"
+      "updatedAt": "2026-11-25T18:05:18.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
