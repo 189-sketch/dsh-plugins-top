@@ -38,7 +38,7 @@
         "url": "https://github.com/tw93/Mole"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-11-26T14:49:17.000Z"
+      "updatedAt": "2026-11-27T03:50:50.000Z"
     },
     {
       "id": "alchaincyf/nuwa-skill",
@@ -89,7 +89,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-26T19:54:41.000Z"
+      "updatedAt": "2026-11-26T22:53:57.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -149,7 +149,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-26T07:00:30.000Z"
+      "updatedAt": "2026-11-27T02:22:25.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-26T21:11:44.000Z"
+      "updatedAt": "2026-11-27T04:14:16.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -217,7 +217,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-26T20:27:56.000Z"
+      "updatedAt": "2026-11-27T04:09:29.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -299,7 +299,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-17T05:06:16.000Z"
+      "updatedAt": "2026-11-27T02:34:03.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -462,7 +462,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-26T18:30:47.000Z"
+      "updatedAt": "2026-11-27T03:10:01.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -569,7 +569,7 @@
         "url": "https://github.com/zilliztech/memsearch"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-25T09:10:36.000Z"
+      "updatedAt": "2026-11-27T03:46:27.000Z"
     },
     {
       "id": "poco-ai/Agentero",
@@ -580,7 +580,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-26T16:46:57.000Z"
+      "updatedAt": "2026-11-27T03:42:06.000Z"
     },
     {
       "id": "helloHub1212/dsh-windows-mcp",
@@ -750,17 +750,6 @@
       "updatedAt": "2026-11-08T07:54:28.000Z"
     },
     {
-      "id": "flizzywine/dsh-tavern",
-      "name": "dsh-profile-tavern",
-      "displayName": "dsh-tavern",
-      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
-      "repository": {
-        "url": "https://github.com/flizzywine/dsh-tavern"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-11-26T21:09:12.000Z"
-    },
-    {
       "id": "shanliuling/dsh-image-gen",
       "name": "dsh-image-gen",
       "displayName": "dsh-image-gen",
@@ -792,6 +781,17 @@
         "cordis"
       ],
       "updatedAt": "2026-11-24T15:37:31.000Z"
+    },
+    {
+      "id": "flizzywine/dsh-tavern",
+      "name": "dsh-profile-tavern",
+      "displayName": "dsh-tavern",
+      "summary": "基于DSH的Agent酒馆。类酒馆文字游戏Agent。兼容SillyTavern生态，人物卡直接导入就能玩。更快、更稳、更鲜活。所有模型都能用。手机也能玩。",
+      "repository": {
+        "url": "https://github.com/flizzywine/dsh-tavern"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-11-27T03:59:06.000Z"
     },
     {
       "id": "woniuniuniu/dsh-media-desk",
@@ -893,7 +893,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-26T21:09:52.000Z"
+      "updatedAt": "2026-11-26T22:37:52.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -1041,7 +1041,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-26T16:20:58.000Z"
+      "updatedAt": "2026-11-27T04:02:44.000Z"
     },
     {
       "id": "Minglink/dsh-jailbreak-workflow",
@@ -1092,7 +1092,7 @@
         "pcb",
         "mcp"
       ],
-      "updatedAt": "2026-11-26T16:51:14.000Z"
+      "updatedAt": "2026-11-27T02:24:31.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -1103,7 +1103,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-26T21:00:50.000Z"
+      "updatedAt": "2026-11-27T00:29:37.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1114,7 +1114,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-26T11:48:37.000Z"
+      "updatedAt": "2026-11-27T04:04:36.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1229,29 +1229,6 @@
       "updatedAt": "2026-11-25T10:36:19.000Z"
     },
     {
-      "id": "liustack/modsearch",
-      "name": "@liustack/modsearch",
-      "displayName": "modsearch",
-      "summary": "🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。",
-      "repository": {
-        "url": "https://github.com/liustack/modsearch"
-      },
-      "license": "MIT",
-      "keywords": [
-        "search",
-        "web-fetch",
-        "cli",
-        "llm",
-        "agent",
-        "agent-skill",
-        "antigravity",
-        "modsearch",
-        "dsh-plugin",
-        "deepseek-harness"
-      ],
-      "updatedAt": "2026-11-25T19:12:24.000Z"
-    },
-    {
       "id": "CallMeGuLab/dsh-purge-safe",
       "name": "dsh-purge-safe",
       "displayName": "dsh-purge-safe",
@@ -1278,6 +1255,29 @@
       "updatedAt": "2026-11-22T08:37:04.000Z"
     },
     {
+      "id": "liustack/modsearch",
+      "name": "@liustack/modsearch",
+      "displayName": "modsearch",
+      "summary": "🥇 The strongest free web search plugin for DeepSeek Harness, and the search bridge for every model without native web access. Free, no signup, no API key. Ask the web or X, get structured JSON evidence. | 🥇 全网最强的 DeepSeek Harness 免费联网搜索插件，免费免注册免 API key。为不能联网的模型补上搜索，问网页或 X，拿回结构化 JSON 证据（搜索、抓取、引用）。",
+      "repository": {
+        "url": "https://github.com/liustack/modsearch"
+      },
+      "license": "MIT",
+      "keywords": [
+        "search",
+        "web-fetch",
+        "cli",
+        "llm",
+        "agent",
+        "agent-skill",
+        "antigravity",
+        "modsearch",
+        "dsh-plugin",
+        "deepseek-harness"
+      ],
+      "updatedAt": "2026-11-25T19:12:24.000Z"
+    },
+    {
       "id": "Electricitysheep/dsh-handbook",
       "name": "Electricitysheep/dsh-handbook",
       "displayName": "dsh-handbook",
@@ -1296,7 +1296,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-20T16:04:44.000Z"
+      "updatedAt": "2026-11-27T04:09:09.000Z"
     },
     {
       "id": "Alice-Marx/dsh-model-router",
@@ -1337,32 +1337,6 @@
       "updatedAt": "2026-11-26T20:23:45.000Z"
     },
     {
-      "id": "Anionex/dsh-vision-toolkit",
-      "name": "@anionex/dsh-vision-toolkit",
-      "displayName": "dsh-vision-toolkit",
-      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
-      "repository": {
-        "url": "https://github.com/Anionex/dsh-vision-toolkit"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "agent-vision-toolkit",
-        "agent-skills",
-        "text-only-llm",
-        "vision-language-model",
-        "vision-tools",
-        "vision-skills",
-        "computer-vision",
-        "ocr",
-        "ui-restoration",
-        "screenshot-testing",
-        "gui-automation"
-      ],
-      "updatedAt": "2026-11-21T10:08:49.000Z"
-    },
-    {
       "id": "ZSeven-W/dsh-game-studio",
       "name": "@zseven-w/dsh-game-studio",
       "displayName": "dsh-game-studio",
@@ -1387,6 +1361,32 @@
         "github-pages"
       ],
       "updatedAt": "2026-11-21T16:01:32.000Z"
+    },
+    {
+      "id": "Anionex/dsh-vision-toolkit",
+      "name": "@anionex/dsh-vision-toolkit",
+      "displayName": "dsh-vision-toolkit",
+      "summary": "[dsh]为纯文本模型设计更强大的视觉工具箱：一行安装使用、粘贴图片直接识别、多张图片问答、截图到前端UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "repository": {
+        "url": "https://github.com/Anionex/dsh-vision-toolkit"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "agent-vision-toolkit",
+        "agent-skills",
+        "text-only-llm",
+        "vision-language-model",
+        "vision-tools",
+        "vision-skills",
+        "computer-vision",
+        "ocr",
+        "ui-restoration",
+        "screenshot-testing",
+        "gui-automation"
+      ],
+      "updatedAt": "2026-11-21T10:08:49.000Z"
     },
     {
       "id": "keli-wen/agy-staff",
@@ -1605,6 +1605,17 @@
       "updatedAt": "2026-11-25T05:17:11.000Z"
     },
     {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-24T08:45:25.000Z"
+    },
+    {
       "id": "myYangyunfan/dsh_desktop",
       "name": "myYangyunfan/dsh_desktop",
       "displayName": "dsh_desktop",
@@ -1687,15 +1698,21 @@
       "updatedAt": "2026-11-26T03:28:06.000Z"
     },
     {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "id": "aureth-labs/dsh-aurabot-qq",
+      "name": "dsh-aurabot-qq",
+      "displayName": "dsh-aurabot-qq",
+      "summary": "让 DeepSeek Harness 里的 AI 以「大肥鱼」住进 QQ：会聊天、发表情、发语音、记事、发空间、刷 B 站、唱歌。功能都是模块，能开关、能自己写，还能从模块市场装更多（SnowLuma / OneBot v11）。",
       "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
+        "url": "https://github.com/aureth-labs/dsh-aurabot-qq"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-24T08:45:25.000Z"
+      "keywords": [
+        "deepseek-harness",
+        "dsh-plugin",
+        "qq",
+        "onebot"
+      ],
+      "updatedAt": "2026-11-27T02:36:48.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1714,23 +1731,6 @@
         "dsh-plugin"
       ],
       "updatedAt": "2026-11-23T13:11:19.000Z"
-    },
-    {
-      "id": "aureth-labs/dsh-aurabot-qq",
-      "name": "dsh-aurabot-qq",
-      "displayName": "dsh-aurabot-qq",
-      "summary": "让 DeepSeek Harness 里的 AI 以「大肥鱼」住进 QQ：会聊天、发表情、发语音、记事、发空间、刷 B 站、唱歌。功能都是模块，能开关、能自己写，还能从模块市场装更多（SnowLuma / OneBot v11）。",
-      "repository": {
-        "url": "https://github.com/aureth-labs/dsh-aurabot-qq"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "dsh-plugin",
-        "qq",
-        "onebot"
-      ],
-      "updatedAt": "2026-11-26T13:27:32.000Z"
     },
     {
       "id": "Nagi-ovo/dsh-ads",
@@ -1768,7 +1768,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-11-26T16:41:58.000Z"
+      "updatedAt": "2026-11-27T03:56:09.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
