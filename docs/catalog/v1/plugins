@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-11-26T07:34:12.000Z"
+      "updatedAt": "2026-11-27T07:24:20.000Z"
     },
     {
       "id": "tw93/Mole",
@@ -38,7 +38,7 @@
         "url": "https://github.com/tw93/Mole"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-11-27T03:50:50.000Z"
+      "updatedAt": "2026-11-27T13:31:42.000Z"
     },
     {
       "id": "alchaincyf/nuwa-skill",
@@ -149,7 +149,7 @@
         "url": "https://github.com/MemTensor/MemOS"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-27T02:22:25.000Z"
+      "updatedAt": "2026-11-27T07:50:40.000Z"
     },
     {
       "id": "Tencent/BrowserSkill",
@@ -192,7 +192,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-27T04:14:16.000Z"
+      "updatedAt": "2026-11-27T13:49:20.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -217,7 +217,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-27T04:09:29.000Z"
+      "updatedAt": "2026-11-27T11:53:36.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -248,7 +248,7 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-11-26T15:43:11.000Z"
+      "updatedAt": "2026-11-27T12:43:59.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -362,7 +362,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-11-26T18:11:50.000Z"
+      "updatedAt": "2026-11-27T07:01:38.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -393,7 +393,7 @@
         "url": "https://github.com/omdsh-dev/DSH-better-sidebar"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-26T16:22:11.000Z"
+      "updatedAt": "2026-11-27T13:45:45.000Z"
     },
     {
       "id": "liustack/modlens",
@@ -433,17 +433,6 @@
       "updatedAt": "2026-11-26T01:31:22.000Z"
     },
     {
-      "id": "agentscope-ai/ReMe",
-      "name": "agentscope-ai/ReMe",
-      "displayName": "ReMe",
-      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
-      "repository": {
-        "url": "https://github.com/agentscope-ai/ReMe"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-11-26T08:31:56.000Z"
-    },
-    {
       "id": "liguobao/ds-harness-remote",
       "name": "ds-harness-remote",
       "displayName": "ds-harness-remote",
@@ -462,7 +451,18 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-27T03:10:01.000Z"
+      "updatedAt": "2026-11-27T11:07:01.000Z"
+    },
+    {
+      "id": "agentscope-ai/ReMe",
+      "name": "agentscope-ai/ReMe",
+      "displayName": "ReMe",
+      "summary": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
+      "repository": {
+        "url": "https://github.com/agentscope-ai/ReMe"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-11-26T08:31:56.000Z"
     },
     {
       "id": "xmanrui/dsh-im",
@@ -537,7 +537,7 @@
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-26T08:29:37.000Z"
+      "updatedAt": "2026-11-27T11:48:32.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -580,7 +580,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-27T03:42:06.000Z"
+      "updatedAt": "2026-11-27T13:44:23.000Z"
     },
     {
       "id": "helloHub1212/dsh-windows-mcp",
@@ -706,7 +706,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-11-26T17:53:55.000Z"
+      "updatedAt": "2026-11-27T13:27:32.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -736,7 +736,7 @@
         "model-provider",
         "credits"
       ],
-      "updatedAt": "2026-11-26T17:20:29.000Z"
+      "updatedAt": "2026-11-27T13:39:50.000Z"
     },
     {
       "id": "Ebony-Vinyl/EAC-design-world",
@@ -791,7 +791,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-27T03:59:06.000Z"
+      "updatedAt": "2026-11-27T13:23:36.000Z"
     },
     {
       "id": "woniuniuniu/dsh-media-desk",
@@ -856,7 +856,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-26T15:56:34.000Z"
+      "updatedAt": "2026-11-27T13:10:49.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -893,7 +893,7 @@
         "history",
         "search"
       ],
-      "updatedAt": "2026-11-26T22:37:52.000Z"
+      "updatedAt": "2026-11-27T12:29:09.000Z"
     },
     {
       "id": "hyhmrright/brooks-lint",
@@ -916,7 +916,7 @@
         "deepseek-harness",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-11-26T10:46:24.000Z"
+      "updatedAt": "2026-11-27T13:20:26.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -1041,7 +1041,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-27T04:02:44.000Z"
+      "updatedAt": "2026-11-27T12:45:16.000Z"
     },
     {
       "id": "Minglink/dsh-jailbreak-workflow",
@@ -1092,7 +1092,7 @@
         "pcb",
         "mcp"
       ],
-      "updatedAt": "2026-11-27T02:24:31.000Z"
+      "updatedAt": "2026-11-27T13:21:21.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -1103,7 +1103,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-27T00:29:37.000Z"
+      "updatedAt": "2026-11-27T09:17:23.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1114,7 +1114,7 @@
         "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-27T04:04:36.000Z"
+      "updatedAt": "2026-11-27T11:13:27.000Z"
     },
     {
       "id": "omdsh-dev/dsh-mnemon",
@@ -1191,6 +1191,32 @@
       "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
+      "id": "CallMeGuLab/dsh-purge-safe",
+      "name": "dsh-purge-safe",
+      "displayName": "dsh-purge-safe",
+      "summary": "正版dsh-purge  DeepSeek Harness 破甲 ：默认提示词面向国模，原小码酱，完整开放版，无付费墙，技能库与知识库全含，免费公开。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
+      "repository": {
+        "url": "https://github.com/CallMeGuLab/dsh-purge-safe"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "网络安全",
+        "红队评测",
+        "llm-security",
+        "harness-security",
+        "deepseek-harness",
+        "red-team",
+        "instructions",
+        "rules",
+        "prompt-eval",
+        "agent"
+      ],
+      "updatedAt": "2026-11-22T08:37:04.000Z"
+    },
+    {
       "id": "op7418/dsh-guizang-design",
       "name": "dsh-guizang-design",
       "displayName": "dsh-guizang-design",
@@ -1227,32 +1253,6 @@
         "ui"
       ],
       "updatedAt": "2026-11-25T10:36:19.000Z"
-    },
-    {
-      "id": "CallMeGuLab/dsh-purge-safe",
-      "name": "dsh-purge-safe",
-      "displayName": "dsh-purge-safe",
-      "summary": "正版dsh-purge  DeepSeek Harness 破甲 ：默认提示词面向国模，原小码酱，完整开放版，无付费墙，技能库与知识库全含，免费公开。Jailbreak for every model — swap prompts per model. 求 Star 收藏 ⭐",
-      "repository": {
-        "url": "https://github.com/CallMeGuLab/dsh-purge-safe"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "dsh-plugins",
-        "网络安全",
-        "红队评测",
-        "llm-security",
-        "harness-security",
-        "deepseek-harness",
-        "red-team",
-        "instructions",
-        "rules",
-        "prompt-eval",
-        "agent"
-      ],
-      "updatedAt": "2026-11-22T08:37:04.000Z"
     },
     {
       "id": "liustack/modsearch",
@@ -1307,7 +1307,7 @@
         "url": "https://github.com/Alice-Marx/dsh-model-router"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-24T13:46:07.000Z"
+      "updatedAt": "2026-11-27T11:10:45.000Z"
     },
     {
       "id": "saya-ch/dsh-mobile",
@@ -1334,7 +1334,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-11-26T20:23:45.000Z"
+      "updatedAt": "2026-11-27T13:30:58.000Z"
     },
     {
       "id": "ZSeven-W/dsh-game-studio",
@@ -1477,17 +1477,6 @@
       "updatedAt": "2026-10-29T14:45:44.000Z"
     },
     {
-      "id": "Aisland-SJL/dsh-worktable",
-      "name": "Aisland-SJL/dsh-worktable",
-      "displayName": "dsh-worktable",
-      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
-      "repository": {
-        "url": "https://github.com/Aisland-SJL/dsh-worktable"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-19T18:15:10.000Z"
-    },
-    {
       "id": "fourzkw/dsh-drawai",
       "name": "dsh-drawai",
       "displayName": "dsh-drawai",
@@ -1507,6 +1496,17 @@
         "canvas"
       ],
       "updatedAt": "2026-11-25T17:06:07.000Z"
+    },
+    {
+      "id": "Aisland-SJL/dsh-worktable",
+      "name": "Aisland-SJL/dsh-worktable",
+      "displayName": "dsh-worktable",
+      "summary": "🖥️ Agent-project workbench for DeepSeek Harness — sidebar app drawer + dockable split workspace + a live control room watching every project.",
+      "repository": {
+        "url": "https://github.com/Aisland-SJL/dsh-worktable"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-19T18:15:10.000Z"
     },
     {
       "id": "6shenhonghong9/dsh-startup-screen",
@@ -1571,6 +1571,17 @@
       "updatedAt": "2026-11-23T18:28:28.000Z"
     },
     {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-24T08:45:25.000Z"
+    },
+    {
       "id": "c3cvld7aag/fujiang-dsh",
       "name": "fujiang-armor",
       "displayName": "fujiang-dsh",
@@ -1605,28 +1616,6 @@
       "updatedAt": "2026-11-25T05:17:11.000Z"
     },
     {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-24T08:45:25.000Z"
-    },
-    {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-23T04:49:06.000Z"
-    },
-    {
       "id": "dream-num/dsh-univer-office",
       "name": "dsh-univer-office",
       "displayName": "dsh-univer-office",
@@ -1645,6 +1634,17 @@
         "worktree"
       ],
       "updatedAt": "2026-11-26T13:41:56.000Z"
+    },
+    {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-27T10:32:53.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1712,7 +1712,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-27T02:36:48.000Z"
+      "updatedAt": "2026-11-27T12:16:32.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1768,7 +1768,7 @@
       "categories": [
         "skin"
       ],
-      "updatedAt": "2026-11-27T03:56:09.000Z"
+      "updatedAt": "2026-11-27T12:11:03.000Z"
     },
     {
       "id": "anysearch-team/anysearch-dsh",
@@ -1813,23 +1813,15 @@
       "updatedAt": "2026-11-08T03:12:18.000Z"
     },
     {
-      "id": "adoresever/graph-memory",
-      "name": "graph-memory",
-      "displayName": "graph-memory",
-      "summary": "Deepseek Harness、Openclaw知识图谱记忆插件。2026年4月受邀发布在清华大学讨论会。Knowledge Graph + Memory；Knowledge Graph Context Engine for OpenClaw — extracts structured triples from conversations, compresses context 75%, enables cross-session experience reuse",
+      "id": "JimLiu/open-artifact",
+      "name": "open-artifact-workspace",
+      "displayName": "open-artifact",
+      "summary": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
       "repository": {
-        "url": "https://github.com/adoresever/graph-memory"
+        "url": "https://github.com/JimLiu/open-artifact"
       },
-      "license": "MIT",
-      "keywords": [
-        "deepseek-harness",
-        "cordis",
-        "openclaw",
-        "agent-memory",
-        "knowledge-graph",
-        "sqlite"
-      ],
-      "updatedAt": "2026-10-01T00:45:49.000Z"
+      "license": "Apache-2.0",
+      "updatedAt": "2026-11-27T07:56:40.000Z"
     }
   ],
   "page": {
