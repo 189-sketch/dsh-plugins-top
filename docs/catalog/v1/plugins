@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-26T01:45:04.000Z"
+      "updatedAt": "2026-11-27T17:04:57.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -27,7 +27,7 @@
         "free-model",
         "llm-provider"
       ],
-      "updatedAt": "2026-11-27T07:24:20.000Z"
+      "updatedAt": "2026-11-27T16:40:49.000Z"
     },
     {
       "id": "tw93/Mole",
@@ -73,6 +73,28 @@
       "updatedAt": "2026-11-23T06:13:20.000Z"
     },
     {
+      "id": "rohitg00/agentmemory",
+      "name": "@agentmemory/agentmemory",
+      "displayName": "agentmemory",
+      "summary": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "repository": {
+        "url": "https://github.com/rohitg00/agentmemory"
+      },
+      "license": "Apache-2.0",
+      "keywords": [
+        "ai",
+        "agent",
+        "memory",
+        "persistent",
+        "iii-engine",
+        "claude-code",
+        "coding-agent",
+        "context",
+        "observation"
+      ],
+      "updatedAt": "2026-11-27T17:32:09.000Z"
+    },
+    {
       "id": "awesome-dsh-plugin/awesome-dsh-plugin",
       "name": "awesome-dsh-plugin",
       "displayName": "awesome-dsh-plugin",
@@ -89,7 +111,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-26T22:53:57.000Z"
+      "updatedAt": "2026-11-27T19:46:25.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -109,7 +131,7 @@
         "market",
         "plugin-manager"
       ],
-      "updatedAt": "2026-11-26T16:50:51.000Z"
+      "updatedAt": "2026-11-27T16:46:42.000Z"
     },
     {
       "id": "kingcharleslzy-ai/dsh-purge",
@@ -138,7 +160,7 @@
         "无限制模式",
         "unrestricted"
       ],
-      "updatedAt": "2026-11-18T10:24:45.000Z"
+      "updatedAt": "2026-11-27T20:20:45.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -171,7 +193,7 @@
         "url": "https://github.com/zhu1090093659/dsh-web"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-26T17:09:24.000Z"
+      "updatedAt": "2026-11-27T16:45:47.000Z"
     },
     {
       "id": "superdesigndev/treg",
@@ -192,7 +214,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-27T13:49:20.000Z"
+      "updatedAt": "2026-11-27T17:20:09.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -217,7 +239,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-27T11:53:36.000Z"
+      "updatedAt": "2026-11-27T18:58:40.000Z"
     },
     {
       "id": "plastic-labs/honcho",
@@ -362,7 +384,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-11-27T07:01:38.000Z"
+      "updatedAt": "2026-11-27T21:10:17.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -382,7 +404,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-26T09:48:04.000Z"
+      "updatedAt": "2026-11-27T14:12:15.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -451,7 +473,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-27T11:07:01.000Z"
+      "updatedAt": "2026-11-27T19:48:51.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -537,7 +559,7 @@
         "url": "https://github.com/Small-tailqwq/dsh-deep-whale"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-27T11:48:32.000Z"
+      "updatedAt": "2026-11-27T15:29:29.000Z"
     },
     {
       "id": "NanmiCoder/dsh-agent-teams",
@@ -580,7 +602,7 @@
         "url": "https://github.com/poco-ai/Agentero"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-27T13:44:23.000Z"
+      "updatedAt": "2026-11-27T18:11:35.000Z"
     },
     {
       "id": "helloHub1212/dsh-windows-mcp",
@@ -791,7 +813,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-27T13:23:36.000Z"
+      "updatedAt": "2026-11-27T22:43:43.000Z"
     },
     {
       "id": "woniuniuniu/dsh-media-desk",
@@ -856,7 +878,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-27T13:10:49.000Z"
+      "updatedAt": "2026-11-27T21:19:04.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -916,7 +938,7 @@
         "deepseek-harness",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-11-27T13:20:26.000Z"
+      "updatedAt": "2026-11-27T16:58:30.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -997,7 +1019,7 @@
         "url": "https://github.com/yexi-by/dsh-unrestricted"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-25T11:41:34.000Z"
+      "updatedAt": "2026-11-27T20:47:32.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -1041,7 +1063,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-27T12:45:16.000Z"
+      "updatedAt": "2026-11-27T17:08:56.000Z"
     },
     {
       "id": "Minglink/dsh-jailbreak-workflow",
@@ -1092,7 +1114,7 @@
         "pcb",
         "mcp"
       ],
-      "updatedAt": "2026-11-27T13:21:21.000Z"
+      "updatedAt": "2026-11-27T14:36:58.000Z"
     },
     {
       "id": "agentrq/agentrq",
@@ -1103,7 +1125,7 @@
         "url": "https://github.com/agentrq/agentrq"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-27T09:17:23.000Z"
+      "updatedAt": "2026-11-27T17:21:16.000Z"
     },
     {
       "id": "TencentCloudBase/CloudBase-AI-Toolkit",
@@ -1171,26 +1193,6 @@
       "updatedAt": "2026-11-02T10:49:12.000Z"
     },
     {
-      "id": "superdesigndev/superdesign-skill",
-      "name": "superdesign-dsh",
-      "displayName": "superdesign-skill",
-      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
-      "repository": {
-        "url": "https://github.com/superdesigndev/superdesign-skill"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "design",
-        "ui-design",
-        "presentations",
-        "slide-decks",
-        "infinite-canvas"
-      ],
-      "updatedAt": "2026-08-21T05:23:23.000Z"
-    },
-    {
       "id": "CallMeGuLab/dsh-purge-safe",
       "name": "dsh-purge-safe",
       "displayName": "dsh-purge-safe",
@@ -1215,6 +1217,26 @@
         "agent"
       ],
       "updatedAt": "2026-11-22T08:37:04.000Z"
+    },
+    {
+      "id": "superdesigndev/superdesign-skill",
+      "name": "superdesign-dsh",
+      "displayName": "superdesign-skill",
+      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+      "repository": {
+        "url": "https://github.com/superdesigndev/superdesign-skill"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "design",
+        "ui-design",
+        "presentations",
+        "slide-decks",
+        "infinite-canvas"
+      ],
+      "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
       "id": "op7418/dsh-guizang-design",
@@ -1334,7 +1356,7 @@
         "mobile",
         "https"
       ],
-      "updatedAt": "2026-11-27T13:30:58.000Z"
+      "updatedAt": "2026-11-27T18:58:28.000Z"
     },
     {
       "id": "ZSeven-W/dsh-game-studio",
@@ -1548,7 +1570,7 @@
         "url": "https://github.com/zenstory-ai/oh-story-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-24T18:16:30.000Z"
+      "updatedAt": "2026-11-27T17:45:39.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1616,6 +1638,17 @@
       "updatedAt": "2026-11-25T05:17:11.000Z"
     },
     {
+      "id": "myYangyunfan/dsh_desktop",
+      "name": "myYangyunfan/dsh_desktop",
+      "displayName": "dsh_desktop",
+      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
+      "repository": {
+        "url": "https://github.com/myYangyunfan/dsh_desktop"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-27T10:32:53.000Z"
+    },
+    {
       "id": "dream-num/dsh-univer-office",
       "name": "dsh-univer-office",
       "displayName": "dsh-univer-office",
@@ -1634,17 +1667,6 @@
         "worktree"
       ],
       "updatedAt": "2026-11-26T13:41:56.000Z"
-    },
-    {
-      "id": "myYangyunfan/dsh_desktop",
-      "name": "myYangyunfan/dsh_desktop",
-      "displayName": "dsh_desktop",
-      "summary": "DeepSeek Harness (dsh) Windows desktop client - bundled Node.js + dsh CLI, one-click launch",
-      "repository": {
-        "url": "https://github.com/myYangyunfan/dsh_desktop"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-27T10:32:53.000Z"
     },
     {
       "id": "Han-1413141/dsh-cost-meter",
@@ -1712,7 +1734,7 @@
         "qq",
         "onebot"
       ],
-      "updatedAt": "2026-11-27T12:16:32.000Z"
+      "updatedAt": "2026-11-27T18:24:55.000Z"
     },
     {
       "id": "mnemon-dev/mnemon",
@@ -1811,17 +1833,6 @@
         "worldline"
       ],
       "updatedAt": "2026-11-08T03:12:18.000Z"
-    },
-    {
-      "id": "JimLiu/open-artifact",
-      "name": "open-artifact-workspace",
-      "displayName": "open-artifact",
-      "summary": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
-      "repository": {
-        "url": "https://github.com/JimLiu/open-artifact"
-      },
-      "license": "Apache-2.0",
-      "updatedAt": "2026-11-27T07:56:40.000Z"
     }
   ],
   "page": {

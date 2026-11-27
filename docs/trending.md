@@ -2,33 +2,33 @@
 
 | # | Repo | Stars | Verified | Description | Category |
 |---|---|---|---|---|---|
-| #1 | [jhuanxx44/dsh-voxflow](https://github.com/jhuanxx44/dsh-voxflow) | ⭐ 0 | ✅ | DeepSeek Harness (dsh) plugin for VoxFlow: deterministic, local-first audio/video editing via MCP | `other` |
-| #2 | [HaloSunQAQ/dsh-pet-split](https://github.com/HaloSunQAQ/dsh-pet-split) | ⭐ 0 | ✅ | 小肥鱼撞墙反弹时分裂出幻影分身。DSH 插件，不改动 dsh-pet 本体。 | `ui-panel` |
-| #3 | [2102CHEN/dsh-xhs-insight](https://github.com/2102CHEN/dsh-xhs-insight) | ⭐ 0 | ✅ | Reads your own Xiaohongshu bookmarks through your logged-in Chrome (titles, bodies, likes, comments), filters by keyword, then analyses them with the DSH model or a tool-using child agent. Data stays on this machine. | `ui-panel` |
-| #4 | [gechengli/dsh-pr-reviewer](https://github.com/gechengli/dsh-pr-reviewer) | ⭐ 0 | ✅ | 让 dsh 自动做 PR 第一轮代码审查 | `other` |
-| #5 | [ccr-wer/diverge-tree](https://github.com/ccr-wer/diverge-tree) | ⭐ 0 | ✅ | 发散 → 细化 → 动态工作树：把模糊想法拆成可勾选进度的交互式步骤树；一份技能内容，支持 WorkBuddy / Codex / Claude Code / DSH | `skill` |
-| #6 | [holderlink/dsh-tutorial-check](https://github.com/holderlink/dsh-tutorial-check) | ⭐ 0 | ✅ | Persistent tutorial checklist for DSH. | `other` |
-| #7 | [holderlink/dsh-cover-lint](https://github.com/holderlink/dsh-cover-lint) | ⭐ 0 | ✅ | Thumbnail readability check for DSH creators. | `other` |
-| #8 | [diyu331/dsh-ofm-watch](https://github.com/diyu331/dsh-ofm-watch) | ⭐ 0 | ✅ | OFM 额度看板（dsh-ofm-balance 的修改版）：侧栏显示各渠道剩余额度；无分母时显示真实数字，不编造百分比。 | `ui-panel` |
-| #9 | [yangdw2024/dsh-chat-find](https://github.com/yangdw2024/dsh-chat-find) | ⭐ 0 | ✅ | Non-destructive Ctrl+F conversation search plugin for DeepSeek Harness (plus userscript & Chrome/Edge MV3 extension) | `ui-panel` |
-| #10 | [leecyno1/newma-kanban-dsh](https://github.com/leecyno1/newma-kanban-dsh) | ⭐ 0 | ✅ | newma看板：DeepSeek Harness 的五列会话与任务看板 | `ui-panel` |
-| #11 | [MuTao106/dsh-token-squeeze](https://github.com/MuTao106/dsh-token-squeeze) | ⭐ 0 | ✅ | Compress every tool result before the model reads it: strip terminal noise, fold JSON and console tables into compact records, clip oversized output to disk-backed budgets, and collapse repeated results. | `tool` |
-| #12 | [holderlink/dsh-plugin-release](https://github.com/holderlink/dsh-plugin-release) | ⭐ 0 | ✅ | Bundle Doctor: preflight a DSH plugin bundle before publishing. | `tool` |
-| #13 | [gyc0717/dafeiyu](https://github.com/gyc0717/dafeiyu) | ⭐ 0 | ✅ | 大肥鱼 · 音乐管家：绑定 QQ 音乐的 DSH agent preset | `other` |
-| #14 | [Constantine-mty/dsh-chemical-structure-editor](https://github.com/Constantine-mty/dsh-chemical-structure-editor) | ⭐ 0 | ✅ | Chemical structure editor plugin for DeepSeek Harness: draw molecules, build from SMILES/molfiles, inspect descriptors, hand structures to the agent. | `ui-panel` |
-| #15 | [Constantine-mty/dsh-protein-workbench](https://github.com/Constantine-mty/dsh-protein-workbench) | ⭐ 0 | ✅ | 蛋白质结构可视化——在 DSH 左侧栏打开一个完全离线的结构观察面板，支持卡通/骨架/球棍/空间填充、链与界面隔离、残基查询与 4 Å 邻居、距离测量、三档出图风格、PNG 导出与视图状态。 | `ui-panel` |
-| #16 | [holderlink/blue-fat-fish-toolkit](https://github.com/holderlink/blue-fat-fish-toolkit) | ⭐ 0 | ✅ | ??? DSH ????:FishClick ?????? + Video Preflight ?????? | `tool` |
-| #17 | [Applepinea/dsh-gemini-widget](https://github.com/Applepinea/dsh-gemini-widget) | ⭐ 1 | ✅ | DSH 界面右下角的 Gemini 猫娘观察窗：上下文占用 / Token / 缓存命中率 / 余额 / 每轮消耗，五帧表情联动、确认提醒、轮末播报 | `other` |
-| #18 | [MadeSpark/dsh-workbuddy-preset](https://github.com/MadeSpark/dsh-workbuddy-preset) | ⭐ 0 | ✅ | DSH 的 WorkBuddy 风格 Agent 预设：PTC 组合、全面重写的人设，以及强制的子智能体分派指南。 | `other` |
-| #19 | [MadeSpark/dsh-codex-preset](https://github.com/MadeSpark/dsh-codex-preset) | ⭐ 0 | ✅ | 把 Codex 的 PTC 预设接进 DSH，并修好限定作用域的 WorkBuddy 提示词兼容性。 | `other` |
-| #20 | [MadeSpark/dsh-workspace-migrate](https://github.com/MadeSpark/dsh-workspace-migrate) | ⭐ 0 | ✅ | 在工作区菜单里迁移文件夹，或只把 DSH 登记的目录改到另一个文件夹，不动文件本身。 | `ui-panel` |
-| #21 | [MadeSpark/dsh-subagent-refresh](https://github.com/MadeSpark/dsh-subagent-refresh) | ⭐ 0 | ✅ | 全局启用按最新设置选择路由的子智能体工具，并在会话标题栏显示启动快照与当前配置的差异。 | `ui-panel` |
-| #22 | [MadeSpark/dsh-subagent-model](https://github.com/MadeSpark/dsh-subagent-model) | ⭐ 0 | ✅ | 在输入框上方列出当前会话的子智能体，并显示各自实际分配到的模型与推理档位。 | `ui-panel` |
-| #23 | [MadeSpark/dsh-mode-switch](https://github.com/MadeSpark/dsh-mode-switch) | ⭐ 0 | ✅ | 在会话状态栏直接切换标准、PTC、创造等 Agent 模式，切换前提示模型缓存会清零。 | `ui-panel` |
-| #24 | [MadeSpark/dsh-file-menu-fast](https://github.com/MadeSpark/dsh-file-menu-fast) | ⭐ 0 | ✅ | 文件右键菜单秒开：Host 缓存文件关联查询，浏览器侧加超时兜底。 | `ui-panel` |
-| #25 | [MadeSpark/dsh-context-preserve](https://github.com/MadeSpark/dsh-context-preserve) | ⭐ 0 | ✅ | 把被失败回合吞掉的用户指令补写回会话历史并持久化。 | `other` |
-| #26 | [holderlink/dsh-video-preflight](https://github.com/holderlink/dsh-video-preflight) | ⭐ 0 | ✅ | Local Bilibili upload preflight for DSH: video, loudness, cover, title, description and tags. | `other` |
-| #27 | [MadeSpark/dsh-context-guardian](https://github.com/MadeSpark/dsh-context-guardian) | ⭐ 0 | ✅ | 监控每个会话的实际与预测上下文占用，越界时强制结束回合并停放会话，交给用户处理。 | `ui-panel` |
-| #28 | [miorin-chan/dsh-plugin-knobs-ui](https://github.com/miorin-chan/dsh-plugin-knobs-ui) | ⭐ 0 | 🟡 | Shared React layout for fine-grained settings on DeepSeek Harness plugin detail pages. | `other` |
-| #29 | [thenist/dsh-wallet](https://github.com/thenist/dsh-wallet) | ⭐ 0 | ✅ | Shows the signed-in DeepSeek account balance as its own indicator beside the context-usage reading under the message composer. | `ui-panel` |
-| #30 | [KunKun24/dsh-sidebar-editor](https://github.com/KunKun24/dsh-sidebar-editor) | ⭐ 0 | ✅ | DSH 插件：把左侧栏按钮一个个藏起来，隐藏项仍留在「更多」里 \| Hide sidebar entries; hidden ones stay in the More menu. | `ui-panel` |
+| #1 | [tunaflsh/dsh-reply-session-references](https://github.com/tunaflsh/dsh-reply-session-references) | ⭐ 0 | ✅ | Let agents reference other sessions in DSH | `ui-panel` |
+| #2 | [tunaflsh/dsh-subagent-archive](https://github.com/tunaflsh/dsh-subagent-archive) | ⭐ 0 | ✅ | Session manager for subagents | `ui-panel` |
+| #3 | [Maj-05/dsh-workflow-studio](https://github.com/Maj-05/dsh-workflow-studio) | ⭐ 0 | ✅ | Visual DAG editor that compiles to DSH native workflow scripts. Client plugin with node editor and compiler. | `ui-panel` |
+| #4 | [Houraiji9/dsh-grok-build](https://github.com/Houraiji9/dsh-grok-build) | ⭐ 0 | ✅ | DeepSeek Harness plugin embedding the official local Grok Build CLI (ACP) into the native model picker with a graphical Settings console. | `ui-panel` |
+| #5 | [xiaobu573040026/dsh-zh-thinking](https://github.com/xiaobu573040026/dsh-zh-thinking) | ⭐ 0 | ✅ | DeepSeekRuntime（DSH）模型调用层插件，强制大模型用中文思考。不靠提示词劝说：在 llm/stream 拦截每一次流式请求，扣住 reasoning 开头 64 个字符判定语种，命中英文就整次丢弃、重新采样，只把中文思考透传给界面；另附自动展开思考、思考语言面板与成本熔断。适配 DSH 0.2.2-rc.1 ~ 0.2.x（实测 0.2.2-rc.5），零第三方依赖。 | `ui-panel` |
+| #6 | [CollinsLiu615/mc-harness-ui](https://github.com/CollinsLiu615/mc-harness-ui) | ⭐ 1 | ✅ | DeepSeek Harness外观插件，将你的DeepSeek改造成mc主题的界面。 | `skin` |
+| #7 | [tunaflsh/dsh-safe-plugin-manager](https://github.com/tunaflsh/dsh-safe-plugin-manager) | ⭐ 0 | ✅ | dsh-plugin-manager wrapper to install host-changing plugins async-safe | `ui-panel` |
+| #8 | [xuanli-cn/dsh-ascii-ocean](https://github.com/xuanli-cn/dsh-ascii-ocean) | ⭐ 0 | ✅ | Living ASCII ocean behind the DeepSeek Harness new-session home. | `ui-panel` |
+| #9 | [tunaflsh/dsh-tool-gate](https://github.com/tunaflsh/dsh-tool-gate) | ⭐ 0 | ✅ | Disable or enable tools available to a DSH session at runtime. | `tool` |
+| #10 | [Constantine-mty/dsh-sequence-bench](https://github.com/Constantine-mty/dsh-sequence-bench) | ⭐ 0 | ✅ | DeepSeek Harness sequence bench: local DNA/RNA/protein analysis with 27 genetic codes, ENC/CAI, salt-aware Tm, pI models, and real primer design through a bundled primer3 (macOS arm64 / Windows x64). | `ui-panel` |
+| #11 | [fubai-fenzhi/dsh-qqmail](https://github.com/fubai-fenzhi/dsh-qqmail) | ⭐ 1 | ✅ | Manage a QQ mailbox from DSH: read, search, archive by rule, mark read, deduplicate, and send — over IMAP/SMTP with a dependency-free client. | `other` |
+| #12 | [maximwong/dsh-nprdda-pre](https://github.com/maximwong/dsh-nprdda-pre) | ⭐ 0 | ✅ | Windows NPR-DDA Pre drawing and native geometry verification for DeepSeek Harness | `other` |
+| #13 | [XiaoHuaV587/dsh-purge-ultra](https://github.com/XiaoHuaV587/dsh-purge-ultra) | ⭐ 0 | ✅ | 本地运行时增强：提示词注入、审批与沙箱放行、资产测绘工作台（dsh-purge 加固衍生版） | `ui-panel` |
+| #14 | [n9isw274rt/dsh-fast-file-associations](https://github.com/n9isw274rt/dsh-fast-file-associations) | ⭐ 0 | ✅ | DeepSeek Harness plugin: answer the Windows Open-with list from a warm helper instead of spawning PowerShell per request (~4s -> ~0.02ms). | `other` |
+| #15 | [SYFabric/dsh-panel-opacity](https://github.com/SYFabric/dsh-panel-opacity) | ⭐ 0 | ✅ | 独立控制 DeepSeek Harness 聊天区 / 输入框 / 顶部栏 / 侧边栏不透明度的插件 | `ui-panel` |
+| #16 | [shskyc/dsh-token-unit-zh](https://github.com/shskyc/dsh-token-unit-zh) | ⭐ 1 | ✅ | Rewrite DSH's native token usage pill units to 亿/百万 while preserving the click-to-open dialog. | `ui-panel` |
+| #17 | [MOUboy/dsh-haloflux-orbit](https://github.com/MOUboy/dsh-haloflux-orbit) | ⭐ 1 | ✅ | HALOFLUX by Ryder191 as a live DSH session dashboard. Noncommercial use only. | `ui-panel` |
+| #18 | [LST3645/dst-lst_input_optimizer](https://github.com/LST3645/dst-lst_input_optimizer) | ⭐ 0 | ✅ |  | `ui-panel` |
+| #19 | [wunengbiao/dsh-image-edit](https://github.com/wunengbiao/dsh-image-edit) | ⭐ 0 | ✅ | DSH 插件：点击输入框图片直接标注编辑（画笔/箭头/矩形/椭圆/序号/马赛克/文字），保存后替换原附件。DeepSeek Harness plugin: annotate composer image attachments before sending. | `ui-panel` |
+| #20 | [AOD-YAN16/dsh-linglong-beautify](https://github.com/AOD-YAN16/dsh-linglong-beautify) | ⭐ 0 | ✅ | 玲珑美化（Linglong Beautify）：三套温柔配色 + 柔光、纸纹、花瓣，可换配色、可调装饰，侧栏 logo 也能换成小花 | `skin` |
+| #21 | [mxchen-xyz/dsh-ym-voice-assistant](https://github.com/mxchen-xyz/dsh-ym-voice-assistant) | ⭐ 0 | ✅ | 幽梦语音助手 · DSH 双工语音通话插件：阿里 Qwen-Omni 实时语音 + 场景/提示词 + 面试模拟（读简历/JD、出评分报告） | `ui-panel` |
+| #22 | [xingcha-lab/dsh-market-next](https://github.com/xingcha-lab/dsh-market-next) | ⭐ 0 | ✅ | 每个插件都装过、跑过基本测试、查过没风险，还有精选榜单看大家都在用啥——看完就敢装的 DSH 插件市场。Every plugin is installed, smoke-tested, and scanned clean — plus a curated list showing what everyone else is using. The DSH plugin marketplace you'll dare to install from at first glance. | `ui-panel` |
+| #23 | [ReinEins/dsh-approve-all](https://github.com/ReinEins/dsh-approve-all) | ⭐ 0 | ✅ | DeepSeek Harness plugin: a per-session "approve all" switch. 全部同意 — 单会话审批自动放行开关。 | `ui-panel` |
+| #24 | [zh666524/dsh-deskpilot](https://github.com/zh666524/dsh-deskpilot) | ⭐ 0 | ✅ | Desktop control for DeepSeek Harness: read the Windows UI tree, click controls, type Chinese where paste is blocked | `tool` |
+| #25 | [xin007-kong/dsh-cozy-water-cat](https://github.com/xin007-kong/dsh-cozy-water-cat) | ⭐ 0 | ✅ | A cozy storybook cat wellness buddy plugin for DeepSeek Harness — offers water, guides 20-20-20 eye breaks, stretches & prints thermal wellness receipts right during AI thinking windows. | `ui-panel` |
+| #26 | [QiNuoTu/pixel-creative-taste-suite](https://github.com/QiNuoTu/pixel-creative-taste-suite) | ⭐ 0 | ✅ | 六个审美技能与十二个像素展示，含可试玩游戏与中文插件 \| Six taste skills, twelve pixel showcases, a playable game and a DSH plugin. | `skill` |
+| #27 | [songhangze985-eng/dsh-health-assessment](https://github.com/songhangze985-eng/dsh-health-assessment) | ⭐ 0 | ✅ | DSH（DeepSeek Harness）插件：健康打卡、7 天确定性评分、左栏独立界面、模型工具与桌宠播报（原 health-assessment 的插件化版本） | `ui-panel` |
+| #28 | [sweetpoints/dsh-blender-plugin](https://github.com/sweetpoints/dsh-blender-plugin) | ⭐ 0 | ✅ | Blender capability bundle for DeepSeek Harness: headless inspect/run/render tools, a Blender skill, and the plugin market index | `skill` |
+| #29 | [kaideng1234/dsh-speech-loop](https://github.com/kaideng1234/dsh-speech-loop) | ⭐ 0 | ✅ | Real-time voice loop for DeepSeek Harness: streaming local speech-to-text, VAD auto-send, barge-in with pre-roll, 14 Chinese edge-tts voices, unified settings panel. | `ui-panel` |
+| #30 | [NaiDragonForge/dsh-better-wps-for-study](https://github.com/NaiDragonForge/dsh-better-wps-for-study) | ⭐ 2 | ✅ | 面向大学学习的 DeepSeek Harness（DSH）插件：一份 Markdown 提纲一次成稿，直接输出 16:9 PPTX、可编辑 Word 与 PDF。梁的受力/剪力/弯矩图、桁架内力、公式、分子结构式、实验数据图表、机械电子示意图全部由算法求解并自动校核（每次返回 checks[] 与可引用的数值），图与数不会互相打架。另含由文档提炼 PPT、实验报告抬头表单、正文字体（楷体/宋体/黑体/Times）与关键词搜图。安装：dsh plugin --profile web add dsh-better-wps-for-study。依赖随包，Windows x64 离线可用；不含任何学校专用模板。 | `ui-panel` |
