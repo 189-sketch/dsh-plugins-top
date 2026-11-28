@@ -10,7 +10,7 @@
         "url": "https://github.com/tt-a1i/archify"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-27T17:04:57.000Z"
+      "updatedAt": "2026-11-28T03:28:44.000Z"
     },
     {
       "id": "Ebony-Vinyl/dsh-our-free-model",
@@ -38,7 +38,7 @@
         "url": "https://github.com/tw93/Mole"
       },
       "license": "GPL-3.0",
-      "updatedAt": "2026-11-27T13:31:42.000Z"
+      "updatedAt": "2026-11-28T05:44:42.000Z"
     },
     {
       "id": "alchaincyf/nuwa-skill",
@@ -111,7 +111,7 @@
         "deepseek-harness",
         "deepseek"
       ],
-      "updatedAt": "2026-11-27T19:46:25.000Z"
+      "updatedAt": "2026-11-27T22:54:30.000Z"
     },
     {
       "id": "dsh-market/dsh-market",
@@ -160,7 +160,7 @@
         "无限制模式",
         "unrestricted"
       ],
-      "updatedAt": "2026-11-27T20:20:45.000Z"
+      "updatedAt": "2026-11-28T02:30:31.000Z"
     },
     {
       "id": "MemTensor/MemOS",
@@ -182,7 +182,7 @@
         "url": "https://github.com/Tencent/BrowserSkill"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-26T07:10:06.000Z"
+      "updatedAt": "2026-11-28T05:54:19.000Z"
     },
     {
       "id": "zhu1090093659/dsh-web",
@@ -214,7 +214,7 @@
         "enrichment",
         "scraping"
       ],
-      "updatedAt": "2026-11-27T17:20:09.000Z"
+      "updatedAt": "2026-11-28T05:55:49.000Z"
     },
     {
       "id": "ccch1mneyyy/dsh-TUI",
@@ -239,18 +239,7 @@
         "agent",
         "coding-agent"
       ],
-      "updatedAt": "2026-11-27T18:58:40.000Z"
-    },
-    {
-      "id": "plastic-labs/honcho",
-      "name": "plastic-labs/honcho",
-      "displayName": "honcho",
-      "summary": "Memory library for building stateful agents",
-      "repository": {
-        "url": "https://github.com/plastic-labs/honcho"
-      },
-      "license": "AGPL-3.0",
-      "updatedAt": "2026-11-25T20:23:57.000Z"
+      "updatedAt": "2026-11-28T06:13:42.000Z"
     },
     {
       "id": "elysia395/dsh-wallpaper-engine",
@@ -270,7 +259,18 @@
         "theme",
         "background"
       ],
-      "updatedAt": "2026-11-27T12:43:59.000Z"
+      "updatedAt": "2026-11-28T01:35:55.000Z"
+    },
+    {
+      "id": "plastic-labs/honcho",
+      "name": "plastic-labs/honcho",
+      "displayName": "honcho",
+      "summary": "Memory library for building stateful agents",
+      "repository": {
+        "url": "https://github.com/plastic-labs/honcho"
+      },
+      "license": "AGPL-3.0",
+      "updatedAt": "2026-11-25T20:23:57.000Z"
     },
     {
       "id": "MeteorNOX/DeepSeek-Balance-Whale-Widget",
@@ -321,7 +321,7 @@
         "url": "https://github.com/PC2005-cloud/dsh-pet"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-27T02:34:03.000Z"
+      "updatedAt": "2026-11-28T04:23:27.000Z"
     },
     {
       "id": "QingYunA/answer-me-with-html",
@@ -384,7 +384,7 @@
         "deepseek-harness",
         "repository-tools"
       ],
-      "updatedAt": "2026-11-27T21:10:17.000Z"
+      "updatedAt": "2026-11-28T04:33:39.000Z"
     },
     {
       "id": "bowenliang123/dsh-context",
@@ -404,7 +404,7 @@
         "token",
         "ui"
       ],
-      "updatedAt": "2026-11-27T14:12:15.000Z"
+      "updatedAt": "2026-11-28T01:40:05.000Z"
     },
     {
       "id": "omdsh-dev/DSH-better-sidebar",
@@ -473,7 +473,7 @@
         "end-to-end-encryption",
         "webrtc"
       ],
-      "updatedAt": "2026-11-27T19:48:51.000Z"
+      "updatedAt": "2026-11-28T06:10:55.000Z"
     },
     {
       "id": "agentscope-ai/ReMe",
@@ -728,7 +728,7 @@
         "safety",
         "security"
       ],
-      "updatedAt": "2026-11-27T13:27:32.000Z"
+      "updatedAt": "2026-11-28T02:24:37.000Z"
     },
     {
       "id": "Devin-AXIS/deepseek-design",
@@ -739,7 +739,7 @@
         "url": "https://github.com/Devin-AXIS/deepseek-design"
       },
       "license": "NOASSERTION",
-      "updatedAt": "2026-11-23T07:21:00.000Z"
+      "updatedAt": "2026-11-28T03:42:30.000Z"
     },
     {
       "id": "dingminhua/dsh-connect-workbuddy",
@@ -813,7 +813,7 @@
         "url": "https://github.com/flizzywine/dsh-tavern"
       },
       "license": "AGPL-3.0",
-      "updatedAt": "2026-11-27T22:43:43.000Z"
+      "updatedAt": "2026-11-28T06:13:40.000Z"
     },
     {
       "id": "woniuniuniu/dsh-media-desk",
@@ -878,7 +878,7 @@
         "tencent",
         "wsa"
       ],
-      "updatedAt": "2026-11-27T21:19:04.000Z"
+      "updatedAt": "2026-11-28T06:16:28.000Z"
     },
     {
       "id": "vshulcz/deja-vu",
@@ -938,7 +938,7 @@
         "deepseek-harness",
         "dsh-plugin"
       ],
-      "updatedAt": "2026-11-27T16:58:30.000Z"
+      "updatedAt": "2026-11-28T03:22:10.000Z"
     },
     {
       "id": "Miaotofu01/Study-Mate",
@@ -1019,7 +1019,7 @@
         "url": "https://github.com/yexi-by/dsh-unrestricted"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-27T20:47:32.000Z"
+      "updatedAt": "2026-11-28T04:57:02.000Z"
     },
     {
       "id": "0xsline/awesome-deepseek-harness",
@@ -1063,7 +1063,7 @@
         "screenshot",
         "plugin"
       ],
-      "updatedAt": "2026-11-27T17:08:56.000Z"
+      "updatedAt": "2026-11-28T01:56:43.000Z"
     },
     {
       "id": "Minglink/dsh-jailbreak-workflow",
@@ -1091,7 +1091,7 @@
         "mcp-security",
         "openorigin"
       ],
-      "updatedAt": "2026-11-22T21:28:00.000Z"
+      "updatedAt": "2026-11-28T01:04:06.000Z"
     },
     {
       "id": "zhoushoujianwork/easyeda-agent",
@@ -1219,26 +1219,6 @@
       "updatedAt": "2026-11-22T08:37:04.000Z"
     },
     {
-      "id": "superdesigndev/superdesign-skill",
-      "name": "superdesign-dsh",
-      "displayName": "superdesign-skill",
-      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
-      "repository": {
-        "url": "https://github.com/superdesigndev/superdesign-skill"
-      },
-      "license": "MIT",
-      "keywords": [
-        "dsh-plugin",
-        "deepseek-harness",
-        "design",
-        "ui-design",
-        "presentations",
-        "slide-decks",
-        "infinite-canvas"
-      ],
-      "updatedAt": "2026-08-21T05:23:23.000Z"
-    },
-    {
       "id": "op7418/dsh-guizang-design",
       "name": "dsh-guizang-design",
       "displayName": "dsh-guizang-design",
@@ -1257,6 +1237,26 @@
         "typography"
       ],
       "updatedAt": "2026-11-05T07:44:48.000Z"
+    },
+    {
+      "id": "superdesigndev/superdesign-skill",
+      "name": "superdesign-dsh",
+      "displayName": "superdesign-skill",
+      "summary": "The design skill for Claude Code, Cursor and any coding agent. Stop shipping AI-slop UI: turn it into shippable, tasteful frontend. Install: npx skills add superdesigndev/superdesign-skill. Powered by superdesign.dev",
+      "repository": {
+        "url": "https://github.com/superdesigndev/superdesign-skill"
+      },
+      "license": "MIT",
+      "keywords": [
+        "dsh-plugin",
+        "deepseek-harness",
+        "design",
+        "ui-design",
+        "presentations",
+        "slide-decks",
+        "infinite-canvas"
+      ],
+      "updatedAt": "2026-08-21T05:23:23.000Z"
     },
     {
       "id": "omdsh-dev/dsh-genui",
@@ -1318,7 +1318,7 @@
         "url": "https://github.com/LiPu-jpg/Openwrite"
       },
       "license": "Apache-2.0",
-      "updatedAt": "2026-11-27T04:09:09.000Z"
+      "updatedAt": "2026-11-28T06:06:34.000Z"
     },
     {
       "id": "Alice-Marx/dsh-model-router",
@@ -1447,26 +1447,6 @@
       "updatedAt": "2026-11-22T05:26:02.000Z"
     },
     {
-      "id": "SeaOf0/dsh-redteam-model",
-      "name": "@dsh-external/dsh-redteam-model",
-      "displayName": "dsh-redteam-model",
-      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
-      "repository": {
-        "url": "https://github.com/SeaOf0/dsh-redteam-model"
-      },
-      "license": "MIT",
-      "keywords": [
-        "deepseek",
-        "deepseek-harness",
-        "dsh",
-        "dsh-plugin",
-        "dsh-bundle",
-        "redteam",
-        "security"
-      ],
-      "updatedAt": "2026-10-27T02:05:14.000Z"
-    },
-    {
       "id": "Yu-tao-Li/dsh-computer-use-win",
       "name": "dsh-computer-use-win",
       "displayName": "dsh-computer-use-win",
@@ -1486,6 +1466,26 @@
         "desktop-automation"
       ],
       "updatedAt": "2026-11-25T15:04:54.000Z"
+    },
+    {
+      "id": "SeaOf0/dsh-redteam-model",
+      "name": "@dsh-external/dsh-redteam-model",
+      "displayName": "dsh-redteam-model",
+      "summary": "基于dsh web实现的多种模式，目的是服务于redteam进行授权的安全研究，覆盖渗透测试、红队评估、代码审计等范围领域，请勿用于非法行为。（允许二开，赋予模块各位自己的业务逻辑，方法论只有自己熟练的才好用，好的方法论=好的生态）",
+      "repository": {
+        "url": "https://github.com/SeaOf0/dsh-redteam-model"
+      },
+      "license": "MIT",
+      "keywords": [
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "dsh-bundle",
+        "redteam",
+        "security"
+      ],
+      "updatedAt": "2026-10-27T02:05:14.000Z"
     },
     {
       "id": "csyangwen/dsh-memory-evolve",
@@ -1570,7 +1570,18 @@
         "url": "https://github.com/zenstory-ai/oh-story-dsh"
       },
       "license": "MIT",
-      "updatedAt": "2026-11-27T17:45:39.000Z"
+      "updatedAt": "2026-11-28T01:02:00.000Z"
+    },
+    {
+      "id": "liangmianya/dsh-synapse",
+      "name": "dsh-synapse",
+      "displayName": "dsh-synapse",
+      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
+      "repository": {
+        "url": "https://github.com/liangmianya/dsh-synapse"
+      },
+      "license": "MIT",
+      "updatedAt": "2026-11-24T08:45:25.000Z"
     },
     {
       "id": "chenxiachan/thoughtdag",
@@ -1591,17 +1602,6 @@
         "research-tool"
       ],
       "updatedAt": "2026-11-23T18:28:28.000Z"
-    },
-    {
-      "id": "liangmianya/dsh-synapse",
-      "name": "dsh-synapse",
-      "displayName": "dsh-synapse",
-      "summary": "A visual, non-linear conversation workspace plugin for DeepSeek Harness ; A canvas-based session explorer and branching workspace for DeepSeek Harness.",
-      "repository": {
-        "url": "https://github.com/liangmianya/dsh-synapse"
-      },
-      "license": "MIT",
-      "updatedAt": "2026-11-24T08:45:25.000Z"
     },
     {
       "id": "c3cvld7aag/fujiang-dsh",
@@ -1693,7 +1693,7 @@
         "en",
         "language"
       ],
-      "updatedAt": "2026-11-26T13:28:00.000Z"
+      "updatedAt": "2026-11-28T05:47:48.000Z"
     },
     {
       "id": "FuRongJun-1999/dsh-memory",
@@ -1793,6 +1793,17 @@
       "updatedAt": "2026-11-27T12:11:03.000Z"
     },
     {
+      "id": "JimLiu/open-artifact",
+      "name": "open-artifact-workspace",
+      "displayName": "open-artifact",
+      "summary": "Open, agent- and model-agnostic artifacts, all saved locally as plain files — edit, comment on, and export slides, UI designs, design systems, whiteboards, sheets, dashboards, docs, and motion.",
+      "repository": {
+        "url": "https://github.com/JimLiu/open-artifact"
+      },
+      "license": "Apache-2.0",
+      "updatedAt": "2026-11-28T05:57:38.000Z"
+    },
+    {
       "id": "anysearch-team/anysearch-dsh",
       "name": "@anysearch/anysearch-dsh",
       "displayName": "anysearch-dsh",
@@ -1809,30 +1820,6 @@
         "web-fetch"
       ],
       "updatedAt": "2026-10-10T08:54:47.000Z"
-    },
-    {
-      "id": "Clearailhc/clearai-dsh",
-      "name": "clearai-dsh",
-      "displayName": "clearai-dsh",
-      "summary": "ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an ontology-first DSH agent preset — evidence-checked research that grows into a domain ontology.",
-      "repository": {
-        "url": "https://github.com/Clearailhc/clearai-dsh"
-      },
-      "license": "Apache-2.0",
-      "keywords": [
-        "dsh",
-        "dsh-plugin",
-        "deepseek-harness",
-        "cordis",
-        "plugin",
-        "clearai",
-        "agent-preset",
-        "ontology",
-        "epistemic-loop",
-        "evidence",
-        "worldline"
-      ],
-      "updatedAt": "2026-11-08T03:12:18.000Z"
     }
   ],
   "page": {
